@@ -5,11 +5,20 @@ def read_data():
     return map(
         lambda s: int(s),
         open("QuickSort.txt", "r").readlines()) #"IntegerArray.txt"
-a1 = read_data()
+a = read_data()
 #print a
 
 def Partition(a,n_p,n_home,n_end):
-    print a[n_home:n_end], a[n_p]
+    #print a[n_home:n_end], a[n_home] ,a[n_p], a[n_end-1]
+
+    t_t = [a[n_p],a[n_home],a[n_end-1]]
+    t_t = sorted(t_t)
+    if a[n_home] == t_t[1]:
+        n_p = n_home
+    if a[n_end-1] == t_t[1]:
+        n_p = n_end - 1
+    #print a[n_p]
+
     global iterat
     a[n_p], a[n_home] = a[n_home], a[n_p]
     a_p = a[n_home]
@@ -22,7 +31,7 @@ def Partition(a,n_p,n_home,n_end):
             i += 1
             a[i], a[j] = a[j], a[i]
     a[i], a[n_home] = a[n_home], a[i]
-    print a[n_home:n_end],a[i]
+    #print a[n_home:n_end],a[i]
     iterat = iterat + j-n_home
     return i
 
