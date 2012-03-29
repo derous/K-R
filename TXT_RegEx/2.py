@@ -34,6 +34,7 @@ www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521872820"
 "http://www.springer.com/978-3-540-74112-1"
 ('ullman', 'p', '650-494-8016')'617-253-1221')'410-516-5521'), ('kosecka', 'p', '703-993-1876'),
 (650) 723-4539
+(650) 723-4539 
 """
 
 #text = r"""'stanford.edu','jurafsky'"""
