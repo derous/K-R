@@ -18,8 +18,7 @@ support at gradiance dt com
 d-l-w-h-@-s-t-a-n-f-o-r-d-.-e-d-u
 jks at robotics;stanford;edu
 lam at cs.stanford.edu
-ouster (followed by &ldquo;@cs.stanford.edu&rdquo;)
-teresa.lynn (followed by "@stanford.edu")
+
 pal at cs stanford edu
 mailto:vladlen%20at%20stanford%20dot%20edu
 
@@ -35,6 +34,9 @@ www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521872820"
 ('ullman', 'p', '650-494-8016')'617-253-1221')'410-516-5521'), ('kosecka', 'p', '703-993-1876'),
 (650) 723-4539
 (650) 723-4539
+
+ouster (followed by &ldquo;@cs.stanford.edu&rdquo;)
+teresa.lynn (followed by "@stanford.edu")
 """
 
 #text = r"""'stanford.edu','jurafsky'"""
@@ -43,10 +45,11 @@ import re
 
 #PHONE ====>>>>>
 #pattern = re.compile(r"(?:\+\d|\(\+\d)?((?:\)|-|:| |&thinsp;){0,3}\d){10}\b")
-pattern = re.compile(r"(?:\)|-| |&thinsp;)?[467](?:\)|-| |&thinsp;)?[015]((?:\)|-| |&thinsp;){0,2}\d){8}\b(?! ?\d)")
+#pattern = re.compile(r"(?:\)|-| |&thinsp;)?[467](?:\)|-| |&thinsp;)?[015]((?:\)|-| |&thinsp;){0,2}\d){8}\b(?! ?\d)")
 
 #e-mail ====>>>>>
-#pattern = re.compile(r"\b(?:\w|\.)+(?:@| @ |\(at\)|&#x40;|%)(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}\b|\b(?:\w| dot )+(?: at )(?:\w| dot | dt )+(?: dot | dt )[a-zA-Z]{2,4}\b|(?<=\()[\'\.\w\,]+(?=\)(; )?</script>)")
+pattern = re.compile(r"(?:\.|\w)+(?: \(followed by (?:\"|&ldquo;))@(?:\w|\.)+")
+pattern = re.compile(r"\b(?:\w|\.)+(?:@| @ |\(at\)|&#x40;|%)(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}\b|\b(?:\w| dot )+(?: at )(?:\w| dot | dt )+(?: dot | dt )[a-zA-Z]{2,4}\b|(?<=\()[\'\.\w\,]+(?=\)(; )?</script>)|(?:\.|\w)+(?: \(followed by (?:\"|&ldquo;))@(?:\w|\.)+")
 #pattern = re.compile(r"\b(?:\w|\-|\.| dot )+(?:@|\(at\)| at )(?:\w|\.| dot )+(?:\.| dot )[a-zA-Z]{2,4}\b|(?<=\()[\'\.\w\,]+(?=\)</script>)")
 
 #pattern = re.compile(r"(\b(?:\w|\.)+(?:@|\(at\))(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}\b)")
