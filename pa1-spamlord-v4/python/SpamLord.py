@@ -3,9 +3,116 @@ import os
 import re
 import pprint
 
-my_first_pat = '(\w+)@(\w+).edu'
+expr_phone = (r"(?:\)|-| |&thinsp;)?[467](?:\)|-| |&thinsp;)?"
+              r"[015]((?:\)|-| |&thinsp;){0,2}\d){8}\b(?! ?\d)")
 
-""" 
+def get_email1(line):
+    value = line
+    if "Server at " in line:
+        return ""
+    value = re.sub(r"@| @ |\(at\)| at |&#x40;", lambda s: "@", value)
+    return value
+
+def get_email2(line):
+    value = line
+    value = re.sub(r" at ", lambda s: "@", value)
+    value = re.sub(r" dot | dt |;", lambda s: ".", value)
+    return value
+
+def get_email3(line):
+    #'teresa.lynn (followed by "@stanford.edu"'
+    value = line
+    value = re.sub(r' \(followed by ("|&ldquo;)@', lambda s: "@", value)
+    value = re.sub("\"'", lambda s: "", value)
+    return value
+
+def get_email4(line):
+    value = line
+    if "Server at " in line:
+        return ""
+    value = re.sub(r" at ", lambda s: "@", value)
+    value = re.sub(r" ", lambda s: ".", value)
+    return value
+
+def get_email5(line):
+    value = line
+
+    part1 = re.search(r"(?<=',')[\.\w]+", value).group();
+    part2 = re.search(r"[\.\w]+(?=',')", value).group();
+
+    value = part1+"@"+part2
+
+    return value
+
+
+def get_email6(line):
+    value = line
+    #engler WHERE stanford DOM edu
+    value = re.sub(r" WHERE ", lambda s: "@", value)
+    value = re.sub(r" DOM ", lambda s: ".", value)
+    return value
+
+
+def get_email7(line):
+    value = line
+    # email: pal at cs stanford edu, but
+    value = re.sub(r" at ", lambda s: "@", value)
+    value = re.sub(r" ", lambda s: ".", value)
+    return value
+
+def get_email8(line):
+    value = line
+    # d-l-w-h-@-s-t-a-n-f-o-r-d-.-e-d-u
+    value = re.sub(r"-", lambda s: "", value)
+    return value
+
+email_patterns = {
+    r"\b(?:\w|\.)+(?:@| @ |\(at\)| at |&#x40;)(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}\b": get_email1,
+    r"\b(?:\w| dot | dt |;)+(?: at )(?:\w| dot | dt |;)+(?: dot | dt |;)[a-zA-Z]{2,4}\b": get_email2,
+    r'\b(?:\w|\.)+ \(followed by ("|\&ldquo;)@(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}(?=("|\&rdquo;))': get_email3,
+    r"\b(?:\w|\.)+ at (?:\w|\.)+ edu\b": get_email4,
+    r"(?<=\(')[\'\.\w\,]+(?='\); </script>)": get_email5,
+    r"\w+ WHERE \w+ DOM \w{2,4}\b": get_email6,
+    r"(?<=email: )[ \w]+ edu": get_email7,
+    r"[-\w]+@[-\w]+\.-e-d-u": get_email8
+}
+
+def get_phone_substrings(text):
+    subs = []
+    pattern = re.compile(expr_phone)
+    subsi = pattern.finditer(text)
+    for i in subsi:
+        subs.append(i.group())
+    return subs
+
+def restore_phone(substring):
+    value = re.sub("[^0-9]", lambda s: "", substring)
+    result = value[-10:-7] + "-" + value[-7:-4] + "-" + value[-4:]#value[-10:-8] + "-" + value[-7:-5] + "-" + value[-4:]
+    return result
+
+def find_phones(text):
+    phones = []
+
+    substrings = get_phone_substrings(text)
+
+    for substring in substrings:
+        phone = restore_phone(substring)
+        phones.append(phone)
+
+    return phones
+
+def find_emails(text):
+    emails = []
+    for expr in email_patterns:
+        substrings_match = re.finditer(expr, text)
+        for substring_match in substrings_match:
+            email = email_patterns[expr](substring_match.group())
+            if len(email)>0:
+                emails.append(email)
+
+    return emails
+
+"""
 TODO
 This function takes in a filename along with the file object (actually
 a StringIO object at submission time) and
@@ -31,10 +138,12 @@ def process_file(name, f):
     # sys.stderr.write('[process_file]\tprocessing file: %s\n' % (path))
     res = []
     for line in f:
-        matches = re.findall(my_first_pat,line)
-        for m in matches:
-            email = '%s@%s.edu' % m
+        emails = find_emails(line)
+        phones = find_phones(line)
+        for email in emails:
             res.append((name,'e',email))
+        for phone in phones:
+            res.append((name,'p',phone))
     return res
 
 """

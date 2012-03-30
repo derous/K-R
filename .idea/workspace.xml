@@ -26,85 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="exempl.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sort/exempl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="21" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TXT_RegEx/2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="21" selection-start="1707" selection-end="1943" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SpamLord.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://D:/КУРС/pa1-spamlord-v4/python/SpamLord.py">
+        <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="38" selection-start="300" selection-end="300" vertical-scroll-proportion="0.14333895">
+            <state line="71" column="76" selection-start="1968" selection-end="1968" vertical-scroll-proportion="0.618887">
               <folding>
-                <element signature="e#2251#3128#1" expanded="false" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="christos" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://D:/КУРС/pa1-spamlord-v4/data/dev/christos">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="10" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quicksort.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sort/quicksort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="merg_sort.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sort/merg_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pydevd.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tmp1.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sort/tmp1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="222.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sort/222.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="180" column="33" selection-start="5779" selection-end="5779" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -139,6 +67,7 @@
         <option value="D:/КУРС/pa1-spamlord-v4/data/dev/christos" />
         <option value="$PROJECT_DIR$/TXT_RegEx/2.py" />
         <option value="D:/КУРС/pa1-spamlord-v4/python/SpamLord.py" />
+        <option value="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" />
       </list>
     </option>
   </component>
@@ -181,6 +110,48 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Reasearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Reasearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K-R" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pa1-spamlord-v4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Reasearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K-R" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pa1-spamlord-v4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Reasearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K-R" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -279,12 +250,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:/Python27/python.exe" />
-      <option name="WORKING_DIRECTORY" value="D:/КУРС/pa1-spamlord-v4/python" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pa1-spamlord-v4/python" />
+      <option name="IS_MODULE_SDK" value="true" />
       <module name="Reasearch" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:/КУРС/pa1-spamlord-v4/python/SpamLord.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" />
       <option name="PARAMETERS" value="../data/dev/ ../data/devGOLD" />
       <option name="MULTIPROCESS" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -316,7 +287,7 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
-      <module name="" />
+      <module name="Reasearch" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -388,17 +359,17 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18071313" sideWeight="0.65210354" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4611021" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17990276" sideWeight="0.65210354" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4611021" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38249594" sideWeight="0.697411" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31604537" sideWeight="0.697411" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -505,44 +476,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TXT_RegEx/2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="21" selection-start="1707" selection-end="1943" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://D:/КУРС/pa1-spamlord-v4/data/dev/christos">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="10" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" />
+        <state line="51" column="21" selection-start="1707" selection-end="1943" vertical-scroll-proportion="0.23793103">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="894" selection-end="894" vertical-scroll-proportion="0.0" />
+        <state line="37" column="0" selection-start="894" selection-end="894" vertical-scroll-proportion="0.11129848">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/merg_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" />
+        <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.02866779">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.0" />
+        <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.029310346">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/tmp1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" />
+        <state line="3" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.02866779">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/222.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="33" selection-start="5779" selection-end="5779" vertical-scroll-proportion="0.0" />
+        <state line="180" column="33" selection-start="5779" selection-end="5779" vertical-scroll-proportion="0.7948276">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://D:/КУРС/pa1-spamlord-v4/python/SpamLord.py">
+    <entry file="file://C:/Python27/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="38" selection-start="300" selection-end="300" vertical-scroll-proportion="0.14333895">
+        <state line="242" column="14" selection-start="10422" selection-end="10422" vertical-scroll-proportion="0.3035413">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="76" selection-start="1968" selection-end="1968" vertical-scroll-proportion="0.618887">
           <folding>
-            <element signature="e#2251#3128#1" expanded="false" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
