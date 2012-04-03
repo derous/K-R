@@ -26,13 +26,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SpamLord.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
+      <file leaf-file-name="SpellCorrect.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellCorrect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="76" selection-start="1968" selection-end="1968" vertical-scroll-proportion="0.618887">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnigramLanguageModel.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="829" selection-end="829" vertical-scroll-proportion="0.85">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniformLanguageModel.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UniformLanguageModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/alg1/alg1.py" />
         <option value="$PROJECT_DIR$/alg1/alg2.py" />
         <option value="$PROJECT_DIR$/Sort/merg.py" />
         <option value="$PROJECT_DIR$/XY-graf/modul_XY.py" />
@@ -68,6 +85,7 @@
         <option value="$PROJECT_DIR$/TXT_RegEx/2.py" />
         <option value="D:/КУРС/pa1-spamlord-v4/python/SpamLord.py" />
         <option value="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" />
+        <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py" />
       </list>
     </option>
   </component>
@@ -122,7 +140,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pa1-spamlord-v4" />
+              <option name="myItemId" value="pa2-autocorrect-v1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -140,7 +158,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pa1-spamlord-v4" />
+              <option name="myItemId" value="pa2-autocorrect-v1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,25 +189,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.SpamLord">
-    <configuration default="false" name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TXT_RegEx" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Reasearch" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TXT_RegEx/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="MULTIPROCESS" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.SpellCorrect">
     <configuration default="false" name="222" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,6 +264,24 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="SpellCorrect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pa2-autocorrect-v1/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Reasearch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellCorrect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,11 +336,11 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.222" />
-      <item index="2" class="java.lang.String" itemvalue="Python.quicksort" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exempl" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SpamLord" />
+      <item index="0" class="java.lang.String" itemvalue="Python.222" />
+      <item index="1" class="java.lang.String" itemvalue="Python.quicksort" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exempl" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SpamLord" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SpellCorrect" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -354,22 +372,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17990276" sideWeight="0.65210354" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26418152" sideWeight="0.65210354" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4611021" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31604537" sideWeight="0.697411" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28200972" sideWeight="0.697411" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -434,21 +452,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alg1/alg2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="41" selection-start="2976" selection-end="2976" vertical-scroll-proportion="0.5846154" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/email/_parseaddr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.353846" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XY-graf/modulXY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="148" selection-end="148" vertical-scroll-proportion="0.21794872" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alg1/alg1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.043589745" />
@@ -476,59 +479,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TXT_RegEx/2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="21" selection-start="1707" selection-end="1943" vertical-scroll-proportion="0.23793103">
-          <folding />
-        </state>
+        <state line="51" column="21" selection-start="1707" selection-end="1943" vertical-scroll-proportion="0.23793103" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="894" selection-end="894" vertical-scroll-proportion="0.11129848">
-          <folding />
-        </state>
+        <state line="37" column="0" selection-start="894" selection-end="894" vertical-scroll-proportion="0.11129848" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/merg_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.02866779">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.02866779" />
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.029310346">
-          <folding />
-        </state>
+        <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.029310346" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/tmp1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.02866779">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.02866779" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/222.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="33" selection-start="5779" selection-end="5779" vertical-scroll-proportion="0.7948276">
-          <folding />
-        </state>
+        <state line="180" column="33" selection-start="5779" selection-end="5779" vertical-scroll-proportion="0.7948276" />
       </provider>
     </entry>
     <entry file="file://C:/Python27/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="242" column="14" selection-start="10422" selection-end="10422" vertical-scroll-proportion="0.3035413">
-          <folding />
-        </state>
+        <state line="242" column="14" selection-start="10422" selection-end="10422" vertical-scroll-proportion="0.3035413" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="76" selection-start="1968" selection-end="1968" vertical-scroll-proportion="0.618887">
+        <state line="74" column="25" selection-start="2082" selection-end="2082" vertical-scroll-proportion="0.67413795">
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellCorrect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UniformLanguageModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="829" selection-end="829" vertical-scroll-proportion="0.85">
+          <folding />
         </state>
       </provider>
     </entry>

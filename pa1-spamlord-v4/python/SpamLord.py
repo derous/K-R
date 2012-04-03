@@ -6,27 +6,27 @@ import pprint
 expr_phone = (r"(?:\)|-| |&thinsp;)?[467](?:\)|-| |&thinsp;)?"
               r"[015]((?:\)|-| |&thinsp;){0,2}\d){8}\b(?! ?\d)")
 
-def get_email1(line):
+def email1(line):
     value = line
     if "Server at " in line:
         return ""
     value = re.sub(r"@| @ |\(at\)| at |&#x40;", lambda s: "@", value)
     return value
 
-def get_email2(line):
+def email2(line):
     value = line
     value = re.sub(r" at ", lambda s: "@", value)
     value = re.sub(r" dot | dt |;", lambda s: ".", value)
     return value
 
-def get_email3(line):
+def email3(line):
     #'teresa.lynn (followed by "@stanford.edu"'
     value = line
     value = re.sub(r' \(followed by ("|&ldquo;)@', lambda s: "@", value)
     value = re.sub("\"'", lambda s: "", value)
     return value
 
-def get_email4(line):
+def email4(line):
     value = line
     if "Server at " in line:
         return ""
@@ -34,7 +34,7 @@ def get_email4(line):
     value = re.sub(r" ", lambda s: ".", value)
     return value
 
-def get_email5(line):
+def email5(line):
     value = line
 
     part1 = re.search(r"(?<=',')[\.\w]+", value).group();
@@ -45,7 +45,7 @@ def get_email5(line):
     return value
 
 
-def get_email6(line):
+def email6(line):
     value = line
     #engler WHERE stanford DOM edu
     value = re.sub(r" WHERE ", lambda s: "@", value)
@@ -53,28 +53,28 @@ def get_email6(line):
     return value
 
 
-def get_email7(line):
+def email7(line):
     value = line
     # email: pal at cs stanford edu, but
     value = re.sub(r" at ", lambda s: "@", value)
     value = re.sub(r" ", lambda s: ".", value)
     return value
 
-def get_email8(line):
+def email8(line):
     value = line
     # d-l-w-h-@-s-t-a-n-f-o-r-d-.-e-d-u
     value = re.sub(r"-", lambda s: "", value)
     return value
 
 email_patterns = {
-    r"\b(?:\w|\.)+(?:@| @ |\(at\)| at |&#x40;)(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}\b": get_email1,
-    r"\b(?:\w| dot | dt |;)+(?: at )(?:\w| dot | dt |;)+(?: dot | dt |;)[a-zA-Z]{2,4}\b": get_email2,
-    r'\b(?:\w|\.)+ \(followed by ("|\&ldquo;)@(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}(?=("|\&rdquo;))': get_email3,
-    r"\b(?:\w|\.)+ at (?:\w|\.)+ edu\b": get_email4,
-    r"(?<=\(')[\'\.\w\,]+(?='\); </script>)": get_email5,
-    r"\w+ WHERE \w+ DOM \w{2,4}\b": get_email6,
-    r"(?<=email: )[ \w]+ edu": get_email7,
-    r"[-\w]+@[-\w]+\.-e-d-u": get_email8
+    r"\b(?:\w|\.)+(?:@| @ |\(at\)| at |&#x40;)(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}\b": email1,
+    r"\b(?:\w| dot | dt |;)+(?: at )(?:\w| dot | dt |;)+(?: dot | dt |;)[a-zA-Z]{2,4}\b": email2,
+    r'\b(?:\w|\.)+ \(followed by ("|\&ldquo;)@(?:\w|\.)+(?:\.)[a-zA-Z]{2,4}(?=("|\&rdquo;))': email3,
+    r"\b(?:\w|\.)+ at (?:\w|\.)+ edu\b": email4,
+    r"(?<=\(')[\'\.\w\,]+(?='\); </script>)": email5,
+    r"\w+ (?:WHERE|where) \w+ (?:DOM|DOMEN|dom) \w{2,4}\b": email6,
+    r"(?<=email: )[ \w]+ edu": email7,
+    r"[-\w]+@[-\w]+\.-e-d-u": email8
 }
 
 def get_phone_substrings(text):
