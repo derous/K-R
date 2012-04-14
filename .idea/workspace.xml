@@ -53,10 +53,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="regex_cases.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="regex_cases.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/regexes/regex_cases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="4" selection-start="402" selection-end="402" vertical-scroll-proportion="0.36885247">
+            <state line="18" column="4" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scc.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alg4/scc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="24" selection-start="364" selection-end="364" vertical-scroll-proportion="0.26481715">
+              <folding>
+                <element signature="e#33#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stack_play.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alg4/stack_play.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="73" selection-end="136" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#44#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dev_scc.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alg4/dev_scc.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="3" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,9 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/XY-graf/modulXY.py" />
-        <option value="$PROJECT_DIR$/XY-graf/ploot.py" />
-        <option value="$PROJECT_DIR$/Sort/merg_sort.py" />
         <option value="$PROJECT_DIR$/TXT_RegEx/1.py" />
         <option value="$PROJECT_DIR$/Sort/tmp1.py" />
         <option value="$PROJECT_DIR$/Sort/exempl.py" />
@@ -93,13 +121,16 @@
         <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py" />
         <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/CustomLanguageModel.py" />
         <option value="$PROJECT_DIR$/regexes/regex_cases.py" />
+        <option value="$PROJECT_DIR$/alg4/dev_scc.txt" />
+        <option value="$PROJECT_DIR$/alg4/stack_play.py" />
+        <option value="$PROJECT_DIR$/alg4/scc.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="878" />
+    <option name="height" value="961" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -146,6 +177,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Reasearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K-R" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alg4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -167,47 +212,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.regex_cases">
-    <configuration default="false" name="SpamLord" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pa1-spamlord-v4/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Reasearch" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" />
-      <option name="PARAMETERS" value="../data/dev/ ../data/devGOLD" />
-      <option name="MULTIPROCESS" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SpellCorrect" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pa2-autocorrect-v1/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Reasearch" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellCorrect.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="MULTIPROCESS" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.scc">
     <configuration default="false" name="UnigramLanguageModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,6 +264,46 @@
       <option name="PARAMETERS" value="" />
       <option name="MULTIPROCESS" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="scc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alg4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Reasearch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alg4/scc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="stack_play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alg4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Reasearch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alg4/stack_play.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -316,11 +361,11 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SpamLord" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SpellCorrect" />
-      <item index="2" class="java.lang.String" itemvalue="Python.UnigramLanguageModel" />
-      <item index="3" class="java.lang.String" itemvalue="Python.StupidBackoffLanguageModel" />
-      <item index="4" class="java.lang.String" itemvalue="Python.regex_cases" />
+      <item index="0" class="java.lang.String" itemvalue="Python.UnigramLanguageModel" />
+      <item index="1" class="java.lang.String" itemvalue="Python.StupidBackoffLanguageModel" />
+      <item index="2" class="java.lang.String" itemvalue="Python.regex_cases" />
+      <item index="3" class="java.lang.String" itemvalue="Python.scc" />
+      <item index="4" class="java.lang.String" itemvalue="Python.stack_play" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -351,23 +396,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="878" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1920" height="961" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21504803" sideWeight="0.65210354" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4610459" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15528281" sideWeight="0.65210354" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45731056" sideWeight="0.9928401" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30843115" sideWeight="0.697411" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
+      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41195303" sideWeight="0.697411" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -432,31 +477,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sort/exempl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="21" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TXT_RegEx/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="21" selection-start="1707" selection-end="1943" vertical-scroll-proportion="0.23793103" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sort/quicksort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="894" selection-end="894" vertical-scroll-proportion="0.11129848" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sort/merg_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.02866779" />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1048" column="0" selection-start="44840" selection-end="44840" vertical-scroll-proportion="0.029310346" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sort/tmp1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.02866779" />
@@ -474,57 +494,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="19" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="23" column="19" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UniformLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="576" selection-end="576" vertical-scroll-proportion="0.29666254">
-          <folding />
-        </state>
+        <state line="16" column="28" selection-start="576" selection-end="576" vertical-scroll-proportion="0.29666254" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/LaplaceBigramLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="14" selection-start="2160" selection-end="2177" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="73" column="14" selection-start="2160" selection-end="2177" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/LaplaceUnigramLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="911" selection-end="995" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="28" column="0" selection-start="911" selection-end="995" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1340" column="0" selection-start="55091" selection-end="55135" vertical-scroll-proportion="0.8493544" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="428" column="17" selection-start="13110" selection-end="13110" vertical-scroll-proportion="0.35224274" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellCorrect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="18" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="35" column="18" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="41" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="67" column="41" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/CustomLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="41" selection-start="3136" selection-end="3136" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="108" column="41" selection-start="3136" selection-end="3136" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regexes/regex_cases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="4" selection-start="402" selection-end="402" vertical-scroll-proportion="0.36885247">
-          <folding />
+        <state line="18" column="4" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alg4/dev_scc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="3" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alg4/stack_play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="73" selection-end="136" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alg4/scc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="364" selection-end="364" vertical-scroll-proportion="0.26481715">
+          <folding>
+            <element signature="e#33#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
