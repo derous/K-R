@@ -59,18 +59,15 @@ class StupidBackoffLanguageModel:
 
             if b in self.bigrams:
 
-                count_b = self.bigrams[b] + 1
+                count_b = self.bigrams[b]
                 score += math.log(count_b)
-                count_u = self.unigramCounts[b.first] + l
-                score -= math.log(count_u)
-                #print score
+
             else:
-                count_b = 1
-                score += math.log(count_b)
-                if b.first in self.unigramCounts:
-                    count_u = self.unigramCounts[b.first] + l
+                count_b = self.unigramCounts[b.first] * 0.4
+                if count_b == 0:
+                    score += math.log(0.4)
+                    score -= math.log(self.total+l)
                 else:
-                    count_u = l
-                score -= math.log(count_u)
+                    score += math.log(count_b)
 
         return score
