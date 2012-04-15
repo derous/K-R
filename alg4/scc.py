@@ -8,7 +8,7 @@ class Calc_thread(threading.Thread):
 
     def __init__ (self):
         threading.Thread.__init__(self)
-        threading.stack_size(6710886400)
+        threading.stack_size(67108864)
         sys.setrecursionlimit(2 ** 30)
     def run(self):
         print "Calculation with recursion limit:", sys.getrecursionlimit()
@@ -65,13 +65,13 @@ def do_calculation():
     #graph = Graph("./dev_scc.txt", False, 10)
     #graph_tr = Graph("./dev_scc.txt", True, 10)
 
-    graph = Graph("./SCC.txt", False, 875714)
-    graph_tr = Graph("./SCC.txt", True, 875714)
+    graph_tr = Graph("./SCC.txt", False, 875714)
+    graph = Graph("./SCC.txt", True, 875714)
 
     # Calculating order of nodes
 
     print "Calculating order of nodes"
-
+    counter_ = 0
     in_element = 1
     left = graph.nodes.keys()
     while len(left) > 0:
@@ -79,7 +79,9 @@ def do_calculation():
         left = filter(lambda n: not n.discovered, graph.nodes.values())
         if len(left) > 0:
             in_element = left[0].index
-        print len(left)
+        if counter_%100 == 0:
+            print len(left)
+        counter_ += 1
     pass
 
     print "Order calculating is finished"

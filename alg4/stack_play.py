@@ -5,7 +5,7 @@ depth = 0
 import sys
 import threading
 
-threading.stack_size(6710886400)
+threading.stack_size(671088640)
 sys.setrecursionlimit(2 ** 30)
 
 def thread_body(n):
