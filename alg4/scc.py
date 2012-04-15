@@ -72,13 +72,13 @@ def do_calculation():
 
     print "Calculating order of nodes"
     counter_ = 0
-    in_element = 1
+    in_element = 122222
     left = graph.nodes.keys()
     while len(left) > 0:
         depth_first(graph.nodes[in_element])
-        left = filter(lambda n: not n.discovered, graph.nodes.values())
+        left = filter(lambda n: not graph.nodes[n].discovered, left)
         if len(left) > 0:
-            in_element = left[0].index
+            in_element = left[0]
         if counter_%100 == 0:
             print len(left)
         counter_ += 1
