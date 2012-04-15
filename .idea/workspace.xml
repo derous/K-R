@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e833637-c80f-40b5-bf20-b0ab2d491bb1" name="Default" comment="" />
+    <list default="true" id="0e833637-c80f-40b5-bf20-b0ab2d491bb1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alg4/dev_scc.txt" afterPath="$PROJECT_DIR$/alg4/dev_scc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alg4/scc.py" afterPath="$PROJECT_DIR$/alg4/scc.py" />
+    </list>
     <ignored path="Reasearch.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,9 +70,11 @@
       <file leaf-file-name="scc.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alg4/scc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="364" selection-end="364" vertical-scroll-proportion="0.26481715">
+            <state line="90" column="22" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.51554406">
               <folding>
                 <element signature="e#33#49#0" expanded="true" />
+                <element signature="e#105#364#0" expanded="false" />
+                <element signature="e#382#549#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -76,18 +83,7 @@
       <file leaf-file-name="stack_play.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alg4/stack_play.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="73" selection-end="136" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#44#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dev_scc.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alg4/dev_scc.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="3" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+            <state line="24" column="10" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,9 +97,8 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
-    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
     <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -121,8 +116,8 @@
         <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py" />
         <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/CustomLanguageModel.py" />
         <option value="$PROJECT_DIR$/regexes/regex_cases.py" />
-        <option value="$PROJECT_DIR$/alg4/dev_scc.txt" />
         <option value="$PROJECT_DIR$/alg4/stack_play.py" />
+        <option value="$PROJECT_DIR$/alg4/dev_scc.txt" />
         <option value="$PROJECT_DIR$/alg4/scc.py" />
       </list>
     </option>
@@ -130,9 +125,9 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="961" />
+    <option name="height" value="955" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -158,7 +153,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -193,14 +187,40 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="250" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="259" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="256" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="D:/КУРС/pa1-spamlord-v4/data/dev" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="263" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1055" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1057" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="261" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="257" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -369,7 +389,7 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -396,19 +416,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="961" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="955" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15528281" sideWeight="0.65210354" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45731056" sideWeight="0.9928401" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16008538" sideWeight="0.38026473" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986126" sideWeight="0.9928401" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41195303" sideWeight="0.697411" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41302028" sideWeight="0.98681056" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61973524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -451,7 +471,10 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -469,7 +492,7 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
+        <line-breakpoint type="python-line">
           <url>file://D:/КУРС/pa1-spamlord-v4/python/SpamLord.py</url>
           <line>96</line>
         </line-breakpoint>
@@ -544,23 +567,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alg4/dev_scc.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" />
+        <state line="13" column="0" selection-start="52" selection-end="56" vertical-scroll-proportion="0.24840765">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alg4/stack_play.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="73" selection-end="136" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#44#54#0" expanded="true" />
-          </folding>
+        <state line="24" column="10" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alg4/scc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="364" selection-end="364" vertical-scroll-proportion="0.26481715">
+        <state line="90" column="22" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.51554406">
           <folding>
             <element signature="e#33#49#0" expanded="true" />
+            <element signature="e#105#364#0" expanded="false" />
+            <element signature="e#382#549#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -4,8 +4,8 @@ import threading
 import sys
 
 
-
 class Calc_thread(threading.Thread):
+
     def __init__ (self):
         threading.Thread.__init__(self)
         threading.stack_size(6710886400)
@@ -14,35 +14,106 @@ class Calc_thread(threading.Thread):
         print "Calculation with recursion limit:", sys.getrecursionlimit()
         do_calculation()
 
-
 class Node:
     def __init__(self, index):
         self.edges = []
         self.index = index
-        self.enter_time = -1
-        self.exit_time = -1
         self.processed = False
         self.discovered = False
+        self.parent = None
 
 class Graph:
     nodes = {}
 
-    def __process_line(self, line):
+    def __process_line(self, line, is_revers_order):
         verts = line.strip("\n ").split(" ")
-        node = self.nodes[int(verts[0])]
-        target = self.nodes[int(verts[1])]
+        if is_revers_order:
+            node = self.nodes[int(verts[1])]
+            target = self.nodes[int(verts[0])]
+        else:
+            node = self.nodes[int(verts[0])]
+            target = self.nodes[int(verts[1])]
         node.edges.append(target)
 
-    def __init__(self, path, v_count):
+    def __init__(self, path, is_revers_order, v_count):
         self.nodes = dict(map(lambda number: (number + 1, Node(number + 1)), range(v_count)))
 
         for line in open(path, "r").readlines():
-            self.__process_line(line)
+            self.__process_line(line, is_revers_order)
         pass
 
+nodes_stack = []
+
+def depth_first(v):
+    global nodes_stack
+    v.discovered = True
+
+    for target in v.edges:
+        if not target.discovered:
+            target.parent = v
+            depth_first(target)
+    v.processed = True
+
+    nodes_stack.append(v.index)
+
+
+
 def do_calculation():
-    graph = Graph("./dev_scc.txt", 8)
-    # Do all calculation here
+    global nodes_stack
+    #graph = Graph("./dev_scc.txt", 8)
+
+    #graph = Graph("./dev_scc.txt", False, 10)
+    #graph_tr = Graph("./dev_scc.txt", True, 10)
+
+    graph = Graph("./SCC.txt", False, 875714)
+    graph_tr = Graph("./SCC.txt", True, 875714)
+
+    # Calculating order of nodes
+
+    print "Calculating order of nodes"
+
+    in_element = 1
+    left = graph.nodes.keys()
+    while len(left) > 0:
+        depth_first(graph.nodes[in_element])
+        left = filter(lambda n: not n.discovered, graph.nodes.values())
+        if len(left) > 0:
+            in_element = left[0].index
+        print len(left)
+    pass
+
+    print "Order calculating is finished"
+
+    old_node_stack = list(nodes_stack)
+
+    SCCs = []
+    result_file = open("res.txt", "w")
+    # Calculating SCCs
+
+    print "Calculating SCCs"
+    while len(old_node_stack) > 0:
+        nodes_stack = []
+        in_element = old_node_stack[-1]
+        depth_first(graph_tr.nodes[in_element])
+
+        old_node_stack = filter( lambda n: n not in nodes_stack, old_node_stack)
+        #print old_node_stack, "====", nodes_stack
+        l = len(nodes_stack)
+        SCCs.append(l)
+        result_file.write(str(l)+"\n")
+        print "l=", l
+
+
+
+
+
+
+
+#    left = filter(lambda n: not graph.nodes[n].discovered, graph.nodes)[0]
+#    while left:
+#        depth_first(left)
+#        left = filter(lambda n: not graph.nodes[n].discovered, graph.nodes)[0]
+#        print left.index
 
 
 calc_thread = Calc_thread()
