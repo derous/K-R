@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e833637-c80f-40b5-bf20-b0ab2d491bb1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alg4/scc.py" afterPath="$PROJECT_DIR$/alg4/scc.py" />
     </list>
     <ignored path="Reasearch.iws" />
@@ -68,7 +67,7 @@
       <file leaf-file-name="scc.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alg4/scc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="32" selection-start="2092" selection-end="2092" vertical-scroll-proportion="0.041666668">
+            <state line="33" column="44" selection-start="854" selection-end="854" vertical-scroll-proportion="0.5204991">
               <folding>
                 <element signature="e#33#49#0" expanded="true" />
               </folding>
@@ -440,7 +439,7 @@
       <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986126" sideWeight="0.9928401" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287879" sideWeight="0.98681056" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.98681056" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61973524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -583,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alg4/scc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="32" selection-start="2092" selection-end="2092" vertical-scroll-proportion="0.041666668">
+        <state line="33" column="44" selection-start="854" selection-end="854" vertical-scroll-proportion="0.5204991">
           <folding>
             <element signature="e#33#49#0" expanded="true" />
           </folding>

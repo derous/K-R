@@ -65,14 +65,14 @@ def do_calculation():
     #graph = Graph("./dev_scc.txt", False, 10)
     #graph_tr = Graph("./dev_scc.txt", True, 10)
 
-    graph_tr = Graph("./SCC.txt", False, 875714)
-    graph = Graph("./SCC.txt", True, 875714)
+    graph = Graph("./SCC.txt", False, 875714)
+    graph_tr = Graph("./SCC.txt", True, 875714)
 
     # Calculating order of nodes
 
     print "Calculating order of nodes"
     counter_ = 0
-    in_element = 122222
+    in_element = 1379
     left = graph.nodes.keys()
     while len(left) > 0:
         depth_first(graph.nodes[in_element])
@@ -93,30 +93,25 @@ def do_calculation():
     # Calculating SCCs
 
     print "Calculating SCCs"
+    counter_ = 0
     while len(old_node_stack) > 0:
         nodes_stack = []
         in_element = old_node_stack[-1]
         depth_first(graph_tr.nodes[in_element])
 
         old_node_stack = filter( lambda n: n not in nodes_stack, old_node_stack)
+
+        if counter_%100 == 0:
+            print len(old_node_stack)
+        counter_ += 1
+
         #print old_node_stack, "====", nodes_stack
         l = len(nodes_stack)
-        SCCs.append(l)
-        result_file.write(str(l)+"\n")
-        print "l=", l
-
-
-
-
-
-
-
-#    left = filter(lambda n: not graph.nodes[n].discovered, graph.nodes)[0]
-#    while left:
-#        depth_first(left)
-#        left = filter(lambda n: not graph.nodes[n].discovered, graph.nodes)[0]
-#        print left.index
-
+        if l>1:
+            SCCs.append(l)
+            result_file.write(str(l)+"\n")
+        if l>2:
+            print "l=", l
 
 calc_thread = Calc_thread()
 
