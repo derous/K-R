@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e833637-c80f-40b5-bf20-b0ab2d491bb1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alg4/scc.py" afterPath="$PROJECT_DIR$/alg4/scc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Reasearch.iml" afterPath="$PROJECT_DIR$/.idea/Reasearch.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" afterPath="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" />
     </list>
     <ignored path="Reasearch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,57 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SpellCorrect.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellCorrect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="18" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StupidBackoffLanguageModel.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="41" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomLanguageModel.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/CustomLanguageModel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="41" selection-start="3136" selection-end="3136" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="regex_cases.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regexes/regex_cases.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="4" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scc.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="scc.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alg4/scc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="44" selection-start="854" selection-end="854" vertical-scroll-proportion="0.5204991">
-              <folding>
-                <element signature="e#33#49#0" expanded="true" />
-              </folding>
+            <state line="19" column="26" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stack_play.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alg4/stack_play.py">
+      <file leaf-file-name="SpamLord.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="10" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.45454547">
               <folding />
             </state>
           </provider>
@@ -92,9 +57,9 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
-    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -107,7 +72,6 @@
         <option value="D:/КУРС/pa1-spamlord-v4/data/dev/christos" />
         <option value="$PROJECT_DIR$/TXT_RegEx/2.py" />
         <option value="D:/КУРС/pa1-spamlord-v4/python/SpamLord.py" />
-        <option value="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" />
         <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py" />
         <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py" />
         <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/CustomLanguageModel.py" />
@@ -115,14 +79,15 @@
         <option value="$PROJECT_DIR$/alg4/stack_play.py" />
         <option value="$PROJECT_DIR$/alg4/dev_scc.txt" />
         <option value="$PROJECT_DIR$/alg4/scc.py" />
+        <option value="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-2" />
+    <option name="y" value="-3" />
+    <option name="width" value="1284" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -150,6 +115,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -198,16 +173,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,6 +207,111 @@
     <option name="myDjangoConsoleState">
       <PyConsoleSettings />
     </option>
+  </component>
+  <component name="RestoreUpdateTree">
+    <UpdateInfo date="Moments ago" ActionInfo="_Update">
+      <UpdatedFiles>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated from server" />
+          <option name="myStatusName" value="Changed on server" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CHANGED_ON_SERVER" />
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Updated" />
+            <option name="myStatusName" value="Changed" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="UPDATED" />
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Created" />
+            <option name="myStatusName" value="Created" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="CREATED" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Deleted" />
+            <option name="myStatusName" value="Deleted" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="true" />
+            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Restored" />
+            <option name="myStatusName" value="Will be restored" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="RESTORED" />
+          </FILE-GROUP>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Modified" />
+          <option name="myStatusName" value="Modified" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MODIFIED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Skipped" />
+          <option name="myStatusName" value="Skipped" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SKIPPED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with conflicts" />
+          <option name="myStatusName" value="Will be merged with conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with tree conflicts" />
+          <option name="myStatusName" value="Merged with tree conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged" />
+          <option name="myStatusName" value="Will be merged" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Not in repository" />
+          <option name="myStatusName" value="Not in repository" />
+          <option name="mySupportsDeletion" value="true" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UNKNOWN" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally added" />
+          <option name="myStatusName" value="Locally added" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_ADDED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally removed" />
+          <option name="myStatusName" value="Locally removed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_REMOVED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Switched" />
+          <option name="myStatusName" value="Switched" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SWITCHED" />
+        </FILE-GROUP>
+      </UpdatedFiles>
+    </UpdateInfo>
   </component>
   <component name="RunManager" selected="Python.scc">
     <configuration default="false" name="UnigramLanguageModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -400,7 +470,7 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -427,23 +497,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-2" y="-3" width="1284" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16439395" sideWeight="0.38026473" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19692059" sideWeight="0.38041735" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986126" sideWeight="0.9928401" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.98681056" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61973524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32820097" sideWeight="0.38041735" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.61958265" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -482,7 +552,10 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -518,11 +591,6 @@
         <state line="180" column="33" selection-start="5779" selection-end="5779" vertical-scroll-proportion="0.7948276" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="25" selection-start="2082" selection-end="2082" vertical-scroll-proportion="0.67413795" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="19" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0" />
@@ -555,37 +623,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellCorrect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="18" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" />
+        <state line="35" column="18" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.025125628">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="41" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" />
+        <state line="67" column="41" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.69849247">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/CustomLanguageModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="41" selection-start="3136" selection-end="3136" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg4/stack_play.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="10" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" />
+        <state line="108" column="41" selection-start="3136" selection-end="3136" vertical-scroll-proportion="0.5728643">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regexes/regex_cases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="4" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
+        <state line="18" column="4" selection-start="402" selection-end="402" vertical-scroll-proportion="0.34673366">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alg4/stack_play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="10" selection-start="396" selection-end="396" vertical-scroll-proportion="0.57788944">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alg4/scc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="44" selection-start="854" selection-end="854" vertical-scroll-proportion="0.5204991">
-          <folding>
-            <element signature="e#33#49#0" expanded="true" />
-          </folding>
+        <state line="19" column="26" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.45454547">
+          <folding />
         </state>
       </provider>
     </entry>
