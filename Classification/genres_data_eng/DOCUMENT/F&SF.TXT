@@ -1,0 +1,2395 @@
+Bruce Sterling
+
+bruces@well.sf.ca.us
+
+
+
+Literary Freeware: Not For Commercial Use
+
+From THE MAGAZINE OF FANTASY AND SCIENCE FICTION, June 1992
+
+F&SF, Box 56, Cornwall CT 06753 $26/yr; outside USA $31/yr
+
+F&SF Science Column #1
+
+
+
+OUTER CYBERSPACE
+
+
+
+Dreaming of space-flight, and predicting its future, have
+always been favorite pastimes of science fiction. In my first science
+column for F&SF, I can't resist the urge to contribute a bit to this
+grand tradition.
+
+A science-fiction writer in 1991 has a profound advantage over
+the genre's pioneers. Nowadays, space-exploration has a past as
+well as a future. "The conquest of space" can be judged today, not
+just by dreams, but by a real-life track record.
+
+Some people sincerely believe that humanity's destiny lies in the
+stars, and that humankind evolved from the primordial slime in order
+to people the galaxy. These are interesting notions: mystical and
+powerful ideas with an almost religious appeal. They also smack a
+little of Marxist historical determinism, which is one reason why the
+Soviets found them particularly attractive.
+
+Americans can appreciate mystical blue-sky rhetoric as well as
+anybody, but the philosophical glamor of "storming the cosmos"
+wasn't enough to motivate an American space program all by itself.
+Instead, the Space Race was a creation of the Cold War -- its course
+was firmly set in the late '50s and early '60s. Americans went into
+space *because* the Soviets had gone into space, and because the
+Soviets were using Sputnik and Yuri Gagarin to make a case that
+their way of life was superior to capitalism.
+
+The Space Race was a symbolic tournament for the newfangled
+intercontinental rockets whose primary purpose (up to that point) had
+been as instruments of war. The Space Race was the harmless,
+symbolic, touch-football version of World War III. For this reason
+alone: that it did no harm, and helped avert a worse clash -- in my
+opinion, the Space Race was worth every cent. But the fact that it was
+a political competition had certain strange implications.
+
+Because of this political aspect, NASA's primary product was
+never actual "space exploration." Instead, NASA produced public-
+relations spectaculars. The Apollo project was the premiere example.
+The astonishing feat of landing men on the moon was a tremendous
+public-relations achievement, and it pretty much crushed the Soviet
+opposition, at least as far as "space-racing" went.
+
+On the other hand, like most "spectaculars," Apollo delivered
+rather little in the way of permanent achievement. There was flag-
+waving, speeches, and plaque-laying; a lot of wonderful TV coverage;
+and then the works went into mothballs. We no longer have the
+capacity to fly human beings to the moon. No one else seems
+particularly interested in repeating this feat, either; even though the
+Europeans, Indians, Chinese and Japanese all have their own space
+programs today. (Even the Arabs, Canadians, Australians and
+Indonesians have their own satellites now.)	
+
+In 1991, NASA remains firmly in the grip of the "Apollo
+Paradigm." The assumption was (and is) that only large, spectacular
+missions with human crews aboard can secure political support for
+NASA, and deliver the necessary funding to support its eleven-billion-
+dollar-a-year bureaucracy. "No Buck Rogers, no bucks."
+
+The march of science -- the urge to actually find things out
+about our solar system and our universe -- has never been the driving
+force for NASA. NASA has been a very political animal; the space-
+science community has fed on its scraps.
+
+Unfortunately for NASA, a few historical home truths are
+catching up with the high-tech white-knights.
+
+First and foremost, the Space Race is over. There is no more
+need for this particular tournament in 1992, because the Soviet
+opposition is in abject ruins. The Americans won the Cold War. In
+1992, everyone in the world knows this. And yet NASA is still running
+space-race victory laps.
+
+What's worse, the Space Shuttle, one of which blew up in 1986,
+is clearly a white elephant. The Shuttle is overly complex, over-
+designed, the creature of bureaucratic decision-making which tried to
+provide all things for all constituents, and ended-up with an
+unworkable monster. The Shuttle was grotesquely over-promoted,
+and it will never fulfill the outrageous promises made for it in the '70s.
+It's not and never will be a "space truck." It's rather more like a Ming
+vase.
+
+Space Station Freedom has very similar difficulties. It costs far
+too much, and is destroying other and more useful possibilities for
+space activity. Since the Shuttle takes up half NASA's current budget,
+the Shuttle and the Space Station together will devour most *all* of
+NASA's budget for *years to come* -- barring unlikely large-scale
+increases in funding.
+
+Even as a political stage-show, the Space Station is a bad bet,
+because the Space Station cannot capture the public imagination.
+Very few people are honestly excited about this prospect. The Soviets
+*already have* a space station. They've had a space station for years
+now. Nobody cares about it. It never gets headlines. It inspires not
+awe but tepid public indifference. Rumor has it that the Soviets (or
+rather, the *former* Soviets) are willing to sell their "Space Station
+Peace" to any bidder for eight hundred million dollars, about one
+fortieth of what "Space Station Freedom" will cost -- and nobody can
+be bothered to buy it!
+
+Manned space exploration itself has been oversold. Space-
+flight is simply not like other forms of "exploring." "Exploring"
+generally implies that you're going to venture out someplace, and
+tangle hand-to-hand with wonderful stuff you know nothing about.
+Manned space flight, on the other hand, is one of the most closely
+regimented of human activities. Most everything that is to happen on
+a manned space flight is already known far in advance. (Anything not
+predicted, not carefully calculated beforehand, is very likely to be a
+lethal catastrophe.)
+
+Reading the personal accounts of astronauts does not reveal
+much in the way of "adventure" as that idea has been generally
+understood. On the contrary, the historical and personal record
+reveals that astronauts are highly trained technicians whose primary
+motivation is not to "boldly go where no one has gone before," but
+rather to do *exactly what is necessary* and above all *not to mess up
+the hardware.*
+
+Astronauts are not like Lewis and Clark. Astronauts are the
+tiny peak of a vast human pyramid of earth-bound technicians and
+mission micro-managers. They are kept on a very tight
+(*necessarily* tight) electronic leash by Ground Control. And they
+are separated from the environments they explore by a thick chrysalis
+of space-suits and space vehicles. They don't tackle the challenges of
+alien environments, hand-to-hand -- instead, they mostly tackle the
+challenges of their own complex and expensive life-support
+machinery.
+
+The years of manned space-flight have provided us with the
+interesting discovery that life in free-fall is not very good for people.
+People in free-fall lose calcium from their bones -- about half a percent
+of it per month. Having calcium leach out of one's bones is the same
+grim phenomenon that causes osteoporosis in the elderly --
+"dowager's hump." It makes one's bones brittle. No one knows quite
+how bad this syndrome can get, since no one has been in orbit much
+longer than a year; but after a year, the loss of calcium shows no
+particular sign of slowing down. The human heart shrinks in free-
+fall, along with a general loss of muscle tone and muscle mass. This
+loss of muscle, over a period of months in orbit, causes astronauts and
+cosmonauts to feel generally run-down and feeble.
+
+There are other syndromes as well. Lack of gravity causes
+blood to pool in the head and upper chest, producing the pumpkin-
+faced look familiar from Shuttle videos. Eventually, the body reacts
+to this congestion by reducing the volume of blood. The long-term
+effects of this are poorly understood. About this time, red blood cell
+production falls off in the bone marrow. Those red blood cells which
+are produced in free-fall tend to be interestingly malformed.
+
+And then, of course, there's the radiation hazard. No one in
+space has been severely nuked yet, but if a solar flare caught a crew in
+deep space, the results could be lethal.
+
+These are not insurmountable medical challenges, but they
+*are* real problems in real-life space experience. Actually, it's rather
+surprising that an organism that evolved for billions of years in
+gravity can survive *at all* in free-fall. It's a tribute to human
+strength and plasticity that we can survive and thrive for quite a
+while without any gravity. However, we now know what it would be
+like to settle in space for long periods. It's neither easy nor pleasant.
+
+And yet, NASA is still committed to putting people in space.
+They're not quite sure why people should go there, nor what people
+will do in space once they're there, but they are bound and determined
+to do this despite all obstacles.
+
+If there were big money to be made from settling people in
+space, that would be a different prospect. A commercial career in
+free-fall would probably be safer, happier, and more rewarding than,
+say, bomb-disposal, or test-pilot work, or maybe even coal-mining.
+But the only real moneymaker in space commerce (to date, at least) is
+the communications satellite industry. The comsat industry wants
+nothing to do with people in orbit.
+
+Consider this: it costs $200 million to make one shuttle flight.
+For $200 million you can start your own communications satellite
+business, just like GE, AT&T, GTE and Hughes Aircraft. You can join
+the global Intelsat consortium and make a hefty 14% regulated profit
+in the telecommunications business, year after year. You can do quite
+well by "space commerce," thank you very much, and thousands of
+people thrive today by commercializing space. But the Space Shuttle,
+with humans aboard, costs $30 million a day! There's nothing you can
+make or do on the Shuttle that will remotely repay that investment.
+After years of Shuttle flights, there is still not one single serious
+commercial industry anywhere whose business it is to rent workspace
+or make products or services on the Shuttle.
+
+The era of manned spectaculars is visibly dying by inches. It's
+interesting to note that a quarter of the top and middle management
+of NASA, the heroes of Apollo and its stalwarts of tradition, are
+currently eligible for retirement. By the turn of the century, more than
+three-quarters of the old guard will be gone.
+
+This grim and rather cynical recital may seem a dismal prospect
+for space enthusiasts, but the situation's not actually all that dismal at
+all. In the meantime, unmanned space development has quietly
+continued apace. It's a little known fact that America's *military*
+space budget today is *twice the size* of NASA's entire budget! This
+is the poorly publicized, hush-hush, national security budget for
+militarily vital technologies like America's "national technical means
+of verification," i.e. spy satellites. And then there are military
+navigational aids like Navstar, a relatively obscure but very
+impressive national asset. The much-promoted Strategic Defence
+Initiative is a Cold War boondoggle, and SDI is almost surely not long
+for this world, in either budgets or rhetoric -- but both Navstar and
+spy satellites have very promising futures, in and/or out of the
+military. They promise and deliver solid and useful achievements,
+and are in no danger of being abandoned.
+
+And communications satellites have come a very long way since
+Telstar; the Intelsat 6 model, for instance, can carry thirty thousand
+simultaneous phone calls plus three channels of cable television.
+There is enormous room for technical improvement in comsat
+technologies; they have a well-established market, much pent-up
+demand, and are likely to improve drastically in the future. (The
+satellite launch business is no longer a superpower monopoly; comsats
+are being launched by Chinese and Europeans. Newly independent
+Kazakhstan, home of the Soviet launching facilities at Baikonur, is
+anxious to enter the business.)
+
+Weather satellites have proven vital to public safety and
+commercial prosperity. NASA or no NASA, money will be found to
+keep weather satellites in orbit and improve them technically -- not
+for reasons of national prestige or flag-waving status, but because it
+makes a lot of common sense and it really pays.
+
+But a look at the budget decisions for 1992 shows that the
+Apollo Paradigm still rules at NASA. NASA is still utterly determined
+to put human beings in space, and actual space science gravely suffers
+for this decision. Planetary exploration, life science missions, and
+astronomical surveys (all unmanned) have been cancelled, or
+curtailed, or delayed in the1992 budget. All this, in the hope of
+continuing the big-ticket manned 50-billion-dollar Space Shuttle, and
+of building the manned 30-billion-dollar Space Station Freedom.
+
+The dire list of NASA's sacrifices for 1992 includes an asteroid
+probe; an advanced x-ray astronomy facility; a space infrared
+telescope; and an orbital unmanned solar laboratory. We would have
+learned a very great deal from these projects (assuming that they
+would have actually worked). The Shuttle and the Station, in stark
+contrast, will show us very little that we haven't already seen.
+
+There is nothing inevitable about these decisions, about this
+strategy. With imagination, with a change of emphasis, the
+exploration of space could take a very different course.
+
+In 1951, when writing his seminal non-fiction work THE
+EXPLORATION OF SPACE, Arthur C. Clarke created a fine
+imaginative scenario of unmanned spaceflight.
+
+"Let us imagine that such a vehicle is circling Mars," Clarke
+speculated. "Under the guidance of a tiny yet extremely complex
+electronic brain, the missile is now surveying the planet at close
+quarters. A camera is photographing the landscape below, and the
+resulting pictures are being transmitted to the distant Earth along a
+narrow radio beam. It is unlikely that true television will be possible,
+with an apparatus as small as this, over such ranges. The best that
+could be expected is that still pictures could be transmitted at intervals
+of a few minutes, which would be quite adequate for most purposes."
+
+This is probably as close as a science fiction writer can come to
+true prescience. It's astonishingly close to the true-life facts of the
+early Mars probes. Mr. Clarke well understood the principles and
+possibilities of interplanetary rocketry, but like the rest of mankind in
+1951, he somewhat underestimated the long-term potentials of that
+"tiny but extremely complex electronic brain" -- as well as that of
+"true television." In the 1990s, the technologies of rocketry have
+effectively stalled; but the technologies of "electronic brains" and
+electronic media are exploding exponentially.
+
+Advances in computers and communications now make it
+possible to speculate on the future of "space exploration" along
+entirely novel lines. Let us now imagine that Mars is under thorough
+exploration, sometime in the first quarter of the twenty-first century.
+However, there is no "Martian colony." There are no three-stage
+rockets, no pressure-domes, no tractor-trailers, no human settlers.
+
+Instead, there are hundreds of insect-sized robots, every one of
+them equipped not merely with "true television," but something much
+more advanced. They are equipped for *telepresence.* A human
+operator can see what they see, hear what they hear, even guide them
+about at will (granted, of course, that there is a steep transmission
+lag). These micro-rovers, crammed with cheap microchips and laser
+photo-optics, are so exquisitely monitored that one can actually *feel*
+the Martian grit beneath their little scuttling claws. Piloting one of
+these babies down the Valles Marineris, or perhaps some unknown
+cranny of the Moon -- now *that* really feels like "exploration." If
+they were cheap enough, you could dune-buggy them.
+
+No one lives in space stations, in this scenario. Instead, our
+entire solar system is saturated with cheap monitoring devices. There
+are no "rockets" any more. Most of these robot surrogates weigh less
+than a kilogram. They are fired into orbit by small rail-guns mounted
+on high-flying aircraft. Or perhaps they're launched by laser-ignition:
+ground-based heat-beams that focus on small reaction-chambers and
+provide their thrust. They might even be literally shot into orbit by
+Jules Vernian "space guns" that use the intriguing, dirt-cheap
+technology of Gerald Bull's Iraqi "super-cannon." This wacky but
+promising technique would be utterly impractical for launching human
+beings, since the acceleration g-load would shatter every bone in their
+bodies; but these little machines are *tough.*
+
+And small robots have many other advantages. Unlike manned
+craft, robots can go into harm's way: into Jupiter's radiation belts, or
+into the shrapnel-heavy rings of Saturn, or onto the acid-bitten
+smoldering surface of Venus. They stay on their missions,
+operational, not for mere days or weeks, but for decades. They are
+extensions, not of human population, but of human senses.
+
+And because they are small and numerous, they should be
+cheap. The entire point of this scenario is to create a new kind of
+space-probe that is cheap, small, disposable, and numerous: as cheap
+and disposable as their parent technologies, microchips and video,
+while taking advantage of new materials like carbon-fiber, fiber-
+optics, ceramic, and artificial diamond.
+
+The core idea of this particular vision is "fast, cheap, and out of
+control." Instead of gigantic, costly, ultra-high-tech, one-shot efforts
+like NASA's Hubble Telescope (crippled by bad optics) or NASA's
+Galileo (currently crippled by a flaw in its communications antenna)
+these micro-rovers are cheap, and legion, and everywhere. They get
+crippled every day; but it doesn't matter much; there are hundreds
+more, and no one's life is at stake. People, even quite ordinary people,
+*rent time on them* in much the same way that you would pay for
+satellite cable-TV service. If you want to know what Neptune looks
+like today, you just call up a data center and *have a look for
+yourself.*
+
+This is a concept that would truly involve "the public" in space
+exploration, rather than the necessarily tiny elite of astronauts. This
+is a potential benefit that we might derive from abandoning the
+expensive practice of launching actual human bodies into space. We
+might find a useful analogy in the computer revolution: "mainframe"
+space exploration, run by a NASA elite in labcoats, is replaced by a
+"personal" space exploration run by grad students and even hobbyists.
+
+In this scenario, "space exploration" becomes similar to other
+digitized, computer-assisted media environments: scientific
+visualization, computer graphics, virtual reality, telepresence. The
+solar system is saturated, not by people, but by *media coverage.
+Outer space becomes *outer cyberspace.*
+
+Whether this scenario is "realistic" isn't clear as yet. It's just a
+science-fictional dream, a vision for the exploration of space:
+*circumsolar telepresence.* As always, much depends on
+circumstance, lucky accidents, and imponderables like political will.
+What does seem clear, however, is that NASA's own current plans are
+terribly far-fetched: they have outlived all contact with the political,
+economic, social and even technical realities of the 1990s. There is no
+longer any real point in shipping human beings into space in order to
+wave flags.
+
+"Exploring space" is not an "unrealistic" idea. That much, at
+least, has already been proven. The struggle now is over why and
+how and to what end. True, "exploring space" is not as "important"
+as was the life-and-death Space Race struggle for Cold War pre-
+eminence. Space science cannot realistically expect to command the
+huge sums that NASA commanded in the service of American political
+prestige. That era is simply gone; it's history now.
+
+However: astronomy does count. There is a very deep and
+genuine interest in these topics. An interest in the stars and planets is
+not a fluke, it's not freakish. Astronomy is the most ancient of human
+sciences. It's deeply rooted in the human psyche, has great historical
+continuity, and is spread all over the world. It has its own
+constituency, and if its plans were modest and workable, and played
+to visible strengths, they might well succeed brilliantly.
+
+The world doesn't actually need NASA's billions to learn about
+our solar system. Real, honest-to-goodness "space exploration"
+never got more than a fraction of NASA's budget in the first place.
+
+Projects of this sort would no longer be created by gigantic
+federal military-industrial bureaucracies. Micro-rover projects could
+be carried out by universities, astronomy departments, and small-
+scale research consortia. It would play from the impressive strengths
+of the thriving communications and computer tech of the nineties,
+rather than the dying, centralized, militarized, politicized rocket-tech
+of the sixties.
+
+The task at hand is to create a change in the climate of opinion
+about the true potentials of "space exploration." Space exploration,
+like the rest of us, grew up in the Cold War; like the rest of us, it must
+now find a new way to live. And, as history has proven, science fiction
+has a very real and influential role in space exploration. History
+shows that true space exploration is not about budgets. It's about
+vision. At its heart it has always been about vision.
+
+Let's create the vision.
+Bruce Sterling
+
+bruces@well.sf.ca.us
+
+
+
+Literary Freeware: Not For Commercial Use
+
+From THE MAGAZINE OF FANTASY AND SCIENCE FICTION, July 1992
+
+F&SF Box 56 Cornwall CT 06753 $26/yr; outside USA $31/yr
+
+F&SF Column #2
+
+
+
+BUCKYMANIA
+
+
+
+Carbon, like every other element on this planet, came to us from
+outer space. Carbon and its compounds are well-known in galactic
+gas-clouds, and in the atmosphere and core of stars, which burn
+helium to produce carbon. Carbon is the sixth element in the periodic
+table, and forms about two-tenths of one percent of Earth's crust.
+Earth's biosphere (most everything that grows, moves, breathes,
+photosynthesizes, or reads F&SF) is constructed mostly of
+waterlogged carbon, with a little nitrogen, phosphorus and such for
+leavening.
+
+There are over a million known and catalogued compounds of
+carbon: the study of these compounds, and their profuse and intricate
+behavior, forms the major field of science known as organic
+chemistry.
+
+Since prehistory, "pure" carbon has been known to humankind
+in three basic flavors. First, there's smut (lampblack or "amorphous
+carbon"). Then there's graphite: soft, grayish-black, shiny stuff --
+(pencil "lead" and lubricant). And third is that surpassing anomaly,
+"diamond," which comes in extremely hard translucent crystals.
+
+Smut is carbon atoms that are poorly linked. Graphite is carbon
+atoms neatly linked in flat sheets. Diamond is carbon linked in strong,
+regular, three-dimensional lattices: tetrahedra, that form ultrasolid
+little carbon pyramids.
+
+Today, however, humanity rejoices in possession of a fourth
+and historically unprecedented form of carbon. Researchers have
+created an entire class of these simon-pure carbon molecules, now
+collectively known as the "fullerenes." They were named in August
+1985, in Houston, Texas, in honor of the American engineer, inventor,
+and delphically visionary philosopher, R. Buckminster Fuller.
+
+"Buckminsterfullerene," or C60, is the best-known fullerene.
+It's very round, the roundest molecule known to science. Sporting
+what is technically known as "truncated icosahedral structure," C60 is
+the most symmetric molecule possible in three-dimensional Euclidean
+space. Each and every molecule of "Buckminsterfullerene" is a
+hollow, geodesic sphere of sixty carbon atoms, all identically linked in
+a spherical framework of twelve pentagons and twenty hexagons.
+This molecule looks exactly like a common soccerball, and was
+therefore nicknamed a "buckyball" by delighted chemists.
+
+A free buckyball rotates merrily through space at one hundred
+million revolutions per second. It's just over one nanometer across.
+Buckminsterfullerene by the gross forms a solid crystal, is stable at
+room temperature, and is an attractive mustard-yellow color. A heap
+of crystallized buckyballs stack very much like pool balls, and are as
+soft as graphite. It's thought that buckyballs will make good
+lubricants -- something like molecular ball bearings.
+
+When compressed, crystallized buckyballs squash and flatten
+readily, down to about seventy percent of their volume. They then
+refused to move any further and become extremely hard. Just *how*
+hard is not yet established, but according to chemical theory,
+compressed buckyballs may be considerably harder than diamond.
+They may make good shock absorbers, or good armor.
+
+But this is only the beginning of carbon's multifarious oddities in
+the playful buckyball field. Because buckyballs are hollow, their
+carbon framework can be wrapped around other, entirely different
+atoms, forming neat molecular cages. This has already been
+successfully done with certain metals, creating the intriguing new
+class of "metallofullerites." Then there are buckyballs with a carbon or
+two knocked out of the framework, and replaced with metal atoms.
+This "doping" process yields a galaxy of so-called "dopeyballs." Some
+of these dopeyballs show great promise as superconductors. Other
+altered buckyballs seem to be organic ferromagnets.
+
+A thin film of buckyballs can double the frequency of laser light
+passing through it. Twisted or deformed buckyballs might act as
+optical switches for future fiber-optic networks. Buckyballs with
+dangling branches of nickel, palladium, or platinum may serve as new
+industrial catalysts.
+
+The electrical properties of buckyballs and their associated
+compounds are very unusual, and therefore very promising. Pure C60
+is an insulator. Add three potassium atoms, and it becomes a low-
+temperature superconductor. Add three more potassium atoms, and it
+becomes an insulator again! There's already excited talk in industry of
+making electrical batteries out of buckyballs.
+
+Then there are the "buckybabies:" C28, C32, C44, and C52. The
+lumpy, angular buckybabies have received very little study to date,
+and heaven only knows what they're capable of, especially when
+doped, bleached, twisted, frozen or magnetized. And then there are
+the *big* buckyballs: C240, C540, C960. Molecular models of these
+monster buckyballs look like giant chickenwire beachballs.
+
+There doesn't seem to be any limit to the upper size of a
+buckyball. If wrapped around one another for internal support,
+buckyballs can (at least theoretically) accrete like pearls. A truly
+titanic buckyball might be big enough to see with the naked eye.
+Conceivably, it might even be big enough to kick around on a playing
+field, if you didn't mind kicking an anomalous entity with unknown
+physical properties.
+
+Carbon-fiber is a high-tech construction material which has
+been seeing a lot of use lately in tennis rackets, bicycles, and high-
+performance aircraft. It's already the strongest fiber known. This
+makes the discovery of "buckytubes" even more striking. A buckytube
+is carbon-fiber with a difference: it's a buckyball extruded into a long
+continuous cylinder comprised of one single superstrong molecule.
+
+C70, a buckyball cousin shaped like a rugby ball, seems to be
+useful in producing high-tech films of artificial diamond. Then there
+are "fuzzyballs" with sixty strands of hydrogen hair, "bunnyballs"
+with twin ears of butylpyridine, flourinated "teflonballs" that may be
+the slipperiest molecules ever produced.
+
+This sudden wealth of new high-tech slang indicates the
+potential riches of this new and multidisciplinary field of study, where
+physics, electronics, chemistry and materials-science are all
+overlapping, right now, in an exhilirating microsoccerball
+scrimmage.
+
+Today there are more than fifty different teams of scientists
+investigating buckyballs and their relations, including industrial
+heavy-hitters from AT&T, IBM and Exxon. SCIENCE magazine
+voted buckminsterfullerene "Molecule of the Year" in 1991. Buckyball
+papers have also appeared in NATURE, NEW SCIENTIST,
+SCIENTIFIC AMERICAN, even FORTUNE and BUSINESS WEEK.
+Buckyball breakthroughs are coming well-nigh every week, while the
+fax machines sizzle in labs around the world. Buckyballs are strange,
+elegant, beautiful, very intellectually sexy, and will soon be
+commercially hot.
+
+In chemical terms, the discovery of buckminsterfullerene -- a
+carbon sphere -- may well rank with the discovery of the benzene ring
+-- a carbon ring -- in the 19th century. The benzene ring (C6H6)
+brought the huge field of aromatic chemistry into being, and with it a
+enormous number of industrial applications.
+
+But what was this "discovery," and how did it come about?
+
+In a sense, like carbon itself, buckyballs also came to us from
+outer space. Donald Huffman and Wolfgang Kratschmer were
+astrophysicists studying interstellar soot. Huffman worked for the
+University of Arizona in Tucson, Kratschmer for the Max Planck
+Institute in Heidelberg. In 1982, these two gentlemen were
+superheating graphite rods in a low-pressure helium atmosphere,
+trying to replicate possible soot-making conditions in the atmosphere
+of red-giant stars. Their experiment was run in a modest bell-jar
+zapping apparatus about the size and shape of a washing-machine.
+Among a great deal of black gunk, they actually manufactured
+miniscule traces of buckminsterfullerene, which behaved oddly in their
+spectrometer. At the time, however, they didn't realize what they
+had.
+
+In 1985, buckministerfullerene surfaced again, this time in a
+high-tech laser-vaporization cluster-beam apparatus. Robert Curl
+and Richard Smalley, two professors of chemistry at Rice University
+in Houston, knew that a round carbon molecule was theoretically
+possible. They even knew that it was likely to be yellow in color. And
+in August 1985, they made a few nanograms of it, detected it with
+mass spectrometers, and had the honor of naming it, along with their
+colleagues Harry Kroto, Jim Heath and Sean O'Brien.
+
+In 1985, however, there wasn't enough buckminsterfullerene
+around to do much more than theorize about. It was "discovered,"
+and named, and argued about in scientific journals, and was an
+intriguing intellectual curiosity. But this exotic substance remained
+little more than a lab freak.
+
+And there the situation languished. But in 1988, Huffman and
+Kratschmer, the astrophysicists, suddenly caught on: this "C60" from
+the chemists in Houston, was probably the very same stuff they'd
+made by a different process, back in 1982. Harry Kroto, who had
+moved to the University of Sussex in the meantime, replicated their
+results in his own machine in England, and was soon producing
+enough buckminsterfullerene to actually weigh on a scale, and
+measure, and purify!
+
+The Huffman/Kratschmer process made buckminsterfullerene
+by whole milligrams. Wow! Now the entire arsenal of modern
+chemistry could be brought to bear: X-ray diffraction,
+crystallography, nuclear magnetic resonance, chromatography. And
+results came swiftly, and were published. Not only were buckyballs
+real, they were weird and wonderful.
+
+In 1990, the Rice team discovered a yet simpler method to make
+buckyballs, the so-called "fullerene factory." In a thin helium
+atmosphere inside a metal tank, a graphite rod is placed near a
+graphite disk. Enough simple, brute electrical power is blasted
+through the graphite to generate an electrical arc between the disk
+and the tip of the rod. When the end of the rod boils off, you just crank
+the stub a little closer and turn up the juice. The resultant exotic soot,
+which collects on the metal walls of the chamber, is up to 45 percent
+buckyballs.
+
+In 1990, the buckyball field flung open its stadium doors for
+anybody with a few gas-valves and enough credit for a big electric
+bill. These buckyball "factories" sprang up all over the world in 1990
+and '91. The "discovery" of buckminsterfullerene was not the big kick-
+off in this particular endeavour. What really counted was the budget,
+the simplicity of manufacturing. It wasn't the intellectual
+breakthrough that made buckyballs a sport -- it was the cheap ticket in
+through the gates. With cheap and easy buckyballs available, the
+research scene exploded.
+
+Sometimes Science, like other overglamorized forms of human
+endeavor, marches on its stomach.
+
+As I write this, pure buckyballs are sold commercially for about
+$2000 a gram, but the market price is in free-fall. Chemists suggest
+that buckmisterfullerene will be as cheap as aluminum some day soon
+-- a few bucks a pound. Buckyballs will be a bulk commodity, like
+oatmeal. You may even *eat* them some day -- they're not
+poisonous, and they seem to offer a handy way to package certain
+drugs.
+
+Buckminsterfullerene may have been "born" in an interstellar
+star-lab, but it'll become a part of everyday life, your life and my life,
+like nylon, or latex, or polyester. It may become more famous, and
+will almost certainly have far more social impact, than Buckminster
+Fuller's own geodesic domes, those glamorously high-tech structures
+of the 60s that were the prophetic vision for their molecule-size
+counterparts.
+
+This whole exciting buckyball scrimmage will almost certainly
+bring us amazing products yet undreamt-of, everything from grease
+to superhard steels. And, inevitably, it will bring a concomitant set of
+new problems -- buckyball junk, perhaps, or bizarre new forms of
+pollution, or sinister military applications. This is the way of the
+world.
+
+But maybe the most remarkable thing about this peculiar and
+elaborate process of scientific development is that buckyballs never
+were really "exotic" in the first place. Now that sustained attention
+has been brought to bear on the phenomenon, it appears that
+buckyballs are naturally present -- in tiny amounts, that is -- in almost
+any sooty, smoky flame. Buckyballs fly when you light a candle, they
+flew when Bogie lit a cigarette in "Casablanca," they flew when
+Neanderthals roasted mammoth fat over the cave fire. Soot we knew
+about, diamonds we prized -- but all this time, carbon, good ol'
+Element Six, has had a shocking clandestine existence. The "secret"
+was always there, right in the air, all around all of us.
+
+But when you come right down to it, it doesn't really matter
+how we found out about buckyballs. Accidents are not only fun, but
+crucial to the so-called march of science, a march that often moves
+fastest when it's stumbling down some strange gully that no one knew
+existed. Scientists are human beings, and human beings are flexible:
+not a hard, rigidly locked crystal like diamond, but a resilient network.
+It's a legitimate and vital part of science to recognize the truth -- not
+merely when looking for it with brows furrowed and teeth clenched,
+but when tripping over it headlong.
+
+Thanks to science, we did find out the truth. And now it's all
+different. Because now we know!
+Bruce Sterling
+
+bruces@well.sf.ca.us
+
+
+
+Literary Freeware: Not for Commercial Use
+
+From THE MAGAZINE OF FANTASY AND SCIENCE FICTION, Sept 1992.
+
+F&SF, Box 56, Cornwall CT 06753 $26/yr; outside US $31/yr
+
+F&SF Science Column #3
+
+
+
+THINK OF THE PRESTIGE
+
+
+
+The science of rocketry, and the science of weaponry, are sister
+sciences. It's been cynically said of German rocket scientist Wernher
+von Braun that "he aimed at the stars, and hit London."
+
+After 1945, Wernher von Braun made a successful transition to
+American patronage and, eventually, to civilian space exploration.
+But another ambitious space pioneer -- an American citizen -- was
+not so lucky as von Braun, though his equal in scientific talent. His
+story, by comparison, is little known.
+
+Gerald Vincent Bull was born in March 9, 1928, in Ontario,
+Canada. He died in 1990. Dr. Bull was the most brilliant artillery
+scientist of the twentieth century. Bull was a prodigiously gifted
+student, and earned a Ph.D. in aeronautical engineering at the age of 24.
+
+Bull spent the 1950s researching supersonic aerodynamics in
+Canada, personally handcrafting some of the most advanced wind-
+tunnels in the world.
+
+Bull's work, like that of his predecessor von Braun, had military
+applications. Bull found patronage with the Canadian Armament
+Research and Development Establishment (CARDE) and the
+Canadian Defence Research Board.
+
+However, Canada's military-industrial complex lacked the
+panache, and the funding, of that of the United States. Bull, a
+visionary and energetic man, grew impatient with what he considered
+the pedestrian pace and limited imagination of the Canadians. As an
+aerodynamics scientist for CARDE, Bull's salary in 1959 was only
+$17,000. In comparison, in 1961 Bull earned $100,000 by consulting for
+the Pentagon on nose-cone research. It was small wonder that by the
+early 1960s, Bull had established lively professional relationships with
+the US Army's Ballistics Research Laboratory (as well as the Army's
+Redstone Arsenal, Wernher von Braun's own postwar stomping
+grounds).
+
+It was the great dream of Bull's life to fire cannon projectiles
+from the earth's surface directly into outer space. Amazingly, Dr.
+Bull enjoyed considerable success in this endeavor. In 1961, Bull
+established Project HARP (High Altitude Research Project). HARP
+was an academic, nonmilitary research program, funded by McGill
+University in Montreal, where Bull had become a professor in the
+mechanical engineering department. The US Army's Ballistic
+Research Lab was a quiet but very useful co-sponsor of HARP; the US
+Army was especially generous in supplying Bull with obsolete military
+equipment, including cannon barrels and radar.
+
+Project HARP found a home on the island of Barbados,
+downrange of its much better-known (and vastly better-financed)
+rival, Cape Canaveral. In Barbados, Bull's gigantic space-cannon
+fired its projectiles out to an ocean splashdown, with little risk of
+public harm. Its terrific boom was audible all over Barbados, but the
+locals were much pleased at their glamorous link to the dawning
+Space Age.
+
+Bull designed a series of new supersonic shells known as the
+"Martlets." The Mark II Martlets were cylindrical finned projectiles,
+about eight inches wide and five feet six inches long. They weighed
+475 pounds. Inside the barrel of the space-cannon, a Martlet was
+surrounded by a precisely machined wooden casing known as a
+"sabot." The sabot soaked up combustive energy as the projectile
+flew up the space-cannon's sixteen-inch, 118-ft long barrel. As it
+cleared the barrel, the sabot split and the precisely streamlined
+Martlet was off at over a mile per second. Each shot produced a huge
+explosion and a plume of fire gushing hundreds of feet into the sky.
+
+The Martlets were scientific research craft. They were
+designed to carry payloads of metallic chaff, chemical smoke, or
+meteorological balloons. They sported telemetry antennas for tracing
+the flight.
+
+By the end of 1965, the HARP project had fired over a hundred
+such missiles over fifty miles high, into the ionosphere -- the airless
+fringes of space. In November 19, 1966, the US Army's Ballistics
+Research Lab, using a HARP gun designed by Bull, fired a 185-lb
+Martlet missile one hundred and eleven miles high. This was, and
+remains, a world altitude record for any fired projectile. Bull now
+entertained ambitious plans for a Martlet Mark IV, a rocket-assisted
+projectile that would ignite in flight and drive itself into actual orbit.
+
+Ballistically speaking, space cannon offer distinct advantages
+over rockets. Rockets must lift, not only their own weight, but the
+weight of their fuel and oxidizer. Cannon "fuel," which is contained
+within the gunbarrel, offers far more explosive bang for the buck than
+rocket fuel. Cannon projectiles are very accurate, thanks to the fixed
+geometry of the gun-barrel. And cannon are far simpler and cheaper
+than rockets.
+
+There are grave disadvantages, of course. First, the payload
+must be slender enough to fit into a gun-barrel. The most severe
+drawback is the huge acceleration force of a cannon blast, which in the
+case of Bull's exotic arsenal could top 10,000 Gs. This rules out
+manned flights from the mouth of space-cannon. Jules Verne
+overlooked this unpoetic detail when he wrote his prescient tale of
+space artillery, FROM THE EARTH TO THE MOON (1865). (Dr Bull
+was fascinated by Verne, and often spoke of Verne's science fiction as
+one of the foremost inspirations of his youth.)
+
+Bull was determined to put a cannon-round into orbit. This
+burning desire of his was something greater than any merely
+pragmatic or rational motive. The collapse of the HARP project in
+1967 left Bull in command of his own fortunes. He reassembled the
+wreckage of his odd academic/military career, and started a
+commercial operation, "Space Research Corporation." In the years
+to follow, Bull would try hard to sell his space-cannon vision to a
+number of sponsors, including NATO, the Pentagon, Canada, China,
+Israel, and finally, Iraq.
+
+In the meantime, the Vietnam War was raging. Bull's
+researches on projectile aerodynamics had made him, and his
+company Space Reseach Corporation, into a hot military-industrial
+property. In pursuit of space research, Bull had invented techniques
+that lent much greater range and accuracy to conventional artillery
+rounds. With Bull's ammunition, for instance, US Naval destroyers
+would be able to cruise miles off the shore of North Vietnam,
+destroying the best Russian-made shore batteries without any fear of
+artillery retaliation. Bull's Space Research Corporation was
+manufacturing the necessary long-range shells in Canada, but his lack
+of American citizenship was a hindrance in the Pentagon arms trade.
+
+Such was Dr. Bull's perceived strategic importance that this
+hindrance was neatly avoided; with the sponsorship of Senator Barry
+Goldwater, Bull became an American citizen by act of Congress. This
+procedure was a rare honor, previously reserved only for Winston
+Churchill and the Marquis de Lafayette.
+
+Despite this Senatorial fiat, however, the Navy arms deal
+eventually fell through. But although the US Navy scorned Dr. Bull's
+wares, others were not so short-sighted. Bull's extended-range
+ammunition, and the murderously brilliant cannon that he designed to
+fire it, found ready markets in Egypt, Israel, Holland, Italy, Britain,
+Canada, Venezuela, Chile, Thailand, Iran, South Africa, Austria and
+Somalia.
+
+Dr. Bull created a strange private reserve on the Canadian-
+American border; a private arms manufactury with its own US and
+Canadian customs units. This arrangement was very useful, since the
+arms-export laws of the two countries differed, and SRC's military
+products could be shipped-out over either national border at will. In
+this distant enclave on the rural northern border of Vermont, the
+arms genius built his own artillery range, his own telemetry towers
+and launch-control buildings, his own radar tracking station,
+workshops, and machine shops. At its height, the Space Research
+Corporation employed over three hundred people at this site, and
+boasted some $15 million worth of advanced equipment.
+
+The downfall of HARP had left Bull disgusted with the
+government-supported military-scientific establishment. He referred
+to government researchers as "clowns" and "cocktail scientists," and
+decided that his own future must lay in the vigorous world of free
+enterprise. Instead of exploring the upper atmosphere, Bull
+dedicated his ready intelligence to the refining of lethal munitions.
+Bull would not sell to the Soviets or their client states, whom he
+loathed; but he would sell to most anyone else. Bull's cannon are
+credited with being of great help to Jonas Savimbi's UNITA war in
+Angola; they were also extensively used by both sides in the Iran-Iraq
+war.
+
+Dr. Gerald V. Bull, Space Researcher, had become a
+professional arms dealer. Dr. Bull was not a stellar success as an
+arms dealer, because by all accounts he had no real head for business.
+Like many engineers, Bull was obsessed not by entrepreneurial drive,
+but by the exhilirating lure of technical achievement. The
+atmosphere at Space Research Corporation was, by all accounts, very
+collegial; Bull as professor, employees as cherished grad-students.
+Bull's employees were fiercely loyal to him and felt that he was
+brilliantly gifted and could accomplish anything.
+
+SRC was never as great a commercial success as Bull's
+technical genius merited. Bull stumbled badly in 1980. The Carter
+Administration, annoyed by Bull's extensive deals with the South
+African military, put Bull in prison for customs violation. This
+punishment, rather than bringing Bull "to his senses," affected him
+traumatically. He felt strongly that he had been singled out as a
+political scapegoat to satisfy the hypocritical, left-leaning, anti-
+apartheid bureaucrats in Washington. Bull spent seven months in an
+American prison, reading extensively, and, incidentally, successfully
+re-designing the prison's heating-plant. Nevertheless, the prison
+experience left Bull embittered and cynical. While still in prison, Bull
+was already accepting commercial approaches from the Communist
+Chinese, who proved to be among his most avid customers.
+
+After his American prison sentence ended, Bull abandoned his
+strange enclave in the US-Canadian border to work full-time in
+Brussels, Belgium. Space Research Corporation was welcomed there,
+in Europe's foremost nexus of the global arms trade, a city where
+almost anything goes in the way of merchandising war.
+
+In November 1987, Bull was politely contacted in Brussels by the
+Iraqi Embassy, and offered an all-expenses paid trip to Bagdad.
+
+From 1980 to 1989, during their prolonged, lethal, and highly
+inconclusive war with Iran, Saddam Hussein's regime had spent some
+eighty billion dollars on weapons and weapons systems. Saddam
+Hussein was especially fond of his Soviet-supplied "Scud" missiles,
+which had shaken Iranian morale severely when fired into civilian
+centers during the so-called "War of the Cities." To Saddam's mind,
+the major trouble with his Scuds was their limited range and accuracy,
+and he had invested great effort in gathering the tools and manpower
+to improve the Iraqi art of rocketry.
+
+The Iraqis had already bought many of Bull's 155-millimeter
+cannon from the South Africans and the Austrians, and they were
+most impressed. Thanks to Bull's design genius, the Iraqis actually
+owned better, more accurate, and longer-range artillery than the
+United States Army did.
+
+Bull did not want to go to jail again, and was reluctant to break
+the official embargo on arms shipments to Iraq. He told his would-be
+sponsors so, in Bagdad, and the Iraqis were considerate of their
+guest's qualms. To Bull's great joy, they took his idea of a peaceful
+space cannon very seriously. "Think of the prestige," Bull suggested to
+the Iraqi Minister of Industry, and the thought clearly intrigued the
+Iraqi official.
+
+The Israelis, in September 1988, had successfully launched their
+own Shavit rocket into orbit, an event that had much impressed, and
+depressed, the Arab League. Bull promised the Iraqis a launch system
+that could place dozens, perhaps hundreds, of Arab satellites into
+orbit. *Small* satellites, granted, and unmanned ones; but their
+launches would cost as little as five thousand dollars each. Iraq
+would become a genuine space power; a minor one by superpower
+standards, but the only Arab space power.
+
+And even small satellites were not just for show. Even a minor
+space satellite could successfully perform certain surveillance
+activities. The American military had proved the usefulness of spy
+satellites to Saddam Hussein by passing him spysat intelligence during
+worst heat of the Iran-Iraq war.
+
+The Iraqis felt they would gain a great deal of widely
+applicable, widely useful scientific knowledge from their association
+with Bull, whether his work was "peaceful" or not. After all, it was
+through peaceful research on Project HARP that Bull himself had
+learned techniques that he had later sold for profit on the arms
+market. The design of a civilian nose-cone, aiming for the stars, is
+very little different from that of one descending with a supersonic
+screech upon sleeping civilians in London.
+
+For the first time in his life, Bull found himself the respected
+client of a generous patron with vast resources -- and with an
+imagination of a grandeur to match his own. By 1989, the Iraqis were
+paying Bull and his company five million dollars a year to redesign
+their field artillery, with much greater sums in the wings for "Project
+Babylon" -- the Iraqi space-cannon. Bull had the run of ominous
+weapons bunkers like the "Saad 16" missile-testing complex in north
+Iraq, built under contract by Germans, and stuffed with gray-market
+high-tech equipment from Tektronix, Scientific Atlanta and Hewlett-
+Packard.
+
+Project Babylon was Bull's grandest vision, now almost within
+his grasp. The Iraqi space-launcher was to have a barrel five hundred
+feet long, and would weigh 2,100 tons. It would be supported by a
+gigantic concrete tower with four recoil mechanisms, these shock-
+absorbers weighing sixty tons each. The vast, segmented cannon
+would fire rocket-assisted projectiles the size of a phone booth, into
+orbit around the Earth.
+
+In August 1989, a smaller prototype, the so-called "Baby
+Babylon," was constructed at a secret site in Jabal Hamrayn, in central
+Iraq. "Baby Babylon" could not have put payloads into orbit, but it
+would have had an international, perhaps intercontinental range.
+The prototype blew up on its first test-firing.
+
+The Iraqis continued undaunted on another prototype super-
+gun, but their smuggling attempts were clumsy. Bull himself had little
+luck in maintaining the proper discretion for a professional arms
+dealer, as his own jailing had proved. When flattered, Bull talked;
+and when he talked, he boasted.
+
+Word began to leak out within the so-called "intelligence
+community" that Bull was involved in something big; something to do
+with Iraq and with missiles. Word also reached the Israelis, who were
+very aware of Bull's scientific gifts, having dealt with him themselves,
+extensively.
+
+The Iraqi space cannon would have been nearly useless as a
+conventional weapon. Five hundred feet long and completely
+immobile, it would have been easy prey for any Israeli F-15. It would
+have been impossible to hide, for any launch would thrown a column
+of flame hundreds of feet into the air, a blazing signal for any spy
+satellite or surveillance aircraft. The Babylon space cannon, faced
+with determined enemies, could have been destroyed after a single
+launch.
+
+However, that single launch might well have served to dump a
+load of nerve gas, or a nuclear bomb, onto any capital in the world.
+
+Bull wanted Project Babylon to be entirely peaceful; despite his
+rationalizations, he was never entirely at ease with military projects.
+What Bull truly wanted from his Project Babylon was *prestige.* He
+wanted the entire world to know that he, Jerry Bull, had created a
+working space program, more or less all by himself. He had never
+forgotten what it meant to world opinion to hear the Sputnik beeping
+overhead.
+
+For Saddam Hussein, Project Babylon was more than any
+merely military weapon: it was a *political* weapon. The prestige
+Iraq might gain from the success of such a visionary leap was worth
+any number of mere cannon-fodder batallions. It was Hussein's
+ambition to lead the Arab world; Bull's cannon was to be a symbol of
+Iraqi national potency, a symbol that the long war with the Shi'ite
+mullahs had not destroyed Saddam's ambitions for transcendant
+greatness.
+
+The Israelis, however, had already proven their willingness to
+thwart Saddam Hussein's ambitions by whatever means necessary.
+In 1981, they had bombed his Osirak nuclear reactor into rubble. In
+1980, a Mossad hit-team had cut the throat of Iraqi nuclear scientist
+Yayha El Meshad, in a Paris hotel room.
+
+On March 22, 1990, Dr. Bull was surprised at the door of his
+Brussels apartment. He was shot five times, in the neck and in the
+back of the head, with a silenced 7.65 millimeter automatic pistol.
+
+His assassin has never been found.
+
+
+
+FOR FURTHER READING:
+
+
+
+ARMS AND THE MAN: Dr. Gerald Bull, Iraq, and the Supergun by
+William Lowther (McClelland- Bantam, Inc., Toronto, 1991)
+
+BULL'S EYE: The Assassination and Life of Supergun Inventor
+Gerald Bull by James Adams (Times Books, New York, 1992)
+Bruce Sterling
+
+bruces@well.sf.ca.us
+
+
+
+Literary Freeware: Not For Commercial Use
+
+
+
+From THE MAGAZINE OF FANTASY AND SCIENCE FICTION, Dec 1992.
+
+F&SF, Box 56 Cornwall CT 06753 $26/yr; outside US $31/yr
+
+F&SF Science column #4
+
+
+
+ARTIFICIAL LIFE
+
+
+
+The new scientific field of study called "Artificial Life" can be
+defined as "the attempt to abstract the logical form of life from its
+material manifestation."
+
+So far, so good. But what is life?
+
+The basic thesis of "Artificial Life" is that "life" is best
+understood as a complex systematic process. "Life" consists of
+relationships and rules and interactions. "Life" as a property is
+potentially separate from actual living creatures.
+
+Living creatures (as we know them today, that is) are basically
+made of wet organic substances: blood and bone, sap and cellulose,
+chitin and ichor. A living creature -- a kitten, for instance -- is a
+physical object that is made of molecules and occupies space and has
+mass.
+
+A kitten is indisputably "alive" -- but not because it has the
+"breath of life" or the "vital impulse" somehow lodged inside its body.
+We may think and talk and act as if the kitten "lives" because it has a
+mysterious "cat spirit" animating its physical cat flesh. If we were
+superstitious, we might even imagine that a healthy young cat had
+*nine* lives. People have talked and acted just this way for millennia.
+
+But from the point-of-view of Artificial Life studies, this is a
+very halting and primitive way of conceptualizing what's actually
+going on with a living cat. A kitten's "life" is a *process, * with
+properties like reproduction, genetic variation, heredity, behavior,
+learning, the possession of a genetic program, the expression of that
+program through a physical body. "Life" is a thing that *does,* not a
+thing that *is* -- life extracts energy from the environment, grows,
+repairs damage, reproduces.
+
+And this network of processes called "Life" can be picked apart,
+and studied, and mathematically modelled, and simulated with
+computers, and experimented upon -- outside of any creature's living
+body.
+
+"Artificial Life" is a very young field of study. The use of this
+term dates back only to 1987, when it was used to describe a
+conference in Los Alamos New Mexico on "the synthesis and
+simulation of living systems." Artificial Life as a discipline is
+saturated by computer-modelling, computer-science, and cybernetics.
+It's conceptually similar to the earlier field of study called "Artificial
+Intelligence." Artificial Intelligence hoped to extract the basic logical
+structure of intelligence, to make computers "think." Artificial Life, by
+contrast, hopes to make computers only about as "smart" as an ant --
+but as "alive" as a swarming anthill.
+
+Artificial Life as a discipline uses the computer as its primary
+scientific instrument. Like telescopes and microscopes before them,
+computers are making previously invisible aspects of the world
+apparent to the human eye. Computers today are shedding light on
+the activity of complex systems, on new physical principles such as
+"emergent behavior," "chaos," and "self-organization." 	
+
+For millennia, "Life" has been one of the greatest of
+metaphysical and scientific mysteries, but now a few novel and
+tentative computerized probes have been stuck into the fog. The
+results have already proved highly intriguing.
+
+Can a computer or a robot be alive? Can an entity which only
+exists as a digital simulation be "alive"? If it looks like a duck, quacks
+like a duck, waddles like a duck, but it in fact takes the form of pixels
+on a supercomputer screen -- is it a duck? And if it's not a duck, then
+what on earth is it? What exactly does a thing have to do and be
+before we say it's "alive"?
+
+It's surprisingly difficult to decide when something is "alive."
+There's never been a definition of "life," whether scientific,
+metaphysical, or theological, that has ever really worked. Life is not
+a clean either/or proposition. Life comes on a kind of scale,
+apparently, a kind of continuum -- maybe even, potentially, *several
+different kinds of continuum.*
+
+One might take a pragmatic, laundry-list approach to defining
+life. To be "living," a thing must grow. Move. Reproduce. React to
+its environment. Take in energy, excrete waste. Nourish itself, die,
+and decay. Have a genetic code, perhaps, or be the result of a process
+of evolution. But there are grave problems with all of these concepts.
+All these things can be done today by machines or programs. And the
+concepts themselves are weak and subject to contradiction and
+paradox.
+
+Are viruses "alive"? Viruses can thrive and reproduce, but not
+by themselves -- they have to use a victim cell in order to manufacture
+copies of themselves. Some dormant viruses can crystallize into a
+kind of organic slag that's dead for all practical purposes, and can stay
+that way indefinitely -- until the virus gets another chance at
+infection, and then the virus comes seething back.
+
+How about a frozen human embryo? It can be just as dormant
+as a dormant virus, and certainly can't survive without a host, but it
+can become a living human being. Some people who were once
+frozen embryos may be reading this magazine right now! Is a frozen
+embryo "alive" -- or is it just the *potential* for life, a genetic life-
+program halted in mid-execution?
+
+Bacteria are simple, as living things go. Most people however
+would agree that germs are "alive." But there are many other entities
+in our world today that act in lifelike fashion and are easily as
+complex as germs, and yet we don't call them "alive" -- except
+"metaphorically" (whatever *that* means).
+
+How about a national government, for instance? A
+government can grow and adapt and evolve. It's certainly a very
+powerful entity that consumes resources and affects its environment
+and uses enormous amounts of information. When people say "Long
+Live France," what do they mean by that? Is the Soviet Union now
+"dead"?
+
+Amoebas aren't "mortal" and don't age -- they just go right on
+splitting in half indefinitely. Does that mean that all amoebas are
+actually pieces of one super-amoeba that's three billion years old?
+
+And where's the "life" in an ant-swarm? Most ants in a swarm
+never reproduce; they're sterile workers -- tools, peripherals,
+hardware. All the individual ants in a nest, even the queen, can die
+off one by one, but as long as new ants and new queens take their
+place, the swarm itself can go on "living" for years without a hitch or a
+stutter.
+
+Questioning "life" in this way may seem so much nit-picking
+and verbal sophistry. After all, one may think, people can easily tell
+the difference between something living and dead just by having a
+good long look at it. And in point of fact, this seems to be the single
+strongest suit of "Artificial Life." It is very hard to look at a good
+Artificial Life program in action without perceiving it as, somehow,
+"alive."
+
+Only living creatures perform the behavior known as
+"flocking." A gigantic wheeling flock of cranes or flamingos is one of
+the most impressive sights that the living world has to offer.
+
+But the "logical form" of flocking can be abstracted from its
+"material manifestation" in a flocking group of actual living birds.
+"Flocking" can be turned into rules implemented on a computer. The
+rules look like this:
+
+1. Stay with the flock -- try to move toward where it seems
+thickest.
+
+2. Try to move at the same speed as the other local birds.
+
+3. Don't bump into things, especially the ground or other birds.
+
+In 1987, Craig Reynolds, who works for a computer-graphics
+company called Symbolics, implemented these rules for abstract
+graphic entities called "bird-oids" or "boids." After a bit of fine-
+tuning, the result was, and is, uncannily realistic. The darn things
+*flock!*
+
+They meander around in an unmistakeably lifelike, lively,
+organic fashion. There's nothing "mechanical" or "programmed-
+looking" about their actions. They bumble and swarm. The boids in
+the middle shimmy along contentedly, and the ones on the fringes tag
+along anxiously jockeying for position, and the whole squadron hangs
+together, and wheels and swoops and maneuvers, with amazing
+grace. (Actually they're neither "anxious" nor "contented," but when
+you see the boids behaving in this lifelike fashion, you can scarcely help
+but project lifelike motives and intentions onto them.)
+
+You might say that the boids simulate flocking perfectly -- but
+according to the hard-dogma position of A-Life enthusiasts, it's not
+"simulation" at all. This is real "flocking" pure and simple -- this is
+exactly what birds actually do. Flocking is flocking -- it doesn't
+matter if it's done by a whooping crane or a little computer-sprite.
+
+Clearly the birdoids themselves aren't "alive" -- but it can be
+argued, and is argued, that they're actually doing something that is a
+genuine piece of the life process. In the words of scientist Christopher
+Langton, perhaps the premier guru of A-Life: "The most important
+thing to remember about A-Life is that the part that is artificial is not
+the life, but the materials. Real things happen. We observe real
+phenomena. It is real life in an artificial medium."
+
+The great thing about studying flocking with boids, as opposed
+to say whooping cranes, is that the Artificial Life version can be
+experimented upon, in controlled and repeatable conditions. Instead
+of just *observing* flocking, a life-scientist can now *do* flocking.
+And not just flocks -- with a change in the parameters, you can study
+"schooling" and "herding" as well.
+
+The great hope of Artificial Life studies is that Artificial Life will
+reveal previously unknown principles that directly govern life itself --
+the principles that give life its mysterious complexity and power, its
+seeming ability to defy probability and entropy. Some of these
+principles, while still tentative, are hotly discussed in the field.
+
+For instance: the principle of *bottom-up* initiative rather
+than *top-down* orders. Flocking demonstrates this principle well.
+Flamingos do not have blueprints. There is no squadron-leader
+flamingo barking orders to all the other flamingos. Each flamingo
+makes up its own mind. The extremely complex motion of a flock of
+flamingos arises naturally from the interactions of hundreds of
+independent birds. "Flocking" consists of many thousands of simple
+actions and simple decisions, all repeated again and again, each
+action and decision affecting the next in sequence, in an endless
+systematic feedback.
+
+This involves a second A-Life principle: *local* control rather
+than *global* control. Each flamingo has only a vague notion of the
+behavior of the flock as a whole. A flamingo simply isn't smart
+enough to keep track of the entire "big picture," and in fact this isn't
+even necessary. It's only necessary to avoid bumping the guys right
+at your wingtips; you can safely ignore the rest.
+
+Another principle: *simple* rules rather than *complex* ones.
+The complexity of flocking, while real, takes place entirely outside of
+the flamingo's brain. The individual flamingo has no mental
+conception of the vast impressive aerial ballet in which it happens to
+be taking part. The flamingo makes only simple decisions; it is never
+required to make complex decisions requiring a lot of memory or
+planning. *Simple* rules allow creatures as downright stupid as fish
+to get on with the job at hand -- not only successfully, but swiftly and
+gracefully.
+
+And then there is the most important A-Life principle, also
+perhaps the foggiest and most scientifically controversial:
+*emergent* rather than *prespecified* behavior. Flamingos fly
+from their roosts to their feeding grounds, day after day, year in year
+out. But they will never fly there exactly the same way twice. They'll
+get there all right, predictable as gravity; but the actual shape and
+structure of the flock will be whipped up from scratch every time.
+Their flying order is not memorized, they don't have numbered places
+in line, or appointed posts, or maneuver orders. Their orderly
+behavior simply *emerges,* different each time, in a ceaselessly
+varying shuffle.
+
+Ants don't have blueprints either. Ants have become the totem
+animals of Artificial Life. Ants are so 'smart' that they have vastly
+complex societies with actual *institutions* like slavery and and
+agriculture and aphid husbandry. But an individual ant is a
+profoundly stupid creature. Entomologists estimate that individual
+ants have only fifteen to forty things that they can actually "do." But
+if they do these things at the right time, to the right stimulus, and
+change from doing one thing to another when the proper trigger
+comes along, then ants as a group can work wonders.
+
+There are anthills all over the world. They all work, but they're
+all different; no two anthills are identical. That's because they're built
+bottom-up and emergently. Anthills are built without any spark of
+planning or intelligence. An ant may feel the vague instinctive need to
+wall out the sunlight. It begins picking up bits of dirt and laying them
+down at random. Other ants see the first ant at work and join in; this
+is the A-Life principle known as "allelomimesis," imitating the others
+(or rather not so much "imitating" them as falling mechanically into
+the same instinctive pattern of behavior).
+
+Sooner or later, a few bits of dirt happen to pile up together.
+Now there's a wall. The ant wall-building sub-program kicks into
+action. When the wall gets high enough, it's roofed over with dirt and
+spit. Now there's a tunnel. Do it again and again and again, and the
+structure can grow seven feet high, and be of such fantastic
+complexity that to draw it on an architect's table would take years.
+This emergent structure, "order out of chaos," "something out of
+nothing" -- appears to be one of the basic "secrets of life."
+
+These principles crop up again and again in the practice of life-
+simulation. Predator-prey interactions. The effects of parasites and
+viruses. Dynamics of population and evolution. These principles even
+seem to apply to internal living processes, like plant growth and the
+way a bug learns to walk. The list of applications for these principles
+has gone on and on.
+
+It's not hard to understand that many simple creatures, doing
+simple actions that affect one another, can easily create a really big
+mess. The thing that's *hard* to understand is that those same,
+bottom-up, unplanned, "chaotic" actions can and do create living,
+working, functional order and system and pattern. The process really
+must be seen to be believed. And computers are the instruments that
+have made us see it.
+
+Most any computer will do. Oxford zoologist Richard
+Dawkins has created a simple, popular Artificial Life program for
+personal computers. It's called "The Blind Watchmaker," and
+demonstrates the inherent power of Darwinian evolution to create
+elaborate pattern and structure. The program accompanies Dr.
+Dawkins' 1986 book of the same title (quite an interesting book, by the
+way), but it's also available independently.
+
+The Blind Watchmaker program creates patterns from little
+black-and-white branching sticks, which develop according to very
+simple rules. The first time you see them, the little branching sticks
+seem anything but impressive. They look like this:
+
+Fig 1. Ancestral A-Life Stick-Creature
+
+After a pleasant hour with Blind Watchmaker, I myself produced
+these very complex forms -- what Dawkins calls "Biomorphs."
+
+Fig. 2 -- Six Dawkins Biomorphs		
+
+It's very difficult to look at such biomorphs without interpreting
+them as critters -- *something* alive-ish, anyway. It seems that the
+human eye is *trained by nature* to interpret the output of such a
+process as "life-like." That doesn't mean it *is* life, but there's
+definitely something *going on there.*
+
+*What* is going on is the subject of much dispute. Is a
+computer-simulation actually an abstracted part of life? Or is it
+technological mimicry, or mechanical metaphor, or clever illusion?
+
+We can model thermodynamic equations very well also, but an
+equation isn't hot, it can't warm us or burn us. A perfect model of
+heat isn't heat. We know how to model the flow of air on an
+airplane's wings, but no matter how perfect our simulations are, they
+don't actually make us fly. A model of motion isn't motion. Maybe
+"Life" doesn't exist either, without that real-world carbon-and-water
+incarnation. A-Life people have a term for these carbon-and-water
+chauvinists. They call them "carbaquists."
+
+Artificial Life maven Rodney Brooks designs insect-like robots
+at MIT. Using A-Life bottom-up principles -- "fast, cheap, and out of
+control" -- he is trying to make small multi-legged robots that can
+behave as deftly as an ant. He and his busy crew of graduate students
+are having quite a bit of success at it. And Brooks finds the struggle
+over definitions beside the real point. He envisions a world in which
+robots as dumb as insects are everywhere; dumb, yes, but agile and
+successful and pragmatically useful. Brooks says: "If you want to
+argue if it's living or not, fine. But if it's sitting there existing twenty-
+four hours a day, three hundred sixty-five days of the year, doing
+stuff which is tricky to do and doing it well, then I'm going to be
+happy. And who cares what you call it, right?"
+
+Ontological and epistemological arguments are never easily
+settled. However, "Artificial Life," whether it fully deserves that term
+or not, is at least easy to see, and rather easy to get your hands on.
+"Blind Watchmaker" is the A-Life equivalent of using one's computer
+as a home microscope and examining pondwater. Best of all, the
+program costs only twelve bucks! It's cheap and easy to become an
+amateur A-Life naturalist.
+
+Because of the ubiquity of powerful computers, A-Life is
+"garage-band science." The technology's out there for almost anyone
+interested -- it's hacker-science. Much of A-Life practice basically
+consists of picking up computers, pointing them at something
+promising, and twiddling with the focus knobs until you see something
+really gnarly. *Figuring out what you've seen* is the tough part, the
+"real science"; this is where actual science, reproducible, falsifiable,
+formal, and rigorous, parts company from the intoxicating glamor of
+the intellectually sexy. But in the meantime, you have the contagious
+joy and wonder of just *gazing at the unknown* the primal thrill of
+discovery and exploration.
+
+A lot has been written already on the subject of Artificial Life.
+The best and most complete journalistic summary to date is Steven
+Levy's brand-new book, ARTIFICIAL LIFE: THE QUEST FOR A NEW
+CREATION (Pantheon Books 1992). 	
+
+The easiest way for an interested outsider to keep up with this
+fast-breaking field is to order books, videos, and software from an
+invaluable catalog: "Computers In Science and Art," from Media
+Magic. Here you can find the Proceedings of the first and second
+Artificial Life Conferences, where the field's most influential papers,
+discussions, speculations and manifestos have seen print.
+
+But learned papers are only part of the A-Life experience. If
+you can see Artificial Life actually demonstrated, you should seize the
+opportunity. Computer simulation of such power and sophistication
+is a truly remarkable historical advent. No previous generation had
+the opportunity to see such a thing, much less ponder its significance.
+Media Magic offers videos about cellular automata, virtual ants,
+flocking, and other A-Life constructs, as well as personal software
+"pocket worlds" like CA Lab, Sim Ant, and Sim Earth. This very
+striking catalog is available free from Media Magic, P.O Box 507,
+Nicasio CA 94946.
+Bruce Sterling
+
+bruces@well.sf.ca.us
+
+
+
+Literary Freeware -- Not for Commercial Use
+
+From THE MAGAZINE OF FANTASY AND SCIENCE FICTION, Feb 1993.
+
+F&SF, Box 56, Cornwall CT 06753 $26/yr USA $31/yr other
+
+F&SF Science Column #5
+
+
+
+INTERNET
+
+
+
+Some thirty years ago, the RAND Corporation, America's
+foremost Cold War think-tank, faced a strange strategic problem. How
+could the US authorities successfully communicate after a nuclear
+war?
+
+Postnuclear America would need a command-and-control
+network, linked from city to city, state to state, base to base. But no
+matter how thoroughly that network was armored or protected, its
+switches and wiring would always be vulnerable to the impact of
+atomic bombs. A nuclear attack would reduce any
+conceivable network to tatters.
+
+And how would the network itself be commanded and
+controlled? Any central authority, any network central citadel, would
+be an obvious and immediate target for an enemy missile. The
+center of the network would be the very first place to go.
+
+RAND mulled over this grim puzzle in deep military secrecy,
+and arrived at a daring solution. The RAND proposal (the brainchild
+of RAND staffer Paul Baran) was made public in 1964. In the first
+place, the network would *have no central authority.* Furthermore,
+it would be *designed from the beginning to operate while
+in tatters.*
+
+The principles were simple. The network itself would be
+assumed to be unreliable at all times. It would be designed from the
+get-go to transcend its own unreliability. All the nodes in the network
+would be equal in status to all other nodes, each node with its own
+authority to originate, pass, and receive messages. The
+messages themselves would be divided into packets, each packet
+separately addressed. Each packet would begin at some specified
+source node, and end at some other specified destination node. Each
+packet would wind its way through the network on an individual
+basis.
+
+The particular route that the packet took would be unimportant.
+Only final results would count. Basically, the packet would be tossed
+like a hot potato from node to node to node, more or less in the
+direction of its destination, until it ended up in the proper place. If
+big pieces of the network had been blown away, that simply
+wouldn't matter; the packets would still stay airborne, lateralled
+wildly across the field by whatever nodes happened to survive. This
+rather haphazard delivery system might be "inefficient" in the usual
+sense (especially compared to, say, the telephone system) -- but it
+would be extremely rugged.
+
+During the 60s, this intriguing concept of a decentralized,
+blastproof, packet-switching network was kicked around by RAND,
+MIT and UCLA. The National Physical Laboratory in Great Britain set
+up the first test network on these principles in 1968. Shortly
+afterward, the Pentagon's Advanced Research Projects Agency decided
+to fund a larger, more ambitious project in the USA. The nodes of the
+network were to be high-speed supercomputers (or what passed for
+supercomputers at the time). These were rare and valuable machines
+which were in real need of good solid networking, for the sake of
+national research-and-development projects.
+
+In fall 1969, the first such node was installed in UCLA. By
+December 1969, there were four nodes on the infant network, which
+was named ARPANET, after its Pentagon sponsor.
+
+The four computers could transfer data on dedicated high-
+speed transmission lines. They could even be programmed remotely
+from the other nodes. Thanks to ARPANET, scientists and researchers
+could share one another's computer facilities by long-distance. This
+was a very handy service, for computer-time was precious in the
+early '70s. In 1971 there were fifteen nodes in ARPANET; by 1972,
+thirty-seven nodes. And it was good.
+
+By the second year of operation, however, an odd fact became
+clear. ARPANET's users had warped the computer-sharing network
+into a dedicated, high-speed, federally subsidized electronic post-
+office. The main traffic on ARPANET was not long-distance computing.
+Instead, it was news and personal messages. Researchers were using
+ARPANET to collaborate on projects, to trade notes on work,
+and eventually, to downright gossip and schmooze. People had their
+own personal user accounts on the ARPANET computers, and their
+own personal addresses for electronic mail. Not only were they using
+ARPANET for person-to-person communication, but they were very
+enthusiastic about this particular service -- far more enthusiastic than
+they were about long-distance computation.
+
+It wasn't long before the invention of the mailing-list, an
+ARPANET broadcasting technique in which an identical message could
+be sent automatically to large numbers of network subscribers.
+Interestingly, one of the first really big mailing-lists was "SF-
+LOVERS," for science fiction fans. Discussing science fiction on
+the network was not work-related and was frowned upon by many
+ARPANET computer administrators, but this didn't stop it from
+happening.
+
+Throughout the '70s, ARPA's network grew. Its decentralized
+structure made expansion easy. Unlike standard corporate computer
+networks, the ARPA network could accommodate many different
+kinds of machine. As long as individual machines could speak the
+packet-switching lingua franca of the new, anarchic network, their
+brand-names, and their content, and even their ownership, were
+irrelevant.
+
+The ARPA's original standard for communication was known as
+NCP, "Network Control Protocol," but as time passed and the technique
+advanced, NCP was superceded by a higher-level, more sophisticated
+standard known as TCP/IP. TCP, or "Transmission Control Protocol,"
+converts messages into streams of packets at the source, then
+reassembles them back into messages at the destination. IP, or
+"Internet Protocol," handles the addressing, seeing to it that packets
+are routed across multiple nodes and even across multiple networks
+with multiple standards -- not only ARPA's pioneering NCP standard,
+but others like Ethernet, FDDI, and X.25.
+
+As early as 1977, TCP/IP was being used by other networks to
+link to ARPANET. ARPANET itself remained fairly tightly controlled,
+at least until 1983, when its military segment broke off and became
+MILNET. But TCP/IP linked them all. And ARPANET itself, though it
+was growing, became a smaller and smaller neighborhood amid the
+vastly growing galaxy of other linked machines.
+
+As the '70s and '80s advanced, many very different social
+groups found themselves in possession of powerful computers. It was
+fairly easy to link these computers to the growing network-of-
+networks. As the use of TCP/IP became more common, entire other
+networks fell into the digital embrace of the Internet, and
+messily adhered. Since the software called TCP/IP was public-domain,
+and the basic technology was decentralized and rather anarchic by its
+very nature, it was difficult to stop people from barging in and
+linking up somewhere-or-other. In point of fact, nobody *wanted* to
+stop them from joining this branching complex of networks, which
+came to be known as the "Internet."
+
+Connecting to the Internet cost the taxpayer little or nothing,
+since each node was independent, and had to handle its own financing
+and its own technical requirements. The more, the merrier. Like the
+phone network, the computer network became steadily more valuable
+as it embraced larger and larger territories of people and resources.
+
+A fax machine is only valuable if *everybody else* has a fax
+machine. Until they do, a fax machine is just a curiosity. ARPANET,
+too, was a curiosity for a while. Then computer-networking became
+an utter necessity.
+
+In 1984 the National Science Foundation got into the act,
+through its Office of Advanced Scientific Computing. The new NSFNET
+set a blistering pace for technical advancement, linking newer, faster,
+shinier supercomputers, through thicker, faster links, upgraded and
+expanded, again and again, in 1986, 1988, 1990. And other
+government agencies leapt in: NASA, the National Institutes of Health,
+the Department of Energy, each of them maintaining a digital satrapy
+in the Internet confederation.
+
+The nodes in this growing network-of-networks were divvied
+up into basic varieties. Foreign computers, and a few American ones,
+chose to be denoted by their geographical locations. The others were
+grouped by the six basic Internet "domains": gov, mil, edu, com, org
+and net. (Graceless abbreviations such as this are a standard
+feature of the TCP/IP protocols.) Gov, Mil, and Edu denoted
+governmental, military and educational institutions, which were, of
+course, the pioneers, since ARPANET had begun as a high-tech
+research exercise in national security. Com, however, stood
+for "commercial" institutions, which were soon bursting into the
+network like rodeo bulls, surrounded by a dust-cloud of eager
+nonprofit "orgs." (The "net" computers served as gateways between
+networks.) 	
+
+ARPANET itself formally expired in 1989, a happy victim of its
+own overwhelming success. Its users scarcely noticed, for ARPANET's
+functions not only continued but steadily improved. The use of
+TCP/IP standards for computer networking is now global. In 1971, a
+mere twenty-one years ago, there were only four nodes in the
+ARPANET network. Today there are tens of thousands of nodes in
+the Internet, scattered over forty-two countries, with more coming
+on-line every day. Three million, possibly four million people use
+this gigantic mother-of-all-computer-networks.
+
+The Internet is especially popular among scientists, and is
+probably the most important scientific instrument of the late
+twentieth century. The powerful, sophisticated access that it
+provides to specialized data and personal communication
+has sped up the pace of scientific research enormously.
+
+The Internet's pace of growth in the early 1990s is spectacular,
+almost ferocious. It is spreading faster than cellular phones, faster
+than fax machines. Last year the Internet was growing at a rate of
+twenty percent a *month.* The number of "host" machines with direct
+connection to TCP/IP has been doubling every year since
+1988. The Internet is moving out of its original base in military and
+research institutions, into elementary and high schools, as well as into
+public libraries and the commercial sector.
+
+Why do people want to be "on the Internet?" One of the main
+reasons is simple freedom. The Internet is a rare example of a true,
+modern, functional anarchy. There is no "Internet Inc." There are
+no official censors, no bosses, no board of directors, no stockholders.
+In principle, any node can speak as a peer to any other node, as long
+as it obeys the rules of the TCP/IP protocols, which are strictly
+technical, not social or political. (There has been some struggle over
+commercial use of the Internet, but that situation is changing as
+businesses supply their own links).
+
+The Internet is also a bargain. The Internet as a whole, unlike
+the phone system, doesn't charge for long-distance service. And
+unlike most commercial computer networks, it doesn't charge for
+access time, either. In fact the "Internet" itself, which doesn't even
+officially exist as an entity, never "charges" for anything. Each group
+of people accessing the Internet is responsible for their own machine
+and their own section of line.
+
+The Internet's "anarchy" may seem strange or even unnatural,
+but it makes a certain deep and basic sense. It's rather like the
+"anarchy" of the English language. Nobody rents English, and nobody
+owns English. As an English-speaking person, it's up to you to learn
+how to speak English properly and make whatever use you please
+of it (though the government provides certain subsidies to help you
+learn to read and write a bit). Otherwise, everybody just sort of
+pitches in, and somehow the thing evolves on its own, and somehow
+turns out workable. And interesting. Fascinating, even. Though a lot
+of people earn their living from using and exploiting and teaching
+English, "English" as an institution is public property, a public good.
+Much the same goes for the Internet. Would English be improved if
+the "The English Language, Inc." had a board of directors and a chief
+executive officer, or a President and a Congress? There'd probably be
+a lot fewer new words in English, and a lot fewer new ideas.
+
+People on the Internet feel much the same way about their own
+institution. It's an institution that resists institutionalization. The
+Internet belongs to everyone and no one.
+
+Still, its various interest groups all have a claim. Business
+people want the Internet put on a sounder financial footing.
+Government people want the Internet more fully regulated.
+Academics want it dedicated exclusively to scholarly research.
+Military people want it spy-proof and secure. And so on and so on.
+
+All these sources of conflict remain in a stumbling balance
+today, and the Internet, so far, remains in a thrivingly anarchical
+condition. Once upon a time, the NSFnet's high-speed, high-capacity
+lines were known as the "Internet Backbone," and their owners could
+rather lord it over the rest of the Internet; but today there are
+"backbones" in Canada, Japan, and Europe, and even privately owned
+commercial Internet backbones specially created for carrying business
+traffic. Today, even privately owned desktop computers can become
+Internet nodes. You can carry one under your arm. Soon, perhaps, on
+your wrist.
+
+But what does one *do* with the Internet? Four things,
+basically: mail, discussion groups, long-distance computing, and file
+transfers.
+
+Internet mail is "e-mail," electronic mail, faster by several
+orders of magnitude than the US Mail, which is scornfully known by
+Internet regulars as "snailmail." Internet mail is somewhat like fax.
+It's electronic text. But you don't have to pay for it (at least not
+directly), and it's global in scope. E-mail can also send software and
+certain forms of compressed digital imagery. New forms of mail are in
+the works.
+
+The discussion groups, or "newsgroups," are a world of their
+own. This world of news, debate and argument is generally known as
+"USENET. " USENET is, in point of fact, quite different from the
+Internet. USENET is rather like an enormous billowing crowd of
+gossipy, news-hungry people, wandering in and through the
+Internet on their way to various private backyard barbecues.
+USENET is not so much a physical network as a set of social
+conventions. In any case, at the moment there are some 2,500
+separate newsgroups on USENET, and their discussions generate about
+7 million words of typed commentary every single day. Naturally
+there is a vast amount of talk about computers on USENET, but the
+variety of subjects discussed is enormous, and it's growing larger all
+the time. USENET also distributes various free electronic journals and
+publications.
+
+Both netnews and e-mail are very widely available, even
+outside the high-speed core of the Internet itself. News and e-mail
+are easily available over common phone-lines, from Internet fringe-
+realms like BITnet, UUCP and Fidonet. The last two Internet services,
+long-distance computing and file transfer, require what is known as
+"direct Internet access" -- using TCP/IP.
+
+Long-distance computing was an original inspiration for
+ARPANET and is still a very useful service, at least for some.
+Programmers can maintain accounts on distant, powerful computers,
+run programs there or write their own. Scientists can make use of
+powerful supercomputers a continent away. Libraries offer their
+electronic card catalogs for free search. Enormous CD-ROM catalogs
+are increasingly available through this service. And there are
+fantastic amounts of free software available.
+
+File transfers allow Internet users to access remote machines
+and retrieve programs or text. Many Internet computers -- some
+two thousand of them, so far -- allow any person to access them
+anonymously, and to simply copy their public files, free of charge.
+This is no small deal, since entire books can be transferred through
+direct Internet access in a matter of minutes. Today, in 1992, there
+are over a million such public files available to anyone who asks for
+them (and many more millions of files are available to people with
+accounts). Internet file-transfers are becoming a new form of
+publishing, in which the reader simply electronically copies the work
+on demand, in any quantity he or she wants, for free. New Internet
+programs, such as "archie," "gopher," and "WAIS," have been
+developed to catalog and explore these enormous archives of
+material.
+
+The headless, anarchic, million-limbed Internet is spreading like
+bread-mold. Any computer of sufficient power is a potential spore
+for the Internet, and today such computers sell for less than $2,000
+and are in the hands of people all over the world. ARPA's network,
+designed to assure control of a ravaged society after a nuclear
+holocaust, has been superceded by its mutant child the Internet,
+which is thoroughly out of control, and spreading exponentially
+through the post-Cold War electronic global village. The spread of
+the Internet in the 90s resembles the spread of personal
+computing in the 1970s, though it is even faster and perhaps more
+important. More important, perhaps, because it may give those
+personal computers a means of cheap, easy storage and access that is
+truly planetary in scale.
+
+The future of the Internet bids fair to be bigger and
+exponentially faster. Commercialization of the Internet is a very hot
+topic today, with every manner of wild new commercial information-
+service promised. The federal government, pleased with an unsought
+success, is also still very much in the act. NREN, the National Research
+and Education Network, was approved by the US Congress in fall
+1991, as a five-year, $2 billion project to upgrade the Internet
+"backbone." NREN will be some fifty times faster than the fastest
+network available today, allowing the electronic transfer of the entire
+Encyclopedia Britannica in one hot second. Computer networks
+worldwide will feature 3-D animated graphics, radio and cellular
+phone-links to portable computers, as well as fax, voice, and high-
+definition television. A multimedia global circus!
+
+Or so it's hoped -- and planned. The real Internet of the
+future may bear very little resemblance to today's plans. Planning
+has never seemed to have much to do with the seething, fungal
+development of the Internet. After all, today's Internet bears
+little resemblance to those original grim plans for RAND's post-
+holocaust command grid. It's a fine and happy irony.
+
+How does one get access to the Internet? Well -- if you don't
+have a computer and a modem, get one. Your computer can act as a
+terminal, and you can use an ordinary telephone line to connect to an
+Internet-linked machine. These slower and simpler adjuncts to the
+Internet can provide you with the netnews discussion groups and
+your own e-mail address. These are services worth having -- though
+if you only have mail and news, you're not actually "on the Internet"
+proper.
+
+If you're on a campus, your university may have direct
+"dedicated access" to high-speed Internet TCP/IP lines. Apply for an
+Internet account on a dedicated campus machine, and you may be
+able to get those hot-dog long-distance computing and file-transfer
+functions. Some cities, such as Cleveland, supply "freenet"
+community access. Businesses increasingly have Internet access, and
+are willing to sell it to subscribers. The standard fee is about $40 a
+month -- about the same as TV cable service.
+
+As the Nineties proceed, finding a link to the Internet will
+become much cheaper and easier. Its ease of use will also improve,
+which is fine news, for the savage UNIX interface of TCP/IP leaves
+plenty of room for advancements in user-friendliness. Learning the
+Internet now, or at least learning about it, is wise. By the
+turn of the century, "network literacy," like "computer literacy"
+before it, will be forcing itself into the very texture of your life.
+
+
+
+For Further Reading:
+
+
+
+The Whole Internet Catalog & User's Guide by Ed Krol. (1992) O'Reilly
+and Associates, Inc. A clear, non-jargonized introduction to the
+intimidating business of network literacy. Many computer-
+documentation manuals attempt to be funny. Mr. Krol's book is
+*actually* funny.
+
+The Matrix: Computer Networks and Conferencing Systems Worldwide.
+by John Quarterman. Digital Press: Bedford, MA. (1990) Massive and
+highly technical compendium detailing the mind-boggling scope and
+complexity of our newly networked planet.
+
+The Internet Companion by Tracy LaQuey with Jeanne C. Ryer (1992)
+Addison Wesley. Evangelical etiquette guide to the Internet featuring
+anecdotal tales of life-changing Internet experiences. Foreword by
+Senator Al Gore.
+
+Zen and the Art of the Internet: A Beginner's Guide by Brendan P.
+Kehoe (1992) Prentice Hall. Brief but useful Internet guide with
+plenty of good advice on useful machines to paw over for data. Mr
+Kehoe's guide bears the singularly wonderful distinction of being
+available in electronic form free of charge. I'm doing the same
+with all my F&SF Science articles, including, of course, this one. My
+own Internet address is bruces@well.sf.ca.us.
+Bruce Sterling
+
+bruces@well.sf.ca.us
+
+
+
+Literary Freeware -- Not for Commercial Use
+
+
+
+From THE MAGAZINE OF FANTASY AND SCIENCE FICTION, April 1993.
+
+F&SF, Box 56, Cornwall CT 06753 $26/yr USA $31/yr other
+
+F&SF Science Column #6:
+
+
+
+"Magnetic Vision"
+
+
+
+Here on my desk I have something that can only be described as
+miraculous. It's a big cardboard envelope with nine thick sheets of
+black plastic inside, and on these sheets are pictures of my own brain.
+
+These images are "MRI scans" -- magnetic resonance imagery from
+a medical scanner.
+
+These are magnetic windows into the lightless realm inside my
+skull. The meat, bone, and various gristles within my head glow gently
+in crisp black-and-white detail. There's little of the foggy ghostliness
+one sees with, say, dental x-rays. Held up against a bright light, or
+placed on a diagnostic light table, the dark plastic sheets reveal veins,
+arteries, various odd fluid-stuffed ventricles, and the spongey wrinkles
+of my cerebellum. In various shots, I can see the pulp within my own
+teeth, the roots of my tongue, the boney caverns of my sinuses, and the
+nicely spherical jellies that are my two eyeballs. I can see that the
+human brain really does come in two lobes and in three sections, and
+that it has gray matter and white matter. The brain is a big whopping
+gland, basically, and it fills my skull just like the meat of a walnut.
+
+It's an odd experience to look long and hard at one's own brain.
+Though it's quite a privilege to witness this, it's also a form of
+narcissism without much historical parallel. Frankly, I don't think I
+ever really believed in my own brain until I saw these images. At least,
+I never truly comprehended my brain as a tangible physical organ, like
+a knuckle or a kneecap. And yet here is the evidence, laid out
+irrefutably before me, pixel by monochrome pixel, in a large variety of
+angles and in exquisite detail. And I'm told that my brain is quite
+healthy and perfectly normal -- anatomically at least. (For a science
+fiction writer this news is something of a letdown.)
+
+The discovery of X-rays in 1895, by Wilhelm Roentgen, led to the
+first technology that made human flesh transparent. Nowadays, X-rays
+can pierce the body through many different angles to produce a
+graphic three-dimensional image. This 3-D technique, "Computerized
+Axial Tomography" or the CAT-scan, won a Nobel Prize in 1979 for its
+originators, Godfrey Hounsfield and Allan Cormack.
+
+Sonography uses ultrasound to study human tissue through its
+reflection of high-frequency vibration: sonography is a sonic window.
+
+Magnetic resonance imaging, however, is a more sophisticated
+window yet. It is rivalled only by the lesser-known and still rather
+experimental PET-scan, or Positron Emission Tomography. PET-
+scanning requires an injection of radioactive isotopes into the body so
+that their decay can be tracked within human tissues. Magnetic
+resonance, though it is sometimes known as Nuclear Magnetic
+Resonance, does not involve radioactivity.
+
+The phenomenon of "nuclear magnetic resonance" was
+discovered in 1946 by Edward Purcell of Harvard, and Felix Block of
+Stanford. Purcell and Block were working separately, but published
+their findings within a month of one another. In 1952, Purcell and
+Block won a joint Nobel Prize for their discovery.
+
+If an atom has an odd number of protons and neutrons, it will
+have what is known as a "magnetic moment:" it will spin, and its axis
+will tilt in a certain direction. When that tilted nucleus is put into a
+magnetic field, the axis of the tilt will change, and the nucleus will also
+wobble at a certain speed. If radio waves are then beamed at the
+wobbling nucleus at just the proper wavelength, they will cause the
+wobbling to intensify -- this is the "magnetic resonance" phenomenon.
+The resonant frequency is known as the Larmor frequency, and the
+Larmor frequencies vary for different atoms.
+
+Hydrogen, for instance, has a Larmor frequency of 42.58
+megahertz. Hydrogen, which is a major constituent of water and of
+carbohydrates such as fat, is very common in the human body. If radio
+waves at this Larmor frequency are beamed into magnetized hydrogen
+atoms, the hydrogen nuclei will absorb the resonant energy until they
+reach a state of excitation. When the beam goes off, the hydrogen
+nuclei will relax again, each nucleus emitting a tiny burst of radio
+energy as it returns to its original state. The nuclei will also relax at
+slightly different rates, depending on the chemical circumstances
+around the hydrogen atom. Hydrogen behaves differently in different
+kinds of human tissue. Those relaxation bursts can be detected, and
+timed, and mapped.
+
+The enormously powerful magnetic field within an MRI machine
+can permeate the human body; but the resonant Larmor frequency is
+beamed through the body in thin, precise slices. The resulting images
+are neat cross-sections through the body. Unlike X-rays, magnetic
+resonance doesn't ionize and possibly damage human cells. Instead, it
+gently coaxes information from many different types of tissue, causing
+them to emit tell-tale signals about their chemical makeup. Blood, fat,
+bones, tendons, all emit their own characteristics, which a computer
+then reassembles as a graphic image on a computer screen, or prints
+out on emulsion-coated plastic sheets.
+
+An X-ray is a marvelous technology, and a CAT-scan more
+marvelous yet. But an X-ray does have limits. Bones cast shadows in X-
+radiation, making certain body areas opaque or difficult to read. And X-
+ray images are rather stark and anatomical; an X-ray image cannot
+even show if the patient is alive or dead. An MRI scan, on the other
+hand, will reveal a great deal about the composition and the health of
+living tissue. For instance, tumor cells handle their fluids differently
+than normal tissue, giving rise to a slightly different set of signals. The
+MRI machine itself was originally invented as a cancer detector.
+
+After the 1946 discovery of magnetic resonance, MRI techniques
+were used for thirty years to study small chemical samples. However, a
+cancer researcher, Dr. Raymond Damadian, was the first to build an MRI
+machine large enough and sophisticated enough to scan an entire
+human body, and then produce images from that scan. Many scientists,
+most of them even, believed and said that such a technology was decades
+away, or even technically impossible. Damadian had a tough,
+prolonged struggle to find funding for for his visionary technique, and
+he was often dismissed as a zealot, a crackpot, or worse. Damadian's
+struggle and eventual triumph is entertainingly detailed in his 1985
+biography, A MACHINE CALLED INDOMITABLE.
+	
+Damadian was not much helped by his bitter and public rivalry
+with his foremost competitor in the field, Paul Lauterbur. Lauterbur,
+an industrial chemist, was the first to produce an actual magnetic-
+resonance image, in 1973. But Damadian was the more technologically
+ambitious of the two. His machine, "Indomitable," (now in the
+Smithsonian Museum) produced the first scan of a human torso, in 1977.
+(As it happens, it was Damadian's own torso.) Once this proof-of-
+concept had been thrust before a doubting world, Damadian founded a
+production company, and became the father of the MRI scanner
+industry.
+
+By the end of the 1980s, medical MRI scanning had become a
+major enterprise, and Damadian had won the National Medal of
+Technology, along with many other honors. As MRI machines spread
+worldwide, the market for CAT-scanning began to slump in comparison.
+Today, MRI is a two-billion dollar industry, and Dr Damadian and his
+company, Fonar Corporation, have reaped the fruits of success. (Some
+of those fruits are less sweet than others: today Damadian and Fonar
+Corp. are suing Hitachi and General Electric in federal court, for
+alleged infringement of Damadian's patents.)
+
+MRIs are marvelous machines -- perhaps, according to critics, a
+little too marvelous. The magnetic fields emitted by MRIs are extremely
+strong, strong enough to tug wheelchairs across the hospital floor, to
+wipe the data off the magnetic strips in credit cards, and to whip a
+wrench or screwdriver out of one's grip and send it hurtling across the
+room. If the patient has any metal imbedded in his skin -- welders and
+machinists, in particular, often do have tiny painless particles of
+shrapnel in them -- then these bits of metal will be wrenched out of the
+patient's flesh, producing a sharp bee-sting sensation. And in the
+invisible grip of giant magnets, heart pacemakers can simply stop.
+
+MRI machines can weigh ten, twenty, even one hundred tons.
+And they're big -- the scanning cavity, in which the patient is inserted,
+is about the size and shape of a sewer pipe, but the huge plastic hull
+surrounding that cavity is taller than a man and longer than a plush
+limo. A machine of that enormous size and weight cannot be moved
+through hospital doors; instead, it has to be delivered by crane, and its
+shelter constructed around it. That shelter must not have any iron
+construction rods in it or beneath its floor, for obvious reasons. And yet
+that floor had better be very solid indeed.
+
+Superconductive MRIs present their own unique hazards. The
+superconductive coils are supercooled with liquid helium.
+Unfortunately there's an odd phenomenon known as "quenching," in
+which a superconductive magnet, for reasons rather poorly understood,
+will suddenly become merely-conductive. When a "quench" occurs, an
+enormous amount of electrical energy suddenly flashes into heat,
+which makes the liquid helium boil violently. The MRI's technicians
+might be smothered or frozen by boiling helium, so it has to be vented
+out the roof, requiring the installation of specialized vent-stacks.
+Helium leaks, too, so it must be resupplied frequently, at considerable
+expense.
+
+The MRI complex also requires expensive graphic-processing
+computers, CRT screens, and photographic hard-copy devices. Some
+scanners feature elaborate telecommunications equipment. Like the
+giant scanners themselves, all these associated machines require
+power-surge protectors, line conditioners, and backup power supplies.
+Fluorescent lights, which produce radio-frequency noise pollution, are
+forbidden around MRIs. MRIs are also very bothered by passing CB
+radios, paging systems, and ambulance transmissions. It is generally
+considered a good idea to sheathe the entire MRI cubicle (especially the
+doors, windows, electrical wiring, and plumbing) in expensive, well-
+grounded sheet-copper.
+
+Despite all these drawbacks, the United States today rejoices in
+possession of some two thousand MRI machines. (There are hundreds in
+other countries as well.) The cheaper models cost a solid million dollars
+each; the top-of-the-line models, two million. Five million MRI scans
+were performed in the United States last year, at prices ranging from
+six hundred dollars, to twice that price and more.
+
+In other words, in 1991 alone, Americans sank some five billion
+dollars in health care costs into the miraculous MRI technology.
+
+Today America's hospitals and diagnostic clinics are in an MRI
+arms race. Manufacturers constantly push new and improved machines
+into the market, and other hospitals feel a dire need to stay with the
+state-of-the-art. They have little choice in any case, for the balky,
+temperamental MRI scanners wear out in six years or less, even when
+treated with the best of care.
+
+Patients have little reason to refuse an MRI test, since insurance
+will generally cover the cost. MRIs are especially good for testing for
+neurological conditions, and since a lot of complaints, even quite minor
+ones, might conceivably be neurological, a great many MRI scans are
+performed. The tests aren't painful, and they're not considered risky.
+Having one's tissues briefly magnetized is considered far less risky than
+the fairly gross ionization damage caused by X-rays. The most common
+form of MRI discomfort is simple claustrophobia. MRIs are as narrow as
+the grave, and also very loud, with sharp mechanical clacking and
+buzzing.
+
+But the results are marvels to behold, and MRIs have clearly
+saved many lives. And the tests will eliminate some potential risks to
+the patient, and put the physician on surer ground with his diagnosis.
+So why not just go ahead and take the test?
+
+MRIs have gone ahead boldly. Unfortunately, miracles rarely
+come cheap. Today the United States spends thirteen percent of its Gross
+National Product on health care, and health insurance costs are
+drastically outstripping the rate of inflation.
+
+High-tech, high-cost resources such as MRIs generally go to to
+the well-to-do and the well-insured. This practice has sad
+repercussions. While some lives are saved by technological miracles --
+and this is a fine thing -- other lives are lost, that might have been
+rescued by fairly cheap and common public-health measures, such as
+better nutrition, better sanitation, or better prenatal care. As advanced
+nations go, the United States a rather low general life expectancy, and a
+quite bad infant-death rate; conspicuously worse, for instance, than
+Italy, Japan, Germany, France, and Canada.
+
+MRI may be a true example of a technology genuinely ahead of
+its time. It may be that the genius, grit, and determination of Raymond
+Damadian brought into the 1980s a machine that might have been better
+suited to the technical milieu of the 2010s. What MRI really requires for
+everyday workability is some cheap, simple, durable, powerful
+superconductors. Those are simply not available today, though they
+would seem to be just over the technological horizon. In the meantime,
+we have built thousands of magnetic windows into the body that will do
+more or less what CAT-scan x-rays can do already. And though they do
+it better, more safely, and more gently than x-rays can, they also do it
+at a vastly higher price.
+
+Damadian himself envisioned MRIs as a cheap mass-produced
+technology. "In ten to fifteen years," he is quoted as saying in 1985,
+"we'll be able to step into a booth -- they'll be in shopping malls or
+department stores -- put a quarter in it, and in a minute it'll say you
+need some Vitamin A, you have some bone disease over here, your blood
+pressure is a touch high, and keep a watch on that cholesterol." A
+thorough medical checkup for twenty-five cents in 1995! If one needed
+proof that Raymond Damadian was a true visionary, one could find it
+here.
+
+Damadian even envisioned a truly advanced MRI machine
+capable of not only detecting cancer, but of killing cancerous cells
+outright. These machines would excite not hydrogen atoms, but
+phosphorus atoms, common in cancer-damaged DNA. Damadian
+speculated that certain Larmor frequencies in phosphorus might be
+specific to cancerous tissue; if that were the case, then it might be
+possible to pump enough energy into those phosphorus nuclei so that
+they actually shivered loose from the cancer cell's DNA, destroying the
+cancer cell's ability to function, and eventually killing it.
+
+That's an amazing thought -- a science-fictional vision right out
+of the Gernsback Continuum. Step inside the booth -- drop a quarter --
+and have your incipient cancer not only diagnosed, but painlessly
+obliterated by invisible Magnetic Healing Rays.
+
+Who the heck could believe a visionary scenario like that?
+
+Some things are unbelievable until you see them with your own
+eyes. Until the vision is sitting right there in front of you. Where it
+can no longer be denied that they're possible.
+
+A vision like the inside of your own brain, for instance.
+Bruce Sterling
+
+bruces@well.sf.ca.us
+
+
+
+LITERARY FREEWARE: NOT FOR COMMERCIAL USE
+
+From THE MAGAZINE OF FANTASY AND SCIENCE FICTION, June 1993.
+
+F&SF, Box 56, Cornwall CT 06753 $26/yr USA $31/yr other
+
+F&SF Science Column #7:
+
+
+
+SUPERGLUE
+
+
+
+This is the Golden Age of Glue.
+
+For thousands of years, humanity got by with natural glues like
+pitch, resin, wax, and blood; products of hoof and hide and treesap
+and tar. But during the past century, and especially during the past
+thirty years, there has been a silent revolution in adhesion.
+
+This stealthy yet steady technological improvement has been
+difficult to fully comprehend, for glue is a humble stuff, and the
+better it works, the harder it is to notice. Nevertheless, much of the
+basic character of our everyday environment is now due to advanced
+adhesion chemistry.
+
+Many popular artifacts from the pre-glue epoch look clunky
+and almost Victorian today. These creations relied on bolts, nuts,
+rivets, pins, staples, nails, screws, stitches, straps, bevels, knobs, and
+bent flaps of tin. No more. The popular demand for consumer
+objects ever lighter, smaller, cheaper, faster and sleeker has led to
+great changes in the design of everyday things.
+
+Glue determines much of the difference between our
+grandparent's shoes, with their sturdy leather soles, elaborate
+stitching, and cobbler's nails, and the eerie-looking modern jogging-
+shoe with its laminated plastic soles, fabric uppers and sleek foam
+inlays. Glue also makes much of the difference between the big
+family radio cabinet of the 1940s and the sleek black hand-sized
+clamshell of a modern Sony Walkman.
+
+Glue holds this very magazine together. And if you happen to
+be reading this article off a computer (as you well may), then you
+are even more indebted to glue; modern microelectronic assembly
+would be impossible without it.
+
+Glue dominates the modern packaging industry. Glue also has
+a strong presence in automobiles, aerospace, electronics, dentistry,
+medicine, and household appliances of all kinds. Glue infiltrates
+grocery bags, envelopes, books, magazines, labels, paper cups, and
+cardboard boxes; there are five different kinds of glue in a common
+filtered cigarette. Glue lurks invisibly in the structure of our
+shelters, in ceramic tiling, carpets, counter tops, gutters, wall siding,
+ceiling panels and floor linoleum. It's in furniture, cooking utensils,
+and cosmetics. This galaxy of applications doesn't even count the
+vast modern spooling mileage of adhesive tapes: package tape,
+industrial tape, surgical tape, masking tape, electrical tape, duct tape,
+plumbing tape, and much, much more.
+
+Glue is a major industrial industry and has been growing at
+twice the rate of GNP for many years, as adhesives leak and stick
+into areas formerly dominated by other fasteners. Glues also create
+new markets all their own, such as Post-it Notes (first premiered in
+April 1980, and now omnipresent in over 350 varieties).
+
+The global glue industry is estimated to produce about twelve
+billion pounds of adhesives every year. Adhesion is a $13 billion
+market in which every major national economy has a stake. The
+adhesives industry has its own specialty magazines, such as
+Adhesives Age andSAMPE Journal; its own trade groups, like the
+Adhesives Manufacturers Association, The Adhesion Society, and the
+Adhesives and Sealant Council; and its own seminars, workshops and
+technical conferences. Adhesives corporations like 3M, National
+Starch, Eastman Kodak, Sumitomo, and Henkel are among the world's
+most potent technical industries.
+
+Given all this, it's amazing how little is definitively known
+about how glue actually works -- the actual science of adhesion.
+There are quite good industrial rules-of-thumb for creating glues;
+industrial technicians can now combine all kinds of arcane
+ingredients to design glues with well-defined specifications:
+qualities such as shear strength, green strength, tack, electrical
+conductivity, transparency, and impact resistance. But when it
+comes to actually describing why glue is sticky, it's a different
+matter, and a far from simple one.
+
+A good glue has low surface tension; it spreads rapidly and
+thoroughly, so that it will wet the entire surface of the substrate.
+Good wetting is a key to strong adhesive bonds; bad wetting leads
+to problems like "starved joints," and crannies full of trapped air,
+moisture, or other atmospheric contaminants, which can weaken the
+bond.
+
+But it is not enough just to wet a surface thoroughly; if that
+were the case, then water would be a glue. Liquid glue changes
+form; it cures, creating a solid interface between surfaces that
+becomes a permanent bond.
+
+The exact nature of that bond is pretty much anybody's guess.
+There are no less than four major physico-chemical theories about
+what makes things stick: mechanical theory, adsorption theory,
+electrostatic theory and diffusion theory. Perhaps molecular strands
+of glue become physically tangled and hooked around irregularities
+in the surface, seeping into microscopic pores and cracks. Or, glue
+molecules may be attracted by covalent bonds, or acid-base
+interactions, or exotic van der Waals forces and London dispersion
+forces, which have to do with arcane dipolar resonances between
+magnetically imbalanced molecules. Diffusion theorists favor the
+idea that glue actually blends into the top few hundred molecules of
+the contact surface.
+	
+Different glues and different substrates have very different
+chemical constituents. It's likely that all of these processes may have
+something to do with the nature of what we call "stickiness" -- that
+everybody's right, only in different ways and under different
+circumstances.
+
+In 1989 the National Science Foundation formally established
+the Center for Polymeric Adhesives and Composites. This Center's
+charter is to establish "a coherent philosophy and systematic
+methodology for the creation of new and advanced polymeric
+adhesives" -- in other words, to bring genuine detailed scientific
+understanding to a process hitherto dominated by industrial rules of
+thumb. The Center has been inventing new adhesion test methods
+involving vacuum ovens, interferometers, and infrared microscopes,
+and is establishing computer models of the adhesion process. The
+Center's corporate sponsors -- Amoco, Boeing, DuPont, Exxon,
+Hoechst Celanese, IBM, Monsanto, Philips, and Shell, to name a few of
+them -- are wishing them all the best.
+
+We can study the basics of glue through examining one typical
+candidate. Let's examine one well-known superstar of modern
+adhesion: that wondrous and well-nigh legendary substance known
+as "superglue." Superglue, which also travels under the aliases of
+SuperBonder, Permabond, Pronto, Black Max, Alpha Ace, Krazy Glue
+and (in Mexico) Kola Loka, is known to chemists as cyanoacrylate
+(C5H5NO2).
+
+Cyanoacrylate was first discovered in 1942 in a search for
+materials to make clear plastic gunsights for the second world war.
+The American researchers quickly rejected cyanoacrylate because
+the wretched stuff stuck to everything and made a horrible mess. In
+1951, cyanoacrylate was rediscovered by Eastman Kodak researchers
+Harry Coover and Fred Joyner, who ruined a perfectly useful
+refractometer with it -- and then recognized its true potential.
+Cyanoacrylate became known as Eastman compound #910. Eastman
+910 first captured the popular imagination in 1958, when Dr Coover
+appeared on the "I've Got a Secret" TV game show and lifted host
+Gary Moore off the floor with a single drop of the stuff.
+
+This stunt still makes very good television and cyanoacrylate
+now has a yearly commercial market of $325 million.
+
+Cyanoacrylate is an especially lovely and appealing glue,
+because it is (relatively) nontoxic, very fast-acting, extremely strong,
+needs no other mixer or catalyst, sticks with a gentle touch, and does
+not require any fancy industrial gizmos such as ovens, presses, vices,
+clamps, or autoclaves. Actually, cyanoacrylate does require a
+chemical trigger to cause it to set, but with amazing convenience, that
+trigger is the hydroxyl ions in common water. And under natural
+atmospheric conditions, a thin layer of water is naturally present on
+almost any surface one might want to glue.
+	
+Cyanoacrylate is a "thermosetting adhesive," which means that
+(unlike sealing wax, pitch, and other "hot melt" adhesives) it cannot
+be heated and softened repeatedly. As it cures and sets,
+cyanoacrylate becomes permanently crosslinked, forming a tough
+and permanent polymer plastic.
+
+In its natural state in its native Superglue tube from the
+convenience store, a molecule of cyanoacrylate looks something like
+this:
+
+        CN
+      /
+CH2=C
+      \
+       COOR
+
+The R is a variable (an "alkyl group") which slightly changes
+the character of the molecule; cyanoacrylate is commercially
+available in ethyl, methyl, isopropyl, allyl, butyl, isobutyl,
+methoxyethyl, and ethoxyethyl cyanoacrylate esters. These
+chemical variants have slightly different setting properties and
+degrees of gooiness.
+
+After setting or "ionic polymerization," however, Superglue
+looks something like this:
+
+         CN     CN      CN
+         |      |       |
+- CH2C -(CH2C)-(CH2C)- (etc. etc. etc)
+         |      |       |
+         COOR   COOR    COOR
+
+The single cyanoacrylate "monomer" joins up like a series of
+plastic popper-beads, becoming a long chain. Within the thickening
+liquid glue, these growing chains whip about through Brownian
+motion, a process technically known as "reptation," named after the
+crawling of snakes. As the reptating molecules thrash, then wriggle,
+then finally merely twitch, the once- thin and viscous liquid becomes
+a tough mass of fossilized, interpenetrating plastic molecular
+spaghetti.
+
+And it is strong. Even pure cyanoacrylate can lift a ton with a
+single square-inch bond, and one advanced elastomer-modified '80s
+mix, "Black Max" from Loctite Corporation, can go up to 3,100 pounds.
+This is enough strength to rip the surface right off most substrates.
+Unless it's made of chrome steel, the object you're gluing will likely
+give up the ghost well before a properly anchored layer of Superglue
+will.
+
+Superglue quickly found industrial uses in automotive trim,
+phonograph needle cartridges, video cassettes, transformer
+laminations, circuit boards, and sporting goods. But early superglues
+had definite drawbacks. The stuff dispersed so easily that it
+sometimes precipitated as vapor, forming a white film on surfaces
+where it wasn't needed; this is known as "blooming." Though
+extremely strong under tension, superglue was not very good at
+sudden lateral shocks or "shear forces," which could cause the glue-
+bond to snap. Moisture weakened it, especially on metal-to-metal
+bonds, and prolonged exposure to heat would cook all the strength
+out of it.
+
+The stuff also coagulated inside the tube with annoying speed,
+turning into a useless and frustrating plastic lump that no amount of
+squeezing of pinpoking could budge -- until the tube burst and and
+the thin slippery gush cemented one's fingers, hair, and desk in a
+mummified membrane that only acetone could cut.
+
+Today, however, through a quiet process of incremental
+improvement, superglue has become more potent and more useful
+than ever. Modern superglues are packaged with stabilizers and
+thickeners and catalysts and gels, improving heat capacity, reducing
+brittleness, improving resistance to damp and acids and alkalis.
+Today the wicked stuff is basically getting into everything.
+
+Including people. In Europe, superglue is routinely used in
+surgery, actually gluing human flesh and viscera to replace sutures
+and hemostats. And Superglue is quite an old hand at attaching fake
+fingernails -- a practice that has sometimes had grisly consequences
+when the tiny clear superglue bottle is mistaken for a bottle of
+eyedrops. (I haven't the heart to detail the consequences of this
+mishap, but if you're not squeamish you might try consulting The
+Journal of the American Medical Association, May 2, 1990 v263 n17
+p2301).
+
+Superglue is potent and almost magical stuff, the champion of
+popular glues and, in its own quiet way, something of an historical
+advent. There is something pleasantly marvelous, almost Arabian
+Nights-like, about a drop of liquid that can lift a ton; and yet one can
+buy the stuff anywhere today, and it's cheap. There are many urban
+legends about terrible things done with superglue; car-doors locked
+forever, parking meters welded into useless lumps, and various tales
+of sexual vengeance that are little better than elaborate dirty jokes.
+There are also persistent rumors of real-life superglue muggings, in
+which victims are attached spreadeagled to cars or plate-glass
+windows, while their glue-wielding assailants rifle their pockets at
+leisure and then stroll off, leaving the victim helplessly immobilized.
+
+While superglue crime is hard to document, there is no
+question about its real-life use for law enforcement. The detection
+of fingerprints has been revolutionized with special kits of fuming
+ethyl-gel cyanoacrylate. The fumes from a ripped-open foil packet of
+chemically smoking superglue will settle and cure on the skin oils
+left in human fingerprints, turning the smear into a visible solid
+object. Thanks to superglue, the lightest touch on a weapon can
+become a lump of plastic guilt, cementing the perpetrator to his
+crime in a permanent bond.
+
+And surely it would be simple justice if the world's first
+convicted superglue mugger were apprehended in just this way.

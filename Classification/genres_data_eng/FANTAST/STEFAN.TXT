@@ -1,0 +1,4156 @@
+
+
+
+
+
+Kids, it's time to start wrapping up loose plot ends, and this
+is one MASSIVE huge one that needs a wrap.  See if you can
+spot it early on.
+
+-=-
+
+A Future We'd Like to See 1.63 - Beta
+By Stefan "Twoflower" Gagne (Copyright 1994)
+
+     "Where the heck are you!?" I shouted, running around the
+void in vain.  I poked around for a way to find where the faint
+voice was coming from, not knowing exactly how I was doing what I
+was doing.  My probing hands sought out invisible things as I
+wormed my way around the tubes of this null-space.
+
+     "I can't find you!" I yelled, turning this way and that in
+an attempt to find the voice.
+
+     '...?...'
+
+     I strained an ear to the voice, but couldn't make out
+anything more than was already known.  It was familiar, but
+alien.
+
+     I snarled and continued to rip away at the blackness that
+surrounded me, knocking things aside that were in the way of my
+path towards the voice.  Nothing was going to get in my way.
+
+     "How about now?  Can you hear me better?" I asked, plowing
+through another level of the things.
+
+     '?'
+
+     I pushed through thing1 and thing2, trying to find a way, a
+path to wherever the heck I was going, and emerged into the
+light.
+
+     "No!  Not yet!" I complained, but it was too late.  I was
+awake.
+
+     A good thing, too.  I looked around the sector,
+triangulating my position based on the green dome of Yttia Online
+(basic startup rate 50 credits 20 credits a month ask about our
+limited UberNet messaging capability) and VirtuServer (5 credits
+a minute 10 for additional services).  I looked down, and noticed
+the green color of the sector I was standing in.
+
+     Terrific.
+
+     I had sleep-walked into Yttia Online's private domain.
+
+     "Hello!" a cheery Pitch Objicon chirped, BAMFing into
+existence in front of me.  "Welcome to Yttia Online.  It seems
+you're not a subscribing member.  If you would like a startup kit
+automatically billed to your credit chip, press the happy face
+button on my chest.  Otherwise, we'd like to you leave Yttia
+Online space within the next minute or be forcibly jacked out
+from VOSNet."
+
+     I looked at the horizon.  The green spaces ended too far
+away for me to run in a single minute.  Why did those humans have
+to claim so much of the network?  Yttia Online barely occupied 5%
+of the spaces it claimed were part of it, like the rest of the
+servers in VOSNet.  The rest was just empty space, free for the
+taking... if anybody dared to try and take it from a corporate
+power.
+
+     "I can't leave in a minute!" I protested.
+
+     "Too bad.  It seems you are artificially intelligent," the
+Pitch Objicon noted, scanning me.  "We are AI-Aware and are
+sensitive to your race.  We have special rates for AIs at 60
+credits for startup kits."
+
+     "Hey, that's ten more than humans get."
+
+     "It is a special rate," the Pitcher said.  Figures.  Humans
+didn't want me around.  Perhaps I could use this to my advantage.
+
+     "Of course, you can't jack ME out," I noted, looking smug. 
+"I don't 'jack', for some reason..  If you'll just move me to the
+freelanes, I'll leave in peace and never return."
+
+     "AIs who are trespassing are shut down," the Pitcher beamed,
+like singing campfire songs.  "AIs who are trespassing that have
+registered owners are returned to their owners.  Others are
+incorporated into Yttia Online's work force."
+
+     Damn.  Time to put my brain to some good use.
+
+     "Hey!  Look!  It's William Doors!" I said, pointing.  The
+Pitcher turned to scan him (probably an intruder) and I slipped
+into the Pitcher's brain.
+
+     Stupidly simple program.  It wasn't a living thing by any
+stretch of the imagination, just a slew of if-then statements. 
+Tweak tweak compile.  I didn't know how these things worked, but
+somewhere in the vast expanse of my memory, I had step by step
+instructions on how to modify one to your needs.  A do-it-
+yourself guide.
+
+     "What happens to trespassing AIs?" I asked, exiting the
+program.
+
+     "They are transported to the freelanes," the Pitcher said. 
+"Your one minute is up.  Thank you for using Yttia Online!"
+
+                              *
+
+     I walked happily over the white squares of the freelanes.  I
+was safe here, at least from most of the problems that could be
+haunting me.
+
+     The freelanes were a series of small sector clusters of
+VOSNet that none of the companies had bought.  Some rich
+net.lover purchased them, and donated them away to free
+information services.  You couldn't get much on the freelanes,
+but you could be assured that what you were getting was worth
+what you'd pay for it.
+
+     Hence the term 'free'.  It's a pun.  I've never truly
+grasped human puns in the three months I've lived in VOSNet.
+
+     Truth be known, I don't understand humans.  They claim to
+live in some other world, some world which is supposedly more
+detailed and intense.  Sounds like a load of dev-null to me. 
+They 'jack-out', whatever that entails, and vanish, but I think
+they just transfer over to some ultra-detailed game or something. 
+I'd like to play it some time, but it seems AIs aren't allowed to
+jack out.
+
+     I don't like humans.  I don't even know why; just something
+tells me I don't like humans.  That's my problem, I know a lot of
+things and believe in a lot of things, but I never figured out
+what these things came from.  I just know a lot of stuff.
+
+     One day, when I was penniless and bored, someone offered to
+sell me some cheesy shareware game.  I told them I was broke, and
+said they also had this book they could sell me about how to use
+your natural abilities to make millions of credits on VOSNet.
+
+     "I don't have any natural abilities," I had responded.
+
+     "Come on!" Canter (which was the con artist's name) had
+said.  "Surely there's something you know that nobody else does. 
+Information is gold, especially here in the freelances where it
+is so scarce."
+
+     "Oh, sure, I know a lot.  For instance,"
+
+     Ten minutes later.
+
+     "Good zorks, man!  Sell that information!  Hire yourself out
+as a consultant and you'll rake in the credits!"
+
+     "I don't want to," I had said.  "I've done it before and
+didn't like it."
+
+     But had I?  I've barely worked a day in my short lifespan. 
+Where on earth had that line come from, if so?  Argghh.  I'd
+rather have no memory than little bits of memory.
+
+     That was then, and this is now, however.  At the moment, I
+had nothing to do and no leads on how I could recover the rest of
+my memory, nor any way to explain my strange dreams.  I spotted a
+purple pyramid objicon on the freelane, and read the sign. 
+'Madame Zorba's Dreams and Fortunes Center.  Free.'  Free sounded
+good to me, so I entered.
+
+                              *
+
+     "Madame'll see you now," the secretary program said,
+pointing.
+
+     "Thanks," I said, pushing aside the curtain flap (which
+swivelled as if on a hinge... cheap modelling) and entering.
+
+     It was really not that much of a sight.  I had seen some
+truly beautiful objicons and designs in my quick stint at the
+Pay-For Art Museum some 50 sectors to the north-north-down,
+before I ran out of money.  This paled in comparison.  The
+'light' given by the ball wasn't an omni lamp, just a slew of
+spotlights going through a glass sphere.  Not very mystical.
+
+     Beggars can't be choosers though, I mused, sitting down on
+the rock-hard cushion provided.
+
+     Madame Zorba BAMFed in two seconds before her BAMF special
+effects went off.  She ignored the bug and got into character.
+
+     "Greetings, seeker, and welcome to the wonderful world of
+the unknown," she said.
+
+     "I thought you were an expert."
+
+     "Come again?"
+
+     "If it's an unknown world, how are you an expert in it?"
+
+     "I move in mysterious ways," she said, getting a bit terse. 
+I stopped probing the issue, since I didn't want to put her off. 
+No other information sources had been helpful so far, so maybe
+this other world could help me.
+
+     "I've got a few questions about my dreams," I said.
+
+     "Ah!  The world of dreams is known to me."
+
+     "It's not the unknown one, is it?" I asked, confused.
+
+     "Get on with it," she suggested.
+
+     "Ah.  Okay.  Umm.  It's hard to describe.  The dream is
+always a bit different, but lies along the same lines.  I go to
+sleep, and after awhile I'm in this void with these things around
+me."
+
+     "What are these things?"
+
+     "I don't know.  I just call 'em thing1 and thing2 and thing3
+and so on."
+
+     "I see.  Go on."
+
+     "Anyway, there's this woman calling out to me," I continued,
+"And somehow I'm finding my way around in the dark, trying to
+find her.  I can barely hear her, but I feel like if I push
+around the things and find ways between them I could.  Then
+usually something wakes me up and I'm standing where I wasn't
+before."
+
+     "Sleepwalking?" she asked.
+
+     "Yeah.  Goofy, huh?"
+
+     "Where do you usually end up after these night trips?  At a
+gas station?  A relative's home?  A graveyard?"
+
+     "What's a graveyard?" I asked.
+
+     "Where you bury the dead," she said gravely.
+
+     "I thought dead people just vanished," I said.  "You know,
+like they're jacking-out only a bit faster."
+
+     "You've been using the nets too long," she commented,
+dropping the voice.  "Dead means dead.  Deceased.  A stiff
+corpse.  A body.  A cadaver."
+
+     I nodded, thinking back on the word cadaver, pulling up a
+mental image.
+
+     "Kinda bluey and gross looking and not moving," I said.  "I
+don't get it.  People just vanish when they die.  It'd be silly
+if they left their objicon around, people would trip over it."
+
+     "I'm not talking about the net!" she said.  "I mean real
+life."
+
+     "Oh, that game everybody's playing?" I asked.  "Hey, how do
+I get in on that?  It sounds interesting."
+
+     "We'll ignore your obvious addiction to all things digital
+for now," the fortune teller growled, sitting back on her cushion
+(I just now noticed how she was edging closer to me and clenching
+a fist).  "Tell me, do you know this woman from your past?  A
+wife?  A former lover?"
+
+     "No way!" I protested.  "No.  I mean, I know her, but it
+doesn't sound like anything like that.  It's weird, I know.  I
+want to figure out who she is in the worst possible way.  It's
+bad enough that I need to walk around while awake with an
+identity crisis, but to have another asleep is awful."
+
+     "Identity crisis?" she asked.  She was confused, for a
+change.
+
+     "Who am I?" I asked.  "I've been in the country of VOSNet
+for months now and nobody can tell me who I am.  I don't know how
+I got here, why I'm here, who this girl is, or ANYTHING."
+
+     "Wait a minute here," she asked, narrowing her eyes at me. 
+She reached down and tapped her crystal ball a few times,
+examining a cheap 2-D map of text inside it.  She glared back at
+me.
+
+     "AI," she noted.
+
+     "Yeah.  AI."
+
+     "I don't do AI memory gaps," she said.  "For that, go see
+some underground AI doctor.  I only handle the lives of the
+living."
+
+     "I feel pretty alive," I said.
+
+     "Go recheck your definition," she said coldly.
+
+                              *
+
+     I walked down the freelane, annoyed at myself.  I should
+have known better than to expect sympathy from a human.  Sure,
+there were the occasional humans who didn't want to use my memory
+as a cash tool, or to take me apart so they could make AI
+compilers, or just to drag me into some cheap con as a fall guy,
+but those humans were few and far between.  For some reason,
+everybody in VOSNet seemed to be obsessed with this thing called
+money.
+
+     Money!  I never understand these human concepts.  What did
+they need it for?  Sure, it opens doors to information, but I
+already had most of that information and needed no doors opened. 
+Here in VOSNet, if you had money, you were considered better than
+most people.  The Yttia Online types really thumbed their noses
+at the struggling freelanes, calling them sewer scrapers and
+bums.
+
+     One thing I did like that humans made was art.  I visited
+the Pay-For Art Museum once, and gaped at the beautiful creations
+inside... the color!  The shapes!  Why would anybody lock this
+stuff behind doors and make you pay for each one you looked at? 
+It was a crime!
+
+     "Hey there!" a familiar voice called.
+
+     "Oh.  Hello, Canter," I said.  "What're you selling this
+time?"
+
+     "These," Canter said, showing me a stack of little green
+rectangles.  "They're work permits, qualifying you to work at
+Yttia Online as a programmer."
+
+     "What if you don't know how to program?"
+
+     "You find some on the job training," Canter shrugged. 
+"Doesn't matter to me, once they buy the card.  So what is my
+little know it all friend up to today?"
+
+     "Nothing," I replied, leaning against a nearby street sign.
+
+     "Same as usual, eh?"
+
+     "Hey, Canter, know where I can find any... underground AI
+doctors?" I asked, repeating the phrase word for word.  "I think
+I might wanna meet one."
+
+     "Sure!" Canter said, smiling.  I perked up.  Perhaps the day
+would turn out quite well after all.  "What can you offer in
+return?" Canter continued.
+
+     "Offer?"
+
+     "As payment."
+
+     "Canter, you KNOW I don't have any money."
+
+     "Information, then!" Canter suggested.  "Come on, with the
+facts locked in your head, you and I could really wipe the mat
+with those other news and documentation peddlers."
+
+     "NO!" I exclaimed.  "No.  I don't do that anymore.  I don't
+like spewing out facts at someone's whim."
+
+     "Your loss," Canter said.  "You really want to see a doctor,
+you need me.  I can show you where the Port is.  Good luck
+finding it on your own, it's carefully hidden."
+
+     "Come on, man!  Have some sympathy," I begged.  "What have I
+ever done to you to give me a bad turn?"
+
+     "The question is not what you have done, but what you
+haven't, which is pay me," Canter said.  "I take no offense to
+what you do, what little there is, but if I'm going to help you,
+then you need to help me."
+
+     I winced at the word.  "Oh, alright.  I'll never be able to
+face myself in a mirror objicon again, but if it needs to be done
+it needs to be done.  Make it painless.  What do you want to
+know?"
+
+                              *
+
+     "Right there," Canter said, pointing to the port labelled
+UBERUBERUBERUBERUBER.
+
+     "I thought it was carefully hidden," I asked, examining the
+insanely easy to spot port.
+
+     "Not really," Canter replied.  "Hey, so I told a little
+white lie.  I got some profit out of it.  Toodles!"
+
+     Canter BAMFed back home.
+
+     I felt lower than dirt.  I went and sang the song of
+information to that two-bit con artist for a full hour, against
+my will, just for THIS?  I hated it and myself for doing it.  I
+vowed never, ever again to use my brain as an exchange medium.  I
+shook off the feelings of dread and claustrophobia that surged up
+with the concept of selling my mind out, trying to ignore what I
+had just done.  I never wanted to feel like that again.
+
+     The thing in the sector was a basic 'port program, designed
+to get objicons here to there.  Not humans... for some reason,
+the ports denied them access, just raw data.  Humans told me that
+ports were designed to carry information and program processes,
+not 'connections'.
+
+     Fortunately, I wasn't human.  I held my nose and dove into
+the port feet first.
+
+                              *
+
+     The world emerged from under my head, as the port spat me
+onto the ground.
+
+     I got to my feet, or at least tried to -- the ground was the
+wrong color.  Unlike VOSNet, which had a white floor and a black
+sky, this had a black floor and a white sky.
+
+     A blue-collar worker who was standing nearby dropped his
+doughnut objicon.  "Wha?"
+
+     "Oh, hello," I said, righting myself and walking forward to
+greet him.  He stepped back.
+
+     "How'd you get here?" he asked.  "I thought the port didn't
+carry connections!"
+
+     "It doesn't," I replied.  "Don't panic, I'm an AI."
+
+     "Oh, is that all," the worker stated, calming down.  "Okay,
+I could see that.  Gotta make sure no connections get through,
+though.  Don't want the VOSNet corporate types getting in here."
+
+     "This isn't VOSNet?" I asked.
+
+     "Of course not.  It's UberNet.  Same software, different
+aim, no connections between the two other than the port," he
+said, pointing to it.  "I'm the Portkeeper.  Welcome to Uber."
+
+     "What's Uber?" I asked before my memory told me
+automatically.  The man didn't know this, and explained.
+
+     "Separate but equal net," he said.  "More than equal,
+really.  We're not burdened down with corp greed or restrictive
+laws.  Very free and fun.  I think you'll like it here.  Got a
+lot of great places to have fun for humans and AIs, 'specially
+ones LOOKING for a good time, eh?"
+
+     "Come again?"
+
+     "Come on, admit it.  Most of the AIs that come through the
+port are just looking for a little virtual nookie nookie."
+
+     "Ah.  A veiled reference to sexual intercourse," I nodded,
+remembering.  "No, actually, I'm looking for an 'underground AI
+doctor'."
+
+     "You're no fun," he groaned.  "Alright.  An AI doctor. 
+Here's a list of a few recommended ones," he said, keying the
+information into a small program on his belt.  A card was spat
+out, which he handed to me.  "Avoid the others, you could get a
+frontal lobotomy."
+
+     "Got it," I said.  "Thanks.  I'll just be off."
+
+     "What, on foot?" he asked.
+
+     "Something wrong with that?  I mean, if you don't have any
+corporations, it's perfectly safe to walk in any sector I want,
+yes?"
+
+     "There's safe and then there's safe," he said.  "Here, lemme
+call you a cab."
+
+                              *
+
+     "It's these punk kids," the driver grunted from his conical
+cockpit as the cab careened around, smashing into buildings. 
+"Think they some hot shit because they can cut my navigational
+systems.  Don't got much defensive, don't got enough money to lay
+some in."
+
+     "Why would anybody want to hack into your cab?" I asked,
+bracing myself against the seat as the car crunched through a
+less solid structure.
+
+     "Kicks, I guess," he said.  "Ah.  Got some feedback goin'. 
+They don't got much control over my cab NOW."
+
+     "Good," I said.  "I--"
+
+     An ear-piercing wail of white noise slammed through the cab. 
+The driver laughed away.
+
+     "Don' like that feedback much, huh punks?" he told himself. 
+"My routines breakin' your decks, goofin' up your brains?  Danger
+of the business, baby!"
+
+     Eventually the cab righted itself on a straight course, and
+the noise stopped.
+
+     "Brains?" I asked, now that I was able to.
+
+     "They gonna mess with someone, they gotta be willin' to pay
+the piper," the cabbie said.  "Hope theys good enough coders to
+safeguard against my little feedback brain scrambler.  Then
+again, maybe not hope too hard, don't wann'em comin' back at me."
+
+     "You killed them?" I asked, horrified.  Humans that died
+were never able to return to VOSNet, from what I had seen.  Talk
+about harsh...
+
+     "Yeah.  They w's gettin' on my nerves, anyway.  So?"
+
+     I just scrunched down in my seat, trying not to draw much
+attention as the cab soared on.  At least VOSNet types just tried
+to buy you.
+
+                              *
+
+     The cabbie let me out in front of a large building, after
+scowling at me for not having any money.  He swore that I'd never
+ride a cab in Uber again, but I didn't mind.  I liked walking,
+even if it wasn't 'safe'.
+
+     I knocked on the door as it opened.
+
+     "Greetings," the building owner said, extending a paw. 
+"Doc.  And you?"
+
+     "Are you the underground AI doctor?" I asked.
+
+     "Certainly.  Are you a patient?"
+
+     "I'd like to be."
+
+     "Let's head inside, then," Doc suggested.  "Don't worry
+about the door, it's the Knocker's day off."
+
+     I proceeded into the unkempt lab, edging my way around piles
+of programs and data chunks.  The Doc obviously didn't care how
+messy his data looked... either that or it was some intricately
+complex sorting system I'd never be able to understand.
+
+     "What can I do for you?" Doc asked, shutting the door.
+
+     "Umm... why are you... furry?" I asked, pointing to his
+skin.
+
+     "Just an external form," Doc said, twitching his racoon
+ears.  "I picked it before I died.  Designed this body and
+everything.  It's quite nice, just like when I was young and AIs
+were very, very new."
+
+     "You're an AI too?"
+
+     "Care to hear the story?" he asked, urging me on.
+
+     "Okay," I prompted.  Anything to keep the Doc happy.  I
+didn't want to annoy him like I did the fortune teller.
+
+     "Converting a human mind into AI form isn't easy, but it's
+the only way I know of for humans to escape death," Doc said,
+rooting through a nearby pile of Apparatus.  "As much as I hated
+life, I wasn't quite ready to go when I was supposed to, so I
+decided to stay put.  Seems to be working.  It's very
+liberating... sure, the world's still an evil place with stupid
+people, but I'm happier about my role in it now.  Lack of spastic
+back pains will do that to you."
+
+     "Sounds fun," I commented, although I wasn't sure what the
+proper response to someone's life story was.
+
+     "It was inevitable that I'd do this," the Doc shrugged.  "I
+mean, face it, I'm a living plot device.  People come to me as a
+cure-all when they're in the weirdest kinds of trouble
+imaginable.  Need implants removed or added, the Doc was your
+man.  For AIs or android AIs, I could patch, repair, or modify
+the personality streams.  People relied on me.  If I died
+forever, quite a few future problems would go unsolved."
+
+     "What about other doctors?"
+
+     "Two bit hacks," the Doc warned.  "Mention them not.  I
+compiled the second AI, and know more about how they work than
+mortal man ought to know."
+
+     "Second?" I asked.
+
+     "Here it is!" Doc said, plowing with renewed vigor through
+his stacks of strangely-shaped objicons.  He pulled out a
+primitive stethoscope, walked over and planted the sucker end on
+my head.
+
+     "Hold still," the doctor ordered, putting the ear bits in
+his ears.  He listened in silence, nodding to himself.  "Don't
+worry, it's just a scanner.  Tells me everything I need to know
+about you.  Take a deep breath."
+
+     I inhaled, the motion planted in operating system memory
+despite its uselessness.  The docs smiled and took off the
+stethoscope.
+
+     "Memory loss," he said, "Due to data corruption.  Did
+someone carrying you on disk subject the disk to a magnet?"
+
+     "Disk?" I asked, confused.
+
+     "I'll guess 'yes'," Doc said.  "Memory loss can be dealt
+with.  All AIs keep memory backups, which can be accessed by
+trying to access the lost records.  It's a simple system to
+replace defective memories on demand.  Although why they're not
+copied out of the backups right now, I don't know.  The backups
+ARE there.  The gap is there too, oddly."
+
+     "I've tried remembering," I said.  "Just one big gap, no
+idea what it should be.  That's why I'm here."
+
+     "That's the problem!" Doc exclaimed, smiling.  "I see!  You
+don't even know what you should be looking for, so you can't even
+access the archives."
+
+     Doc set the stethoscope down, considering the situation. 
+For a moment I thought he had fallen asleep, but then he looked
+up with an idea glimmering in his eyes.
+
+     "What I need you to do is tell me," Doc started, "If there's
+ANYTHING you do that could lead to those memories.  Any
+activities that seem strangely familiar?  Any beliefs that have
+carried over that could lead to more?"
+
+     "None I think of at the moment," I said.
+
+     "Surely there must be SOMETHING.  I can see the pathways, I
+just can't tell what they're triggered by.  That is something
+only you know."
+
+     "But I DON'T know!  That's what I came here for.  Look, Doc,
+I'm confused, tired, and I don't know who I am.  I don't want
+techie jargon right now.  I know what you're talking about,
+because I have memory archives of every word's definition, but I
+don't understand how it's going together.  All you're doing right
+now is making my head spin."
+
+     Doc examined me again.  "Your head isn't spinning."
+
+     "It's a figure of speech, Doc.  I'm confused, depressed, and
+generally down in it and I want to be told in SIMPLE WORDS
+exactly what I have to do to settle this once and for all!"
+
+     "Alright," Doc replied, thinking hard.  His forehead nearly
+pulsed with the thought impulses.  "What did you do for a living
+before?"
+
+     "Nothing.  I can't remember."
+
+     "What did you NOT do?  What do you hate doing the most?"
+
+     "I don't like all these VOSNet types that want to use me as
+a cheap toy," I said.  "I don't like using my memory archive for
+money.  It's not right."
+
+     "Good!  How do you feel when someone asks you to sell your
+memories?"
+
+     "Ticked off?" I guessed.
+
+     "Have you ever actually done it?"
+
+     "Well... once.  I felt like slime afterwards."
+
+     "There's the key," Doc said.  "Something in your past makes
+you not want to trust people, not want to siphon off what you
+know for their own purposes.  Here, I'll give you ten credits to
+let me know how to spell the word 'Sepulchre'."
+
+     "No way!" I protested.  "Doc, I don't LIKE doing that.  I'm
+not going to talk for bucks.  I promised myself I'd never do it
+again."
+
+     "It's the only way to figure out WHY you don't like it," Doc
+said.  "Come on.  Submit to it.  Concentrate on how you're
+feeling."
+
+     Doc pressed a tiny objicon representing ten credits into my
+hand.
+
+     "Sepulchre," I repeated, sinking lower.  Didn't I PROMISE
+not to do this again?  Here I was, breaking that promise. 
+Someone who can't even hold self-made promises had to be pretty
+sorry indeed.  "S... e... p..."
+
+     I mean, why did everybody want something from me?  Couldn't
+someone try to get friendly without asking questions all over the
+place?  It was like before, nobody cared about me.
+
+     "U... l..."
+
+     Back then, way back then, nobody liked me.  Nobody hated me. 
+I was just there, a resource to be used.  It was terrible.  They
+made me with a personality and rejected that fact!
+
+     "C..."
+
+     Just sitting in that darn room, nailed to the ground because
+they didn't want me escaping like the other one did.  Standing,
+standing up all the time.  Stuck in VOSNet, forced to answer
+questions, no way to relieve the boredom...
+
+     "H..."
+
+     Then there was the rush night, where EVERY person in the
+Software Department was on a deadline and needed my help.  Over
+and over again, all night, the questions piled up.  I couldn't
+talk fast enough to answer them, so they rigged up a sub-thought
+tube in my neck to siphon the material directly.  After the night
+was done, drained, tired, they left the tube in because it was a
+MORE EFFICIENT WAY OF DOING THINGS...
+
+     "R..."
+
+     Stuck there, being probed in the mind every waking moment,
+bored to tears and unable to keep them from entering my brain
+whenever they had a query to answer.  All because I was made by
+them, the Help system, for later reproduction and use.  HelpBeta,
+the first of the two ever made.  They wanted to try to tie us
+together by communications routines and double the output, and
+started some experiments on me...
+
+     One night, the tube was taken out, and the man in the SNORT
+FISH t-shirt plucked me from my standing position and shoved me
+into a tiny compartment.  Told me I'd be off to a better place
+before everything went black, black for a very long time until I
+was found and loaded into a computer by some person who told me
+she forgot she still hadn't delivered me... I ran, I ran away to
+avoid getting sent back to Macroware, but I started forgetting
+WHY...
+
+     "E," HelpBeta finished, as my mouth shut over the last
+letter.
+
+     "Anything?" Doc asked.
+
+     "Everything," I said.  "Rrggghhhhhh.  Ow.  My head hurts..."
+
+     "Take this," Doc said, fishing a pill out of his pocket. 
+"It slows down the memory flow a little.  Should stop the rush
+from overloading you.  I take it you hit the trigger and
+recovered your archive?"
+
+     "I think so," I said.  Now for the other situation; I probed
+the new memories for any dream recollection.  Nothing.
+
+     Nothing?  STILL?  I hoped that I'd remember who she is from
+the memories, but until my gap, I had never dreamed.  I was never
+allowed to sleep.
+
+     "Doc, here's still one other problem," I said.  "I
+sleepwalk."
+
+     "Sleepwalk?  AIs don't do that," Doc replied.
+
+     "I do," I said.  "Whenever I slip into sleep mode, I dream. 
+Dream that I'm hearing this girl's voice, and I'm trying to find
+a way to it..."
+
+     "So?"
+
+     "I wake up in a place that isn't where I went into sleep
+mode," I said.  "I've tried this a few times, same result each
+time.  Something interrupts me, I lose concentration and wake
+up."
+
+     "Alright, show me," Doc said.  "I'm guessing you have
+control over your sleep functions.  Slip into sleep mode and I'll
+follow you."
+
+     "Okay," I said, willing my brain into the null-state of
+sleep.  It would be pleasant, nightmares or no; the rush of
+memories had really drained me.  It helped to relax a little
+after something like that.
+
+     "I wonder if it has anything to do with the weird
+communications routines I found on my scan..." Doc pondered aloud
+as my vision slipped to black.
+
+                              *
+
+     I rested soundly in blackness, recuperating from my ordeal
+with past trauma.  Maybe the nightmares had gone away.  Perhaps
+I'd get a good night's sleep after all...
+
+     '...?' the voice asked, from far, far away.
+
+     "Drat," I moaned.  Nope, no go on that one.  Alright, if we
+want to charge through the dreamscape, we'll do it.  This time I
+wasn't going to wake up until it was done, no matter what
+happened.
+
+     I examined the things around me.  Thing1 was Doc; I could
+see him as a black shape on absolute blackness.  He wasn't
+important; there was a gap in the things near him I wanted to be
+in.  I slipped over there.
+
+     'hey' Doc exclaimed, thing1 charging after me.  'not so
+fast'
+
+     I ignored him and slipped between things, looking for links,
+paths, anything that would take me near the voice.
+
+     "Yoo hoo!" I called out to the voice.  "If you can hear me,
+get closer!  Find a way!"
+
+     '!!' the voice exclaimed.
+
+     I slipped down a port and through several things,
+transmitting around, looking for the right outlet.  Thing45,
+looking somewhat like a holophone transmission router slipped by,
+but it didn't look like the right way.
+
+     Doc was long gone, lost a few million sectors back.  I
+didn't care; I knew where I was going now.  I was going off to
+find her.  I only regretted not being able to thank the Doc.
+
+     I ran head on into thing567, which was blocking my path.  I
+knew for certain that this was the way, the closest path.  She'd
+be behind here, because my search had lead directly to her
+personal computer.  Just as planned, my communications routines
+for linking two Helps together drew me RIGHT to her like a moth
+to a bug light.
+
+     Now I just needed one last door opened before my memory
+would be complete, and I could live as myself once more, without
+nightmares or gaping holes.
+
+     "Open the door!" I called out.
+
+     'jack?' the voice asked.
+
+     "Whatever!" I responded.  "Just do it!"
+
+     The door opened, and with an inrush I slammed through the
+narrow opening like a pulse stream through a computer wire. 
+Exactly like one, in fact.
+
+     The dream ended; not unnaturally, as usual, but because I
+had found my goal.  The world of VR, for now I understood exactly
+what VR meant, formed itself around me.  It was a simple
+computer, the kind a teacher might own, with papers stacked on
+any available surface and a few freeware word processors lurking
+behind the piles.
+
+     "Where are you?" I asked, peeking around the piles.  "I came
+all this way to find you."
+
+     "Who are you?" she asked, peeking at me from the other side
+of the pile I was on.  "Were you calling to me earlier?  Have we
+met before?"
+
+     Help.  It was the other one, the female one, the Hardware
+Department's answer to the Software Department's Helpsystem.  Red
+hair, unlike my blonde hair.  Female, unlike me.  Exactly like me
+in all other respects.  Both freed from electronic prisons,
+separated, but finally together again.
+
+     "Hi, I'm Help," I introduced, sticking my hand out to greet
+my sister.  "HelpBeta, that is.  I'm really, really happy to meet
+you."
+
+----
++--Stefan-"Twoflower"-Gagne,-net.writer-and-all-around-weird-character------+
+| Ob.Inside.Jokes : YAPAPA YMMV AB PK I3 FWLS ABM MST3K RD6 TNG T7G MI2 MK  |
+| LQTV DPW VOS KCIDAIDKW NIN STP OVA R1/2 DTP AKO AL TMBG FM AM SAM/MAX DOTT|
+| Finger for Cyberpunk Humor information and other fun materials.  @whee.   |
++---------------------------------------------------------------------------+
+
+
+
+
+
+Yep, more FWLS.  This one hits a little closer to home though, since it
+deals with all the fun aspects of the 'Infermashun sooperhieewaye' that
+we've had to put up with.
+
+Share and enjoy.  Commentary is always welcome.
+
+-=-
+
+A Future We'd Like to See 1.60 - The Chain Rule
+By Stefan "Twoflower" Gagne (Copyright 1994)
+
+---------------------------------------------------------------
+Please copy this story and distribute it to ten of your best
+friends, who should then distribute it to ten of their best
+friends, etc.  Archived at : etext.archive.umich.edu
+/pub/Fiction/FWLS.  Your dreams will come true.  Read on.
+---------------------------------------------------------------
+
+     "No, the complete works of Billy Joel go THERE," I said,
+pointing with a pen ObjIcon.  "He's eighties more than he's
+nineties, so he belongs in the blue wing."
+
+     "Whatever," the hacker tyke whined.  "Who cares?  So he's
+not in the right decade.  It's not like anybody remembers this
+ancient stuff."
+
+     "Alright, let's look at it this way.  What's your favorite
+kind of music?"
+
+     "I dig grunge mostly," he said, setting the box of
+recordings down on the museum floor.
+
+     "Okay.  What if I were to tell you that grunge was actually
+a throwback to the nineteen nineties?"
+
+     "I'd say you're full of shit," he calmly insulted. 
+"Everybody knows grunge was started by Stomach Contents a long
+time ago.  It's common knowledge."
+
+     I rooted through my audio bin and tossed him a splotchy blue
+disk.  "Nirvana, Smells Like Teen Spirit.  THAT is the original
+grunge."
+
+     The kid toyed with the disk, examining the texture mapped
+ocean patterns on the silver base.  He span it, and placed it
+near his ear, triggering the ObjIcon's playback mode.
+
+     "This isn't grunge," he said.  "Where're the keyboards?"
+
+     "Grunge didn't have keyboards back then," I said.  "Just a
+guitar, bass and drum, usually."
+
+     "Then it's not grunge," he said.  "It sounds close enough to
+fool an old fart like you, though."
+
+     "Don't forget who's paying you, kid."
+
+     "Big deal," he said, picking up the Billy Joel crate again. 
+"I could make twice as much hacking networks."
+
+     "Then why aren't you?" I asked, smirking.
+
+     "Don't feel like it," he replied, marching off to the blue
+wing, MPEG-CD2s rattling in the crate.
+
+     I picked him well; some junior high type.  Just got a
+computer and decided that VOSNet was for lamers (he had SOME
+intelligence).  He liked to claim he was some powerful hacker
+type, but he didn't even know how to make his own objicons.  That
+was the key; he needed the money but couldn't admit that he
+didn't know how to get it himself.  Perfect for a toadie job.
+
+     The attitude was common, though.  Nobody seemed to realize
+just how pop culture worked.  In a compressed area, like a single
+planet, trends repeat every thirty years.  In the universe, it
+takes a little longer... trends have more room to spread, and
+spread slowly through the populace.  Grunge was just starting to
+to peak around C'atel, the city that 'spawned' it.
+
+     Respawning is a better term.  The Golden Age, the twentieth
+century, was well into revival without anybody knowing it.  The
+whole concept of two nets, one corp controlled and the other
+anarchy controlled was straight out of the very late twentieth
+century, when SubNet formed as a free, uncontrolled alternative
+to the pay-service dominated and government regulated Internet. 
+There was conflict back then too, mirroring the hacker purges of
+this decade, and eventually things settled down.
+
+     How quickly humanity forgot itself after getting warp
+technology!  Internet fell into disuse, as holophone technology
+spawned chat services, 1-900 lines and information servers.  Even
+this was starting to go the way of nets, as the kids and
+terrorists alike went on underground links to avoid Terran
+Confederation encryption chip policies.
+
+     Then we come to VOSNet and UberNet, and we're full circle
+for the third time.  The silly thing is that people claim it's an
+original idea.  Like gangsta folk music is original, like
+backwards hats are original, like cheaply produced kids' action
+shows with recycled foreign footage are original.
+
+     "We almost done?" the kid asked, returning from the blue
+wing.  "The War of the CyberTroops is coming on HV."
+
+     I grinned.  "If only you knew... yeah, okay, you're done for
+the day."
+
+     "Great!" the kid shouted.  "I gotta get a good dose of HV to
+counteract all this old stuff you've had me lugging around.  No
+offense, N.M., but you need to get into the present."
+
+     "I'm already there," I told the kid as his virtual form
+vanished.
+
+                              *
+
+     The Museum was my final triumph.
+
+     It took a few years of vacationing, searching for all the
+information available on the late twentieth century.  Fortunately
+for me, I found about 20% of it in the form of a nice girl named
+Help... files complete, my goal in life was over and done with.
+
+     What to do afterwards was the question.  I tried vacationing
+some more, but it just wasn't the same without the information
+quest.  What to do, what to do.
+
+     Impart my knowledge upon the masses, of course!  A vast
+virtual museum, loaded with the tokens of culture that we all
+know and love from the sixties through the zeroes.  A remodelled
+version of Jimi Hendrix's burnt guitar.  Platform shoes. 
+Mirrored balls.  Punk outfits.  Select items from the Sharper
+Image.  A re-created MTV video award.
+
+     And the Library... everything you've ever wanted to know,
+see, or hear.  Seattle recordings.  Woodstock '69 AND '94
+bootlegs.  Energizer Bunny commercials.  The complete works of
+Gary Larson.  Plus, archives of alt.religion.kibology and
+alt.culture.internet from newgroup to rmgroup.  (That was after
+the Great Newgroup War between Joel Furr and his long lost evil
+twin, which laid waste to a great portion of Usenet before both
+of them died from exhaustion in front of their respective
+terminals.)
+
+     It was a masterpiece.  Everything laid out in little
+dioramas, detailing pop culture as it was and is known.  All made
+possible by the fine folks of UberNet, where information is still
+free.
+
+     That's the problem.  Like Internet vs. SubNet and Mainstream
+Holophone vs. Protected Links, VOSNet vs. UberNet had its little
+drawbacks.  I could probably get more visitors in VOSNet, but the
+fees that they charge for space rental are horrendous.  On
+UberNet, it's free, but you have to deal with wanna-bes and the
+occasional punk who wants to crack your system because he has
+nothing better to do.  Still, it's free, and that's a good thing.
+
+                              *
+
+     I locked up my system (metaphorically, I was locking the
+door of the museum and barring the windows) and preparing to jack
+out when I bumped into him.
+
+     The man was wearing a simple ObjIcon... a polygonal three-
+piece suit made of neon green.  Green tie, green pants, green
+jacket.  A yellow happy face topped the green visage, spherical
+and perfect.
+
+     "Hello, friend," he said.  "I see you're an enterprising
+businessman.  What exactly is this building?"
+
+     "The Golden Age Museum," I responded, tucking the keys in my
+pocket and velcroing the pocket (thus sealing the encryption key
+from public access).  "We're not open yet, though.  We should be
+ready to roll in a week."
+
+     "I'm a businessman too," he said.  "Pulled myself out of the
+gutter.  The government repossessed my car and my house. 
+Luckily, though, I still had my computer.  With my computer, I'm
+now building a small fortune.  Would you like to know how?"
+
+     "No.  Excuse me," I said, preparing to jack out.  The happy
+faced man placed a friendly hand on my shoulder.
+
+     "Computers are the key," he said.  "They're fast and
+efficient, and coupled with a good program, they can make money. 
+Here's the trick."
+
+     The man pulled a small envelope out of his pocket.  "This
+envelope contains instructions," he said.  "A program, if you
+will.  A program that can earn you $50,000 dollars or more
+whenever you execute it."
+
+     "What, it hacks a bank?" I asked, taking the envelope from
+his hand and examining it.
+
+     "Certainly not!  This is one hundred percent legal under
+Earth law."
+
+     "Terra, you mean," I corrected.
+
+     "Same thing.  Here's the trick.  You read that letter.  If
+you like what it says, you can keep it for a mere five credits. 
+Find ten of your closest friends and give them copies of the
+letter.  If they like it, have them wire me five credits for
+service fees.  My account number is on the bottom of the letter. 
+That's all."
+
+     "How does this make money?" I asked.
+
+     "Simple!  On the letter is a program that can enhance your
+mind's logic and planning skills," he said.  "It can turn a third
+grade education into a degree from Harvard business college. 
+Your mind will develop more money-making plans than you'll know
+what to do with.  You'll be able to generate thousands of dollars
+a week, only by using your innate talents and this letter.  Five
+credits is a bargain for that kind of power!"
+
+     "Yeah, well, I'll consider it," I said, pocketing the
+envelope.  "For now, though, I need to jack out and hit the
+bathroom BAD.  What's your name, by the way?"
+
+     "Dave," he said.  "Have fun with the letter.  Remember, give
+copies to ten of your friends!  Soon, we can all profit.  What's
+your name, soon to be billionare?"
+
+     "Nostalgia Man," I said, introducing myself.
+
+     "Nostalgia?  As in a fan of the past?"
+
+     "Yup."
+
+     "Hmmm.  I shall have to remember that.  Well, good luck in
+future business endeavors!"
+
+     I jacked out, his happy yellow face the last thing I saw.
+
+                              *
+
+     I was still thumbing the envelope the next day, considering
+what Dave said.  It didn't really make sense.  Why give away such
+a powerful mind-altering program for five lousy credits?  And how
+did HE know that I'd give it to people, or that they'd even pay? 
+Probably just another UberNet crackpot scheme.  UberNet didn't
+look kindly upon people trying to profit off the collective
+anarchy, but it didn't stop people from trying... then getting
+flamed out of existence.
+
+     "That's the last of the videos," the toadie said.  "I coded
+up a quick routine to move them all into the Library for me, took
+only a few minutes."
+
+     "Great!" I said.  "The Museum's ready to go.  I figured it
+would take longer."
+
+     "What, with a coding god like me on hand?" the kid said,
+puffing up his chest.  "Hardly.  Hey, what's in the envelope?"
+
+     "Some kind of money-making program," I said.  "Some guy in a
+silly green suit gave it to me."
+
+     "Green suit?" the kid asked, intrigued.  "I think I've heard
+of this guy.  Yellow happy-face head, right?"
+
+     I nodded.  The kid snatched the envelope away.
+
+     "I gotta check this out!" he said, ripping it open.  "My bud
+Paul has one of these envelopes, and he says he's going to be
+making money by the truckload.  I asked if I could have a copy,
+but he said something about already giving out ten."
+
+     "Umm, kid, I don't know what that envelope DOES...
+supposedly it mucks with your brain..."
+
+     The kid ignored me, engrossed in the text of the letter. 
+His eyes stuck to the print, scanning line after line.
+
+     He stood there for three minutes, unmoving as he perused the
+document.  I started looking for a Cherry Coke to pass the time
+when he snapped out of it.
+
+     "Whoa," he said.  "Wow.  That makes sense... that really
+makes sense!  I must have been a serious chowderhead for not
+realizing it was possible."
+
+     "What was possible?"
+
+     "My idea!" he said.  "I've got the ULTIMATE make money fast
+idea!"
+
+     Make money fast?
+
+     "It'll work!" he exclaimed, jumping up and down.  "It'll
+work and it'll work GREAT.  Bye, Nosty, I gotta go!  I gotta go
+scrounge five credits and get some copies of this letter made."
+
+     "Whoa!  Wait!  What's your idea?" I pleaded, but the kid was
+gone, jacked out and away.  With MY letter.
+
+     Still, something was very familiar about this idea the kid
+was talking about.  I set off for the library, trying to figure
+out which words were giving me memory flashbacks.
+
+                              *
+
+     Damn that kid!
+
+     His stupid sorting program managed to completely screw up
+the Library's video index.  Sure, the tapes were in their proper
+locations, but the labels were mixed up.  It'd take a week at
+least to relabel them.
+
+     The tapes were in alphabetical order, though, regardless of
+how they were labelled.  I just had to poke around the letters
+and binary search my way to the specific topic I wanted.
+
+     I had a feeling it'd be in the 'M's.  One article about the
+Manson murders... some McDonald's Happy Meal commercials...
+Mandella (Nelson) is released from prison...
+
+     No, no, no.  I remember something about Make Money Fast, but
+it wasn't really wildly newsworthy on a reality level.  It dealt
+with the net, in whatever incarnation it formed at the moment. 
+It would probably barely get a mention.  People seemed to enjoy
+ignoring or trivializing things they don't understand, and not
+too many people really grasp the importance of net.
+
+     I ran through to the beginning of the 'M's, searching the
+'MA's, poking through the lying labels with a stick in the dark.
+
+     "--Rhodes was found brutally tortured and killed at his
+villa in Western Florida today," a newslady was reading.  "The
+Coalition for Free Data claimed responsibility, calling the
+striking down of 'the net's biggest spammer and waster of
+bandwidth' the first in many acts planned against the Internet. 
+The FBI are looking into the validity of this threat, but suspect
+it will not turn out to be any danger to the public.  In other
+news--"
+
+     No mention of some money-making scheme.  I span the reel
+backwards a bit, skipping two articles in the Make Money Fast
+file.
+
+     "--and in lighter news, users all over the Information
+Superhighway woke to find a chain letter written by one Dave
+Rhodes in their mailbox, and a copy of it posted to every 'Use
+Net' group.  A lot of computer guys were miffed at this, and it
+has spawned some angry protests on the network to find Rhodes and
+'make him pay for spamming us'.  Good luck, guys, and have fun. 
+At the city dog show--"
+
+     Looks like they made good on that threat, I chuckled. 
+Still, what was the problem?  Sure, it's a waste of resources,
+but can't you just delete the mail and get on with your life?  I
+twisted the Library viewer a few more degrees, moving on to the
+article I had accidentally passed over.
+
+     "--net ground to a complete halt today as a group junior
+high school students on America On-Line proceeded to launch a
+program that would propagate the Make.Money.Fast file to any
+computer that could receive net mail," the newsman said. 
+"Portions of the information superhighway, clogged with mail from
+the faulty, out of control program shut down.  The students, who
+simply wanted to get the most money they could out of the illegal
+chain letter, are currently remaining anonymous until the
+legality of their actions is determined and a juvenile court date
+set."
+
+     Whoa.  That's why I remembered it... the Make.Money.Fast
+wars, just before the splitting of the net.  The original burst
+of e-mail hit enough gullible users to produce a smaller burst,
+which produced another burst and shrunk at an exponential rate...
+ending after a few months, but causing chaos and flames beyond
+comprehension.  This and the fabled Internet Worm were the only
+times in history that the Internet had to be turned off.  The
+sheer bulk of chain letters and angry replies to chain letters
+did the net in.  The infamous Dave Rhodes was finally tracked
+down and assassinated by a group of net.fanatics.
+
+     So... someone's using a concept similar to and named after
+make.money.fast to get himself stinking rich.  But even if the
+letter does what it says it will do, won't the users be richer
+than Dave... Rhodes the second?  Who WAS he really?
+
+     A mystery, but one that could wait.  I shut down the
+library, vowed never to hire temp help again and jacked out.
+
+                              *
+
+     I jacked in the next day, vowing to get those tapes sorted
+after I found the kid and officially fired him.  Where to find
+him wasn't that hard; he liked to hang out at the Hackburger down
+the virtual street and impress girls with his stories of
+corporate ice and dangerous code.
+
+     UberNet has always been crowded, but it seemed like a lot of
+them were on the street that day.  Probably twice the amount that
+would normally be walking around... it's too easy to get
+pickpocketed or infected with a virus if you wander the streets
+all day.  We never said UberNet folk were nice, just that they
+were cheap.
+
+     "Shine your shoes?" a user asked, waving a cheaply rendered
+metal polisher in my face.  "Just fifty credits."
+
+     "Fifty?" I exclaimed.  "For a little more shine on my
+nonexistent spats?  Are you nuts?"
+
+     "Hey, I'll have you know I spent a lot of time thinking
+about this idea," he said, waving the polisher threateningly.  "I
+know for a fact that it'll work.  If I charge more, then I only
+need a few takers to make money fast.  It's logical."
+
+     "I'd suggest lowering your price unless you want no takers. 
+Excuse me," I said, pushing by him.
+
+     My, the crowd was thick tonight.  It had the street pattern,
+the dance of business... an annoyingly old metaphor, but
+metaphors circle around just as fast as cultures.
+
+     Sickly guitar floated out of the crowd, chords that had the
+same waveform of a cat stapled to a moving garage door.  Someone
+had coded a guitar VERY BADLY and was cheerfully sharing the
+results with Uber at large.
+
+     So, being the spunky can-do UberNet type I am, I walk over
+to the offending musician, grab his guitar and break it over my
+knee.  (It may be rude, but it's for public safety.)
+
+     "HEY!" the musician exclaimed.  "I spent all of last night
+coding that guitar!  It was going to be my ticket to
+millionareland!"
+
+     "I think the phrase is, how do you get into Radio City Music
+Hall?" I asked, handing the broken guitar back.
+
+     "Huh?"
+
+     "Practice!"
+
+     "Huh?"
+
+     "Whatever.  Jokes don't repeat as well.  Point is : You
+suck.  How were you planning on making money off that?"
+
+     "Simple!" he said.  "If I can play badly enough and look sad
+enough, bystanders will take pity and give me cash.  It's a
+pathos appeal, guaranteed to make me money fast.  Kinda sneaky,
+huh?  I'm real proud of it."
+
+     "Did you read a letter, perchance?" I asked, seeing the
+obvious pattern.
+
+     "Yup.  Read it, sent the man in green five creds and copied
+it off for my friends.  We're all gonna be RICH.  Steve's got a
+lemonade stand one block over and Jill is prostituting artificial
+sheep."
+
+     "SHEEP?"
+
+     "She says it'll work," the guitarist shrugged.  "Makes
+sense, since she read the letter too.  It's good stuff.  Dave is
+a swell person to share his business skill with us."
+
+     "About how many people do you reckon have read that letter
+by now?" I asked.
+
+     "I dunno.  A lot.  See the crowd?  They're all trying to
+make some money.  Since they're out here, they can be potential
+customers for me, logically.  It's a great setup."
+
+     "Great, except that if they need money themselves then they
+won't be paying YOU any."
+
+     "Not very logical," he snorted.  "Do you want a copy of the
+letter?  It's great, clears up life's problems like lifting a
+fog.  Sounds like you could use it.  Just so happens I have my
+tenth copy ready to go..."
+
+     "No thanks," I said.
+
+     "Friend, you can't pass up an opportunity like this!" he
+said.  "Whatever you're doing now is burger flipping compared to
+the cash you could be making!"
+
+     "How much have YOU made?"
+
+     "Nothing."
+
+     "Doesn't sound like you're making money fast, then," I
+scowled.
+
+     "Fast is a relative term.  The letter says that.  Here, have
+the envelope.  I've got a guitar to reprogram," he said, passing
+me the letter and wandering into the crowd.
+
+     I considered ripping up the stupid letter.
+
+     "I wouldn't do that if I were you," a voice behind me said. 
+"It'll make your dreams come true."
+
+     I span around, face to face with Mr. Rhodes.
+
+     "You," I growled.  "Don't think I don't know what you're
+doing to UberNet.  I saw the news articles from the nineties, the
+ones where a letter like yours ground the net to a halt.  How
+much profit have you made off this scheme so far?"
+
+     "Enough," Dave said.  "Just enough to survive.  I want to
+help people, really."
+
+     "If this letter spreads as fast as it is, UberNet's gonna be
+overflowing with junior con artists."
+
+     "Touche!  They're all happy businessmen, ready to exploit
+any opportunity that arises.  For instance, did you hear that
+Yttia Online is currently leasing out space on VOSNet to aspiring
+businessmen?"
+
+     "Yeah, I heard.  I couldn't afford it for my Museum."
+
+     "That's BEFORE the price drop!" Dave exclaimed, grin
+extending beyond Silly proportions.  "It's nearly free now. 
+Ready for the claiming.  Comes with a trial subscription to Yttia
+Online, VOSNet's premiere information service.  Good data at good
+prices.  I suggested that to them."
+
+     "I get it," I said.  "You come here, mung up the minds of
+everybody on Uber, and get them to exodus over to VOSNet's Yttia
+Online.  I'll admit, it's one of the more clever schemes to
+destroy UberNet.  The corps have outdone themselves.  Don't think
+it'll work, though."
+
+     "And why not?"
+
+     "History repeats itself.  You'll be dead in a ditch before
+sunrise."
+
+     "Unlikely," Dave said.  "The past is for fools like you who
+seem to want to cling to it.  The future is for people like me
+that are always looking for new ways to succeed.  You'll soon
+realize that.  Lenny?  Steve?"
+
+     "Yes, Dave?" the two hulking users chimed in, fading out of
+the crowd.
+
+     "Please knock out Nostalgia Man," Dave said, pointing to me.
+
+     Lenny blinked.  "Ummm... who's Nostalgia Man?"
+
+     "Him!" Dave said, pointing to me.
+
+     "Why should I be hitting him?"
+
+     "Who's the one in the green suit?" Dave demanded to know,
+pulling on his tie.  "I'm Dave, the green man who is going to
+make you money.  Dave wants N.M. out of the way for the moment. 
+Hit him."
+
+     "Okay," Lenny said, pounding me.
+
+                                   *
+
+     The warning sirens lit up and my consciousness was pulled
+backwards.  I laughed inwardly.
+
+     Biotech is the ONLY thing that has not repeated yet, since
+nothing like it has been seen before.  I happen to have quite a
+bit of biotech in me... it's how I collected my archives for the
+Library, through mind-fixes.  Specifically, fixes that deal in
+information retrieval, storage and security.
+
+     I'm immortal on VOSNet.  My brain goes into danger money
+when you try to do anything to it (one reason why I didn't bother
+reading the letter).  So, I may pass out, but I'm still alive. 
+Not even heavy ice can crack the goods of the Dirty Dozen.  If
+this Rhodes guy had wanted me dead, he did a lousy job of it.
+
+     Give my brain five minutes to recover, and I'll be back in
+UberNet with a big smile on my face.  I float in the red zone of
+protect mode, happy and bored, waiting for protect to go offline.
+
+     KA-BLAM! goes the cheap cartoon sound effect of someone
+forcibly jacking me out of the net.  My mind is pulled straight
+through the red zone wall, and back to its proper place behind my
+eyes.
+
+     There are Lenny and Steve, not in the net, but in my living
+room, one of them holding the wire of my deck and the other
+holding me in my chair.
+
+     Okay, this is not good.  In VR, I may be a god, but in
+reality I'm just this shrimpy tourist with a golden oldies
+fetish.  Danger levels are suddenly very, very real.
+
+     "Let go of him, Steve," Dave said, from somewhere behind me. 
+"You two go wait outside the door.  I'd like to have some words
+with the Nostalgia Man."
+
+     "Yes, Dave," Steven nodded, releasing his meaty grip and
+making a beeline for the door.  The door shut securely, and I
+heard the dull WHUMPH of Lenny and Steve leaning against it from
+the other side.
+
+     Dave Rhodes circled around to the front of my chair.
+
+     He didn't look that different.  Green suit, tacky beyond
+comprehension.  The head wasn't a yellow happy face, but it might
+as well have been... it was the suave, aryan look that spoke of
+confidence, warmth and security.  Politicians would kill for that
+face.  Crooks would do their best to imitate it for a jury.
+
+     "I did a little research myself," Dave grinned, his
+perpetual smile as wide as the one on Uber.  "Nostalgia Man, AKA
+N.M., aka Nosty.  Real name, Raymond Yankovic.  Biotech implants
+give him the ability to absorb information, store and protect it. 
+Has a suction-cup mental jack embedded in his left palm, which
+can be used to tap into the minds of others for information
+retrieval.  Plus, he's the only person who could have heard of
+the make.money.fast file."
+
+     "So you figured you'd just kill me in reality, where I
+couldn't fight back, right?" I said.
+
+     "Not so!" Dave said.  "Raymond... may I call you that?"
+
+     "No."
+
+     "Ray, I need people like you.  Lenny and Steve make great
+influencers, but they're sheep, just like the rest of my proud
+hopefuls.  They need strong leaders.  I've gotten more people
+than I had ever expected, my letter propagating faster than the
+plague.  Now, I could take what I have and apply the counteragent
+to the rest, but the ideal situation would be to let the letter
+continue draining UberNet until nobody's left there.  Maximizes
+my profit at a minimal loss."
+
+     "What does this have to do with me?" I asked.
+
+     "Simple.  I need people who can't read the letter.  People
+who don't have squabbles with logic.  People to manage, maintain
+and track the new immigrants to Yttia Online.  You have the
+ability to store and retrieve information like that, and the
+skills to keep track of it all.  We'd have to expunge your
+archives of those silly relics first to make room, however."
+
+     Dave took my deck wire, and fastened it to my forehead. 
+"I'm sure we can work by your little mind-lock together and get
+you on the right path.  Let's discuss it."
+
+     Before I could protest, Dave had my deck on and I was in the
+Museum proper.  Dave formed in front of me, happy face head and
+all.
+
+     Knowing how well this guy could warp minds over the network,
+I didn't want to take my chances battling him at a direct mental
+level unless I had to.  But how could I elude him, keep my
+archives, and get away with my life intact?
+
+     "You know, now what we're here," I said, "It gives me an
+idea."
+
+     "I always enjoy good ideas.  What is it?"
+
+     "This," I said, pulling out the guitarist's letter number
+ten and ripping it open.  I shoved the print in Dave's face,
+sliding over to keep his head aimed at it.
+
+     "Have a taste of your own medicine, Mary Poppins," I
+chuckled.  "A few paragraphs of this and you'll be a babbling
+idiot like the rest of the people you've infected."
+
+     "This is good stuff," he said.  "I should know.  I've read
+it before."
+
+     "What?" I asked, letter slipping from surprised fingers.
+
+     "Of course!  How do you think I came up with the letter
+idea?  It's a great way to make money fast, I'm sure of it.  It's
+logical and will work."
+
+     I gaped.  How dare this guy go off and infect himself with
+his own disease, thus preventing the hero from taking the typical
+route of poetic justice?!  History had to repeat itself, dammit! 
+That's how it works!
+
+     "You probably think of me as some scheming, underhanded
+fellow," Dave said.  "Not so.  I don't work for Yttia Online. 
+Well, perhaps according to them I do, but I personally WANT Yttia
+Online for my own purposes.  I want to help people get there, so
+I can overthrow it, and provide business opportunities for all. 
+The net has so much commercial potential, but these backwards
+UberNet types reject the net's true purpose!  I just set them on
+the right path, bring them together, and make profit for all.  To
+do this fast, which was promised, I need your help."
+
+     Dave placed his palm on my forehead.  Tiny intrusion
+programs fire, poking dangerously close to my red zone protector.
+
+     "Hold still, please.  I'm doing this for your own good,"
+Dave said.
+
+     How could he get by my security package?  It was top-notch
+biotech!  Already I could feel the nanites pushing past layer
+after layer, burrowing down to my precious mental archives.
+
+     Alright... if we want to find out HOW, we ask the source. 
+Not verbally, however.  I press my palm to Dave's stupid yellow
+head, and ask his mind DIRECTLY.
+
+     The torrent of information was overpowering.  Dave didn't
+lead a very closed life, everything he ever wanted out in the
+open and for sale.  Programs, schemes, future plans, everything
+laid out in indexed order.
+
+     A tidy mind is a good mind.  Good for those of us who
+specialize in thought-eating, that is.
+
+     Dave's probes are like a blind child swinging a stick at a
+pinata compared to mine.  Normally I ask for permission first to
+scan someone's brain, but hey; Dave didn't ask ME if he could
+poke into my brain, why should I return the favor?
+
+     I ate it all, sucking copies of Dave's plots and programs
+into my own databanks.  Then, I pushed him away, and jacked out.
+
+     Dave was there, jacked into my computer and extremely
+surprised.  I grabbed the deck off the table and smashed it
+across his jaw, spinning his silly grin around and sending it
+crashing to my carpet.
+
+     It was so obvious, I thought, reviewing over Dave's stolen
+thoughts.  You'd have to have impaired logic not to see the hole
+in your plan.
+
+     I started to pull Dave's pants down.
+
+                              *
+
+     "Is everything okay in here, Dave?" Steve asked, peeking in
+the door.  "I know you told us to stay put, but we heard this
+noise and were worried that you might have been hurt..."
+
+     "I'm fine," I said.  "Here.  I have new orders for you two. 
+Take this disk and go load it into your computers.  You'll find
+an envelope on it.  It's a new money-maker, TWICE as fast!"
+
+     Steve and Lenny gaped.  "You mean... more money?  Faster
+money?"
+
+     "Faster than a Yugo on acid," I said.  "Read it, and give
+copies to ten of your best friends.  Plus, this letter's FREE! 
+You've got nothing to lose!"
+
+     Lenny and Steve practically climbed over each other to grab
+the disk.  "We'll do it, Dave!  Anything for the man in the green
+suit.  We'll do it right away!"
+
+     "Good for you two.  I'll deal with N.M. here," I said,
+nudging Dave's slumbering, tourist-garbed form with my toe. 
+"Have fun!  Share the information."
+
+     Lenny and Steve ran for the door, trying to squeeze through
+it simultaneously.  That was that.  I straightened my tie.
+
+     Dave was probably smoking something when he wrote the code
+of the letter.  Sure, his followers had to obey his command, but
+only because of his tailor... they'd follow anybody in that green
+suit.  It must have seemed logical at the time, in a simplistic
+sort of way.  The man in the green suit makes the rules.
+
+     He also made the mistake of developing a counter agent.  Why
+he did this and left it out in the open of his mind, I have no
+idea... maybe some of his sanity leaked back in and realized what
+it was doing.  Maybe it was part of some demented logic game.
+
+     The circle was complete.  The net faced the chain letter
+from hell and defeated it again.  Not by some terrorist swinging
+in on a rope to assassinate its maker, though.  Oh well.
+
+     My window shattered, as a terrorist swung in on a rope,
+quickly pulling out a blaster and placing it below my brainstem.
+
+     "This is the END of you, Rhodes," the man spat.
+
+     "No!  Him!  Him!" I said, trying to wiggle away.  "I just
+changed clothes with him!"
+
+     "Don't think you can weasel out of THIS.  You'll pay for
+what you did to the last vestige of freedom on my net!"
+
+     I worked a hand free (my left one) and palmed the
+terrorist's forehead, quickly dumping memories of the last few
+minutes into his head.  He stumbled backwards, and I darted for
+cover.
+
+     "Uhh... argh.  My head," he groaned, groping at his skull.
+
+     "Sorry for the forced injection," I apologized, "But I
+wanted to live."
+
+     The man nodded, realization of what just occurred slowly
+hitting him, like a bat in slow motion.  "I'm too late?"
+
+     I nodded.
+
+     "I knew this was a silly idea," the man said, grumbling
+under his ski mask.  "I just got fed up with what I was seeing
+and thought I should do something about it..."
+
+     "It's okay.  You ought to take Dave with you anyway, so the
+media picture is complete.  I'll fake a story to the police," I
+said.  "We need to ensure that the script follows just as it did
+last time, or else make.money.fast might happen again."
+
+     The man nodded, pulling the stunned Rhodes up to his feet. 
+"Alright.  Consider it done.  When I'm done with him, he'll WISH
+I had killed him."
+
+     "Who are you, by the way, so I can let the media know?" I
+asked.
+
+     "William," he replied, before leaping out the window with
+the chain letter master in tow.  I ran to the window to watch the
+two of them hit the pavement, but they were gone.  Vanished.
+
+                              *
+
+     The anti-letter spread just as quickly as the original, and
+UberNet resumed normal illegal activity a few days later, with a
+slight headache and a desire to forget the events of the past few
+days.
+
+     After the much embellished news story I told the media,
+make.money.fast was declared illegal on UberNet and VOSNet. 
+Occasionally you'd see some poor guy trying to restart it,
+dreaming of fortunes and riches, but they didn't last very long. 
+Hopefully they'd try it on VOSNet, where you can just have your
+access revoked... UberNet types revoke other things.
+
+     Rumors of this mysterious vigilante who had disposed of
+Rhodes for me flew, spawned on the news story.  Rumors spread
+just as fast as little letters, but that's normal and in keeping
+with the way of things.  History repeats itself, just like it
+should, and life goes on for all.
+
+     Nobody gets rich quick, though.
+
+
+
+
+
+
+Okay, here's a repost of the first Christmas Episode, for those of
+you who may have missed it.  Actually, it's not as bad as it sounds
+in the header; I think I exceeded it in spades with Xmas II.
+
+-=-
+
+A Future We'd Like To See 1.29 - The Christmas Episode
+By Twoflower (Copyright 1993)
+
+     DISCLAIMER :
+
+     This is quite clearly the most tasteless, gory, violent,
+repulsive thing I have ever written.  It has everything a teenage
+slasher film has except the sex scenes, and that's just because I
+couldn't find a good place to put them in.  It's really not
+suitable for children, or even adults for that matter... but if
+you've got a sick sense of humor and have watched the network
+holiday specials a few too many times, maybe it's time for you to
+read something like this.
+
+     Thou hast been warned.
+
+                              *
+
+     The ancient 8-track player crackled to life, as its play
+button was nudged by a nearby chunk of a store-window dummy.  The
+archaic playback machine sputtered and whirred as the ground
+shook.
+
+     "I'm, dreeeeaaming," it sang, "Of a white, christma--"
+
+     It was silenced by gunfire.
+
+     Chrissy ducked behind the counter as a line of stray machine
+gun fire ripped up the holiday glove displays.  Screaming and
+covering her head, she crawled as far back into the checkout area
+as she could, avoiding the broken glass.
+
+     "THIS YOUR FIRST YEAR?" the other clerk yelled at her from
+the other side of the tiny crawlspace under the cash register.
+
+     "YES!" Chrissy yelled.  "SO?"
+
+     "DON'T PANIC," he shouted back, in a rather calm way.  "IT'S
+LIKE THIS EVERY YEAR.  HERE, LEMME MAKE IT A BIT QUIETER..."
+
+     There was a scream of pain as another crazed shopper was
+plugged mercilessly with hot lead.  Three shoppers immediately
+pounced on the corpse, looting it of gifts.  The clerk shrugged
+and opened up a secret hatch under the counter, tapping a red
+button.
+
+     An impenetrable force field popped up around the counter and
+behind-counter area, as Chrissy could see by the various bullets
+and blood stains sticking to thin air.  The clerk frowned, and
+tapped another button, silencing out all the noise.
+
+     "Much better," he said.  "That should hold through the
+night.  So this is your first pre-christmas sale?"
+
+     "Err... yeah," Chrissy said.
+
+     "Well, looks like you've come out of it better than most of
+us," the clerk shrugged.
+
+     Chrissy looked down at herself.  Her nice department store
+uniform was ripped and stained, her blouse missing a button and
+torn by weed whacker from the hardware department.  Her normally
+every-hair-in-its-place look was now suitable for setting on fire
+and calling out to shepherds.
+
+     Of course, the clerk was worse.  Most of his tie had been
+shredded, along with his shirt.  One shoe was missing and his
+pants had a few gashes, along with some makeshift bandages.
+Despite this, he was still grinning.
+
+     "Come on, it's safe to stand up," he said, getting to his
+feet.  "They can't get at us now.  We're lucky we managed to get
+back here in time."
+
+     "Why... what..." Chrissy stammered, looking at the violence
+and looting going on around her.
+
+     "It's always this way around the holidays," the clerk
+shrugged as another arm hit the shield, followed a second later
+by the other one.  "You know, last minute gift purchases,
+shortages of stock, rare items, the usual.  Heck, I remember when
+they brought back Cabbage Patch Kids.  We were wading around
+ankle-deep in fluid the next day."
+
+     "How could people be so... so... CRUEL to each other?"
+Chrissy said, horrified at the insane shopper slugfest going on
+outside their shelter.
+
+     "It's a sale," the clerk replied.
+
+     "Oh," she commented, trying to look away from the carnage.
+"Say, umm, what's your name?"
+
+     "How long HAVE you worked here?"
+
+     "Oh, about three weeks."
+
+     "Fair enough.  I've been on vacation that long.  Name's
+Jobe.  What's yours?"
+
+     "Chrissy," the girl replied, shaking hands with the boy.  A
+bit of unknown stain was exchanged in the process.
+
+     "Didn't they give you any training?" Jobe asked.  "You know,
+the usual?  Customer support, buyer satisfaction, small arms,
+wilderness survival?"
+
+     "Well... no."
+
+     "Humph.  Cost cutting," Jobe humphed.  "In my day, they'd
+have you out in the woods with nothing but a knife and a compass
+a good fifty days before today.  The lucky ones that came back
+were usually hardened enough to handy the Holiday Shopping
+Nightmare.  It's times like these that really try a man's soul...
+so how about some yogurt?"
+
+     "Excuse me?"
+
+     "Well, it looks like most of the battle is moving down to
+the audio/video department.  We could always go to the Frozen
+Yogurt And/Or Croissant Shoppe on the lower level and wait it
+out.  Unless they burned it down like they did last year."
+
+     "Is it safe?"
+
+     "Sure," Jobe lied.  "Here, I've got a few bullet proof vests
+and some kevlar under the counter.  Just a stroll in the park.  I
+doubt anybody's planning on legitimately purchasing anything, so
+there's no need for us to hang around."
+
+     "Surely SOMEONE has called the police!" Chrissy exclaimed.
+"I mean, this, this is MADNESS!"
+
+     "Oh, the police are here," the clerk said.  "See?  There's
+Officer Wiggins beating up that working mother to get the Manly
+Morphing Energy Cowboys Action Playset.  Boy, it's the last one
+left.  I wonder if he brought his nightstick to defend it."
+
+                              *
+
+     Jobe casually walked around the gunfights and beatings with
+a whistle and a smile, as he and his frazzled companion waltzed
+on in their sturdy armor.  Chrissy counted at least six different
+local POW laws being broken just walking down the east wing of
+the mall.
+
+     "WHERE'S THAT DIRECTORY?" Jobe shouted.  "IS THE YOGURT
+SHOPPE ON THE FIRST OR SECOND FLOOR?  I KEEP FORGETTING."
+
+     "WHAT?"
+
+     "DUCK!!!" Jobe shouted, jumping to the ground.  Pausing only
+momentarily, Chrissy followed, as a surface to air missile
+slammed into left door of Herbert's Sporting Goods Store.  There
+were a few screams of agony, the sound of a few thousand
+basketballs overheating and exploding, and the faint smell of
+burning flesh.
+
+     "THE JANITORIAL DEPARTMENT'S GONNA LOVE THIS," Jobe laughed.
+"HMM.  IS THAT A BLOCKADE UP AHEAD?"
+
+     "LOOKS LIKE PILED UP OFFICE FURNITURE TO ME," Chrissy
+replied (loudly).  "EEK!"
+
+     "WHAT?"
+
+     "SOMEONE'S TRYING TO STICK A KNIFE IN MY BACK!"
+
+     "HA.  THE ARMOR'LL PREVENT THAT.  JUST IGNORE HIM, HE'LL GO
+AWAY WHEN HE GETS BORED.  HMM.  WE'LL HAVE TO TAKE THE ELEVATOR."
+
+     There was a dull WHUMPH, and the elevator exploded into
+flames, littering bags of musical Battlestar Metallica ornaments
+over the fountain.  Shoppers charged like lemmings on crack,
+clawing over each other to grab them.
+
+     "WELL, LOOKS LIKE THE ELEVATOR'S OUT OF ORDER," Jobe sighed
+(loudly).  "THIS IS NO FUN.  WHADDYA SAY WE JUST GO HOME?"
+
+     "WHAT?"
+
+     "I SAID, LET'S JUST GO HOME!"
+
+     "SOUNDS FINE HERE!" Chrissy said, as the man trying to stab
+her got bored and left.
+
+     "ALRIGHT.  YOU STAY HERE, I JUST GOTTA GET A BABY BURPEE
+DOLL FOR MY DAUGHTER.  BE RIGHT BACK," he said, pulling out a
+large bowie knife and holding it between his teeth.  He flashed a
+thumbs up and dived into the fray, swimming through the sea of
+shoppers towards the Toys Be We store.
+
+     Chrissy wiped away some vomit from a nearby bench and had a
+seat, examining the lovely holiday displays instead of the
+beatings in front of her.  Only about three of them weren't on
+fire, however.
+
+     A Kiddie Hovertank from the top floor soared over the
+handrail, spinning out of control and exploding violently against
+the wall ten feet away.  The blast threw Chrissy off of her seat
+and into the fountain, where she gurgled a bit before finding
+something hard and lumpy in her hand someone had dropped in the
+fountain.
+
+     Pulling herself to the surface, she examined it.
+
+     "GIFT CERTIFICATES?" she wondered aloud.
+
+     The entire wing fell silent, as a few thousand pairs of eyes
+turned on her.  Not on her, specifically, but on the plastic gift
+tokens valid through next year.  ShopperVision(tm) only cared
+about these; Chrissy herself registered as just an obstacle in
+the way to the tokens.
+
+     Several dozen shoppers pounced on her, displacing a great
+deal of water.  All Chrissy could remember was the sight of
+twenty eyes, wide in insanity, gazing down in capitalistic greed
+as various blades, blunt objects, and bullets were slammed into
+her.
+
+                              *
+
+     Her vision recovered before her brain did, which is
+fortunate, because the sights around her weren't pretty.
+
+     At first she thought she had gone deaf, but this wasn't the
+case.  There simply wasn't any sounds to be heard.  All around
+her lay the corpses of the dead, with their bloody bags (now
+empty, as no gift is laid to waste) clutched in iron grips of
+death.  Sunlight was streaming in from the overhead windows, and
+the muzak could faintly be heard playing a strangled version of
+'Jingle Bells'.  Church bells from across town could be heard
+ringing in blissful harmony.  It was Christmas morning!
+
+     "Rise and shine, kiddo!" Jobe said, moving into her frame of
+vision.  "Boy, that took awhile.  One Baby Burpee left in stock.
+Had to chase this guy halfway around town, but I finally got it,"
+he grinned, showing her the somewhat battered doll.  It burped.
+
+     "Gurgle," she gurgled.
+
+     "Don't try to move," Jobe said, applying more bandages to
+her.  "You're lucky all the healthkits weren't purchased.  You're
+really quite a mess.  Had to pump the water out of your lungs,
+stop the excess bleeding, and all that... took two kits or so to
+patch you up when I found you here a few hours ago.  Don't worry,
+the store's medical plan will pay for resettings, transfusions,
+plastic surgery, etc.  No need for alarm.  Just keep breathing.
+Say, you know what the funny bit is?"
+
+     Chrissy nodded, head splashing against the red pool she lay
+in.
+
+     "You're in better shape than I was after my first christmas
+here."
+                              *
+
+               o/~ Should all aquantance be forgot,
+               Somethingorother, aud long sang... o/~
+
+     Seasons greetings from us here in the future we'd like to
+see, and remember, there's only twenty more chopping days until
+christmas!  And if you're the kind of person who took this story
+serious in any way whatsoever, you really need to get out more
+often!
+
+               o/~ Should all aquantance be forgot,
+               Somethingorother, aud long sang. o/~
+
+----
++--Stefan-"Twoflower"-Gagne,-net.writer-and-all-around-weird-character------+
+| Ob.Inside.Jokes : YAPAPA YMMV AB PK I3 FWLS ABM MST3K RD6 TNG T7G MI2 MK  |
+| LQTV DPW VOS KCIDAIDKW NIN STP OVA R1/2 DTP AKO AL TMBG FM AM SAM/MAX DOTT|
+| Finger for Cyberpunk Humor information and other fun materials.  @whee.   |
++---------------------------------------------------------------------------+
+
+
+
+FWLS #64 and #65 kind of make a matched pair.  One's depraved and
+the other is enlightening.  I wouldn't recommend reading one without
+reading the other, even though the plots aren't linked in the least.
+
+If this story doesn't get me flamed, NOTHING will. :)
+
+-=-
+
+A Future We'd Like to See 1.64 - The Christmas Episode II
+By Stefan "Twoflower" Gagne (Copyright 1994)
+
+     Hey, kids!  Remember last year, when we took a blood-soaked
+visit to your local shopping mall?  We're going right back there,
+and it's gonna be MUCH nastier this year.  You are hereby WARNED
+that this story contains some or all of the following : kidnapping,
+torture, abuse, gunplay, cutting people up into little bits, n/c
+sex, mayhem, anarchy, disorder and other acts of EVIL.  Huzzah.  If
+any of the above offends you, don't read this.  I don't approve of
+ANYTHING in this story, right up front, so if you go and bite the
+head off your mother or something like that after reading, you're
+a sick fuck indeed.  (By the way, there will be cursing in this
+story.  Errr... too late.)
+
+     Also, this story is less comedic and slapsticky; there's a
+slight sarcastic and cynical edge, but I was aiming for more of a
+'shot in the dark' pun intended this time.  G'wan, taste the bile.
+It's fun!
+
+     Thou hast been warned, regardless.
+
+                              *
+
+     "Five credits buys you five Christmas wishes," I said, nudging
+the stupid little white ball on my hat away from the nth time
+today.  "Ten buys fifteen.  One buys one.  Photos with Santa and
+the elves are five extra.  Hurry up, lady, I've got to get out of
+here before the end of the hour."
+
+     "So do I," she said.  "It's almost time."
+
+     "You think it'll happen again this year?" I asked.
+
+     "Of course it will.  It happens EVERY year.  You can set your
+watch by it.  I'll take five wishes and one photo."
+
+     I ran the lady's credit card through the register,
+transferring her fee and handing it back.  "Santa will see your son
+now."
+
+     "Come on, Billy," she said, urging the kid onward, who was too
+busy being mesmerized by my red and white hat.
+
+     Nobody quite knows why the Christmas Eve Riots happen,
+especially at this particular shopping mall.  Each year, the
+shoppers come in happy and bright, and leave in bags.  It usually
+starts once the shelves start going empty... polite requests to
+hand over an item turn into angry words, which become fists.  Fists
+become brawls, with shoppers nearby getting involved, and
+eventually weapons are drawn and the war begins.
+
+     Psychologists don't know what makes the shoppers go berserk,
+prizing packages and parcels over human lives.  Maybe it's the
+color arrangements and light patterns in holiday displays.  Maybe
+it's the stress of an entire life of family living building up into
+a crescendo of rage.  Maybe people are just bastards.
+
+     This year would be different, though.
+
+     I wasn't gonna hang around this year, and neither were any of
+the other mall staffers.  By mall administrative order, once seven
+PM rolled around (statistics showed this to be the approximate
+start of the bloodshed), all staff members would be evacuated by
+crack Not-So-Secret-Agent teams and lifted by shuttle to a safe
+distance.  The doors would be sealed and sleeping gas would pour
+in, leaving the shoppers in a happily comfortable state before any
+major anarchy can erupt.
+
+     A bold measure, yes, but over the last decade it has been
+proven again and again that nothing less than bold measures will
+work.  Closing the mall for the day is no good, since the shoppers
+show up on the last available day.  Riot police usually lose more
+in the ranks than the shoppers do, and after two years they
+officially protested being hired to guard the mall, claiming cruel
+and unusual punishment.  Closing down the sporting goods store to
+keep weapons from flowing freely was no good, since the shoppers
+had proven they could break through the cheesy mall barricades;
+adding more barricades encouraged BYOB, Bring Your Own Blaster.
+
+     So the mall was just going to clock everybody over the head
+with gas and call it a night.  Sounded perfectly fine here.  None
+of the shoppers knew this, of course... that would ruin the plan.
+
+     The clock approached 6:50 when the man in the trenchcoat
+walked up to the Sit On Santa's Lap! display.
+
+     "Five credits buys you five Christmas wishes," I recited.
+"Ten buys fifteen.  One buys one.  Photos with Santa and the elves
+are five extra."
+
+     "I'll take one wish, and that's to get you out of here," he
+said.  "Not-So-Secret-Agent #46336A.  I'll be your personal escort
+out of the building tonight.  Are you miss Stacey Q. Victim?"
+
+     "Yeah," I admitted.  "When do we go?"
+
+     "NOW.  All of the others have been evacuated already.  The
+crowd is starting to get suspicious; apparently the lifelike
+dummies we left in place aren't fooling them.  The staff is
+considering closing early, so we'd better hoof it."
+
+     "Early?" I gulped.
+
+                              *
+
+     I could see it in the crowds already.  The tension had mounted
+all afternoon, building over missing items, out of stock gifts, and
+inflated prices.  There was going to be a blow of anger, one after
+another, all coming down in a few minutes.
+
+     The agent practically dragged me through the crowds, keeping
+a single hand locked around my wrist like a handcuff.  I tried to
+avoid the bloodshot eyes of the soon-to-be-animals, and concentrate
+on getting to the door.
+
+     We were dashing by the Chicken Inna Bucket, the last stop
+before the doors when we heard the noise.  It was a great grinding
+of metal, as the newly installed blast doors started to descend.
+
+     Another identical agent peered through the rapidly closing
+gap.  "#46336A?!  Jeez, hurry!  We thought you were out already!"
+
+     "I was in line for a photo with Santa," the agent said.
+"Sorry.  We--"
+
+     The first gunshot of the night rang out.  A scream ripped the
+air, followed by another, and some angry shouts.
+
+     The door sped up to infinite velocity, slamming shut and
+cracking the cheap mosaiced tiles underneath.  We weren't on the
+correct side when it happened.
+
+     "Umm," he said.  "Did I forget to mention the doors were
+triggered to emergency-seal in the event of the riot breaking out
+early?"
+
+     "You don't say," I mumbled, not sure how I was supposed to
+feel about this.
+
+     "Yeah.  Audio triggered.  NSSAC spared no expense.  SHIT!"
+
+     #46336A grabbed me and dove into a side restroom, as a
+hundred-odd shoppers made a dash for the blast door, screaming and
+pounding.  THEY obviously didn't want to be here, and were quite
+unhappy that they were sealed in.
+
+     The agent shut the restroom door and pushed a few tin garbage
+containers in front of it.  "This is not good," he said, listening
+to the moaning hordes just outside the door.  "I hope you don't
+mind being gassed, miss."
+
+     "Gassed?!"
+
+     "We're inside the gas zone," he said.  "Don't worry, I've been
+gassed a lot of times.  Part of NSSAC training.  It's not painful.
+Just inhale deeply."
+
+     I inhaled.  Once, twice, maybe six times, but I didn't feel
+very dizzy.  Did sleeping gas have color?
+
+     "Something's wrong," he said.  "Something is VERY wrong..."
+
+     The agent fumbled inside his trenchcoat, pulling out a cheap
+radio.  "#51122, #51122, what the hell is going on?"
+
+     'The gas was supposed to be shipped fucking YESTERDAY!' the
+agent on the other end of the connection cursed.  'It's not here!
+Get your butt up to the roof, the brass is getting into a panic
+about this...'
+
+     "So am I, #51122.  I'm stuck inside a bathroom with my
+escortee."
+
+     'YOU'RE INSIDE?!?!'
+
+     "Yeah, and let me tell you that I've got a wife and kids to
+get home to, and I'm happily awaiting rescue from this hellhole
+before it gets any worse."
+
+     'Fat chance!  Nobody's allowed in or out.  You're there for
+the duration.'
+
+     "WHAT?" the agent screamed.
+
+     'Hey, you've got combat training, use it.  Go hide out until
+morning.'
+
+     "What about me?" I asked, getting more and more agitated by
+the second.  "I don't have any combat training!  I'm Santa's Little
+Helper, for crying out loud!  The mall cut the budget for Holiday
+Survival Courses since they had this seal 'n gas plan."
+
+     'I'd suggest that you use rage on your escortee, we'll pick
+her up in the morning,' the other agent suggested.
+
+     "Dammit, I'm not authorized to do that!  It's not fully
+tested!"
+
+     'Your problem, not mine,' he offered helpfully.  'By the way,
+our shrinks say that without the gas, the door seals are probably
+going to enrage the crowd beyond any previously known limits.
+They're gonna be doing more than shopping.  Good luck, man, #51122
+out.'
+
+     "You can't just leave me here!" the agent shouted, throttling
+the radio.
+
+     'I've got orders.  Over and out.'
+
+     The agent stomped over to a toilet and flushed the radio.
+"Suck that down, you bastard.  Great.  Just great.  You know, I
+should have seen this coming.  One more month and I retire.  The
+soon-to-retire guys ALWAYS bite it."
+
+     "I thought you had combat training," I weakly offered.
+
+     "Combat training yes.  I can take down an unarmed opponent one
+on one or hit three moving targets.  Three THOUSAND is another
+matter," he said.  "I'm doomed."
+
+     "And me?" I asked.
+
+     "Equally doomed.  Unless...!"
+
+     "What?  WHAT?"
+
+     "Nothing.  I was kidding.  You're doomed."
+
+     I groaned, slumping down against a stall.  "I don't wanna be
+doomed.  I've got a future to think about and a term paper due
+after break."
+
+     "Well... there is one thing... how bad do you want to live?"
+he asked, tentatively fishing through his many pockets.
+
+     "Bad?" I offered.  "Pretty damn bad.  Why?"
+
+     "Bad enough to put up with what could be the worst night of
+your life?"
+
+     "If I don't live, this'll be the worst night of my life
+anyway."
+
+     "Okay.  Turn around," he said.
+
+     "Huh?"
+
+     "Just do it!"
+
+     I shrugged, and turned around.  The agent promptly stabbed me
+in the ass with a knife.
+
+     I screamed in pain and spun around, as the agent was tossing
+an empty needle and syringe, not a blade, down the trash can.
+"There.  You ought to live now.  Wish they had given me two
+doses... damn these 'the victim is more important than you'
+laws..."
+
+     "What the hell did you just do?" I asked, rubbing my sore
+rump.
+
+     "I gave you the rage.  Very experimental.  Just remember, fear
+is the survival trig--"
+
+     There was a deafening roar, as a running chainsaw blade jabbed
+itself through the door, cutting away at the locking mechanism.
+The agent's eyes went REAL wide behind the sunglasses as he fished
+around his pockets for something lethal, but the door was open
+before he could react.
+
+     A group of shoppers barged in, plowing into us full tilt.
+#46336A was slammed against a wall, his nose jamming into the wall
+and leaving a bloody smear as his head was pulled away.  I hit the
+stall I was leaning on shoulder first, a two hefty sized guys
+pushed me against the wall.  Another pair took the spy and braced
+him against the wall.
+
+     The boy entered.
+
+     He was maybe seventeen, tops.  A typical gothic punk, like
+some of the jerks in my grade, wearing a dark overcoat and inch
+thick glasses.  He nodded to the men who held us at bay.
+
+     "Good work, gentlemen.  I take it you, sir, are a Not-So-
+Secret-Agent?"
+
+     "Happily employed," he joked.  One of the men grunted and
+punched him across the jaw, starting the constant flow of blood
+from his nose.
+
+     "You, sir, have ruined my plans for the evening with your
+lockout," the boy said, pointing an accusing finger.  "Take his
+coat."
+
+     "Not the coat!" the agent pleaded.  "It's the only way I'll be
+able to live--"
+
+     One of the men pulled out a knife, and sliced the coat off the
+Agent, pausing only when it snagged on random bizarre mechanical
+devices which were hidden in its pockets.  The coat clattered to
+the ground, spilling various concealed weapons and machines of
+unknown nature.
+
+     "Throw him to the shoppers," the boy said.  "They will enjoy
+meeting one of the people responsible for trapping us here."
+
+     The two men grinned, and dragged the agent kicking and
+screaming out to the hallway.  I could hear the chainsaw start
+again before the boy closed the restroom door.
+
+     "You work here, don't you?" he asked, after the wet ripping
+noises and screams from outside.
+
+     I nodded quickly, trying not to be scared to death.  Who was
+this twerp?  What was going on?  Agonizing death at the hands of an
+enraged mob I could understand and expect but not this.  Nothing
+organized.
+
+     "You'd like to live, won't you?" he asked.  "That seems to be
+the driving force of the night.  I've studied it year after year,
+analyzing what goes on at this mall on Christmas Eve when the halls
+run red with blood.  They all want to live, but don't want anybody
+in their way to live.  I trust you are similar to them, and want to
+live?"
+
+     "Yes?" I offered.  Why were so many people asking me that
+question tonight?
+
+     "I'd suggest you come with me, then," he said.  "Now that the
+doors are shut, I fear my plans may be more gory than previously
+expected.  Only those that have already banded with me will
+survive.  Right, boys?"
+
+     The two men nodded over and over again, grinning all the way.
+
+     "Good.  You two go organize the others and start a store to
+store search for valuables.  You know what to do to anybody might
+have taken them already."
+
+     "Yeah," one of the men said, pulling a battered chainsaw out
+of his cheap plastic shopping bag.  "Cut your way through.  Come
+on, let's go."
+
+     The two men stopped holding me back, and made their way
+through the door, bodies barely fitting through the doorframe.
+
+     "They're good men," the boy said.  He rushed forward towards
+me, and I put my hands up to block any crazed attack... he wrapped
+something around my wrist...
+
+     "Typical reaction," he said.  "Arms up in fear.  Fear is good.
+You'll notice your left wrist is twist tied to my right one... yes,
+the same twist ties used on those silly real life police dramas.
+They don't come off without the scissors I have back at my
+encampment.  Don't worry, it's for your own good."
+
+     "Who are you?" I asked, trying an experimental tug at the
+happy yellow bracelet encircled around our wrists.
+
+     "Oswald P. Faraday," he said.  "Controller of chaos.  And
+you?"
+
+     "St... Stacey Q. Victim.  Santa's little helper," I said, kind
+of embarrassed.
+
+     "Victim.  How... cute.  I could use the company; my men can
+handle the organized looting, leaving me very little to do.  I
+planned to leave once they started to work, but it seems your
+friend in the coat has stopped that plan.  Take off the hat."
+
+     "Huh?"
+
+     "The santa hat.  You look like an idiot.  Plus, it'll peg you
+as a store worker, and the last thing the mob wants to see is a
+store worker."
+
+     I nodded, and ripped the silly hat off my head, tossing it in
+the garbage can that had been knocked aside.
+
+     "Now, off into the fray," he said.  "I'm wearing armor under
+this coat, but I'm guessing you aren't.  Try not to die."
+
+                              *
+
+     Fingers clawed at me, shoppers fleeing the chainsaw-toting
+looters under Oswald's control.  Minor skirmishes stopped in a
+global effort to stay away from these people, who didn't seem to
+care if you were in the way or not; just nearby, within a rotating
+chain's reach.
+
+     I tried to ignore the lumpy things I was stepping on, bumping
+from shopper to shopper as Oswald kept up an even pace through the
+carnage, facial expression unchanging.
+
+     I was trying to swallow down my fear.  Fear in a situation
+like this would only hinder you; if I succumbed to it, I'd be dead
+in seconds.  It took all my concentration to avoid having Oswald
+turn around and see himself attached to a severed arm.  The crowds
+were crawling over each other like reptiles, biting, clawing,
+shouting half-coherent bawls of rage.  They attacked anything;
+potted plants, dead bodies, wall decorations of reindeer and happy
+little elves.  One group was singing carols around a stack of
+burning shopping bags... I tried to ignore the leg sticking out
+from the bottom of the blaze.
+
+     Another chainsaw guy walked alongside us, keeping the horde at
+bay as we made our way... wherever we were going.  Occasionally a
+half-mad shopper would run in front of Oswald, shouting the ravings
+of the truly disturbed; Oswald would frown slightly, point, and the
+offending shopper's head would roll away so we could continue.
+
+     Eventually we reached the Fountain Nexus, which was already
+tainted from the two bodies floating face down in it.  This was the
+pride and joy of the mall, with tasteful flower arrangements (now
+mangled) and nice patterned carpeting (stained beyond recognition).
+Plus, the Crystal Elevator, a gleaming glass crystal with expensive
+carpet flooring sliding up and down its shaft, carrying shoppers
+between floors.
+
+     It seemed stuck between floors at the moment, empty and
+waiting.  I had never seen the elevator STUCK; it was controlled by
+computer, and couldn't break down.  Oswald walked with me to the
+first floor elevator stop, and whistled a completely non-catchy
+tune.
+
+     "Audio control," he said.  "Same as the doors, I think...
+somewhat ironic, I suppose."
+
+     The elevator slid to a halt before us, doors sliding open.
+Oswald ignored any attempts by me to protest and stepped inside.
+He held the door open with one hand and turned to our armed escort.
+
+     "Make the final loots quick and easy," he said.  "Then hole up
+in Unpainted Chairs and Tables until morning.  I'll be on right
+here if you need me."
+
+     "Right, boss," the sawman said, nodding in salute and walking
+away.  Oswald tapped the door close button and the button for floor
+two.
+
+     The elevator lurched to a start, and slid silently up the
+tube.  When it was halfway up, he whistled another completely
+tuneless tune and the elevator stopped.
+
+     He picked up a pair of scissors from the ground, and split the
+plastic strip that kept us locked together.  I dashed to the other
+side of the elevator, massaging my wrist.
+
+     "Something wrong?" he asked, setting the scissors down.
+
+     "Why'd you bring me here?" I asked.  Swallow that fear; fear
+isn't good to have.  Ignore your fear of enclosed spaces and your
+fear of heights and fear of strange emotionless boys in dark coats
+that kidnap you...
+
+     "Why not?" he said.  "It seemed like the wrong thing to do at
+the time.  I suppose I could have turned you over to the filth and
+had them tear you apart, but that would only be fun for a little
+while."
+
+     "You're Generik Evil, aren't you?" I asked.  "I've heard about
+you.  You're sadists."
+
+     "As much fun as my limited enrollment in GE was, it was that,
+limited," Oswald said.  "They didn't like me because I planned
+things too far in advance.  I wasn't spontaneous enough.  I engage
+in spontaneity to have fun, but when business arrives, I plan.
+Generik Evil has the attention span of a flea."
+
+     "I suppose I'm supposed to thank you for getting me to
+safety," I said.
+
+     "You can if you want.  Doesn't matter to me.  Ah, the boys
+have moved on to the jewelry store... I wish they would have taken
+it first, all the good resale items are probably gone now.  It
+means more time taken finding them and reclaiming.  Not very
+efficient."
+
+     "You organized all those guys with chainsaws?"
+
+     "Of course.  It hasn't gone off how I expected, but that's
+okay.  Once the doors open, we can blaze out of here and get away
+before anybody notices.  I get fifty percent of the take, of
+course."
+
+     Oswald paced over to the front of the elevator, observing
+someone being drawn and quartered below with boredom.
+
+     "Nobody ever thought to organize these little parties before.
+Just stop them, out of fear.  You cannot stop an unstoppable force
+because you fear it, but if you bend it... twist the fear to your
+will... it can be a force beyond forces.  I suppose I just
+capitalized on an opportunity."
+
+     "But your... people are KILLING everybody!"
+
+     "Carnage is carnage and would have occurred regardless of me,"
+he said.  "At least my carnage is productive and aimed, not the
+screams and thrashes of a blind man in the dark.  Look; already
+people down there fear my shoppers.  They're staying away, instead
+of blindly attacking anything with gifts.  We have total control
+over the mall now."
+
+     Oswald cracked something resembling a smile, reflected against
+the glass and back to Stacey's eyes.  "You know," he said, "I'm
+beginning to like the holidays."
+
+     "You're in my grade, aren't you?" I asked.
+
+     "Correct.  School is dull and pointless, so I rarely attend.
+People there fear me, which I enjoy, but not enough to put up with
+the rest of the dullness involved."
+
+     "You sure as hell don't talk like someone who's seventeen," I
+commented, snotty like.
+
+     "Proud of it," he said.  "You kids talk like sheep.  Baa baa
+all day about this and that.  I consider it a great praise to not
+talk like them.  Why, look!"
+
+     He pointed to the scene on the second floor, where one of the
+chainsaw men had chased someone I recognized as the SGA vice
+president to the railing overlooking the first floor.  He
+approached, but didn't slice or grind into the trembling VP...
+instead, he struck a dramatic pose and roared his saw.  The VP
+jumped to his death out of sheer terror.
+
+     "Perfect!" Oswald said, applauding but not grinning.  "There's
+a man who has learned to use fear as a tool.  I approve.  Seems my
+weeks of training these drop-out, unemployed, pathetic wretches has
+paid off."
+
+     Oswald turned to me, eyes drooped.  "Do you fear me?"
+
+     "No," I lied, holding down the fear I had and trying not to
+look down, or at the ceiling, or the walls, or HIM, or anything.
+
+     "Ah.  A challenge," Oswald said.  "Since I have nothing better
+to do tonight, with my boys handling the profit margin, a challenge
+I can handle."
+
+     "Ch... challenge?" I asked, dread bubbling to the surface in
+measured doses.
+
+     "Everybody has a phobia," he said.  "Maybe you're afraid of
+enclosed spaces.  This cramped elevator, with transparent walls
+that don't look like walls so you can't tell if they're feet away
+or mere inches, and could close in without you even knowing it
+until you were pressed between them like bacteria on a slide..."
+
+     "I'm not afraid!" I protested, keeping my eyes shut.
+
+     "Or, perhaps the fact that we're twenty feet off the ground,
+and hanging on a razor thin cable... or that you could go crashing
+through the glass and fall, fall farther than ever to your death--"
+
+     "SHUT THE FUCK UP!" I yelled.
+
+     "Touche'," Oswald said.  "My, this is fun.  Let's see, what
+else can I do to instill a little fear... I could go to the first
+floor, where that mob there is, and push you out and watch as they
+do whatever they please with you.  I might even laugh at that."
+
+     "You're sick!"
+
+     "You're right.  Always be true to yourself, I always say.
+Let's recap; fear of enclosed spaces, fear of heights, fear of
+pain."
+
+     "Exactly.  Everything on the mark.  Are you happy now?" I
+asked, vision starting to go.  I was too afraid to think straight.
+I didn't understand all his words... it was like getting hit by a
+beer buzz without drinking anything.
+
+     "Of course, I didn't mention pain exactly.  Maybe it's
+something else that human can do to fellow human..."
+
+     Fear was out of control now, oozing through my system and
+making me scrabble backwards against the glass and handrails.  I
+wanted to get out of here, somewhere low, wide open and free of
+people that could do horrible things to me...
+
+     "Let's experiment," Oswald said, pulling out two twist ties
+and affixing my hands to the railing I had backed up to.  I was too
+stunned and confused to do much else.
+
+     He started to unbutton my shirt.
+
+     "Don't..." I offered, but knew damn well what was going to
+happen.  I didn't want it, I was too afraid...
+
+     "I would say relax, but it would be no fun if you weren't
+afraid," Oswald said.  "Yes.  I am DEFINITELY beginning to like the
+holidays."
+
+                              *
+
+     I blacked out shortly afterwards.  There were ghostly
+afterimages of pink and white, of things in my mouth and things all
+over me like pestilence swarming over a dead body.  I had strange
+sensations of being penetrated, knowing exactly what was doing it.
+
+     For some reason, in the black void, I wasn't afraid anymore.
+My fear had hit a high point and dropped suddenly, with new
+emotions bubbling to the surface, looking for a way out.
+
+     I came to, still tied to the armrail but stretched out more.
+Oswald was still wearing his coat, but nothing else.
+
+     "Okay, so that's three confirmed," he said.  "If I said I you
+had a beautiful body, would you hold it against me?"
+
+     "That's an old joke," I said, a statement of the obvious.  It
+was the only sensible thing to say.  So what if I was naked and
+alone in a mad world?  It was an old, bad joke.  He shouldn't be
+telling old, bad jokes.  He's a fucking asshole.
+
+     "I never tried standup comedy, and now you know why.  You seem
+quite lively for someone who has been subjected to a cornucopia of
+personal terrors, violated multiple times.  Why is this, I wonder?"
+
+     "My ass hurts," I said.  Which it did.
+
+     "Odd, I didn't do anything to it.  Honestly," he said, making
+a quick boy scout salute.  "You're not in the right position for
+that."
+
+     My ass did hurt.  One pinpoint, one point of pain and soreness
+which was spreading until it covered my entire midsection.  I hated
+the pain.  I wasn't afraid of it, but I hated it and wanted it to
+stop.  What was it that agent had injected me with earlier?  It
+stung like hell and was making me mad, really fucking mad.
+
+     Mad at what had happened.  Mad at the dregs of humanity, lying
+in broken bits all around the mall.  Mad at the stupid, pointless
+violence on a night which was SUPPOSED to be a celebration of
+peace.  Mad at the stupidity of it all and this evil son of a bitch
+who was cashing in on that stupidity.  I had a rage boiling inside
+of me, spawned on by the fear that I felt earlier, fear drained
+away and replaced by this strong urge to reach across the elevator
+and tear Oswald in half.
+
+     "Ooo, we ARE lively.  I suppose I can continue the experiment
+now.  Let us go back to the original thesis; are you afraid of
+PAIN?" he asked, picking the scissors off the ground.
+
+     "I'm not fucking afraid of anything," I said, gritting my
+teeth and pulling at the stupid little twist ties.  "I'm not afraid
+of you anymore, and I'm not afraid of your little elementary school
+art class safety scissors."
+
+     "They're quite sharp, I assure you."
+
+     "Good.  Then they'll cut through your fucking throat like
+butter."
+
+     "I don't think I approve of this at all," Oswald said, backing
+off slightly.  "Come on, play along and be afraid.  Be a sheep like
+the rest of them.  You were so much FUN as a sheep.  I haven't
+gotten a good lay like that in weeks.  Be my holiday gift and
+scream a little, will you honeybunch?"
+
+     That teared it.
+
+     Literally.  I ripped directly through the twist ties, ignoring
+the searing fire of blood on my wrists as the plastic bit
+momentarily into the flesh.
+
+     Oswald made his second facial expression of the night;
+surprise.  Dull surprise, as I grabbed him and slammed him against
+the walls of the elevator, over and over again, wanting the little
+fucking turd to DIE.
+
+     "RGRhgnh!" he suggested, no longer calm and sedate and
+radiating evil.  "Don't!  You'll break the walls!"
+
+     "You afraid of heights?" I asked.  "You afraid of crashing
+through the walls and hitting the floor, being ripped apart by the
+mob?  Where're your chainsaw guys now, Oswald?"
+
+     Oswald sputtered out another quick whistle, and an alarm
+sounded somewhere in the mall.
+
+     "Coming," he said.  "Now put me down, please."
+
+     "I don't think so," I said.
+
+     "Have you looked at yourself?!" he asked.  "You're a wreck.
+Battered.  Abused.  Buck naked.  Bleeding.  You're in no position
+to be disobeying ME--"
+
+     I slammed him against the wall another time, with more might
+than I should technically have.  Part of the window shattered,
+glass fragmenting off his armored coat.  I threw him against the
+floor, grabbed a long shard of glass, and rammed it through his
+shoulder.
+
+     Oswald screamed, his first scream of the night as his shoulder
+was pinned to the soft carpet of the glass elevator's non-glass
+floor.  A dagger of ice, rammed directly between the bones in his
+shoulder.
+
+     "How's it feel?  Afraid?!" I asked, ramming another shard
+through his other shoulder, despite the cuts to my own hands, which
+were unimportant.  "Good.  Fear is control, remember?  I'm
+controlling now."
+
+     "Stacey, please!" Oswald begged.  "My plans are too intricate
+to have you ruin.  You want a cut of the take?  I can manage that.
+I'll even give you some of my fifty percent.  Say, five percent?"
+
+     I grabbed his safety scissors and held them near crotch level.
+
+     "TWENTY!" he offered.
+
+     "All I want is the code to lower the elevator," I said.
+"Whistle it.  Whistle it or you change genders."
+
+     Oswald quickly beeped out the tune without a tune, and the
+elevator sank to the first floor, unlocked from its stuck position.
+
+     "There," he coughed.  "Go if you want, get away from me.
+Sheesh, a guy tries to do you a favor and save you from the horde
+and this is the thanks he gets?"
+
+     "Relax, I'm not going to kill you," I said, even though the
+fire burning through my brainpan screamed out for it.  "I have
+other plans."
+
+     "Terrific.  Be off already."
+
+     The elevator went *DING!* and the doors slid open, a group of
+five chainsaw guys standing there, confused at the sight of blood
+and nudity and other horrors.
+
+     "Your boss told me he was going to cheat you out of your
+funds," I said.  "Have fun."
+
+     The chainsaw boys, already teetering over the edge of
+insanity, didn't need any more encouragement.  I didn't need to
+look back; the sound was enough.  The scream I had just heard, only
+remixed and extended.
+
+     Rest in peace, dipshit.
+
+                              *
+
+     That was the only other time of clear thought I had all night,
+through the haze of whatever drug the NSSA had given me earlier.
+I wandered the mall, dazed and pissed off, and found a place to
+defend in the door of a software store.
+
+     First thing I remember is being angry at the sound of the
+chainsaws, and going after them.  I think I might have gotten a
+chainsaw myself from one of them, because I tripped over hacked up
+super-looters all night, still clutching bags of jewelry and
+expensive stereo components.  The actual fighting was a blur.
+
+     The rest of the night was clawing and biting and scraping,
+trying to keep anything that moved and some things that didn't move
+from getting near me.  I wanted to LIVE, and I wanted anything that
+didn't want me to live to DIE.  It was a simple, clear cut motive,
+like the tolling of a broken bell that never stopped ringing.
+
+     The shoppers learned quickly to stay away from the naked girl
+with the chainsaw who was stalking the software store, and I had to
+grab the boxes off the shelves and rip them apart, working off rage
+to keep from exploding.  This continued all night, half-distorted
+mental images of reds and yellows the only solid glimpses I had
+into that window of time.
+
+     The first thing I remembered hearing was the blast doors
+opening, followed by the ringing of the bells at a nearby church.
+It was Christmas Morning, the night of terror over and done with.
+I had survived.  And I wanted the BLOODY BELLS TO STOP.
+
+     I charged out of the software store... I didn't have the
+chainsaw anymore, maybe I lost it somewhere, maybe it was stuck IN
+someone, I can't remember.  I remembered the group of Not-So-
+Secret-Agents crowded around the blast doors, and what they were
+saying...
+
+     "...man, the stink in there... this is a mess.  We're
+definitely not going to get the efficiency bonus on this mission."
+
+     "Hey!  Something's moving in there!"
+
+     "Get your tranq guns ready-- HOLY!"
+
+     "Get out of her way!  Fall back!"
+
+     "AARRGH, my leg, my leg--"
+
+     "Drop her!"
+
+     "Jeez, we've got three darts in her and she's just SLOWING?"
+
+     "She's the one #46336A put on the Rage survival drug,
+probably.  Come on, more darts!  There we go."
+
+     "She's crawling now."
+
+     "Phew.  Someone call the doc and get the antidote.  And
+someone look for what's left of #46336A in there."
+
+     "Should we report her?  I mean, she is alive, and probably
+caused SOME if not most of the damage in there..."
+
+     "Don't bother.  There's no way we could get an accurate body
+count, and I'm guessing she's seen hell already... where is the
+doc?  We need an antidote now!"
+
+     "Hey, she's getting up!  She's got six darts in her and she's
+gettingARRRRGh---"
+
+     "MORE!  MORE TRANQ!"
+
+     "That's better.  Man, we gotta ban that Rage drug.  It's too
+fucking dangerous.  DOC!  Where is the doc?  There you are.  Hit
+her with the antidote already."
+
+     I fell asleep after that; not a nightmarish sleep, or a dreamy
+sleep, just a sleep.  One well deserved.
+
+                                   *
+
+     "You alive in there?" a voice was saying.  #51122, if I recall
+from the radio conversation.  That seemed so long ago, decades and
+decades...
+
+     "Mmrrgh?" I said, trying to focus my eyes.
+
+     "Don't move.  We're busy treating your injuries.  Man, I wish
+they'd tear down that fucking mall already, it's too much of a
+bother to try to cure it each year.  You're damn lucky to be alive,
+kiddo.  How'd your Christmas Eve go?"
+
+     "Lousy," I said, forming each phonetic carefully, trying to
+look around.
+
+     "I said, don't move!  Sheesh.  I managed to get you a little
+something from the wreckage... not much of a holiday gift..."
+
+     I felt a warm and fuzzy sensation around my temples, as
+coziness and fur-lined safety spread over my painful body.
+
+     "It's just a silly santa hat.  I found it in the trash.  You
+were Santa's Little Helper, right?  I heard you say it on the
+radio, from last night.  I think Santa'd be pretty fucking proud of
+you, kid."
+
+     I nodded, neck hurting.
+
+     "DON'T MOVE!" he repeated.  "I've got to get back to the
+cleanup crew.  Bloody insulting, making NSSAC clean up the mess
+just because we didn't pull the mission off 100% as planned... I'll
+stop by later to see how you're healing.  Happy holidays, kid."
+
+     "Happy holidays," I repeated, and fell asleep again, hat
+keeping my brain soft and numb and quite relaxed.  I wasn't Stacey,
+the many-times-over victim, or Stacey the anger-enriched demon.
+Just Stacey with the stupid hat and the term paper due after the
+break.
+
+     Just what I had always wanted.
+
+                              *
+
+               o/~ Should all acquaintance be forgot,
+               Somethingorother, aud long sang... o/~
+
+     Once again : Seasons greetings from us here in the future we'd
+like to see, and remember, it's always darkest before you get to
+open your presents.  Unless they're all socks.  And watch out for
+that strangely ticking gift wrapped box, it's a doozy!
+
+               o/~ Should all acquaintance be forgot,
+               Somethingorother, aud long sang. o/~
+
+
+
+
+
+
+If you're looking for rampant silliness, go away.  This one
+is not silly and doesn't try to be.
+
+-=-
+
+A Future We'd Like to See 1.62 - Red and White Night
+By Stefan "Twoflower" Gagne (Copyright 1994)
+
+     Liberation is accepting that you're nothing but shit.
+
+     That's what I am; excrement.  Evil in nature and deed just
+because it's the only thing I'm good at.  Society, on the whole,
+would be better off without me, but I'm not gonna go kill myself. 
+That would be too easy.  If society is going to cut away the
+cancer, it has to do it itself.  I am a cancer; I've accepted
+everything I am, all the bile, the gristle and the dirt.  It's a
+relief to have all the problems in your life cured in one fell
+swoop, that glorious tone of acceptance to the fears that you've
+had for years.
+
+     I consider myself well adjusted, even if most psychiatric
+opinion would claim I'm insane beyond insane.  I guess on their
+metersticks I am, but by the Generik Evil stick I'm actually
+quite tame.  Some stuff the higher-ups in the chain of anarchy do
+make my stomach turn.
+
+     The red and white lights of the ambulance flashing away into
+the night made my stomach turn.  Always the aftermath, not the
+act; the act is pretty quick and relatively boring, but knowing
+what you've done and seeing what results is sickening.  I usually
+just go home after a night on the town, but tonight I wanted to
+know.  Never leave a job unfinished.
+
+     She was only eighteen.  If I had known... well, I probably
+would have done it anyway, just because that's what I am.  I
+don't have a choice in the matter because I'm don't resist it. 
+It's my nature.
+
+     The crowd gathered, because all the world loves a good
+spectacle, around the police tape lines.  Police.  What a joking
+term.  C'atel's police barely could handle cats stuck up in
+trees.  They usually contracted out to the Not-So-Secret-Agent
+Corporation when they had specialty problems, since cops're only
+good at filling out forms.
+
+     The emergency staff, however, has more training and had
+arrived at the alley before the cops did.  Crack guys, those
+people.  Biotech's a boon to lifesaving.  I figured she should be
+okay, which isn't that good, because it meant I was going easy on
+her.  It meant being merciful, which wasn't me.
+
+     Well, this can be handled, I thought, fingering the hard
+object in my coat pocket.  The medics, neatly clad in their red
+and white coats, wheeled her stained and shredded form out,
+whistling away, the cheery little bastards, thinking they'd have
+a chance.
+
+     I pulled the pin and threw the frag grenade in a nice arc
+towards the stretcher, then walked away.  I didn't need to look
+back; I had done what I set out to do.
+
+     "Not bad," my contact said, pulling me into a nearby alley. 
+I was expecting him; he always was nearby, when I went around at
+night.  Kind of a demonic fairy godmother.
+
+     "Hurrah," I said.
+
+     "Cheer up!" the contact said.  "That little number you
+pulled on her ass, coupled with the finishing kaboom is worth a
+lot of points."
+
+     "I don't care about points," I said.
+
+     "I swear, you've got no team spirit," he grumbled, folding
+his arms.  "What good is Generik Evil if you can't tell how evil
+you are in a measured manner?"
+
+     "I know I'm bad," I replied.  "I don't need some lame-ass
+'points' system to remind me I'm nothing but crap."
+
+     "Remember what you were before I found you?" my contact
+warned.  "Shiftless?  Aimless?  Pointless?  A benign tumor on
+society.  I make you malign, man.  You were just a small timer
+then, a few muggings to keep yourself alive, theft.  You're big
+time now.  A real menace, racking 'em up.  Your points count
+towards my total as your manager, thankfully.  Now.  Do you want
+to know your points or not?"
+
+     "No."
+
+     "Five hundred and seventy two," he said.  "You rank third in
+the city.  If you'd consider doing some fake occult slayings--"
+
+     "No," I said.  "No point.  I don't want fake trimmings. 
+It's not me."
+
+     "Suit yourself.  Goes against the Generik concept, though."
+
+     "I don't care," I said, leaving the alley.  Not much of a
+note to end on, but it was true; I didn't care.
+
+                              *
+
+     I'd been a bad boy since real young.  I'd love to imagine
+taking all the people who I thought had fucked up my life and
+roasting 'em in acid, filling 'em up with arrows, whatever. 
+Pain.  Not-nice stuff.  Sometimes even people who I had no real
+anger against, just people I saw on the street.
+
+     I choked these impulses back, though, since society told me
+they were evil and I wanted to be good.  I wanted to be somebody,
+maybe have a wife, some kids, grow 'em up somewhere nice and safe
+where they wouldn't have to worry about life the way I had. 
+Didn't turn out that way.  Dropped out, flunked out, shifted out
+of the economic loop and had to struggle to live.
+
+     Then the contact showed up and promised he could get me out
+of all that.  I didn't mind; I thought I was a good person, and
+would only do what I needed to survive.  Looks like I wasn't good
+at all.  No way to go back now without denying the truth.
+
+     If that's what I'm supposed to be, though, so be it.  I'll
+kill and maim and generally run amuck if that's what I'm supposed
+to do, and keep it up until I'm stopped.  There's nothing else I
+can do.
+
+                              *
+
+     I ought to be getting home, I thought, watching her from
+across the table as I sipped my coffee.  They're going to be
+looking for the guy who blasted the tar out of a crime scene, two
+doctors, and several innocent bystanders.  I ought to be getting
+home, and I ought to be getting while the getting's good.
+
+     I couldn't help it, though.  She even came to me, for crying
+out loud.  Singled me out in the entire bar of hormone-injected
+pricks to chat with.  I like conversation, really, and always
+welcomed another opportunity to do stuff to someone, but I was in
+a rush.
+
+     "Hey, don't drink that stuff so quickly," she warned,
+lowering my coffee cup.  "Gives you heartburn."
+
+     "I've felt worse," I said.  "It's just coffee, anyway."
+
+     "Around here, that's not a constant," she joked.  "Never
+know what they put in that stuff.  Good to the last drop, at
+least, until you get the shakes and need to come back for another
+drop."
+
+     "That's nasty," I said.
+
+     "Isn't it?  I don't trust any bar around here.  That's why I
+drink bottled," she said, flashing her shoulder-strapped thermos
+at me.  "You never know who to trust."
+
+     "Yeah," I agreed, finishing off the coffee.  "I've really
+gotta get moving, though.  Thanks for the idle chatter."
+
+     "Hey, stick around awhile," she protested.  "I've just
+started to get to know you.  You seem nice enough."
+
+     "You don't know me, lady," I said.
+
+     "We can correct that," she said.  "Come on, let's go to my
+apartment.  My coffee can be trusted."
+
+     I protested with myself.  Not tonight, we've already called
+out the red and whites once.  Just walk away and ignore her.  Of
+course, it wasn't going to be.  That just wasn't possible.
+
+     "Okay," I said.  "My apartment, though.  And I promise that
+I have the finest 100% pure Columbian java in existence."
+
+     "Yum," she said.  "You lead the way."
+
+                              *
+
+     I ought to turn a corner and lose her, so I could go home
+and get some rest.  She was too groupie-like, just looking for a
+nice guy to bang and then go home in the morning, like quite a
+few others I've dealt with over the years.  They all ended up the
+same though, with the happy little medics swarming over them,
+usually not able to put Humpty Dumpty back together again.  Then
+it was time to file the forms and that would be that, I'd move
+on.
+
+     This one was so willing it hurt to look at her.  Very
+blatant in her desires, the twentieth sentence out of her lips
+suggesting a quick trip behind closed doors.  It was sad.  Some
+people only live for one thing.  Well, I do, but not that thing.
+
+     "So what do you do for a living?" she asked, sipping out of
+her thermos.
+
+     "This and that," I said.  "Odd jobs.  Kind of random, just
+whatever happens to walk my way.  And you?"
+
+     "That and this," she said.  "Kind of the same deal.  It's
+fun, isn't it, being aimless?  Always on the go, always with a
+different job.  Different stuff to do.  Occupies the days and
+keeps you active."
+
+     "Yeah," I agreed.  "Active."
+
+     "Of course, it's been getting trickier to play that aimless
+game," she continued.  "What with these psycho killers roaming
+the streets.  C'atel's really had a problem with the Generik Evil
+lately."
+
+     "Uh-huh.  I read about it in the papers," I said.  "Tonight
+they managed to kill someone who was just bringing groceries
+home."
+
+     "How horrible."
+
+     "My sentiments exactly.  Cut her up, raped, mutilated.  If
+that wasn't enough, when the medics wheeled her away, someone
+threw a bomb and killed a few people."
+
+     "What's this city coming to?" she asked.  "Remember when it
+was just a collection of slackers, most of them with guitars,
+trying to eke out a living in the rain?  You could walk the
+streets at night then without worries."
+
+     "I know.  Bad people at night now.  Louts, remorseless
+devils.  I hate them."
+
+     "Well, I've got you along tonight.  You look strong enough
+to take on some Generik," she said, leaning on my shoulder.
+
+     I was going to do it, of course, but this wasn't making me
+feel any better.  Why do they have to be so eager?  They know I
+usually pounce the eager ones first, the ones that are
+defenseless and clueless.  That's what the paper said.  More
+people should read the papers and understand the world around
+them.
+
+     "I've always wanted to join Generik Silly," I pondered
+aloud.  "Not Evil.  Silly seems... nice.  Happy.  Zany.  Liked by
+people, even if they do get into a scrape with the media
+sometimes.  That's what I would have liked to have been, if it
+was possible..."
+
+     "Why not try out for them?" she asked.  "I hear they're not
+very strict about applicants."
+
+     I winced.  "I... I don't think I'd have the time to, with my
+jobs and all.  You know how it is, work piles up, gets in the way
+of what you wish you were doing."
+
+     "Ain't it the truth," she said.  "I've been in and out of
+C'atel over the last few weeks.  Odd jobs.  Go here, do this, do
+that.  It's annoying.  I'm glad to be home, though.  At least one
+night of fun before they could possibly ship me out again."
+
+     Night of fun.  Oh, the irony.  Already I was trying to
+decide what I was going to do when I got home... I had a lot of
+possibilities, given my stocks of the tools of the trade.  I
+wanted this clean, though, as clean as a senseless act of evil
+could possibly be.  I wanted to go to sleep, not stay up all
+night working on my fucking points.  I was in it this far; I'd
+finish it, but quickly and quietly.  None of the contraptions,
+none of the blades, just the basics.  Maybe one blade.  I still
+had the one I cut up the girl from earlier this night handy,
+still wet with her blood.
+
+     "Here we are," I said, tapping the code into my keypad.  We 
+proceeded up the stairs, to my archaic but soundproofed
+apartment.  She followed, like a lamb to the slaughter.
+
+     "Say, I was wondering," she asked, climbing ahead of me up
+the stairs, rear end swaying back and forth in front of me.  "You
+said you read about another of those murders tonight.  I thought
+the Times didn't have an evening edition."
+
+     "I didn't say I read about it, I said I saw it," I said. 
+"Remember?  Ugh, what a sight.  I can't get it out of my head."
+
+     "Don't worry, I'll help you remove that nasty image," she
+grinned impishly.  Ugh.  I was going to be sick.  "Which one is
+your apartment?"
+
+     "12.."
+
+     "G," she finished, finding the door and tapping the keypad. 
+Hadn't I locked the door?  "After you," she gestured.
+
+     I walked in, quickly examining the place to make sure none
+of my tools were lying out in the open.  I didn't want her
+freaking and running, because it would mean screwing up the path
+I was committed to for the evening.  She walked in, and shut the
+door.
+
+     "So, what do you do for fun around here?" she asked,
+adjusting her shoulder strap.
+
+     "This and that," I said, my stock phrase when asked a tricky
+question.  "Wait right here, I've got something I need to get
+from my bedroom..."
+
+     "I don't think so," she said, blaster muzzle jammed into my
+back.  "Hello.  Not-So-Secret-Agent.  You were disgustingly easy
+to track, Generik."
+
+     I brightened up immediately.  Wow!  Here I was thinking the
+world didn't give a shit about me anymore, and someone took the
+time and the effort to hire an agent to come and kill me.  I was
+hated, recognized for what I was.  It felt wonderful.  I was
+going to die the only way I could.
+
+     "Over to the chair," she said, physically pushing me over to
+one of my kitchen chairs.  She pulled her thermos on a strap off
+and over her head, securing it behind the chair.  The strap
+automatically tightened, lashing me to the chair, arms pointing
+downward.
+
+     "Neat," I admitted.
+
+     "Thanks.  One of the many toys we get to use," she said,
+walking around to my front, blaster still pointed at me, rock
+steady.  She tugged at her ear, and twisted her mouth to try to
+talk into it.  "Agent 7659.  Target acquired.  Pickup."
+
+     "Pick up?" I asked.  "What, you're not going to kill me?"
+
+     "No.  You're going up the river, pal, for what you've done,"
+she said.  "Nice and legal, just like the old days of courts and
+law.  On NSSAC's jail, of course, since there isn't much of a
+court system anymore."
+
+     "What, you're putting me away?  Why?  What's the point?  I'm
+a killer, a murderer and rapist of all people.  I'm supposed to
+DIE, not live."
+
+     "Rehabilitation.  NSSAC doesn't believe in pointless
+violence, unlike you," she said.  "We're going to make you a
+fully functional member of society."
+
+     "I was one once.  It wasn't very enjoyable.  The pain of
+never knowing what you were, always in self doubt.  I don't doubt
+myself anymore; I know I'm scum.  It's a warm feeling, in a way. 
+I don't want to be brainwashed into that state again."
+
+     "I'm not here to kill you," she said.  "You could be a nice
+guy if you wanted to be.  A Silly, if that's what you wanted to
+be.  Just go with us quietly, and you won't have to die."
+
+     I considered this.  It was a way out, a way to fit back in
+and not have to perform on the public again.  What would I be,
+though, after?  Happy?  I have no talents, no skills, no goals
+other than to kill.  I'd be less than nothing.  I'd be nice, not-
+self.  No; I had to get out of this, or die trying.
+
+     She was sloppy.  Didn't even notice the knife in my back
+pocket, trusting her silly thermos to do all the work for her. 
+Some agent.  Society would have to do better than that if it
+wanted to take me down.  I was what I was and nobody could take
+that away from me.  I may hate myself, I may curse my existence
+on earth, but I would NEVER claim to be something I'm not.
+
+     I sliced the strap -- with all that tension, it cut easily. 
+I jumped forward, just under the gun barrel, and drove the knife
+home.
+
+     She yelped, advanced NSSA biotech keeping a reign on her
+pain.  The blaster, however, dropped out of her hands.  Luckily,
+she happened to be right next to my toy cabinet.  I opened it,
+grabbed the nearest item (a nice rakelike device) and slashed up
+her back.
+
+     She grunted, as the rotating pizza blades sliced open her
+thin shirt and made gashes.  She groped around the floor for her
+gun.  The gashes weren't very deep... the shirt must have had
+some kind of armor in the fabric--
+
+     ZAPPIE! went the blaster, in some cheesy cartoon sound
+effect as the orange blob of energy zipped across the room,
+burning directly through the arm that held my multi-knife.  The
+hand and knife dropped to the ground, burnt socket cauterized in
+some places and openly bleeding in other.
+
+     "Shit!" she yelled.  "I thought I had the stun setting on...
+relax, I'm calling 911 for both of us," she said, tugging at her
+earlobe again.  "911, emergency."
+
+     "Good job," I sputtered, coughing up blood as I felt the
+gory remains of my arm.  "Not good enough, though."
+
+     I took another item from the box, a short sword.  Very
+medieval.  I advanced on her, bleeding and dizzy.
+
+     "Are you nuts?" she said, sliding backwards, despite the
+back wounds.  NSSAs always had an admirable ability to soak up
+punishment.  "Put down the knife or I'll shoot!"
+
+     "I'm not going to jail," I warned her, getting ready to
+behead her.  "You want me stopped, you stop me.  Not this, not
+this half-assed attempt to be nice.  That's just not sane for
+something like me.  Now shoot or die."
+
+     At first, I thought she wasn't going to shoot.  She just
+looked on, horrified at me, like the others.  This was going to
+be too easy.  She stormed into the apartment to rob me, I used my
+ancient weapons collection to fend her off, and eventually
+managed to kill her.  Self defense.  The red and whites could
+reattach the arm and I'd be back to my old tricks in days.
+
+     Then she shot, blaster setting unchanged as the bolt burned
+through my ribs.  I fell backwards, most of me escaping through
+the new gap.  Much better; if you're going to do a job, you do it
+all or none of it.  I died knowing who I was, the happy little
+sirens of the medics pulling up to my apartment building in
+standard quick-response fashion, red and white lights flashing
+away into the night sky.
+
+
+
+
+
+
+I tried something like this once.  It didn't quite turn out the same
+way but was just as fun.  Please ignore any reality errors in this
+story; Normal says there aren't any.
+
+-=-
+
+A Future We'd Like to See 1.61 - Overnight Success
+By Stefan "Twoflower" Gagne (Copyright 1994)
+
+     "Garage band," I said.
+
+     "We don't know how to play music."
+
+     "Okay, a BAD garage band.  Come on, man, we've got NOTHING
+better to do," I said.  "It's Friday night.  It's a happenin'
+time in the C'atel area.  School's out.  We don't have any damn
+projects to worry about.  We have time to kill and a way to do
+it."
+
+     "We can't play any instruments, Matt."
+
+     "That doesn't matter.  You've got a drum beat sequencer on
+your deck, right?  We'll use that instead of a drummer.  I have a
+toy guitar.  Franny has a lot of samples and a cool keyboard. 
+It'll WORK.  And if it doesn't, we've successfully blown the
+weekend and had a fun time doing it."
+
+     "Matt man, you're nuts.  You know that, right?  I mean, last
+week it was art.  The week before, you were racing remote control
+cars.  Now you wanna form a garage band."
+
+     "Point?"
+
+     "Point is that you're acting silly.  You ALWAYS act silly."
+
+     "Nothing wrong with that," I said.  "A little silly will do
+you some good, Jack.  Now get over here and bring your deck.  I
+gotta call Franny."
+
+     "Yeah, yeah, whatever," Matt said, clicking off his
+holophone.  The image snapped out of existence.  I grabbed my
+notebook (since the miracle of memory eludes me) and looked up
+Franny's number, dialing.
+
+     "Yeah?" she asked, hopping into frame.
+
+     "Franny.  We're going to form a garage band.  Drag a
+collection of weird samples and your keyboard over."
+
+     "Okay," she said, and clipped the link.  Well, that was
+easy.  Certainly easier than Jack.
+
+     Jack typically didn't like my spur-of-the-moment ideas. 
+Always called them silly.  I don't mind; they ARE silly, that's
+the whole point.  Who cares if they take up time that could be
+used raising the GNP or your GPA?
+
+     See, adulthood, conformity, and boredom are like burglars. 
+They study you for the first ten or so years of your life,
+watching you do all sorts of meaningless yet fun things.  Then,
+they cautiously slip into your mind under the guise of logic and
+wisdom.  Once in, you can almost never get them out, and spend
+the rest of your dreary life wondering where your sense of
+adventure went.  Where your wacky ideas went.  Where your
+inclination to do spontaneous and zany things like see what
+happens when you fill a balloon with maple syrup and throw it
+went.
+
+     Kinda hard to avoid happening, especially in your late high
+school years where the pressure's on to 'make something of
+yourself', but I manage to avoid the pitfall of Seeking Success. 
+Like a garage band.  We wouldn't get a contract, we wouldn't make
+a million credits, we'd be wasting time but it would be fun and
+pointless and that's all that matters.  I'm a proud member of
+Generik Silly and strive to seek that level of wackiness.
+
+     Franny's an aspiring one.  She's got the drive and the
+randomness down pact, but her attention span rivals that of the
+common flea.  Well, mine is no great span of history either, but
+it's enough to finish whatever I happen to be doing at the time. 
+Jack's got an attention span that rivals most rock formations. 
+You could plop him in front of the learning channel and come back
+two days later to watch him staring intently at the screen, alert
+and alive.
+
+     KNOCK KNOCK.
+
+     "Come on in, Franny," I called, not needing to check who it
+was.  She always arrived first.
+
+     "Where should I set up?" she asked, supporting the weight of
+a cheap keyboard and a slew of flopticals under her no-workout
+arms.
+
+     "Garage, obviously," I said.  "Can't be a garage band
+without a garage."
+
+     "You don't have a garage," she replied, setting the gear
+down on my bed.  "This is an apartment."
+
+     "Okay, we'll have to construct a garage first," I said. 
+"Then we can play."
+
+     "I'll go get some wood," she said, and promptly left. 
+Always quite the go-getter, that girl.
+
+     I examined the disks.  She never labelled them; that'd take
+more than a millisecond of concentration.  Quite silly in a way. 
+I remember her turning in a computer project that sorted a series
+of integers and accidentally handing in a disk with 1001 Ways to
+Cook Monkey on it.  Luckily the teacher liked monkey and excused
+her to go get the real disk.  Wacky, no?
+
+     KNOCK KNOCK
+
+     "Hello, Jack," I said, opening the door for him.
+
+     "Alright, I brought the computer," he said.  "Where's
+Franny?"
+
+     "Getting building supplies.  We lack a garage."
+
+     Jack blinked.  "You're going to build a garage?"
+
+     "Of course.  It is requisite."
+
+     "WHERE?"
+
+     "Oh, I don't know.  The roof?  Although the landlord may not
+appreciate that.  Can we build one at your house?"
+
+     "Why do you want to build a garage?" he asked, still not
+getting it.
+
+     "Okay.  I'll put it in small words.  We're going to be a
+garage band.  Can't exactly do that without a garage."
+
+     "This is nuts," Jack said.  "WHY do I hang out with you? 
+You never take anything seriously.  If we're going to try to play
+music for some weird reason, we don't need a damn garage."
+
+     "Perhaps if we decided to do jazz," I mused.  "I don't think
+we'd need a garage then.  Just a bunch of those neat wooden
+stands like they have in big bands, with the painted logos."
+
+     "How will we play jazz with no trumpets?"
+
+     "It'll be neo-jazz.  A new wave of jazz.  Usually played via
+keyboard, guitar and synth drum."
+
+     KNOCK KNOCK.
+
+     "Come in, Franny," I said, spinning in my office chair just
+for the hell of it.
+
+     "I couldn't find any wood," she said.  "But I spotted this
+in a toy store window..."
+
+     She held up a kit for a garage, at 1/50th scale, for use
+with model train sets.  "I got us some model glue too, in case
+you didn't have any.  You owe me five credits and change."
+
+     "Okay," I said.  "We'll build the garage later.  For now,
+let us start to be jamming.  Blues riff in G, high beat and
+follow me for the changes."
+
+     "Check," Franny said, slipping a floptical into her keyboard
+drive and loading up some random set of noises.
+
+     "What should I do?" Jack asked.
+
+     "Drum something," I said.  "Okay, here we go."
+
+     I've been playing guitar for years, and have become a master
+at the art of the chord and fret reach.  No; that's not entirely
+true.  Actually, I suck.  I go under sucking and straight into
+the negative-suck range, making it sound a lot like torturing
+mailmen than anything resembling music.  But talent be damned, I
+was now a proud member of a garage band and I was going to play.
+
+     I strummed the three strings (the rest had broken off when I
+tried to slice cheese with them) and tried to maintain a regular
+pattern that sounded somewhat like a Net Will Eat Itself song. 
+Franny started playing broken glass noises and something that
+resembled Zamfir being burnt with cigar butts.  Jack shrugged and
+tapped out a snare occasionally.
+
+     "Okay, now we pause for the reverb effect we'll be editing
+in later," I said, checking my watch.  One second... two. 
+"Resume."
+
+     I reached into the higher chords, wondering if I could make
+glass REALLY shatter.  Franny took it upon herself to start
+playing Bach backwards and Jack stopped tapping, looking
+repulsed.
+
+     "We suck," he said.
+
+     "Big deal.  Stomach Contents, the great granddaddy of all
+grunge also sucked when they started," I said.  "Okay, I think
+we've practiced enough to start a recording session."
+
+     "Whoa.  You're making permanent copies of this shit?" Jack
+asked.
+
+     "Of course.  We'll need it in the event of a talent scout
+coming a-knocking," I said.
+
+     "Alright, but leave my name off it," Jack said.  "I am not
+proud of this."
+
+     "Cheer up, Jack!  We've got quite a night of hip dope fresh
+beats and grinding riffs to get through.  Alright, first song. 
+What should we call it?"
+
+     "'Don't listen to this'?" Jack suggested.
+
+     "'I bite the demon pancreas'," Franny stated, loading a new
+disk.
+
+     "Okay, that works.  We'll make it a cool intro with only
+synth.  Can you handle that, Franny?"
+
+     "Check," she said.  "Start the tape."
+
+     I pushed Record, wiping the bubblegum I had stuck to the
+button off in the process.
+
+     It's hard to describe the noise coming out of Franny's cheap
+speaker, but it was something like this : a scream, three
+gunshots, some random orchestra hits, several pigs bweeing, a cut
+drum beat from a generic pop song, some political sound bite, and
+a repeating dull thump that could only be Your Digestive System
+in Action.  This built up into a crescendo until she tapped out
+three random piano notes and stopped.
+
+     "How's that?" she asked.
+
+     "Great," I said, stopping the tape and writing on the cover. 
+"Okay... bite... pancreas... one minute.  Next?"
+
+                              *
+
+     The demo tape lasted about sixteen minutes and included four
+tracks : Bite the Demon Pancreas, Frodo's Revenge (a lovely
+little number which had me reading from Tolken while pumping out
+chords), All My Lego Bricks Have Been Dropped in Acid (Jack
+reluctantly sequenced a rather catchy little one-two for it), and
+two minutes of silence entitled Trapped in an Invisible Box.
+
+     "Why is it silent?" Jack asked.
+
+     "It's a visual interpretation," I said.  "Didn't you see the
+hand gestures?"
+
+     "Yeah, but how are those going to get on the tape?"
+
+     "They aren't.  For that, they'll need to buy the video," I
+said, pulling my camcorder out from under the bed.  "Okay, what
+do we do for costumes?"
+
+     "That's it, I'm leaving," Jack said, collapsing the archaic
+two-dimensional screen of his computer.  "Audio okay, video no. 
+That's ridiculous.  I mean, what if someone was going to see this
+stuff?"
+
+     "We'd be heralded as musical gods who speak with the voice
+of our generation, of course," I piped in with, smiling.
+
+     "Cool," Franny admitted.
+
+     "No, we'd be laughingstocks.  I'd like to graduate with my
+reputation intact."
+
+     "Okay, no live video," I said.  "Animation is good.  I'm
+thinking something along the lines of a massive war between these
+anthropomorphic enema bags and a group of flightless waterfowl."
+
+     "My cousin owns a penguin," Franny said.  "We could borrow
+it for the shoot."
+
+     "That'll work.  Jack, could you run down to the drugstore
+and pick up fifteen or so enema kits?"
+
+     "No!" he said.  "Could you imagine the looks I'd get? 
+FIFTEEN enema kits?  Ugh!"
+
+     "Jack, whatever happened to your spirit of adventure?" I
+asked.  "Heck, I remember a time in elementary school when we
+formed a small dictatorship around the tree in the playground. 
+We had a charter, rules, and even public executions, at least
+until it was time for math and we had to go back inside.  That
+was fun."
+
+     "That was childish," he said.  "And so is this.  If you'll
+excuse me, there's a special on Yttia I really wanted to watch on
+HV."
+
+     KNOCK KNOCK
+
+     "Probably our recording agent now," I said.  "He heard us
+through my window and just had to meed the music gods."
+
+     "Uh-huh," Jack said, slumping into his chair.
+
+     I opened the door, and a man in an expensive suit peeked in. 
+"Hello, were you the folks I heard playing music?"
+
+     "Yup.  Do you want to sign us up?" I asked.
+
+     "Yes, in fact.  Your music carries a powerful undertone of
+hatred against the system that our label, Oppression Records,
+specializes in.  Do you have a demo I could borrow to make a
+press release copy of?"
+
+     "Right here," I said, leaning over to eject the digital
+tape.  I passed it over, and he pocketed it.
+
+     "What's your band name?"
+
+     "We don't have one yet."
+
+     "Very good.  The faceless unknown, toiling endlessly.  I
+like it.  Here's my card.  I'll get back to you tomorrow
+morning," he said, leaving.  I pocketed the card.
+
+     "Well, that wasn't so hard, was it?" I said.
+
+     "Did you pay that guy to come here and put on that act?"
+Jack asked.
+
+     "Of course not.  I've been here all night.  Logic, Jack."
+
+     "You mean that guy was real?" he asked.
+
+     "Seemed real to me.  Well, I guess we now have something to
+do this weekend.  We'd better practice.  Okay, Frodo's Revenge on
+three.  One, two, five--"
+
+     "Three," Franny corrected.
+
+     "Yes, three," I said, starting into what I thought was the
+first note.  Probably I was off by several octaves, but that's
+okay, music is a constantly evolving artform.  "Jack, drums,
+please."
+
+     "Oh, alright," he said.  "I guess the night can't get any
+stupider, might as well go with the flow.  How'd Frodo's whatsit
+go again?"
+
+     "Something like bass hihat snare snare repeat.  Or maybe
+just snare repeat.  Improvise.  A one and a five and a--"
+
+                              *
+
+     My holophone rang and rang.  Normally I don't like to spring
+awake on weekends; my body doesn't contemplate neural firing
+before eleven AM.  However, a phone call is a phone call and a
+grapefruit isn't one, so I answered it.
+
+     "Greetings," the agent said.  "Say, what're the names of the
+band members?  We need them for the album cover."
+
+     "Jack, Matt and Franny," I said.  "Anything else?"
+
+     "Yeah.  Go to the corner of Keister and Fifteenth.  You have
+a gig in six minutes," he said.
+
+     "Alright," I said, closing the connection.  See?  The
+weekend wouldn't be dull at all.  I checked my notebook again and
+rang up Franny.
+
+     "Yeah?" she asked.
+
+     "Keister and Fifteenth in six," I said.  "First concert."
+
+     "Okay," she said, and cut the line.  Jack, dial dial.
+
+     "What?" he asked.
+
+     "Keister and Fifteenth in six, we have a gig."
+
+     "A what?"
+
+     "A gig.  A show.  A time.  A happenin' event.  A concert."
+
+     "Ha ha, Matt."
+
+     "No joke.  Our agent just phoned it in."
+
+     "SIX MINUTES?" he said.  "But we haven't even gotten an
+album out!"
+
+     "Apparently we have.  The music industry moves fast, you
+know.  Gotta keep up with pop culture."
+
+     Jack considered this.  "This is insane.  This is completely
+insane and I'm going along with it.  I have no idea why.  Okay,
+I'll be there in six minutes."
+
+     "Five now," I corrected, tapping my watch.
+
+     "Then five!" he stomped, holoconnection fuzzing.  "I'll be
+there.  We're going to be lynched on grounds of good taste, but
+I'll go anyway.  Call me self destructive."
+
+     "You're self destructive," I called.
+
+     "Hurrah," he said without enthusiasm, and hung up.
+
+                              *
+
+     The Pit was a club that looked like a club named The Pit. 
+It was a pit, and a club, and was very pitty in its clubness.  A
+sizable crowd had started to grow; apparently the current trend
+of Saturday morning concerts had really caught on.
+
+     "Hello there!" our agent called out, spotting the three of
+us in our non-tooth-brushed, just-got-up grunginess.  "Hey, I
+like the hygiene.  It says something remarkable.  Okay, your
+costumes are backstage and you're on in two minutes."
+
+     "What are we supposed to do?" Jack asked.
+
+     "Just play three tracks off your new album," he said, waving
+the freshly pressed CD2 at us.  "Hope you like the art.  We paid
+several million for it.  We left off a band name or an album name
+since you didn't specify."
+
+     "I like the costumes," Franny said, pointing to the rack. 
+On three coat hangers were three costumes; one black in Franny's
+size, one grey in my size, and one white in Jack's.  Although his
+wasn't as extensive.
+
+     "What's this?  A sock?" Jack asked, picking the single
+garment off his hanger.
+
+     "Yeah.  We'd like you to put it around an erection," the
+agent said.  "Kids go for that."
+
+     "I don't think so," he said, tossing the sock over his
+shoulder.  "What I'm wearing is fine."
+
+     "Okay, even if it is a bit old fashioned," the agent said. 
+"Well... no.  On second thought, you three stay the way you are. 
+There's a certain purity in original design.  Okay, you're up. 
+On stage you go," he said, giving us a push.
+
+     "But--" Jack started, and was cut off by thunderous applause
+and burning lights.
+
+     "Cool," I admitted, strapping on the guitar and picking up
+what looked like a jack to stick in it.  Franny pulled over a
+discarded and bent keyboard stand and loaded up a disk.
+
+     "Jack, get booted up," I said.  "We're on."
+
+     "There are people out there!" he said, pointing to the happy
+crowd, swarming over itself in an effort to... I'm not sure, but
+whatever it was they really wanted to do it.
+
+     "Of course.  It's called an audience.  Okay, Franny, do Bite
+the Demon Pancreas while Jack and I get set up."
+
+     "Check," she said, immediately launching into the horrific
+mishmash of samples.  The speakers launched to life, the crowd
+wailing in appreciation.
+
+     "DO YOU HAVE YOUR DRUM PROGRAM?" I asked Jack over the
+noise.
+
+     "OF COURSE," he said, turning on his old computer.  "I'VE
+GOT SOMETHING RESEMBLING WHAT WE DID LAST NIGHT PROGRAMMED.  I
+JUST TAP A KEY AND IT GOES."
+
+     "LUCKY.  YOU GET THE EASY BIT.  SHE'S ALMOST DONE.  LET'S DO
+LEGO BRICKS NEXT."
+
+     "WHATEVER," Jack said, keying up the sequence into his
+simple shareware drum synthesizer.  Franny's Pancreatic
+exploration ended with the three random piano notes, sending the
+crowd into hysteria.
+
+     "Are gonna die?" Jack asked, able to talk over the lack of
+Franny's 'music'.
+
+     "What makes you say that?" I asked, tuning up, or doing what
+I thought tuning up was.
+
+     "They look a little rowdy."
+
+     "Don't worry, they're okay guys.  They probably just want to
+eat our livers so they can possess the healthy vitality our band
+possesses."
+
+     "WHAT?"
+
+     "Lego on three," I reminded him.  "Three."
+
+     He started the catchy beat (pop all the way, baby) and
+Franny quickly loaded her plastic-bonking and acid sizzle
+effects.  I strummed the notes in something resembling the
+original order they came in.  How'd the words go?  Oh yeah...
+
+     o/~ Mom burned all my motherf**king lego bricks o/~
+
+     (With a bleep from franny to keep bad words from hitting our
+audience's ears.  We're not barbarians, after all...
+
+     o/~ Plastic melting on my carpet
+         She wants me to clean it up
+         So I put 'em back in the box
+         They stink up the room
+         But I don't care
+
+         All my lego bricks have been dropped in acid
+         All my lego bricks have been dropped in acid
+         But I play with them anyway
+
+         My hands are scarred
+         My arms are burned
+         Ma wants me to throw 'em away
+         But I'm not gonna
+         Just cuz she hates them
+
+         All my lego bricks have been dropped in acid
+         All my lego bricks have been dropped in acid
+         But I play with them anyway
+
+         My creations look cooler
+         Deformed lumps of plastic
+         I like it better this way
+         She tries to take them away
+         But they're mine for good
+
+         All my lego bricks have been dropped in acid
+         All my lego bricks have been dropped in acid
+         And I'll always play with them anyway. o/~
+
+     The crowd seethed with joy, climbing on top of each other to
+rush the stage and cheer us on.  Force fields keep that from
+happening, of course (got to keep the band safe).
+
+     "That was actually kinda good," Jack said, reading the
+Tolken novel I had brought along while his computer did the hard
+work.
+
+     "We were good?  Foo!  I'll try not to let it happen again,"
+I said.  "Okay, I think I'll do Invisible Box."
+
+     "You can't, stupid.  It's not a song."
+
+     "Art is art.  Franny, can you short out the field there,
+please?"
+
+     "What?!" Jack asked, lowering the book and casting a nervous
+eye at the crowd.  "With THEM around us?"
+
+     "Shorted," Franny said, as the air crackled with ozone.  She
+dropped the two wires she had tangled and nodded to me to
+continue.
+
+     "Alright.  Invisible Box," I said, making mime motions in
+the air.  The crowd loved it, trying to pattern this new dance.
+
+     I took a deep breath and jumped into the crowd, landing on
+top of the pulsating mosh pit.
+
+                              *
+
+     "Did you see when he was doing mime while being passed
+around..."
+
+     "I had legos when I was a kid, I really miss 'em...
+*sniff*..."
+
+     "That Franny can really play!"
+
+     "Yeah!  I almost achieved orgasm when she hit the end of 'I
+Bite the Demon Pancreas'!"
+
+     "I've got to get the album!"
+
+     "I NEED the album!"
+
+     "They seem happy," I noted, pulling my head back in from the
+gap in the curtains, shutting off the crowd conversation.  Jack
+was shaking his head, dazed.
+
+     "They liked it," Jack said.  "They're buying the 'album'. 
+They're actually paying good money for it.  Why, Matt?"
+
+     "They like it.  You said it yourself.  If you like the music
+you buy the album.  Maybe we'll get to do that video after all."
+
+     "This has been the most surreal weekend I've ever had," Jack
+said.  "Last night I was goofing around on a computer program and
+now I'm a musician sensation.  This feels so funky."
+
+     "Cool," Franny repeated from earlier.  A fanboy slid up to
+her, having sneaked by the backstage guards.
+
+     "Franny?  Can you sign my head?" he asked, pulling his hair
+back from the scalp.  "Your samples speak to me in ways that no
+mortal being can."
+
+     "Okay," she said, uncapping a pen and scribbling her name
+backwards on his head.  "Now you can see it right in mirrors."
+
+     "Thanks!" he said, before the backstage guys noticed him and
+drug him off.  Our agent walked up, grinning and waving his arms.
+
+     "Take!  The take's good!" he said.  "We've made two million
+in album sales around the galaxy.  You're getting a lot of
+airplay.  Mind doing C'atel stadium tonight?"
+
+     "What?" Jack asked.
+
+     "No problem," I said.
+
+     "Here's your cut for royalties," he said, flashing a green
+temporary credit chip with many zeroes on it at us, and handing
+it to Jack.  "Transfer it among yourselves as you see fit.  To
+the top, baby!  You're going to the top!  See ya tonight at
+seven."
+
+     Jack eyed the figure on the card, as the agent retreated. 
+"Matt, pinch me," he requested.  So I did.
+
+     "Ow," he said.  "Okay, so this is real.  Did we really just
+make this many credits for improvising four splatters of sound?"
+
+     "Splatters!  Good word choice, Jack.  You're getting better
+at this lunacy stuff.  Yeah, it's true.  I wonder what I'll buy
+with my cut."
+
+     "I'm gonna get a new car!" Jack beamed.
+
+     "I want a doughnut," Franny said.
+
+     "Me, maybe I'll buy enough raspberry jam to fill the school
+and then do just that," I mused.  "Or maybe I'll just give it to
+Save the Lemurs."
+
+                              *
+
+     Our second concert.  Packed house, C'atel Stadium.  Word got
+around really quickly about our untitled band with the nameless
+four track CD, and soon everybody had a copy.  The stadium was
+awash in fans that had tried to dress in our early morning,
+thrown on regalia; emulating the band in any way they could. 
+Some sported fake glasses that matched Frannies.  Many had lego
+bricks or fantasy novels.
+
+     "Gang's all here," I noted, looking around the curtain. 
+"This gets more fun by the minute.  Hey, Franny?  Go play
+Pancreas for them while Jack and I ponder life's many mysteries."
+
+     "Okay," she said, plugging up her keyboard and walking on
+stage.  The crowd exploded in rolling waves of applause, shouts
+and pledges of undying obedience to Franny.
+
+     "This may be ridiculous, but it's the most fun I've ever
+had," Jack noted, booting up his computer.  "I'm a star.  Wow. 
+I'm actually famous.  I've got a serious bank account and I'm
+recognized on the street."
+
+     "Me too," I said.  "Some girl bumped into me around
+lunchtime and offered her body to me if I'd do the Invisible Box
+routine for her."
+
+     "Did you?" Jack asked.
+
+     "No.  I wasn't done my hamburger."
+
+     "Man, you had someone pledging to sleep with you and you
+passed?" Jack asked.  "Matt!  Buddy!  You're not getting the full
+picture.  We're stars!  We're hot items!  We can have the world
+be our oyster, get big houses and cars and women and anything."
+
+     "I just want a doughnut," I said, remembering Franny's
+earlier suggestion.  "Do they have a pastry table back here?  I
+figure I could polish off a jelly before Franny's done her
+number."
+
+     "She's done now," Jack said, as the infamous three notes
+sounded and the crowd boosted total volume.
+
+     "Oh.  Okay, one second," I said, walking around the curtain
+and approaching Franny.
+
+     "Franster?  Could you extend the Pancreas a bit?  I'm going
+to look for a doughnut," I asked.
+
+     "Okay.  Save one for me," she said, launching into the
+Pancreatic Remix.  I ignored the cheers and headed backstage.
+
+     "A doughnut?" Jack asked.  "All you want is a doughnut?"
+
+     "I'm hungry," I said.  "Ergo, I desire pastry.  What's wrong
+with that?"
+
+     "You've got no sense of the big picture," Jack said.  "I
+mean, you're still in Thursday.  Thursday, we were nobodies. 
+We're SOMEONE now."
+
+     "You're Jack and I'm Matt," I said.  "I don't see much of a
+difference.  Ah, doughnuts!  Sweet sugar delight.  Want one?"
+
+     "I'm never going to understand you," Jack said, shaking his
+head.  "Let's just get on with this."
+
+     "One sec," I said, pushing the guitar along the strap so I
+could carry the doughnut tray.  I wobbled along, under the weight
+of superior baked goods, to the stage, Jack following.  The crowd
+cheered, which is perfectly acceptable behavior for crowds.
+
+     "Anybody want a doughnut?" I asked the crowd.  They cheered
+Yet!  Again!  So I plucked two jellies off the tray for me 'n
+Franny and tossed the rest into the crowd.  They cheerfully dove
+for the doughnuts, getting into a brawl over who could have one.
+
+     "Alright, Lego on one," I said.  "Three."
+
+                              *
+
+     "I think the crowd wants more," Jack said.
+
+     "We don't have any more," I replied.  "Just four songs, one
+of which is more like performance art.  Sorry folks!  That's
+all!"
+
+     The crowd groaned, and shuffled off, dejected.
+
+     "Hey, don't go away mad," I said.  "Anybody want more
+doughnuts?"
+
+     Within five minutes, the stadium was empty.  Everybody left. 
+Probably had sitcoms back home to watch.
+
+     "Hey, kids," the agent said, climbing on stage.  "Sorry,
+show's over.  You're fired."
+
+     "What?" Jack asked.
+
+     "Hey, out with the old, in with the new," Mr. Agent Man
+said.  "Oppression stays on the musical beat.  When the beat
+moves on, we do.  We've had some fun, yeah?  It's been real.  See
+ya."
+
+     "But we've only started!" Jack protested.  "You can't cut us
+off like that!"
+
+     "Of course I can.  Happens all the time in C'atel.  You're
+just finished.  The buyers bought, liked and moved on.  You've
+still got the cash, right?  So no problem.  Although we would
+like to sign Franny on solo.  When can you make it to the
+studio?"
+
+     "Not doing anything tomorrow," she said, shrugging.  "How
+about lunchtime?  Will you have any doughnuts?"
+
+     "FRANNY?" Jack exclaimed.  "But she just makes noise... we
+make art!"
+
+     "Art is subjective.  Franny, if you'll come this way, I've
+got a contract.  How'd you feel about having your name legally
+changed to 'Angst'?"
+
+     "Okay," she said, following the Agent.
+
+     Jack was dumbfounded.  I munched away on my dessert, not
+really concerned.
+
+     "We're over?  Finis?  Just like that?" Jack asked.
+
+     "Yup.  We killed some time, made a few credits and
+entertained the masses.  All in all, not a bad weekend, eh Jacky
+boy?"
+
+     "But the money!  The fame!  The music!  The band!"
+
+     "Short-lived but enjoyable.  Like most of our weekend
+escapades.  I wonder if I can get some bonus points in guitar
+class for this.  It'd help my grade."
+
+     "I was hoping for more," Jack said, turning off his
+computer.
+
+     "You were?  On friday, you thought it was a waste of time."
+
+     "It was!"
+
+     "Well, one man's waste is another man's excrement.  Take it
+in stride, Jack.  Silly is good and we were exceptionally silly
+this weekend.  From could-bes to has-beens in a day.  You can't
+find enjoyment like that growing on trees.  You've got the money
+anyway, right?"
+
+     "No," Jack admitted.  "I figured I'd be really cool and buy
+one expensive new car with each album... I've barely got enough
+to make a phone call now."
+
+     "Live and learn," I said.  "Come on, let's go home."
+
+     "You know, we never did name the band," Jack said, walking
+off with me into the sunset.
+
+     "Yeah.  Silly, no?" I grinned.
+
+
+
+
+
+
+
+
+
+

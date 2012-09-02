@@ -1,0 +1,4015 @@
+
+   Index to 100 form letters
+
+1LTSCHRA       Pay delinquent account
+2LTSCHRA       Pay delinquent account
+3LTSCHRA       Pay delinquent account
+4LTSCHRA       Pay delinquent account
+5LTSCHRA       Pay delinquent account
+
+1SLPYBS        Pay delinquent account
+2SLPYBS        Pay delinquent account
+3SLPYBS        Pay delinquent account
+4SLPYBS        Pay delinquent account
+5SLPYBS        Pay delinquent account
+6SLPYBS        Pay delinquent account
+ABSNTRCD       Absentee record (poor attendence)
+ACKNORDR       Acknowledge your order
+AFTRSLSL       After proposal letter
+APOLOGYC       Thanks for sending payment
+BADCHK	       Bad check
+BDBHVR	       Bad behavior
+BDRSK	       Bad credit risk
+BLLNGMST       Billing mistake
+BNKDPST        To bank depositor
+BSAPPCTN       No to credit application
+BSCLSD	       You've been fired
+CHRGACCT       Thanks for opening a charge account
+CLAIMS	       Acknowledge accident letter
+CLLCTN	       Extend time limit on bill
+CMPLNTAD       To supplier of bad product
+CNCLCNTR       Cancel order
+COMPLNT        Complaint about product
+COND	       Sympathy for death of co-worker
+COPLCY	       No to request for donation
+CRDTINFR       Request charge account
+CRDTRQST       We have opened account for you
+CRDTSTND       Bad credit risk
+CRDTSUSP       Credit suspended for not paying bill
+CRVOUCH        Cannot vouch for company
+CSTMRTHS       Thanks for being a good customer
+DCLDN	       Decline dinner invitation
+DLVRMTH        Credit for postal overcharge
+DLYDCRD        Refund check mailed
+DTHOTHER       Recent loss in family
+EMPLMNT        No position for you
+EXPNSVGT       Cannot accept expensive gift
+FLLUPREP       Have you recieved our information
+FLLWUP	       Thanks for your interest
+FNDRSNG        Cannot sponsor charity
+FNDSLMT        Cannot donate to charity
+FOLLWUP        Our representative will call
+FURN	       New furniture store has opened
+GDCRDTST       Recommend credit for ...
+GVNGLTR        Cancel service charge
+HSPTYGFT       Thanks for hospitality gift
+ILL	       Ill / will not return to work
+ILLHLTH        Resign for ill health
+INACTVCS       Have we done something wrong
+INACTVE        No order for some time
+INCMTXCO       I can do your taxes
+INCOMPL        Incomplete washing instructions
+INJURY	       Sorry to hear about your accident
+INTROSLS       Salesman died ... new salesman
+JBDNWL	       Job well done
+JBRSM	       Job resume
+LFINSRNC       Question about life insurance
+LTDLVY	       Order will be shipped
+MNRNIMG        Cannot accept your gift
+MSMTNG	       Sorry I missed the meeting
+NOINFRMT       Call with more credit information
+NWCSTMR        Do you like our product
+OPNACCT        Open credit account
+ORDRCNFR       To place an order for ...
+ORDRCONF       Place order for ...
+PERSCRDT       Call with credit information
+PERSCRE        Information about individual financing
+PMPTPMNT       Thanks for prompt payment
+POSUNSTE       No position at this time
+PRCRDIT        Poor credit
+PRCRDT	       Cannot recommend company
+PRPY	       No credit for you at this time
+PRQUOTE        Send price quote
+PRSNLCRD       Cannot open credit account
+QUESTNNR       Sample credit questionair
+RECMMD	       Cannot recommend company
+REFPR	       Explain pricing policy
+REFRNCE        Can recommend company
+REFUND	       Sorry about our error
+RESCHDLO       Can send your order sooner
+RESIGN	       Letter of resignation
+RETRMNT        Congratulations on your retirement
+RJCTREF        Cannot recommend this person
+RSMJOB	       Resume for job
+SECYRCM        Can recommend this secretary
+SERVCHRG       Must increase our service charge
+SHRTEPMT       Cannot open charge account for you
+SLS	       Information about our equipment
+SLSGRMTN       Sorry you want to cancel your contract
+SLSLLPRD       Cannot accept returned items
+SLSVLM	       Congratulations on your sales
+STATEMNT       Billing error
+STMTER	       Corrected statement
+THNKYOU        Thank you for your order
+UNSATCRD       Cannot recommend this company
+
+
+1LTSCHRA
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	How can we try to persuade you to pay your delinquent
+account?  We have tried many suggestions for extending the
+payment period, for making the monthly payments smaller, for
+getting help from lenders, and for at least discussing this
+matter with us.
+
+	Now we have exhausted our own resources.  We have
+to seek help from outside our own company.  We have consulted
+with our attorney and he told us that we have several avenues
+available to us for collecting our money.
+
+	We are very uncomfortable with the thought of going
+to court and, therefore, have decided to extend your
+credit for ___ (amount of time) -- ___ (number of days).
+
+	To avoid legal action, we must have your check for
+____ (amount of money) on or before ____, l9__ (date).
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+1SLPYBS
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	____ (time period), just ____ (time period) is the
+time our legal deparment tells us we should extend your open
+account.  After that time -- ____ ((date) -- our legal staff
+will have to take action to collect the balance on your
+overdue account.
+
+	We have repeatedly written and phone your office asking
+for payment.  We know that you understand, as a businessman, that
+we can no longer by sympathetic.  We do expect your cooperation.
+
+	We expect a payment from you on or before _____ (date).
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+2LTSCHRA
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We have contacted you several times by letter and phone
+and have discussed arrangements for the payment of your account.
+The following items are still overdue:
+
+	No.	  Date			 Amount
+	No.	  Date			 Amount
+	No.	  Date			 Amount
+
+	So far we have not received any sign of your cooperation.
+Therefore, we must insist on immediate payment.  Please use the post
+past envelope that is enclosed for your convenience.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+Enclosure
+
+
+
+
+
+
+
+
+
+2SLPYBS
+
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We cannot accept any further delay in paying your
+balance due.  Your ignoring our suggestions of working
+together to get your account current is having a negative
+effect on your credit record.  We must have a payment now!
+
+	If you cannot send at least a partial payment now,
+call us so that we can come to a workable agreement.
+
+					Yours sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+3LTSCHRA
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We are interested in our customers and are always trying
+to find new ways to improve our service.  For these reasons, we
+are inquiring if there is a reason for your delay in paying your
+long overdue account.  If we can help - by making your payments
+smaller or extending our terms or by recommending a loan
+company -- please let us know.
+
+	We would appreciate a word from you -- as well as your
+check.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+3SLPYBS
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Again, we must remind you of your open account that
+is now ___ (number of days) days beyond our ___ (number of
+days) terms.
+
+	Despite the fact that you have ignored our previous
+reminders, you can no longer delay payment if you wish to
+keep your account open.
+
+	Please phone us to discuss ways we can work together
+to reduce this balance.  We will try to help you in every
+conceivable way.
+
+	Don't fail your company and us now.  At the very
+least, send us an explanation.	A check will keep your
+account open.
+
+					Yours sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+4LTSCHRA
+
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	You did not reply to our first reminder of your
+overdue account but we are sure that you will send us a
+check for _____ (amount) to make your account up-to-date.
+
+	Please use the postage paid envelope that is
+enclosed for your convenience.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+Enclosure
+
+
+
+
+
+
+
+
+
+4SLPYBS
+
+
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Is there a reason why you haven't paid?
+	Is there a reson why you haven't written?
+	Is there a reason why you haven't phoned?
+	Is there a reason why you have ignored your bills?
+
+	I am sure not!	Please mail your check today for ____
+(amount), covering invoices _______, _________, and _______
+(invoice numbers).
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+5LTSCHRA
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	We are sure that you will not object to this reminder
+that there is a balance of ____ (amount of balance) on
+your monthly account.
+
+	If you have not mailed your check, please do it now.  Then
+your account will be up-to-date.
+
+					Cordially,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+5SLPYBS
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Here is your second chance to pay these overdue invoices:
+
+	No.		 Date		   Amount
+	No.		 Date		   Amount
+	No.		 Date		   Amount
+
+	We know that you plan to pay them, so why delay?  If you
+have a reason for not paying them, please let us know either
+by letter or phone us at _______ (phone number)
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+6SLPYBS
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Please check the following invoices that are past due:
+
+	No.		  Date		   Amount
+	No.		  Date		   Amount
+	No.		  Date		   Amount
+
+	By taking care of this matter now, you will save yourself
+the trouble of checking them again.  If there is a reason for
+their not being paid, please inform us.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+
+
+ABSNTRCD
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	Your work has been excellent.  However, your
+absentee record is now overshadowing your work record.
+I realize that your health has been poor but one of
+our job requirements is regular attendance.  We have
+difficulty scheduling when we cannot depend on your
+attendance.
+
+	We have discussed this subject with you
+several times before.  Now your attendance must
+meet our requirements or we will have to
+terminate you.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+ACKNORDR
+.op
+
+Dear _____ (name):
+
+	With thanks we acknowledge your check and order dated
+_______, l9 __, (date) for ______ (items) described in our
+letter to you of _______, l9 __ (date).
+
+	Unfortunately, the demand for the ____ (item) has
+been so great that we have no more on hand.  Despite the
+fact that we have reordered this, these ____ (item), we
+regretfully have no idea when they will be shipped to us.
+
+	Therefore, we will gladly return your check and
+inform you when the new supply arrives.  However, if you
+prefer, we will keep your check and forward you the ___
+(item) as soon as it, they arrive(s).
+
+			       Very truly yours,
+
+
+
+			       (name)
+
+
+
+
+
+
+
+AFTRSLSL
+.op
+
+
+Dear ____ (name):
+
+	I am taking the liberty of writing you this letter
+instead of interrupting you by phone.
+
+	Last week I mailed you a brief proposal.  Now I am
+wondering if it suits your company's needs.
+
+	We wish to do business with you and would appreciate
+it if you would let us know as soon as possible if we fit
+into your plans.
+
+				     Cordially yours,
+
+
+
+				     (name)
+
+
+
+
+
+
+
+APOLOGYC
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear Sir or Madam:
+
+	Thank you for sending your payment check on your _____
+(month) bill.
+
+	Our collection letters proceed automatically and
+occasionally a payment crosses in the mail.  This is obviously
+what happened in your case.
+
+	Your check, of course, has been properly documented and
+your account is currently marked paid in full.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+BADCHK
+.op
+
+Dear ____ (name):
+
+	This letter is to inform you that the check number ___
+(number) dated _______, l9__ (date) drawn to me in the amount
+of _____ (amount) has been returned from the bank with the
+notation "No Funds."
+
+	We all make mistakes when it comes to bank accounts.
+And since this is Christmas season, I am sure that this mistake
+was just an oversight.
+
+	I am sure, though, that you understand that I would
+like to have this situation rectified at once.	Therefore,
+please send me immediately a certified check for ______
+(amount) plus _____ (amount) for protest charge (statement
+enclosed) for which I was required to pay.
+
+	Your promptness will enable me to readjust your
+account with the bank and return your original check.
+
+				Yours truly,
+
+
+
+				(name)
+
+
+
+
+
+
+
+
+
+
+BDBHVR
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	My behavior at your ____ (place) following  our
+recent ______ (what kind of) meeting was deplorable.
+I can assure you that it will not happen again.  I
+was wrong.  I have no excuses.	I am very sorry.
+
+					Respectfully,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+BDRSK
+
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Thank you for your recent request to establish credit.
+We appreciate your interest in ____ (name of store).
+
+	However, based on numerous credit information, we can
+only make shipments to you when cash is received with the
+order.
+
+	We apologize for this but we know that you understand.
+If we can be of service to you further, please let us know.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+
+BLLNGMST
+.op
+
+Dear ____ (name):
+
+	This letter is to inform you that recently there have
+been many mistakes in our billing.  Can this situation be
+rectified?
+
+	I am sure that you would agree that if a little more
+time, care and effort was made towards accuracy on the part
+of your accounting department, we would mutually benefit.
+
+					Sincerely,
+
+
+
+					(name)
+
+
+
+
+
+
+
+BNKDPST
+					(your street
+					 city, state, zip)
+
+					(date)
+
+Dear ____ (name):
+
+	As a _________ (name of bank) depositor, you are very
+important to us.  Therefore, we are concerned when we see that
+you have not used your account for some time.
+
+	Up to this time, we could only measure your satisfaction
+by the use of your account.  Now, however, you can take advantage
+of this easy-to-answer letter and tell us if you are taking
+advantage of the bank's many other facilities or anything else
+you would like to say!
+
+	Have we lived up to the standards that you had expected?
+	Have we served you adequately?
+
+	May be you haven't used your account because you have
+moved or because you have misplaced your passbook.  (We will
+gladly issue you a new one!)  Whatever the reason, please tell
+us on the confidential form above.  Postage is not needed and
+you do not have to sign your name.  Your input is always welcome.
+
+				       Respectfully yours,
+
+
+
+				       (name)
+				       (title)
+
+
+
+
+
+
+
+
+
+BSAPPCTN
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ___ (name):
+
+	Thank you so much for your credit application at _____
+(name of store).  We appreciate your confidence.
+
+	Your references are extremely good and your employment
+record shows a strong future.  However, at present your financial
+condition does not totally meet ____ (name of store's) requirements.
+Therefore, we cannot grant you the $____ (amount of money) open
+credit you requested.
+
+	Please feel free to come in and talk to me at your convenience.
+I am sure that we can set up a gradual increasing credit scale that
+will meet with your satisfaction.  Meantime, deliveries paid by cash
+are made within ____ (number of days) days.
+
+	We hope to be hearing from you shortly.
+
+					Sincerely,
+
+
+
+					(name)
+					(title) 					(title)
+
+
+
+
+
+
+
+
+
+BSCLSD
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	I am sure you are aware of the poor economic
+conditions.  Because of this fact, we have had to eliminate
+certain positions.  Sadly, your position is one of those
+to be eliminated.
+
+	We hope that as economic conditions improve we
+will be able to consider you for another position.  We
+wish you every success in finding a new position and
+we extend our thanks for the good work you have done
+for us.
+
+					Respectfully,
+
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+CHRGACCT
+				       (your street
+					city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name:
+
+	Thanks so much for opening a charge account with us!
+You have placed your trust in us and, therefore, we hope
+to see that you have complete satisfaction in your purchases.
+
+	Our showing of _____ (product) is comprehensive and
+includes some of today's best designers.  They include the
+following:   ______, _______, _____ (list of names).
+
+	We are most eager to have you get acquainted with
+our store, products and associates.  We know that you will
+be served intellectually and courteously.  Please feel welcome
+to come into our store frequently.
+
+				       Cordially yours,
+
+
+
+				       (name)
+				       (title)
+
+
+
+
+
+
+
+
+
+CLAIMS
+
+					(state
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Thank you so much for your letter explaining the incident
+on ____ (what i.e. bus) _____ (time period).  It is only when
+people take the time to let us know about occasional slip-ups
+that we can rectify problems and continue to serve the community
+with courtesy and reliability.
+
+	The information in your letter is now under investigation
+by our personnel office.  Proper disciplinary steps will be taken
+to those persons involved.  We will try very hard to make sure
+that there will be little chance of a similar circumstance
+occurring.
+
+					Cordially yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+
+CLLCTN
+.op
+
+
+Dear Sir or Madam:
+
+	We have a very uncomfortable request - we are asking for
+an extension of time on our bill for ____ (amount).
+
+	We had been depending on a check from one of our clients
+to cover this bill.  However, we have just been informed that this
+check will not arrive until _______ (date).
+
+	Therefore, we must ask for your indulgence and grant us
+a two weeks' extension of time on our bill.  We are sorry about
+any inconvenience this may bring to you.
+
+					 Respectfully,
+
+
+
+					 (name)
+
+
+
+
+
+
+
+CMPLNTAD
+.op
+						(date)
+
+
+
+(name
+ address
+ city, state, zip)
+
+
+Dear Sir or Madam:
+
+	We have been receiving many complaints from our customers
+about your ____ (item).  They have not been satisfactory and,
+therefore, we have had to refund the purchase price on many of them.
+
+	The trouble seems to be with the last shipment.  The ______
+(item) before seemed sufficient and we did not have any complaints
+from our customers.
+
+	Please check to see if there was an error in making these
+___ (item).  We would also like to suggest that you check to see
+if they are being packed with enough protection for shipping.
+
+	We have ___ (amount left) left and we would like to have
+you send us a replacement shipment.  We will wait for instructions
+from you before returning this, these (item).
+
+					 Sincerely,
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+
+CNCLCNTR
+.op
+
+Dear Sir or Madam:
+
+	This certified letter is to cancel the order I placed
+____ (any time within three days) with one of your door-to-door
+encyclopedia salesmen.	He was extremely pushy and I acted
+impulsively.  After he left, I regretted my action.
+
+	Luckily, a friend pointed out the law stating that
+there is a three-day "cooling off" period in this state in
+which buyers may cancel orders placed with door-to-door salesmen.
+I checked this information out with the Attorney General.
+
+	Enclosed you will find a copy of my contract.  I have
+also told my bank to stop payment on the down payment check.
+
+	The above mentioned actions should conclude this matter.
+I regret any inconvenience that I may have caused your company.
+
+				 Sincerely,
+
+
+
+				(name)
+
+
+Enclosure
+
+
+
+
+
+
+
+
+
+COMPLNT
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	The ______ (product) made for our last order,
+No. _____ (number) are too much in variance from
+the pattern we gave you.
+
+	We can correct these ____ (product) but we
+cannot tolerate this for the future.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+COND
+.op
+
+Dear ______ (name),
+
+	I was just informed by our office manager of your
+_______ (relative's) death.  It is impossible to adequately
+express my sincere sympathy at this most difficult time.
+
+	I had worked very closely with _______ (name) in
+the office.  Therefore, I feel that I have lost a very good
+friend as well as a fellow co-worker.
+
+	Please let me know if I can be of any help to you.
+
+				Sincerely,
+
+
+
+				(name)
+
+
+
+
+
+
+
+COPLCY
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Thank you so much for your recent letter requesting a
+donation to ___ (charity).  However, it is impossible to support
+all the worthwhile causes in each area that our company has offices
+in.  Therefore, our company makes an annual contribution to the
+United Way Fund which then supports many local organizations.
+
+	Because of the above policy, we are unable to make a
+contribution to the local ____ (charity).  It is a fine project
+and we wish you luck in your endeavors.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+CRDTINFR
+					(your street
+
+					 city, state, zip)
+
+					(date)
+
+
+
+(name
+
+street
+
+city, state, zip)
+
+
+
+Dear Sir or Madam:
+
+
+	We have been purchasing merchandise from you for
+
+______ (period of time) C.O. D.  Now we would like the
+
+convenience of a charge account.
+
+
+	Please let us know what information and references
+
+are necessary as well as your credit terms.
+
+
+
+
+				       Yours truly,
+
+
+
+
+				       (name)
+
+
+				       (title)
+
+
+
+
+
+
+
+CRDTRQST
+.op
+
+Dear _____ (name):
+
+	Thank you for your recent request to open a charge account.
+
+	We have checked you references and am pleased to let you
+know that each has recommended you very highly.  Therefore, an account
+has been opened for you.  We are confident that you will use this
+account soon and often.  You also have available to you the
+convenience of ordering by telephone.
+
+	We send out statements at the end of each month and expect
+payment sometime during the following month.
+
+	As a credit customer, you will be receiving advance notice
+of special sales and other interest features.  We look forward to
+having a mutually satisfying relationship.
+
+				Yours truly,
+
+
+
+				(name)
+
+
+
+
+
+
+
+CRDTSTND
+.op
+
+Dear ____ (name):
+
+	As requested, we are replying to your recent letter of
+querie regarding ________ (name) as a credit risk.
+
+	In all fairness to you, we regret that we cannot
+recommend this firm.  Despite the fact that we granted
+generous credit privileges for ____ (time period), they
+did not meet their agreed upon obligations and were lax
+in their payment.  Therefore, we withdrew these privileges
+and now will only do business on a cash basis.
+
+	This is the only basis that we feel secure in dealing
+with _______ (name of company).
+
+				Yours truly,
+
+
+
+			       (name)
+
+
+
+
+
+
+
+
+CRDTSUSP
+.op
+
+Dear ___ (name):
+
+	Thank you for your generous order received ___ (time period)
+which you requested to have shipped immediately and charge to your
+account.
+
+	However, you have probably overlooked the fact that your
+for ____ (period of time) your account has been past due.  Our
+policy has always been to suspend credit until all past monies
+are paid.  Therefore, we request that you remit the amount owed
+from the previous statements.
+
+	After receipt of your check, we will promptly ship your
+order.
+
+				Yours truly,
+
+
+
+				(name)
+
+
+
+
+
+
+
+CRVOUCH
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear Sir or Madam:
+
+Although ______ (name of company) has been a customer of ours,
+we do not have a sufficient enough relationship to feel
+comfortable to vouch for them.
+
+We have made ___ (number) of shipments to this company during
+the past ____ (number of years).  Their payments have been timely.
+The firm has a good reputation within the trade but we do not
+have any knowledge of their credit standing.
+
+I regret that I cannot give you more complete information.
+
+					Yours sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+CSTMRTHS
+
+
+
+						(your street
+						 city, state, zip)
+
+						(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	Just a quick 'thank you' for being one of our
+customers this year.
+
+	We appreciate your business and we hope to
+continue serving you during the coming year.
+
+						Regards,
+
+
+
+						(name)
+						(title)
+
+
+
+
+
+
+
+
+
+DCLDN
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	______ (name of spouse) and I appreciate your
+dinner invitation on ______ (date).  Sadly, though,
+we have other plans for that particular date.
+
+	Thank you for thinking of us.  We hope to
+be seeing you soon.
+
+					Respectfully,
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+
+DLVRMTH
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We shipped your order no. ____ (number) for ______
+number and item) air express, special delivery instead
+of parcel post because we thought that time was a
+critical factor.
+
+	Because our assumption was our error, we are
+mailing you a credit for the difference in delivery
+rates.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+DLYDCRD
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	I am sorry you had to wait such a long time for your
+credit of _____ (amaount of money).  We have had trouble
+tracing your sale and the return of part of the merchandise.
+
+	The refund check has now been mailed.  Again, thanks
+for excusing the delay.
+
+					Sincerely yours,
+
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+DTHOTHER
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We were saddened to learn of your recent loss.
+_____ (name of person) was liked so much that it is
+hard to believe that he is no longer with us.
+
+	His passing will be mourned by all those who
+loved him.
+
+					Respectfully yours,
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+
+EMPLMNT
+					(your street
+					 city, state, zip)
+
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Thank you for giving us the occasion to consider
+you for employment.
+
+	We have carefully reviewed your background and
+qualifications and find that we do not have an appropriate
+position for you at this time.	If one should develop,
+however, we will be pleased to contact you.
+
+	We appreciate your interest in ____ (name of
+company and wish you success in your search.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+EXPNSVGT
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	The ______ (gift) you sent goes well with the decor
+of my office.
+
+	However, I am sorry that I have to return it.
+
+	I have a policy of not accepting expensive gifts from
+clients.  An original _______ (gift) by _________ (name of
+artist or manufacture) fits the catetgory of expensive.
+
+					Respectfully,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+FLLUPREP
+					      (your street
+					       city, state, zip)
+
+					       (date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	PLEASE DO US A FAVOR --
+
+	Tell us whether you received our brochures?
+
+	l)  Whether it gave you all the necessary information?
+	2)  Whether you are still interested in ______?
+	3)  Whether you have made other plans?
+	4)  Whether you have any problems?
+
+	If the latter applies to you, please either write us or
+stop in our offices.  I am sure that we will be able to help
+you.
+
+	If you have changed your plans or made other arrangements,
+we will be happy to remove your name off our list and not send
+further letters and literature.
+
+	A self-addressed, postage-free envelope is enclosed and
+you may use the back of this letter for your reply.  We hope
+to be hearing from you soon.
+
+	Thanks for your cooperation.
+
+				       Yours truly,
+
+
+
+				       (name)
+				       (title)
+
+Enclosure
+
+
+
+
+
+
+
+FLLWUP
+.op
+
+	Thanks a lot, _____ (name)!
+
+	I appreciate your interest you have shown me.  Often times
+I encounter difficult purchasing agents and sales managers.  That's
+why a warm reception such as the one you gave me is a delightful
+experience.
+
+	I hope that we will continue our mutually satisfying
+relationship.  Thanks again!
+
+					Cordially,
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+
+FNDRSNG
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Please accept my sincere apologies for having to decline
+the use of my name as a sponsor of ____ (name of charity).  I
+feel uncomfortable about sponsoring something that I have not
+put my energies in.  I now work with a few charities and I
+just do not have the time to add any more at this moment.
+
+	Your cause has merit.  I wish you well in your search
+to finding prominent names for your sponsor's list.  Thank you
+again for asking me.
+
+					Cordially yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+FNDSLMT
+
+
+
+
+					(your street
+					 city, state. zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	I am sorry that I cannot make a donation to ______
+(name of charity) _____ (time period).
+
+	I am involved with several other charities.  I know that
+your cause is genuine but my financial resources are limited.  I
+have to make my own choices over the distribution of these
+funds.
+
+	I wish you every success in your program.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+
+FOLLWUP
+
+
+						 (your street
+						  city, st, zip)
+
+						  (date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	The other day our representative, ____ (name) called you
+when you were out.  Therefore, he has asked that we write you to
+go over several important points discussed in the meeting of
+_______, l9__ (date).
+
+	Since our business opened _____ (time) ago, we have learned
+that it was not enough just to furnish quality _______ (kind of
+products).  No matter how good the products, they will not be
+reliable unless they are used properly.  Therefore, our products
+are sold with a guarantee that one of our associates will be
+available for advise and instruction as you need it.  For example,
+_____ (name of representative) has been with us for over ____ (time
+period).  He is very conscientious and will follow through whenever
+you need his help.
+
+	Placing an order with _____ (company) assures you of quality
+products as well as careful instructions and maintenance of the
+products.
+
+				       Yours truly,
+
+
+
+				       (name)
+				       (title)
+
+
+
+
+
+
+
+FURN
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ___ (name):
+
+	____ (name of store) has opened a wonderful new store
+in _____ (name of county) at ______ (address).	_____ (name of
+store) has been satisfying home furnishing needs since ____
+(year).  Our experience has shown us that when you shop, you
+want selection, quality, avilability, and value.  ____ (name
+of company) can offer you all this and more!
+
+	We have expanded our furnishings of over ____ (number
+of rooms) room groupings to include ______ (name of grouping).
+This collection features ______, ____, ____ (name of few brands)
+as well as many other famous name brands that complete our _____
+(amount of money) inventory.
+
+	As an introductory offer to our new _____(location) store,
+we're offering you a ___(number of discount) discount on ALL
+regularly priced merchandise.  We also have a "get-acquainted" gift
+for you.  It is ______ (what the gift is) which is absolutely FREE
+with any purchase of ______ (amount of money) or more.	You have a
+choice of ____ (number of your choice) to select from.
+
+	To make shopping even more of a convenience, ____ (name of
+store) invites you to open _____ (type of charge) account today.  With
+this card you can charge your purchases and not have to be concerned
+about a down payment or tying up your other charge cards.  And your
+credit card will be welcomed at any of our ____ (number of stores) other
+stores across the United States.
+
+	All you have to do is complete the coupon below and return it in
+the postpaid envelope that is enclosed for your convenience.  Why not
+do it today!
+
+					Cordially yours,
+
+
+
+					(name)
+					(title)
+
+Enclosure
+
+
+
+
+
+
+
+GDCRDTST
+.op
+
+Dear ______ (name):
+
+	It is with a great privilege and pleasure to answer
+your letter about _____ (name).
+
+	_________ (name) has been a credit customer of ours
+the past ______ (time period).	He has always paid his account
+on time.  In addition, he has sent us several customers equally
+reliable.  Judging from his purchases, he seems to be a man, woman
+of considerable means.
+
+	We recommend _______ (name) to you with no reservations.
+
+					Yours very truly,
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+GVNGLTR
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ___ (name):
+
+	I guess you are right, ____ (name)!
+
+	Although I thought that our charges are justified, your
+letter as well as a discussion with our service crew who
+visited you has convinced me that you are partially correct.
+The ____ (item in question) must have been defective and
+that is why it has probably given you so much difficulty.
+
+	Therefore, I have told the bookkeeping department
+to cancel all of last ____ (time period's) service charges.
+
+	Now I understand that all the equipment is working
+smoothly.  Please let me assure you that we will continue
+to stand by our product for the full ___ (time period).
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+HSPTYGFT
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state,zip)
+
+Dear _____ (name):
+
+	Your gift awaited us when we returned home.  It
+reminded us of your warm and sincere hospitality.
+
+	We shall treasure the ______ (gift).  Most of
+all, every time we ____ (use it, see it, etc.), we will
+think of our friendship.
+
+					Cordially yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+ILL
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	This letter is to inform you that we have received
+your letter dated ____ (date) that was addressed to _____
+(name).
+
+	_____ (name) has been ill and is not expected to
+return to the office until about ____ (date).  When he
+returns, I will bring your letter to his attention.
+
+					Yours truly,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+ILLHLTH
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	When I took the position at ____ (company), I never
+thought that I would be resigning so quickly.  However,
+I must leave the position at the ____ (end, beginning)
+of ____ (month).
+
+	Ill health and growing burdens have made it
+impossible to conduct this program.  I only wish that
+I can continue to work for such a worthwhile agency.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+INACTVCS
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	We are at a loss when we see that you are no longer
+working with us in a business relationship.  Is there something
+we have done, or for that matter, have not done?  Please take
+a moment's time to write a brief sentence or two on the back
+of this letter.  You can mail it in the envelope post paid that
+is enclosed.
+
+	We have just expanded our warehouse and have increased
+_____ (product line that would interest this customer) to serve
+you more efficiently.
+
+	We value you as a business associate and hope that we
+will hear from you soon.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+Enclosure
+
+
+
+
+
+
+
+
+
+INACTVE
+.op
+
+Dear _____ (name):
+
+	In the past I have valued your patronage.  But despite
+the fact that we have always enjoyed a mutually pleasant and
+profitable relationship, you have not placed an order with me
+in recent (time period).  Am I responsible for something said
+or done that offended or displeased you?
+
+	Please let me know if anything is troubling you that
+I can rectify.	Just call on the phone so we can talk.	I
+definitely respect your insight and good will.
+
+				Cordially yours,
+
+
+
+				(name)
+
+
+
+
+
+
+
+
+INCMTXCO
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	As an experienced tax consultant, I can probably save you
+a great deal of money!	By doing your tax return, I often can find
+enough missed deductions to pay my fee and more.
+
+	Below is a list of questions and answers that should convince
+you on using my services:
+
+	l.  Personalized Service.  No two people are alike and no
+	    two people possess the same tax returns.
+
+	2.  Reasonable Fee.  The basic price of ____ (price) is
+	    for an itemized state and federal return.  Business
+	    schedules, stock sales, and other complications are
+	    additional.
+
+	3.  Fast, Confidential Service.  There is usually no
+	    waiting time for an appointment and your returns
+	    are returned within _____ (time period).
+
+	4.  Convenient.  This is an individualized owned business
+	    that is opened ______ (number of months) during the
+	    year for your convenience.
+
+	WÂ woul‰ likÂ tÔ includÂ yoı aÛ onÂ oÊ ouÚ satisfie‰ ç
+customersÆ  PleasÂ placÂ thiÛ letteÚ witË yoır ta¯ paperÛ an‰ wheÓ ç
+yoı arÂ read˘ tÔ worÎ oÓ them¨ givÂ uÛ · call.
+
+					Sincerely,
+
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+INCOMPL
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We agree that the ____ (item) you returned shrunk
+in the washing machine.  That ___ (item) was not washable
+although many ____ (item) today are.  Our sales associate
+should have explained these instructions to you.  Sometimes,
+however, a clerk may forget.
+
+	Whether this was the case of not, ____ (name),
+we are sorry for the inconvenience.
+
+	Please be assured that we will be very happy to
+replace the ____ (item) or credit your account.
+
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+INJURY
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	I am so sorry to hear about your ____ (accident, injury).
+I sure hope that you are on the road to a quick recovery.
+
+	Since you will be confined for a few ___ (time period),
+I think you will enjoy this _____ (gift) on your hobby of
+____ (hobby).
+
+					Cordially,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+INTROSLS
+.op
+
+
+Dear ______ (name):
+
+	For a long time you have been a valued customer and
+gave our salesman, __________, (name) a warm reception.
+Regretfully, we must inform you that ______ (name) suddenly
+died ________ (time).
+
+	This is a quick note to let you know that _________
+(name) will be taking over _________ (previous') territory and
+will be dropping in on you soon.  We think very highly of
+_____ (name) and his knowledge of our product, _________ (name).
+
+
+	We are sure that you will continue to enjoy the same
+profitable and pleasant relationship that you knew with
+______ (previous name).
+
+				Cordially yours,
+
+
+
+				(name)
+
+
+
+
+
+
+
+JBDNWL
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	Thanks, ____ (name),
+
+	and all the other people working at ____ (name
+of store) for a job well done during the past year
+and most especially during the Christmas rush.
+
+	We appreciate your interest in ____ (name of
+company) as well as the courtesy and cooperation
+you have displayed.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+JBRSM
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ Name):
+
+	In answer to your advertisement for _____ (job requested),
+I am presently a _____ (job held now) with the responsibility for
+________, ________, and _______ (some responsibilities held).
+
+
+	I have over ____ (number of years) of varied __________
+(kind of experience pertaining to job requested).
+
+	My resume is enclosed.
+
+					Sincerely,
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+
+LFINSRNC
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ___ (name):
+
+	I have several questions regarding my life insurance
+policy No. ____ (number).  They are the following:
+
+	l.  What is the present death benefit?
+	2.  What is the current cash value?
+	3.  What is the present loan against the cash value?
+	4.  What will the death benefits be at ____ (date)?
+
+	Your prompt reply will be appreciated.
+
+					Sincerely,
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+LTDLVY
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We can definitely understand your annoyance in
+not receiving the _______ (number and item) that you
+ordered.
+
+	Orders requiring engraving need ____ (time
+span) for delivery.  Our salesperson probably did not
+make that clear and we are sorry for that misunderstanding.
+
+	Your order will be shipped ____ (day and week
+it will be shipped) and will arrive within ____ (time
+period).  Please forgive the delay.  We know that
+you will be satisfied with the final product.
+
+					Sincerely,
+
+
+
+					(Name)
+					(Title)
+
+
+
+
+
+
+
+
+
+MNRNIMG
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _______ (name):
+
+	Your appreciation gift regarding the result of the
+recent court decision was very thoughtful.
+
+	However, I must decline your kind offer.
+
+	As a civil court judge, I work very hard at
+maintaining an image of impartiality.  Accepting gifts
+could very well taint that image.
+
+	I do appreciate your kind gesture.
+
+					Cordially yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+MSMTNG
+
+					 (your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	There is absolutely no excuse for my not meeting
+with you for ___ (breakfast, lunch, dinner) ______ (time)
+or at least not getting word for you.  The appointment was
+written on my calendar but somehow I thought our meeting
+was for next ____ (day).
+
+	Please forgive me.  I am eager to talk to you
+and will call on ____ (day) to see if we can arrange
+a meeting before you leave town.  I will not let you
+down this time.
+
+					Respectfully,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+NOINFRMT
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Thank you for your request to open a ____ (name of
+company's) charge account.  We appreciate your confidence
+in us.
+
+	Before new accounts are opened, we conduct a routine
+credit investigation.  However, the information needed for
+your credit application is incomplete.
+
+	Therefore, please call at the credit office on the
+___ (what number floor) floor.	At that time we are sure that
+you can provide us with the necessary information to reconsider
+your request.
+
+	We look forward to talking to you and meeting you
+personally.
+
+					Respectfully yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+NWCSTMR
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name)
+
+	HAVE YOU HEARD THIS STORY??
+
+	A young man walked to a telephone booth and called a certain
+number and had the following conversation:
+
+	Is this Mr. Jones?
+	Yes.
+	I'm calling about the ad in yesterday's paper for the
+	_____ (kind of job).  Is it filled yet?
+	Yes.
+	Is that person doing a satisfactory job?
+	Yes.
+	Thank you.  Good-bye.
+
+	The drugstore clerk was very curious and asked this young
+man if he had wanted to apply for the job.  "No," he answered. "I
+have the job!  I was just checking to see if I was doing it adequately."
+
+	That's why we are writing to you today.  We want to see
+if the ____ (product) that you recently purchased has been to your
+liking.
+
+	We at ____ (company's name) pride ourselves not only on our
+products but also on making sure of your continued satisfaction.
+
+				       Sincerely,
+
+
+
+				       (name)
+				       (title)
+
+
+
+
+
+
+
+
+
+OPNACCT
+.op
+
+Dear Sir or Madam:
+
+	This letter is requesting that I be allowed to open
+a credit account with your organization.
+
+	I have been buying _______ (item) from your company
+for ______ (time frame) on a C.O.D. basis.  Now I would
+like the convenience of charging these purchases with payment
+made within ____ (time frame - spelled out and then numerical
+numbers in paranthesis) from receipt of the invoice.
+
+	My business has grown substantially during the last
+___ (time) and I have recently added as customers (name a
+few new customers).
+
+	I have my account with ______ (name of bank).  You
+can speak to their _____ (officer), ______ (name) as a
+resource.  In addition, I am listing ___ (number) of
+references who will vouch for my business and personal
+integrity:
+
+	(name
+	 city, state)
+
+	(name
+	 city, state)
+
+	(name
+	 city, state)
+
+	I am confident that the references given will prove
+satisfactory and I look forward to your prompt favorable
+reply.
+
+				   Yours truly,
+
+
+
+				  (name)
+
+
+
+
+
+
+
+ORDRCNFR
+.op		(date)
+
+
+(company
+ address
+ city, state, zip)
+
+Dear Sir or Madam:
+
+	Please send the following as soon as possible and
+charge to our account:
+
+	(item)
+
+	(item)
+
+	(item)
+
+	Thank you for your promptness.
+
+				     Cordially,
+
+
+
+				     (name)
+
+
+
+
+
+
+
+ORDRCONF
+.op
+
+				       (date)
+
+
+(name
+ address
+ city, state, zip)
+
+Dear Sir or Madam:
+
+	Please send the following items as soon as possible
+and charge to our, my account:
+
+	item
+
+	item
+
+	item
+
+				   Respectfully yours,
+
+
+
+				   (name)
+
+
+
+
+
+
+
+PERSCRDT
+					(your street
+					 city, state, zip)
+
+
+					(date)
+
+
+(name
+streeet
+city, state, zip)
+
+Dear ____ (name):
+
+	Thank you for your recent request of a _____ (name of
+company's) charge account.  We appreciate your interest.
+
+	We routinely conduct a credit investigation before new
+accounts are opened.  The information you supplied us to support
+your credit application is incomplete.
+
+	Therefore, when it is convenient, please call the Credit
+Office.  We are sure that you can provide us the needed information
+to reconsider your request.
+
+	We look forward to talking to you and meeting with you
+personally.
+
+					Sincerely yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+PERSCRE
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	I am sure that you have heard about Individual Financing.
+This is our service that has been invented for individuals with
+an above average income and credit standing.  I just thought that
+you might be interested in hearing a little more about it.
+
+	With Individual Financing, you have independent control in
+handing your own long-term credit needs.  And if your annual net
+income is $____ (amount) or better and you qualify in other respects,
+you will be given a credit line between $______ (amount) and $_____
+(amount).  Then you can use it for family, personal, or household
+purchases just by writing a special check of $____ (amount) or
+more.
+
+	Individual Financing can give you the flexibility you
+want through the following benefits:
+
+	l.  No charge until you use it.
+	2.  You have the option of paying more than the minimum
+	    payment which would reduce the amount of future
+	    financial charges.
+	3.  No collateral is required.
+	4.  No prepayment penalties.
+	5.  No bank visits needed each time you need a loan.
+	6.  Credit life insurance of up to ______ (amount)
+	    is available.
+
+	Please take the time to complete and sign the enclosed
+application and financial statement.  This information will be
+handled in confidence.	You are under no obligation.  As soon
+as we receive your application, either a loan officer or I will
+call you.
+
+					Respectfully yours,
+
+
+
+					(name)
+					(title)
+
+Enclosure
+
+
+
+
+
+
+
+
+
+PMPTPMNT
+				(your street
+				 city, state, zip)
+
+				 (date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	In my work, I rarely come across accounts that are
+in good standing.  Therefore, I am writing you personally
+to let you know that ____ (name of company) appreciates
+your promptness in paying your account.  You make my job
+easier and more enjoyable.
+
+	If you ever have a problem with shopping at our
+store, please do not hesitate to call me.  I will be most
+happy to see that everything possible is done to make
+your association with ____ (company's name) continue
+to be mutually agreeable.
+
+	Thank you again for your consistent punctuality and
+reliability.
+
+				       Cordially yours,
+
+
+
+				       (name)
+				       (title)
+
+
+
+
+
+
+
+
+
+POSUNSTE
+
+					(your street
+					 city, state, zip)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (Name):
+
+	Your interest in ___ (name of company) is genuinely
+appreciated.  I read your resume with interest.
+
+	However, after evaluating the resume with our
+personnel and marketing departments, I regret that we
+do not have a position open at this time that fits your
+abilities.
+
+	We thank you for your interest in ____ (name of
+company) and I know that you will find a position soon.
+
+					Respectfully yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+PRCRDIT
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+state
+city, state, zip)
+
+Dear ____ (name):
+
+	Thank you for sending us your order of _____, l9__ (date)
+for ____ (company's) _____ (product).
+
+	As you may recall, we had a great deal of difficulty
+collecting payment for your last purchase.  As a matter of fact,
+your account had to be turned over to _____ (name of collection
+agency).
+
+	Of course, we know that times and conditions change and,
+therefore, we should not be concerned.	However, we would appreciate
+your sending us a few current credit references and a recent statement
+of your financial condition.
+
+	If you are in a hurry for the ____ (product), please send us
+a check for ____ (amount of money).  We will then promptly deliver
+your ____ (product).
+
+	Thank you again for considering us and we look forward to
+hearing from you soon.
+
+					Cordially yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+PRCRDT
+.op
+
+Dear Sir or Madam:
+
+	We regret that we cannot vouch for the reliability of
+____ (company).  Our experience dealing with this firm has
+been unsatisfactory.
+
+	During the past ___ (time period) that we have been
+having a business relationship with ______ (company), they
+have repeatedly failed to meet their financial obligations.
+In fact, right now they owe us ________ (amount) for purchases
+made over a period of _________ (time).
+
+	We know that this information will remain in confidence
+and we hope that it will be helpful to you.
+
+				      Sincerely yours,
+
+
+
+				      (name)
+
+
+
+
+
+
+
+
+PRPY
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	To tell you the truth, many of our customers prefer to
+make their purchases by cash.  This alleviates the anxiety of
+having to make late payment charges.  I would like to  recommend
+this method to you because, as much as I have tried, I cannot
+find a way to add you to our list of credit customers.
+
+	Our gathered information indicates that your payments
+this year have been getting more and more behind.  Of course,
+this may be a result of your having a particularly bad year.
+But, we ethically cannot add to your outstanding debts.  We,
+of course, hope your condition improves.
+
+	We do appreciate your considering us as a supplier and
+would be pleased to do business with you on a cash-with-your-
+order-basis.  Our service and products continue to be outstanding!
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+
+PRQUOTE
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We are currently developing a program of vendor sources.
+Therefore, we would appreciate a quote from you on the items
+listed below:
+
+	(item)
+	(item)
+	(item)
+
+	Please return your quote in the prepaid envelope that
+is enclosed for your convenience.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+Enclosure
+
+
+
+
+
+
+
+
+
+
+
+PRSNLCRD
+
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+Thank you for your interest in ---- (name of company) and your
+request for a credit line.
+
+Unfortunately, we are unable to grant you the open credit you
+requested.  This was decided based on the information you
+gave us as well as from our normal sources.  However, if you
+can supply us with additional references and current financial
+statements, we will be most pleased to reconsider our decision.
+
+In the meantime, we will welcome any orders made by a cash payment.
+
+					Sincerely yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+QUESTNNR
+		   SAMPLE CREDIT QUESTIONNAIRE
+
+Creditability and Reputation_________________________________
+How long have you worked with him?___________________________
+Highest credit on:  Charge account___________________________
+Highest credit on:  Installment credit_______________________
+Present amount owed:  Due now________________________________
+Present amount owed:  Past due_______________________________
+Meeting obligations promptly?________________________________
+Present Address______________________________________________
+Remarks______________________________________________________
+Signed________________________	 Date________________________
+
+
+Length of time known?______________________ Age______________
+Single or married__________________________
+Character________________ Community Reputation_______________
+Occcupation______________ Employer's Name____________________
+Employment steady?_______ Monthly Income (estimate)$_________
+Amount owed you:  Due now$_______________ Past due$__________
+Meeting obligations promptly?________________________________
+Present Address______________________________________________
+Remarks______________________________________________________
+Signed_______________________	 Date________________________
+
+
+
+
+
+
+
+
+
+RECMMD
+.op
+
+
+Dear Sir or Madam:
+
+	The ____ (firm, company, association) mentioned in your
+letter of ____ , l9__, (date) has had very few dealings with us.
+
+	This is a reliable and reputable firm as far as we know
+but we cannot ethically vouch for their credit standing since
+this firm is not well known to us.
+
+	We are sorry that we are not able to be more helpful.
+
+					Sincerely,
+
+
+
+					(name)
+
+
+
+
+
+
+
+REFPR
+.op
+
+
+I wish I could but I cannot!
+
+When _____ (firm's name) set up the ____ (year) price schedule
+in the ____ (season), we  tried to keep the prices on each item
+as low as possible.  We also set up a discount based on the
+quantit˘ purchasesÆ  WÂ  explaine‰ to our customers that these
+pricing schedules were based equitably on maximum value.
+So you can see, if we charged your shipment less, we would
+have to charge someone else's shipment more.  And that would be
+unfair to our other customers!
+
+I know that you will understand our one-price policy.  This is,
+obviously, the only fair way that we can operate.  It is a policy
+that assures all our customers the maximum value for every
+dollar that they spend.
+
+					Sincerely,
+
+
+				       (name)
+
+
+
+
+
+
+
+REFRNCE
+						(your street
+						 city, state, zip)
+
+						(date)
+
+
+
+
+(name
+street
+city, state, zip)
+
+
+
+Dear Sir or Madam:
+
+	The _______ (name of company) has been one of our
+customers for the past _____ (time period).  During that time,
+they have promptly made their payments.  They discount bills
+within ____ (time period).  Their purchases average __________
+(amount) during the height of the season.
+
+	The president of the company, ____ (name of president)
+has a fine reputation in this area.  Therefore, we are most
+pleased to provide a reference for him.
+
+						Sincerely,
+
+
+
+						(name)
+						(title)
+
+
+
+
+
+
+
+REFUND
+.op
+
+Dear ____ (name):
+
+	We are in receipt of your letter regarding the merchandise
+purchased _____ (time) and then returned.  You noted in your letter
+that one of our store associates had made a mistake and you
+received the incorrect package.  As you can imagine, we deal
+in a high volume of sales.  Therefore, occasional errors such
+as the one you experienced do occur.  However, we are proud of
+the fact that these errors are few and far between in number.
+We are enclosing a check for the full amount of your purchase.
+
+	Your patronage is highly valued.  Please drop in again and
+let us see that your next purchase is handled correctly.
+
+				Sincerely,
+
+
+
+					(name)
+
+
+
+
+
+
+
+RESCHDLO
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	On _____, l9__ (date) we sent you our purchase
+order number ____ (number) for ____ (number and item).
+You confirmed the requested delivery date of _____
+(delivery date).
+
+	Due to forecasted changes in the ____ (whatever
+the reason for requesting the change), the ____ (item)
+will be available ____ (time period) earlier.  We will
+need ____ (number) boxed before ____ (date) and the
+balance completed by ____ (date).  Could you reschedule
+your production line to work in at least ____ (amount)
+to meet the earlier delivery date?  I realize that your
+production schedules are full at this time of the year
+but a profitable ____ (time of year i.e. harvest) is
+dependent upon boxing the ___ (item) as soon as they
+are ripe.
+
+	We certainly appreciate your help.  We do not
+want to split the order with another supplier.	Please
+let me know immediately if you can handle this for us.
+
+					Best regards,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+RESIGN
+
+
+					(your street
+					 city, state, zip)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	I have just been offered a position that includes
+a wider range of responsibilities and that will lead into
+a supervisory position.
+
+	Therefore, I will be leaving ______ (name of company)
+as of ________, l9____ (date).	Meantime, I will place my efforts
+into training a replacement.
+
+					Respectfully,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+RETRMNT
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (Name):
+
+	Congratulations and best wishes for your retirement
+_____ (time period).  We commend you for your ____ (number of
+years) of productive service.
+
+	Many of your ideas have been instituted within our
+company.  We will surely miss you but know that you will
+enjoy your leisure.  Come see us often; we look at you
+as part of our family!
+
+					Respectfully,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+RJCTREF
+.op
+
+Dear _____ (name):
+
+	I find it rather difficult to answer your letter about
+_____ (name).  I like him personally but in fairness I cannot
+recommend him to you.
+
+	Without a doubt ________ (name) is a talented young man.
+He was (position held) with us for ____ (period of time) and
+he certainly knows his business and can do a fine job when he
+wants to.
+
+	But that's where his difficulty arrives - he does not
+always want to.  Instead, he starts to drink and then he becomes
+very undependable.  He will literally walk out of the job for
+a period of ____ (time period) and let somebody else take over.
+In fact, that is why he is no longer employed with us.
+
+	These facts really distress me because ____ (name of person)
+is very talented and has great ability.  In fact, he would probably
+be one of the best _____ (name of position) if he did not drink.
+
+	Perhaps if you discussed the situation with him and told him
+that he would be fired if he drank, that might make a difference.
+I think this would be a worthwhile approach because he has so much
+to offer.
+
+	If I can answer any other questions, please do not hesitate
+to contact me.
+
+					Respectfully,
+
+
+
+					(name)
+
+
+
+
+
+
+
+RSMJOB
+
+
+					(your street
+					 city, state, zip)
+
+
+Dear ____ (name):
+
+	This letter is in response to your advertisement in
+the ____ (name of place advertisement found) on ______,
+l9__ (date) for a _____ (job requested).  I have _____ (years)
+experience in the ______ (field).
+
+	I am ready for long hours and travel required to be
+an effective _____ (job requested).
+
+	My resume is attached for your resource.
+
+					Sincerely,
+
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+
+SECYRCM
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	______ (name of person) is highly recommended as a
+highly qualified secretary.  She worked for me for _____
+(time period).	During that time, she proved to be
+efficient, well organized and tactful with all those
+people she had to deal with.
+
+	I do not hesitate for a moment to recommend her.
+
+					Sincerely yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+SERVCHRG
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	There has been a rapid rise in labor and
+operating costs.  Because of these facts, ____
+(name of compay) reluctantly has decided to
+increase service charges on ____________, ___
+(date).
+
+	These service charge increases will vary
+depending on the service your company uses.
+
+	We appreciate your patronage and look
+forward to continuing our business relationship.
+
+	If you have any questions, please call
+us at _________ (phone number).
+
+					Most sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+SHRTEPMT
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Thanks so much for your recent charge account application
+at ____ (name of company).  Unfortunately, after much consideration
+we find that the information furnished by you does not meet our
+credit requirements.
+
+	Perhaps we can consider your application request when
+your circumstances change.  Our decision is based on the
+following:
+
+	Length of employment
+	No credit file
+
+	Meantime, please feel free to take advantage of our
+layaway service.  And, of course, our quality selections are
+available for cash.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+SLS
+.op
+
+Dear ____ (name):
+
+	We were so pleased to receive in today's mail your
+inquiry about our _________ equipment.	This is definitely an
+indication of an intelligent and sensible approach to your
+entry into the dental profession.  You will be the one to
+use the equipment; therefore, it is up to you to examine and
+judge each piece on its own merit before making a valid
+decision.
+
+	Our enclosed catalog tells the background information
+about _____ equipment.	We hope that it will prove helpful and
+worthwhile.
+
+	Thank you so much for your letter and consideration.  We
+feel that our _____ equipment will meet your needs and more!
+
+					Respectfully,
+
+
+
+					(name)
+
+
+
+
+
+
+
+
+
+SLSGRMTN
+
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear _____ (name):
+
+	We are sorry that you wish to end our sales agreement
+that has been in effect for ____ (time period).  We do
+understand your position.
+
+	Even though you did not state it in the letter, I
+assume that you wish to terminate as of ________, __
+(date) without the ____ (number of days) day cancellation
+mentioned in the contract.
+
+	I have enjoyed working with you, ____ (name of person),
+and I know that our paths will cross again in the future.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+SLSLLPRD
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Thank you so much for writing us about the ____ (product)
+you purchased on ____, l9__ (date) that you wish to return for
+credit.  However, these are the ___ (product) you ordered and,
+in fact, paid for them early and took our ____ (number) percent
+cash discount.
+
+	As I understand it, you would like to return this ____
+(product) because they have proved to be a slow seller.  We
+cannot accept this proposal because we discontinued this line
+____ (time).  Most of our dealers found them to be good sellers
+during the ___ (season) promotion that we sponsored.
+
+	We are sending you additional promotional ideas and
+materials that have been successful with other dealers.  Our
+salesman, _____, (name of salesman), will also be calling on you
+____ (time period) with additional suggestions.
+
+					Sincere regards,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+SLSVLM
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	Congratulations for doing such a fine sale effort.
+We at ____ (name of company) now have an annual sales volume
+of ____ (amount).
+
+	We know that your efforts in securing the ____
+(name) account has definitely helped us continue our
+success.
+
+					With best regards,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+STATEMNT
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	The error in your ____ (month) showing a
+change of ____ (price) for a shipment of ____
+(item) was due to a billing error.
+
+	We are sorry for the inconvenience.
+A credit memo to cancel the billing is enclosed.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+Enclosure
+
+
+
+
+
+
+
+
+
+STMTER
+
+					(your street
+					 city, state, zip)
+
+					(date)
+
+
+(name
+street
+city, state, zip)
+
+Dear ____ (name):
+
+	We are enclosing a corrected statement of your account.
+We are sorry about the error and hope that it has not caused
+you too much inconvenience.
+
+	Please accept our apologies.   We appreciate your
+giving us the opportunity to be of service to you.
+
+					Sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+THNKYOU
+					(your street
+					 city, state, zip)
+
+
+(name
+street
+city, state, zip)
+
+Dear Sir or Madam:
+
+	Thank you for your order for _____ (item) that
+was advertised in the ____ (newspaper) on __________,
+l9___ (date).
+
+	Unfortunately, we are not set up for C.O.D.
+orders.  Therefore, please send us a check or a
+money order.  The price of the ____ (number and
+item) is ___ (price).
+
+	Meanwhile, we are holding your order aside
+with instructions to rush shipment as soon as we
+receive your payment.
+
+					Truly yours,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+
+UNSATCRD
+					(your street
+					 city, state, zip)
+
+					(date)
+
+(name
+street
+city, state, zip)
+
+Dear Sir or Madam:
+
+With much regret, we cannot give you a satisfactory reference
+for the ______ (name of company).  During the ____ (number of
+years) that we have been conducting business with this
+company, our experience has been very unsuitable.
+
+Our normal credit terms are ___ (number of days) net.  But their
+account has been from ____ (number of days) to ____ (number of
+days) in arrears during much of the time that we have had a
+business relationship.	Their present balance of ________
+(amount) includes purchases made as long ago as ________
+(time period).
+
+Of course, this information has been shared to you in confidence
+and we hope that it will prove helpful to you.
+
+					Yours sincerely,
+
+
+
+					(name)
+					(title)
+
+
+
+
+
+
+
+
+

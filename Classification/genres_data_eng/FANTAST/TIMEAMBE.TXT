@@ -1,0 +1,425 @@
+---------------------------------------------------------------------------
+
+       TIMELINE III
+
+Here is the third version of the Timeline of Amber -- I update it and post
+every time a new book comes out (or at least, that is what seems to be
+happening).  As always, comments are appreciated.
+
+       Kevin Knight
+       (knight@f.gp.cs.cmu.edu)
+
+PS. Many dates on the timeline come from inference and calculation.  Some
+are approximate.
+
+PPS. One of my favorite UNIX commands is "grep Brand amber.timeline".
+(This lists all lines containing the word "Brand").  Invent your own.
+
+---------------------------------------------------------------------------
+  *** Obviously, there are major SPOILERS here ***
+---------------------------------------------------------------------------
+
+THE BEGINNING
+
+ Oberon is born to the Unicorn (father is Dworkin)
+ Dworkin flees from Chaos to a small sudden island
+ Dworkin meditates upon the abyss
+ The Jewel is revealed to Dworkin by the Unicorn
+ Dworkin creates Amber out of Chaos
+ Oberon marries Cymnea
+-3000y  Benedict, Osric, Finndo, born to Cymnea (father is Oberon)
+ Dworkin begins to fashion the family Trumps
+ Eric born to Faiella (father is Oberon)
+ Oberon dissolves marriage to Cymnea
+ Oberon marries Faiella (father is Oberon)
+ Osric kills three of the House of Karm in a vendetta
+ Oberon acquits Osric at a hearing, though he is friendly with Karm
+ Oberon sends Osric to front lines in a nasty war
+ Osric dies
+ Finndo dies, purportedly in the service of Amber
+ Corwin, Caine born to Faiella (father is Oberon)
+ Faiella dies giving birth to Deirdre (father is Oberon)
+ Oberon marries Clarissa
+ Fiona, Bleys born to Clarissa (father is Oberon)
+ Llewella born to ? (father is Oberon)
+ Oberon divorces Clarissa
+ Oberon recognizes Llewella as legitimate
+ Brand born to Clarissa (father is Oberon)
+ Flora born to ? (father is Oberon)
+ Julian, Gerard born to Rilga (father is Oberon)
+ Sand, Delwin born to Harla (father is Oberon)
+ Random born to ? (father is Oberon)
+ Mandor born to ? (father is Sawall)
+  Jurt born to Dara (father is Sawall)
+  Despil born to Dara (father is Sawall)
+ Coral born to ? of Begma (father is Oberon)
+-187y   Sand and Delwin depart from Amber
+
+THE OLD DAYS
+
+ Deela the Desacratrix burns Unicorn shrines at Begma
+ Oberon defeats Deela, takes her prisoner, rapes her
+ Deela escapes
+ Dalt born to Deela (father is Oberon)
+ Deela begins to raid once more around Begma
+ Oberon sends Bleys to defeat and kill Deela
+ Corwin and Bleys strand Random on an island
+ Random puts a spike in Corwin's boot
+ Brand, Bleys, and Fiona study with Dworkin
+ Kashfa and Begma clash over Eregnor
+ Corwin rules over Avalon
+ Random goes to Rebma and elopes with Morganthe
+ Martin born to Morganthe (father is Random)
+ Random banished from Rebma
+ Martin walks Pattern, leaves Rebma
+ Corwin gulls Caine
+ Corwin beats Julian at his favorite game
+-160y   Moonriders out of Ghenesh attack Amber
+ Benedict holds the pass above Arden against the Moonriders
+ Dark things out of Shadow attack at Jones Falls
+ Brand has argument with Corwin
+ Corwin and Eric fight while hunting in the Forest of Arden
+
+BEFORE THE CHRONICLES
+
+-156y   Corwin exiled by Eric after their fight
+ Brand and Gerard search for Corwin in many shadows
+ Tomb built for Corwin, assumed dead
+ Benedict leaves Amber for Avalon
+-74y    Flora goes to Shadow Earth
+-72y    Flora first spots Corwin on Shadow Earth
+ Dworkin tells Oberon how to destroy the Pattern
+ Oberon imprisons Dworkin
+ Brand, Bleys, and Fiona form cabal
+ Oberon gets mad with Eric and glorifies Corwin over dinner
+ Brand allies with powers from Chaos and learns how to destroy Pattern
+-65y    Brand asks Llewella and Random about Martin
+-22y    Jasra becomes consort to King Menillan of Kashfa
+ King Menillan dies
+ Jasra organizes coup headed by Jasrick and Kasman
+ Jasra and Brand meet over magical operation, secretly marry
+ Brand leaves Kashfa
+ Rinaldo born to Jasra (father is Brand)
+ Jasra has Jasrick killed
+ Jasra leaves for the Keep of the Four Worlds
+ Rinaldo is left in charge of Kashfa
+ Jasra stays in the Keep, trying to win over Sharu Garrul
+ Rinaldo takes Dalt to walk the Pattern at Tir-na Nog'th
+ Rinaldo worries about Jasra, attack the Keep with Dalt
+ Jasra beats Sharu in a sorcerous duel, pays off Dalt
+ Kasman takes over in Kashfa
+ Kasman attacks the Keep in order to eliminate Jasra and Rinaldo
+ Rinaldo leaves the Keep
+ Brand takes Rinaldo to walk the Pattern at Tir-na Nog'th
+ Barnd initiates himself into the Fount of Power at the Keep
+ Dalt attacks the Keep on his own
+ Rinaldo takes Dalt to walk the Pattern at Tir-na Nog'th
+ Dalt attacks Amber, fails, is wounded by Benedict
+-2y     Random goes to Texorami
+ Brand paints a trump of Martin
+-1y9m   Brand finds Martin and stabs him over the Pattern
+ Brand, Bleys, and Fiona involve Benedict with the hellmaids
+ Oberon is lured away by Brand, Bleys, and Fiona
+-1y6m   Oberon is imprisoned in the Courts of Chaos
+-3m     Bleys and Eric argue over the throne; Bleys leaves Amber
+ Eric seizes control of Amber
+ Bleys builds military strike force
+ Brand tries to win Caine over to the cabal, fails
+ Eric-Caine-Julian alliance formed
+ Brand sees Corwin in Tir-na Nog'th
+ Brand sees Corwin is Eric's mind
+ Brand under surveillance by Eric in Amber
+ Bleys and Fiona split with Brand
+ Corwin begins to regain memory
+-2d     Brand escapes Amber, puts Corwin in Porter Sanitarium
+ Brand recaptured by Eric
+ Corwin escapes from Porter
+0       Brand escapes again, shoots Corwin's tires out
+ Eric puts Corwin in Greenwood, under Flora's care
+ Brand captured by Bleys and Fiona, put in Tower
+ Brand calls Random for help
+ Random attempts to save Brand, fails
+ Julian contacts Random about the throne
+ Random loses his Trumps
+
+NINE PRINCES IN AMBER
+
++6d     Corwin escapes Greenwood, goes to Flora's house
+ Corwin finds Flora's Trumps
+ Flora attempts to return to Amber, fails
+ Random arrives at Flora's house
++7d     Corwin and Random set out for Amber
+ Corwin and Random take Julian prisoner in Arden, release him
+ Corwin and Random save Deirdre, go to Rebma
+ Random sentenced to marry Vialle
++9d     Corwin walks Pattern in Rebma
+ Corwin transports himself to Amber
+ Corwin and Eric fight
+ Corwin goes to Bleys, encamped at Avernus
+ Bleys and Corwin make alliance
+ Corwin makes deals with Gerard and Caine to open the seas
+ Corwin contacts Oberon and Brand by Trump, both weakly
+ Corwin and Bleys build force, attack Amber, fail
++96d    Bleys falls off stairs, Corwin taken
++100d   Eric crowned
+ Corwin blinded, imprisoned, fed by Lord Rein
++4y10d  Corwin escapes to Cabra with Dworkin's help
+ Corwin stays with Jopin at the Lighthouse
++4y100d Corwin resists Trump contact, decides to leave Cabra
+
+THE GUNS OF AVALON
+
+ Corwin goes to Lorraine
+ Corwin meets Lance, travels to the Keep of Ganelon
+ Corwin meets Lorraine, the girl
+ Someone attempts to contact Corwin once more
+ Corwin and Ganelon defeat the Black Circle
+ Corwin and Ganelon travel to Avalon
+ Benedict romances Lintra, then kills her, losing an arm
+ Benedict defeats the hellmaids
+ Dara is born in Chaos (great-grandfather is Benedict)
++5y90d  Corwin and Ganelon meet Benedict
++5y93d  Corwin meets Dara
+ Ganelon kills Benedict's servants
++5y94d  Corwin gets diamonds and gunpowder
++5y95m  Corwin and Ganelon leave Avalon, encounter Black Road
+ Corwin saves girl from Black Road
+ Benedict chases Corwin, fights, loses
+ Corwin calls Gerard to help Benedict
++5y129d Corwin gets guns on Earth
+ Eric begins major battle with Black Road
+ Corwin visits old house, reads Eric's message
+ Ganelon and Corwin go to Riik to collect troops
++5y150d Ganelon and Corwin march on Amber
+ Dara arrives in Amber
++5y156d Corwin wins battle at Amber
+ Eric dies in battle
+ Corwin and Random go to the Pattern
+ Dara completes the Pattern
+ Dara claims "Amber will be destroyed"
+ Merlin born to Dara (father is Corwin)
+ Merlin grows up in the Courts of Chaos
+
+SIGN OF THE UNICORN
+
++5y162d Caine is found dead
+ Random tells his story (of the Tower) to Corwin
+ Corwin attunes to the Jewel
+ Flora tells her story (of Eric, etc.) to Corwin
+ Corwin visits his tomb with Ganelon
++5y163d Corwin and Gerard fight, bury Caine, at the Grove of the Unicorn
+ Corwin and Gerard see the Unicorn
+ Brand is returned by united family effort
+ Fiona stabs Brand
+ Gerard takes care of Brand
+ Caine stabs Corwin
+ Corwin returns to Shadow Earth, stashes Jewel
++5y164d Random brings Corwin back to Amber
+ Corwin visits Brand
+ Brand recovers well
+ Corwin goes to Tir-na Nog'th, gets mechanical arm from Benedict
++5y165d Corwin, Ganelon, and Random follow Unicorn to Primal Pattern
+
+THE HAND OF OBERON
+
+ Martin's Trump found in the Pattern
+ Benedict and Random seek Martin
+ Corwin talks to Vialle
++5y167d Corwin goes to Dworkin's quarters
+ Corwin trumps to the Courts of Chaos, kills rider, meets Merlin
++5y175d Corwin returns via Gerard's Trump
+ Corwin talks to Brand again
+ Caine attacks Brand
+ Ganelon tells Benedict about Dara
+ Corwin and Benedict form alliance
+ Gerard fights Corwin again, Ganelon intercedes
+ Corwin talks to Julian
+ Corwin returns to Earth to retrieve the Jewel, talks to Bill Roth
+ Brand gets the Jewel first
+ Corwin orders all the Patterns guarded
+ Corwin talks to Fiona
+ Brand show up at the Pattern in Amber, met by Gerard, flees
+ Brand starts walking the Primal Pattern
+ Corwin intercepts him, forces Brand to transport out
+ Random finds Martin, who tells his story
+ Brand goes to Tir-na Nog'th to walk Pattern there
+ Benedict intercepts him, regains the Jewel, using mechanical arm
+ Ganelon reveals himself as Oberon
+
+THE COURTS OF CHAOS
+
++5y178d Oberon takes command, gives separate orders to his children
+ Brand draws Trumps for Sand and Delwin, who refuse to help him
+ Replay of Tir-na Nog'th scene in Amber, Benedict loses arm
+ Corwin talks to Dara, learns of Merlin
+ Corwin tries to repair the Pattern himself and is stopped by Oberon
+ Corwin talks to Oberon
+ Oberon orders everyone to attack Chaos
+ Corwin begins his hellride
+ Oberon starts walking the Pattern to repair it
+ Oberon sends the Jewel to Corwin via the bird
+ Brand's first contact with Corwin ("Dad failed")
+ Corwin hides in cave, meets man with scripture
+ Corwin almost lured by dwarves and by Lady
+ Brand's second contact with Corwin (appears with crossbow, loses eye)
+ Corwin meets Ygg, Hugi, and the Jackal
+ Corwin inscribes a new Pattern
+ Brand's third contact with Corwin (grabs the Jewel)
+ Corwin and Brand both transport to Chaos
+ Corwin kills Duke Borel of Chaos
+ Battle of Chaos
+ Oberon's message in the sky
+ Brand killed by Caine's crossbow, drags Deirdre over the cliff
+ Family reunites after the battle
+ Oberon's funeral
+ Merlin appears
+ Random made King of Amber by the Unicorn
+ Corwin attunes Random to the Jewel
+        Random diverts the Wave of Chaos
++5y6m Corwin tells his story to Merlin
+ Rinaldo hears of his father Brand's death, on April 30
+
+TRUMPS OF DOOM
+
++5y6m   Merlin goes to Shadow Earth, studies computer science in college
+ Fiona takes Merlin to see Corwin's pattern
+ Bill Roth works up Patternfall Treaty between Random and Swayvil
+ Merlin meets Luke (Rinaldo) in college
+ Merlin takes his girlfriend Julia through Shadow
+ Rinaldo attempts to kill Merlin on April 30
+ Rinaldo tries again the next year, and the next
+ Rinaldo breaks off the attempts on Merlin's life; Jasra continues them
++9y6m   Merlin and Rinaldo graduate and join Grand Design
+ Merlin begins building Ghostwheel
+ Merlin breaks up with Julia
+ Jasra attempts to kill Merlin, making a total of seven tries
++13y6m  Merlin quits Grand Design, talks to Rinaldo about it
+ Julia is killed by a dog-beast from Shadow
+ Merlin goes to Julia's place, finds her dead, kills the beast
+ Merlin finds the Trumps of Doom
+ Merlin visits Rick Kinsky, Julia's old boyfriend
+ Merlin visits Victor Melman, kills him in self-defense
+ Jasra arrives at Melman's place, bites Merlin
+ Merlin trumps off to the Sphinx, escapes
+ Dalt gets ammo from Melman's building, burns it
+ Merlin returns to Melman's building, finds a shotgun shell
+ Caine murdered by Rinaldo, Bleys wounded by Rinaldo
+ Merlin goes to Rinaldo's hotel, gets ring
+ Merlin checks into Hilton in Santa Fe
+ Merlin meets up with Rinaldo
+ Dan Martinez talks to Merlin
+ Merlin removes ring
+ Rinaldo and Merlin drive into the country
+ Rinaldo kills Martinez
+ Merlin goes to Bill Roth
+ Merlin meets George Hansen
+ Merlin and Bill Roth go to Amber
+ Random discovers that the shotgun shells explode in Amber
+ Merlin talks to Fiona and goes back to a bar on Earth
+ Merlin meets Meg Devlin and goes to her apartment
+ Caine's funeral
+ Rinaldo attempts to bomb the Amberites, fails
+ Merlin tells Random about Ghostwheel, is told to shut it down
+ Merlin tries to reach Ghostwheel, but is told to go back
+ Merlin meets a lady in Shadow
+ Merlin meets Rinaldo in Shadow
+ Rinaldo imprisons Merlin in a crystal cave
+
+BLOOD OF AMBER
+
+ Merlin is locked in the crystal cave for over a month
+ Merlin rigs a booby trap and escapes
+ Merlin meets up with Jasra, immobilizes her, trumps to Flora on Earth
+ Rinaldo grabs Jasra away from Merlin
+ Flora tells Merlin about Jasra, Kashfa
+ Merlin tells Flora about Rinaldo
+ Merlin tries to call Meg Devlin and George Hansen, fails
+ Mask contacts Merlin
+ Flora and Merlin go to Julia's place
+ Merlin goes through trap door at Julia's place
+ Merlin runs into Scrof, defeats him
+ Rinaldo hires Dalt to attack the Keep with him
+ Merlin goes to the Keep of the Four Worlds, meets the hermit Dave
+ Dave tells Merlin about Sharu, Dalt, Kashfa, Jasra, Rinaldo, Brand
+ Merlin tries to move closer to the Keep, is stopped by Mask
+ Merlin trumps to Amber
+ Dalt intentionally wounds Rinaldo in battle at the Keep
+ Random tells Merlin about Dalt and Deela
+ Merlin goes to Bloody Bill's for seafood
+ Merlin meets Old John, the King's emissary
+ Merlin leaves, gets attacked, saved by Vinta Bayle
+ Merlin and Vinta go to Arbor House, where they trade information
+ Ghostwheel contacts Merlin
+ Rinaldo calls Merlin, trumps in
+ Merlin calls Dalt, Dalt shows aggression, Merlin hangs up
+ Rinaldo asks Merlin to help rescue Jasra
+ Merlin takes Rinaldo to crystal cave, negotiates deal
+ Merlin returns to Arbor House briefly
+ Merlin runs into a lop-eared wolf, which tries to kill him and escapes
+ Merlin returns to Amber, talks to Bill Roth
+ Merlin goes to Corwin's tomb
+ Merlin goes to the Pattern, walks it, trumps to the Keep
+ Merlin finds Jasra frozen
+ Mask appears, has duel with Merlin
+ Merlin trumps back to Amber with Jasra
+ Rinaldo contacts Merlin
+ Merlin goes into the main hall
+ Benedict and Random enter the main hall
+ Rinaldo tells all about Dalt's plan to attack Amber with riflemen
+ Merlin walks into a huge trump of himself, disappears into Wonderland
+
+SIGN OF CHAOS
+
+ Jaston, Ruler of Kashfa, falls off balcony, dies
+ Random goes to Kashfa to put Arkans on the throne
+ Random promises Eregnor (territory between Kashfa and Begma) to Arkans
+ Merlin and Rinaldo experience LSD in Shadow Wonderland
+ Fire Angel sets upon Merlin
+ Fire Angel is defeated by Merlin and the Jabberwock
+ Merlin calls Mandor, they talk
+ Fiona calls, comes through to Merlin
+ Tornado in Shadow
+ Merlin, Mandor, and Fiona talk about Corwin's Pattern
+ Mandor and Fiona team up to find cause of Shadow storms
+ Merlin returns to Amber, talks to Llewella and Vialle
+ Begma delgation arrives (Orkuz, Nayda, Coral)
+ Coral and Merlin walk
+ Jurt attacks Merlin in the caves, fails, retrieved by Mask
+ Jurt returns to the Keep to be initiated into the Fount of Power
+ Merlin takes Coral to the Pattern below Amber
+ Coral walks the Pattern, asks it to transport her somewhere
+ Martin goes punk
+ Fiona and Mandor call Merlin, warn him about Ghostwheel
+ Rinaldo calls Merlin, they plan attack on the Keep
+ Nayda and Merlin talk
+ Ghostwheel calls Merlin, warns him about Fiona and Mandor
+ Merlin tells Ghostwheel about the attack on the Keep
+ Mandor calls, Merlin cuts him off
+ Merlin talks to Bill Roth
+ Merlin talks briefly with Benedict
+ Merlin attends state dinner with Llewella, Vialle, Bill, Begmans
+ Dalt arrives with a small army, demands Rinaldo and Jasra
+ Merlin is called to speak with Vialle about Dalt
+ Merlin brings Rinaldo through, they go to Julian in Arden
+ Rinaldo duels with Dalt, loses, is taken prisoner
+ Dalt's army retreats
+ Merlin returns to Amber
+ Merlin talks to Nayda in his room
+ Merlin creates Trump for Coral, reaches her briefly
+ Merlin attempts to reach Rinaldo, is blocked
+ Merlin realizes that Nayda is the Guardian, and he calls Mandor
+ Mandor binds the Guardian, who is a ty'iga demon
+ Merlin frees Jasra
+ Ty'iga can't tell Merlin who sent it, tells Mandor
+ Mandor refuses to tell Merlin
+ Merlin goes to Corwin's room
+ Jasra agrees to attack the Keep with Merlin
+ Ghostwheel takes Merlin, Jasra, Mandor to Keep
+ Merlin, Jasra, Mandor find Jurt and Mask
+ All five fight a battle of wizardry
+ Mask is injured
+ Sharu Garrul is freed
+ Mandor destroys the Fount
+ Mask is Julia
+
+-----------------------------------------------------------------
