@@ -1,19 +1,16 @@
+import os
+
 __author__ = 'Oleksandr'
 import collections
 import json
 import math
 
 class Classifier:
-    def __init__(self, learnt_data):
-
-        if learnt_data is not None:
-            self.__load_learnt_data(learnt_data)
+    def __init__(self):
 
         self.genres = {}
         self.vocabulary = {}
-
-    def __load_learnt_data(self, path):
-        pass
+        self.__load_learnt_data()
 
     def learn(self, genre, words):
         if genre not in self.genres:
@@ -33,7 +30,7 @@ class Classifier:
         for g in self.genres:
             result[g] = 0
         #print result
-        print len(self.vocabulary)
+        #print len(self.vocabulary)
         for word in words:
             if word in self.vocabulary:
                 for genre in self.genres:
@@ -57,7 +54,33 @@ class Classifier:
         return result
 
 
-    def remember(self, name):
+    def remember(self):
         g = json.dumps(self.genres)
         v = json.dumps(self.vocabulary)
-        print g, v
+        #print g, v
+        gnr = open('./genre.dat', 'w')
+        vcb = open('./vocabulary.dat', 'w')
+        #print os.system('ls')
+        gnr.write(g)
+        vcb.write(v)
+        gnr.close()
+        vcb.close()
+        print "saved..."
+
+    def __load_learnt_data(self):
+        try:
+            g = open('./genre.dat', 'r').read()
+            v = open('./vocabulary.dat', 'r').read()
+            #print g
+            #print v[0]
+            self.genres = json.loads(g)
+            self.vocabulary = json.loads(v)
+        except:
+            pass
+        finally:
+            pass
+            #print self.genres
+            #print self.vocabulary
+
+    def alreadyTrained(self):
+        return len(self.genres) > 0 and len(self.vocabulary) > 0

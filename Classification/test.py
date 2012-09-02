@@ -1,14 +1,21 @@
 import os
 import re
+import string
 import sys
 from classifier import  Classifier
 __author__ = 'Oleksandr'
 
-classify = Classifier(None)
+classify = Classifier()
+
+def isAscii(s):
+    for c in s:
+        if c not in string.ascii_letters:
+            return False
+    return True
 
 def do_split(text):
     return filter(
-        lambda w: len(w)>1, re.split(
+        lambda w: len(w)>1 and isAscii(w), re.split(
         '[\n!?/\\\(\).,` :;\-\[\]\'_"0-9@#$%\^&\*\t]' , text))
 
 def process_genres(path):
@@ -30,11 +37,15 @@ parser.add_argument('--path', help='Folder to load genres learning data from')
 args = parser.parse_args()
 path =  args.path
 
-if path is None:
-    print """    Please specify root with genres folder"""
+
+if not classify.alreadyTrained():
+    if path is None:
+        print """    Please specify root with genres folder"""
+    else:
+        process_genres(path)
+    print classify.genres
 else:
-    process_genres(path)
-print classify.genres
+    print 'using loaded data'
 
 test_text = open('tst_cur.txt').read()
 
@@ -52,9 +63,9 @@ for r in result:
 
 print decision, decision_value
 
-#for genre in result:
-#    result[genre] -= decision_value
+for genre in result:
+    result[genre] -= decision_value
 
 print result
 
-#classify.remember("")
+classify.remember()
