@@ -60,7 +60,6 @@ def depth_first(v):
 
 def do_calculation():
     global nodes_stack
-    #graph = Graph("./dev_scc.txt", 8)
 
     #graph = Graph("./dev_scc.txt", False, 10)
     #graph_tr = Graph("./dev_scc.txt", True, 10)

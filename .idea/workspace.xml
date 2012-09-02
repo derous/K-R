@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e833637-c80f-40b5-bf20-b0ab2d491bb1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/ex3data1.mat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/ex3weights.mat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/displayData.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/ex3.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/ex3_nn.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/fmincg.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/lrCostFunction.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/oneVsAll.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/predict.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/predictOneVsAll.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/sigmoid.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/submit.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octave/ex3/submitWeb.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Reasearch.iml" afterPath="$PROJECT_DIR$/.idea/Reasearch.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/ASPERN.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/CHCKMATE.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/classifier.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/test_adv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/test_doc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/test_fan.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/test_msdn.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/test_rus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/test_wiki.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classification/tst_cur.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multi/proc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/observer/observer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XY-graf/ploot.py" afterPath="$PROJECT_DIR$/XY-graf/ploot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alg4/res.txt" afterPath="$PROJECT_DIR$/alg4/res.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alg4/scc.py" afterPath="$PROJECT_DIR$/alg4/scc.py" />
     </list>
     <ignored path="Reasearch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,28 +44,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="scc.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alg4/scc.py">
+      <file leaf-file-name="classifier.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="26" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+            <state line="30" column="28" selection-start="775" selection-end="780" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpamLord.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
+      <file leaf-file-name="test_adv.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/test_adv.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="-0.68">
+            <state line="217" column="0" selection-start="11692" selection-end="11692" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MATRIX.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab1/MATRIX.py">
+      <file leaf-file-name="test.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classification/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.08108108">
+            <state line="24" column="15" selection-start="620" selection-end="620" vertical-scroll-proportion="0.030411448">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tst_cur.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/tst_cur.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="77" selection-start="4838" selection-end="4838" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin_tree/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="19" selection-start="682" selection-end="682" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="similarity.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/syno_package/python_code/similarity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="13" selection-start="1786" selection-end="1786" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tools.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/syno_package/python_code/tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wikiwork.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/syno_package/python_code/wikiwork.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="13" selection-start="2749" selection-end="2749" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,37 +124,36 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
-    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/TXT_RegEx/1.py" />
-        <option value="$PROJECT_DIR$/Sort/tmp1.py" />
-        <option value="$PROJECT_DIR$/Sort/exempl.py" />
-        <option value="$PROJECT_DIR$/Sort/quicksort.py" />
-        <option value="$PROJECT_DIR$/Sort/222.py" />
-        <option value="D:/КУРС/pa1-spamlord-v4/data/dev/christos" />
-        <option value="$PROJECT_DIR$/TXT_RegEx/2.py" />
-        <option value="D:/КУРС/pa1-spamlord-v4/python/SpamLord.py" />
-        <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py" />
-        <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py" />
-        <option value="$PROJECT_DIR$/pa2-autocorrect-v1/python/CustomLanguageModel.py" />
-        <option value="$PROJECT_DIR$/regexes/regex_cases.py" />
-        <option value="$PROJECT_DIR$/alg4/stack_play.py" />
         <option value="$PROJECT_DIR$/alg4/dev_scc.txt" />
+        <option value="$PROJECT_DIR$/XY-graf/ploot.py" />
         <option value="$PROJECT_DIR$/alg4/scc.py" />
-        <option value="$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py" />
+        <option value="$PROJECT_DIR$/observer/observer.py" />
+        <option value="D:/Grammarly/pybuild/sendingemail.py" />
+        <option value="D:/Grammarly/pybuild/scr_getter.py" />
+        <option value="$PROJECT_DIR$/multi/proc.py" />
+        <option value="$PROJECT_DIR$/pa3-sentiment-analisys/sentiment/python/NaiveBayes.py" />
+        <option value="$PROJECT_DIR$/Classification/classificator.py" />
+        <option value="$PROJECT_DIR$/bin_tree/main.py" />
+        <option value="$PROJECT_DIR$/Classification/test_wiki.txt" />
+        <option value="$PROJECT_DIR$/Classification/test_adv.txt" />
+        <option value="$PROJECT_DIR$/Classification/test_msdn.txt" />
+        <option value="$PROJECT_DIR$/Classification/classifier.py" />
+        <option value="$PROJECT_DIR$/Classification/tst_cur.txt" />
+        <option value="$PROJECT_DIR$/Classification/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1292" />
-    <option name="height" value="812" />
+    <option name="width" value="1376" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -163,20 +208,6 @@
               <option name="myItemId" value="K-R" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="regexes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Reasearch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="K-R" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -188,11 +219,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="octave" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex3" />
+              <option name="myItemId" value="bin_tree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -206,21 +233,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lab1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Reasearch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="K-R" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alg4" />
+              <option name="myItemId" value="Classification" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,7 +254,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="D:/КУРС/pa1-spamlord-v4/data/dev" />
+    <property name="last_opened_file_path" value="D:/Grammarly/pybuild" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="263" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1057" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1055" />
@@ -261,61 +274,12 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.scc">
-    <configuration default="false" name="UnigramLanguageModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pa2-autocorrect-v1/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Reasearch" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="MULTIPROCESS" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="StupidBackoffLanguageModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pa2-autocorrect-v1/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Reasearch" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="MULTIPROCESS" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="regex_cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regexes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Reasearch" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regexes/regex_cases.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="MULTIPROCESS" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\r&amp;D\K-R\Classification" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
     <configuration default="false" name="scc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,23 +300,77 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="stack_play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="NaiveBayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alg4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pa3-sentiment-analisys/sentiment/python" />
       <option name="IS_MODULE_SDK" value="true" />
       <module name="Reasearch" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alg4/stack_play.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pa3-sentiment-analisys/sentiment/python/NaiveBayes.py" />
+      <option name="PARAMETERS" value=".\..\data\imdb1\" />
       <option name="MULTIPROCESS" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Reasearch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/test.py" />
+      <option name="PARAMETERS" value="--path .\genres_data_eng" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Reasearch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin_tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Reasearch" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin_tree/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -410,15 +428,15 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.UnigramLanguageModel" />
-      <item index="1" class="java.lang.String" itemvalue="Python.StupidBackoffLanguageModel" />
-      <item index="2" class="java.lang.String" itemvalue="Python.regex_cases" />
-      <item index="3" class="java.lang.String" itemvalue="Python.scc" />
-      <item index="4" class="java.lang.String" itemvalue="Python.stack_play" />
+      <item index="0" class="java.lang.String" itemvalue="Python.scc" />
+      <item index="1" class="java.lang.String" itemvalue="Python.NaiveBayes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.classifier" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -433,6 +451,7 @@
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
     <configuration useDefault="false">C:\Users\derous\AppData\Roaming\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
@@ -445,24 +464,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1292" height="812" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20032573" sideWeight="0.38073394" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986126" sideWeight="0.9928401" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19025876" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29829243" sideWeight="0.9928401" order="5" side_tool="false" content_ui="tabs" x="1804" y="6" width="751" height="986" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275862" sideWeight="0.38041735" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61926603" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18417047" sideWeight="0.6712329" order="4" side_tool="false" content_ui="tabs" x="1323" y="4" width="470" height="983" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61973524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -501,7 +519,10 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -515,7 +536,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="matrix test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -528,90 +548,86 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sort/222.py">
+    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellingResult.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="33" selection-start="5779" selection-end="5779" vertical-scroll-proportion="0.7948276" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UnigramLanguageModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="19" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/UniformLanguageModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="576" selection-end="576" vertical-scroll-proportion="0.29666254" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/LaplaceBigramLanguageModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="14" selection-start="2160" selection-end="2177" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/LaplaceUnigramLanguageModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="911" selection-end="995" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1340" column="0" selection-start="55091" selection-end="55135" vertical-scroll-proportion="0.8493544" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alg4/dev_scc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="52" selection-end="56" vertical-scroll-proportion="0.24840765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/SpellCorrect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="18" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.025125628" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="41" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.69849247" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pa2-autocorrect-v1/python/CustomLanguageModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="41" selection-start="3136" selection-end="3136" vertical-scroll-proportion="0.5728643" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/regexes/regex_cases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="4" selection-start="402" selection-end="402" vertical-scroll-proportion="0.34673366" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alg4/stack_play.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="10" selection-start="396" selection-end="396" vertical-scroll-proportion="0.57788944" />
+        <state line="24" column="10" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alg4/scc.py">
+    <entry file="file://$PROJECT_DIR$/pa3-sentiment-analisys/sentiment/python/NaiveBayes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="26" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" />
+        <state line="73" column="38" selection-start="2243" selection-end="2243" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pa1-spamlord-v4/python/SpamLord.py">
+    <entry file="file://$PROJECT_DIR$/observer/observer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="-0.68">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syno_package/python_code/downloads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="17" selection-start="2150" selection-end="2150" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/test_wiki.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="89" selection-start="2837" selection-end="2837" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/test_msdn.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="699" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/test_fan.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="36" selection-start="7141" selection-end="7141" vertical-scroll-proportion="0.032319393" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="28" selection-start="775" selection-end="780" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/test_adv.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="0" selection-start="11692" selection-end="11692" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="15" selection-start="620" selection-end="620" vertical-scroll-proportion="0.030411448">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octave/ex3/ex3.m">
+    <entry file="file://$PROJECT_DIR$/Classification/tst_cur.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="77" selection-start="4838" selection-end="4838" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/MATRIX.py">
+    <entry file="file://$PROJECT_DIR$/bin_tree/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.08108108">
-          <folding />
-        </state>
+        <state line="25" column="19" selection-start="682" selection-end="682" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syno_package/python_code/similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="13" selection-start="1786" selection-end="1786" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syno_package/python_code/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syno_package/python_code/wikiwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="13" selection-start="2749" selection-end="2749" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
   </component>
