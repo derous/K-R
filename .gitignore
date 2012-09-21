@@ -1,0 +1,6 @@
+corpuses
+test_data
+*.dat
+*.pyc
+*.pio
+.idea
