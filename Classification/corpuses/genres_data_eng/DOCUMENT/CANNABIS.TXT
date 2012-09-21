@@ -1,0 +1,2873 @@
+
+Archive-name: drugs/hemp-marijuana
+Version: 1.0
+
+
+
+   -------------------------------------------------------
+  Welcome to Frequently Asked Questions about Cannabis Hemp
+   -------------------------------------------------------
+
+
+This document contains straight answers to tough questions
+about hemp and marijuana.  Every effort has been made to
+ensure their accuracy, and sources, if not provided, are
+available by request.  BE WARNED -- this text has changed
+minds.  The author and contributers do not take
+responsibility for any change in outlook, new ideas, or
+re-evaluation of one's relationship with current political
+parties which may result from allowing photons to travel
+into your eyeballs, even when said photons originate from a
+cathode ray tube, backlit LCD screen, microfiche reader or
+illuminated sheet of paper on which this document is being
+displayed.  Unless of course you feel like showering us
+with fan mail and candy-grams.  In that case we'll take the
+blame.
+
+
+
+
+
+       Copyright (c)  1 9 9 4   by Brian S. Julin
+
+
+
+               --------------------------
+
+The following persons have contributed to this document at
+some point in it's evolution: Laura Kriho
+<cohip@darkstar.cygnus.com> (original list of questions),
+Marc Anderson (fact finding), Paul L. Allen (LaTeX
+formatting) ,plus some others who haven't said they want
+their name put in.
+
+This material is maintained and written by Brian S. Julin,
+with help from several other individuals.  It is copyrighted
+material.  The copyright is only there to prevent anyone
+from editing or selling this material.  Feel free to
+redistribute the material in any form as long as it is
+unaltered in content, and no credit or money is taken for
+the contents themselves.  Comments, questions, contributions
+or ideas should be mailed to verdant@twain.ucs.umass.edu or
+c/o Brian S. Julin at UMACRC, S.A.O.  Mailbox #2, Student
+Union Building, UMASS, 01003
+
+More information on the document is at the end -- wouldn't
+want to bore you...   So without further ado:
+
+
+                   ----------------------
+                   C  O  N  T  E  N  T  S
+                   ----------------------
+
+Part1: What's all this fuss about hemp?
+
+1a)  What is hemp?
+1b)  What is cannabis?
+1c)  Where did the word `marijuana' come from?
+2a)  How can hemp be used as a food?
+2b)  What are the benefits of hemp compared to other food crops?
+2c)  How about soy?
+      Is hemp competitive as a world source of protein?
+3a)  How can hemp be used for cloth?
+3b)  Why is it better than cotton?
+4a)  How can hemp be used to make paper?
+4b)  Why can't we just keep using trees?
+5a)  How can hemp be used as a fuel?
+5b)  Why is it better than petroleum?
+6a)  How can hemp be used as a medicine?
+6b)  What's wrong with all the prescription drugs we have?
+7)   What other uses for hemp are there?
+
+Part 2: So why aren't we using hemp, then?
+
+1)   How and why was hemp made illegal?
+2)   OK, so what the heck does all this other stuff have to do
+      with hemp?
+3)   Now wait, just hold on.  You expect me to believe that
+      they wouldn't have thought to pass a better law, one that
+      banned marijuana and allowed commercial hemp, instead of
+      throwing the baby out with the bath water?
+4)   Is there a lesson to be learned from all this?
+
+Part 3: Does it?  Doesn't it?  Is it true that?
+
+1)   Doesn't marijuana stay in your fat cells and keep you
+      high for months?
+2)   But ... isn't today's marijuana much more potent than it
+      was in the Sixties?
+      (Or, more often ... Marijuana is 10 times more powerful than
+      it was in the Sixties!)
+3a)  Doesn't Marijuana cause brain damage?
+3b)  If it doesn't kill brain cells, how does it get you `high'?
+4)   Don't people die from smoking pot?
+5)   I forgot, does marijuana cause short-term memory impairment?
+6a)  Is marijuana going to make my boyfriend go psycho?
+6b)  Don't users of marijuana withdraw from society?
+7)   Is it true that marijuana makes you lazy and unmotivated?
+8)   Isn't marijuana a gateway drug?
+      Doesn't it lead to use of harder drugs?
+9a)  I don't want children (minors) to be able to smoke marijuana.
+      How can I stop this?
+9b)  Won't children be able to steal marijuana plants that
+      people are growing?
+10a) Hey, don't you know that marijuana drops testosterone
+      levels in teenage boys causing [various physical and
+      developmental problems]?
+10b) Doesn't heavy marijuana use lower the sperm count in males?
+10c) I heard marijuana use by teenage girls may impair hormone
+      production, menstrual cycles, and fertility.  Is this true?
+11)  Go away.
+12)  Isn't smoking marijuana worse for you than smoking cigarettes?
+13)  Don't children born to pot-smoking mothers suffer from
+      ``Fetal Marijuana Syndrome?''
+14)  Doesn't marijuana cause a lot of automobile accidents?
+15)  Aren't you afraid everyone will get hooked?
+16a) Is urine testing for marijuana use as a terms of
+      employment a good idea?
+      I want to make sure my business is run safely.
+16b) Isn't all this worth the trouble, though, in order to
+      reduce accident risks and health care costs?
+17)  Wouldn't it be best to just lock the users all up?
+18)  I heard that there are over 400 chemicals in marijuana...
+      Wellllll...?
+19)  Doesn't that stuff mess up your immune system and make
+      it easier for you catch colds?
+
+Part 4:  Why is it still illegal?
+
+1)   Why is it STILL illegal?:
+2)   What can I do to bring some sense into our marijuana laws?
+3a)  Where can I get more information?
+3b)  Umm, I'm computer illiterate, so that just went way over
+      my head.  Are there any good books I could go get instead?
+4)   Do you have any advice for people who want to organize
+      their own group?
+
+Part 5:  Sources by question number
+
+Part 6:  About the alt.hemp FAQ.
+
+
+                 ----------------------
+                 P  A  R  T     O  N  E
+                 ----------------------
+
+            WHAT'S ALL THIS FUSS ABOUT HEMP?
+
+
+1a) What is hemp?
+
+    For our purposes, hemp is the plant called `cannabis
+    sativa.'  There are other plants that are called hemp, but
+    cannabis hemp is the most useful of these plants.  In fact,
+    `cannabis sativa' means `useful (sativa) hemp (cannabis)'.
+
+    `Hemp' is any durable plant that has been used since
+    pre-history for many purposes.  Fiber is the most well known
+    product, and the word `hemp' can mean the rope or twine
+    which is made from the hemp plant, as well as just the stalk
+    of the plant which produced it.
+
+
+
+
+1b) What is cannabis?
+
+    Cannabis is the most durable of the hemp plants, and it
+    produces the toughest cloth, called `canvass.'  (Canvass was
+    widely used as sails in the early shipping industry, as it
+    was the only cloth which would not rot on contact with sea
+    spray.)  The cannabis plant also produces three other very
+    important products which the other hemp plants do not (in
+    usable form, that is): seed, pulp, and medicine.
+
+    The pulp is used as fuel, and to make paper.  The seed is
+    suitable for both human and animal foods.  The oil from the
+    seed can be used in as a base for paints and varnishes.  The
+    medicine is a tincture or admixture of the sticky resin in
+    the blossoms and leaves of the hemp plant, and is used for a
+    variety of purposes.
+
+
+
+
+1c) Where did the word `marijuana' come from?
+
+    The word `marijuana' is a Mexican slang term which became
+    popular in the late 1930's in America, during a series of
+    media and government programs which we now refer to as the
+    `Reefer Madness Movement.'  It refers specifically to the
+    medicine part of cannabis, which Mexican soldiers used to
+    smoke.
+
+    Today in the U.S., hemp (meaning the roots, stalk, and stems
+    of the cannabis plant) is legal to possess.  No one can
+    arrest you for wearing a hemp shirt, or using hemp paper.
+    Marijuana (The flowers, buds, or leaves of the cannabis
+    plant) is not legal to possess, and there are stiff fines
+    and possible jail terms for having any marijuana in your
+    possession.  The seeds are legal to possess and eat, but
+    only if they are sterilized (will not grow to maturity.)
+
+    Since it is not possible to grow the hemp plant without
+    being in possession of marijuana, the United States does not
+    produce any industrial hemp products, and must import them
+    or, more often, substitute others.  (There is a way to grow
+    hemp legally, but it involves filing an application with the
+    Drug Enforcement Administration and the DEA very rarely ever
+    gives its permission.)  This does not seem to have stopped
+    people from producing and using marijuana, though.  In many
+    of the United States, marijuana is the number one cash crop,
+    mostly because it fetches a very high price on the black
+    market.
+
+
+
+
+2a) How can hemp be used as a food?
+
+    Hemp seed is a highly nutritious source of protein and
+    essential fatty oils.  Many populations have grown hemp for
+    its seed -- most of them eat it as `gruel' which is a lot
+    like oatmeal.  The leaves can be used as roughage, but not
+    without slight psycho-active side-effects.  Hemp seeds do
+    not contain any marijuana and they do not get you `high.'
+
+    Hemp seed protein closely resembles protein as it is found
+    in the human blood.  It is fantastically easy to digest, and
+    many patients who have trouble digesting food are given hemp
+    seed by their doctors.  Hemp seed was once called `edestine'
+    and was used by scientists as the model for vegetable
+    protein.
+
+    Hemp seed oil provides the human body with essential fatty
+    acids.  Hemp seed is the only seed which contains these oils
+    with almost no saturated fat.  As a supplement to the diet,
+    these oils can reduce the risk of heart disease.  It is
+    because of these oils that birds will live much longer if
+    they eat hemp seed.
+
+    With hemp seed, a vegan or vegetarian can survive and eat
+    virtually no saturated fats.  One handful of hemp seed per
+    day will supply adequate protein and essential oils for an
+    adult.
+
+
+
+
+2b) What are the benefits of hemp compared to other food crops?
+
+    Hemp requires little fertilizer, and grows well almost
+    everywhere.  It also resists pests, so it uses little
+    pesticides.  Hemp puts down deep roots, which is good for
+    the soil, and when the leaves drop off the hemp plant,
+    minerals and nitrogen are returned to the soil.  Hemp has
+    been grown on the same soil for twenty years in a row
+    without any noticeable depletion of the soil.
+
+    Using less fertilizer and agricultural chemicals is good for
+    two reasons.  First, it costs less and requires less effort.
+    Second, many agricultural chemicals are dangerous and
+    contaminate the environment -- the less we have to use, the
+    better.
+
+
+
+
+2c) How about soy?
+    Is hemp competitive as a world source of protein?
+
+    Hemp does not produce quite as much protein as soy, but
+    hemp seed protein is of a higher quality than soy.
+    Agricultural considerations may make hemp the food crop of
+    the future.  In addition to the fact that hemp is an easy
+    crop to grow, it also resists UV-B light, which is a kind of
+    sunlight blocked by the ozone layer.  Soy beans do not take
+    UV-B light very well.  If the ozone layer were to deplete by
+    16%, which by some estimates is very possible, soy
+    production would fall by 25-30%.
+
+    We may have to grow hemp or starve -- and it won't be the
+    first time that this has happened.  Hemp has been used to
+    `bail out' many populations in time of famine.
+    Unfortunately, because of various political factors,
+    starving people in today's underdeveloped countries are not
+    taking advantage of this crop.  In some places, this is
+    because government officials would call it `marijuana' and
+    pull up the crop.  In other countries, it is because the
+    farmers are busy growing coca and poppies to produce cocaine
+    and heroin for the local Drug Lord.  This is truly a sad
+    state of affairs.  Hopefully someday the Peace Corps will be
+    able to teach modern hemp seed farming techniques and end
+    the world's protein shortage.
+
+
+
+
+
+3a) How can hemp be used for cloth?
+
+    The stalk of the hemp plant has two parts, called the
+    bast and the hurd.  The fiber (bast) of the hemp plant can
+    be woven into almost any kind of cloth.  It is very durable.
+    In fact, the first Levi's blue jeans were made out of hemp
+    for just this reason.  Compared to all the other natural
+    fibers available, hemp is more suitable for a large number
+    of applications.
+
+    Here is how hemp is harvested for fiber: A field of closely
+    spaced hemp is allowed to grow until the leaves fall off.
+    The hemp is then cut down and it lies in the field for some
+    time washed by the rain.  It is turned over once to expose
+    both sides of the stalk evenly.  During this time, the hurd
+    softens up and many minerals are returned to the soil.  This
+    is called `retting,' and after this step is complete, the
+    stalks are brought to a machine which separates the bast and
+    the hurd.  We are lucky to have machines today -- men used
+    to do this last part by hand with hours of back-breaking
+    labor.
+
+
+
+
+
+3b) Why is it better than cotton?
+
+    The cloth that hemp makes may be a little less soft than
+    cotton, (though there are also special kinds of hemp, or
+    ways to grow or treat hemp, that can produce a soft cloth)
+    but it is much stronger and longer lasting. (It does not
+    stretch out.)  Environmentally, hemp is a better crop to
+    grow than cotton, especially the way cotton is grown
+    nowadays.  In the United States, the cotton crop uses half
+    of the total pesticides.  (Yes, you heard right, one half of
+    the pesticides used in the entire U.S. are used on cotton.)
+    Cotton is a soil damaging crop and needs a lot of
+    fertilizer.
+
+
+
+
+4a) How can hemp be used to make paper?
+
+    Both the fiber (bast) and pulp (hurd) of the hemp plant
+    can be used to make paper.  Fiber paper was the first kind
+    of paper, and the first batch was made out of hemp in
+    ancient China.  Fiber paper is thin, tough, brittle, and a
+    bit rough.  Pulp paper is not as strong as fiber paper, but
+    it is easier to make, softer, thicker, and preferable for
+    most everyday purposes.  The paper we use most today is a
+    `chemical pulp' paper made from trees.  Hemp pulp paper can
+    be made without chemicals from the hemp hurd.  Most hemp
+    paper made today uses the entire hemp stalk, bast and hurd.
+    High-strength fiber paper can be made from the hemp baste,
+    also without chemicals.
+
+    The problem with today's paper is that so many chemicals are
+    used to make it.  High strength acids are needed to make
+    quality (smooth, strong, and white) paper out of trees.
+    These acids produce chemicals which are very dangerous to
+    the environment.  Paper companies do their best to clean
+    these chemicals up (we hope.)  Hemp offers us an opportunity
+    to make affordable and environmentally safe paper for all of
+    our needs, since it does not need much chemical treatment.
+    It is up to consumers, though, to make the right choice --
+    these dangerous chemicals can also be used on hemp to make a
+    slightly more attractive product.  Instead of buying the
+    whiter, brighter role of toilet paper, we will need to think
+    about what we are doing to the planet.
+
+    Because of the chemicals in today's paper, it will turn
+    yellow and fall apart as acids eat away at the pulp.  This
+    takes several decades, but because of this publishers,
+    libraries and archives have to order specially processed
+    acid free paper, which is much more expensive, in order to
+    keep records.  Paper made naturally from hemp is acid free
+    and will last for centuries.
+
+
+
+
+4b) Why can't we just keep using trees?
+
+    The chemicals used to make wood chemical pulp paper today
+    could cause us a lot of trouble tomorrow.  Environmentalists
+    have long been concerned about the effects of dioxin and
+    other compounds on wildlife and even people.  Beyond the
+    chemical pollution, there are agricultural reasons why we
+    should use cannabis hemp instead.  When trees are harvested,
+    minerals are taken with them.  Hemp is much less damaging to
+    the land where it is grown because it leaves these minerals
+    behind.
+
+    A simpler answer to the above question is:
+
+    Because we are running out!  It was once said that a
+    squirrel could climb from New England to the banks of the
+    Mississippi River without touching the ground once.  The
+    European settler's appetite for firewood and farmland put an
+    end to this.  When the first wood paper became a huge
+    industry, the United States Department of Agriculture began
+    to worry about the `tree supply.'  That is why they went in
+    search of plant pulp to replace wood.  Today some
+    `conservatives' argue that there are more forests now than
+    there ever were.  This is neither true, realistic nor
+    conservative: these statistics do not reflect the real
+    world.  Once trees have been removed from a plot of land, it
+    takes many decades before biological diversity and natural
+    cycles return to the forest, and commercial tree farms
+    simply do not count as forest -- they are farm land.
+
+    As just mentioned, many plant fibers were investigated by
+    the USDA -- some, like kenaf, were even better suited than
+    cannabis hemp for making some qualities of paper, but hemp
+    had one huge advantage: robust vitality.  Hemp generates
+    immense amounts of plant matter in a three month growing
+    season.  When it came down to producing the deluge of paper
+    used by Americans, only hemp could compete with trees.  In
+    fact, according to the 1916 calculations of the USDA, one
+    acre of hemp would replace an entire four acres of forest.
+    And, at the same time, this acre would be producing textiles
+    and rope.
+
+    Today, only 4% of America's old-growth forest remains
+    standing -- and there is talk about building roads into that
+    for logging purposes!  Will our policy makers realize in
+    time how easy it would be to save them?
+
+
+
+
+5a) How can hemp be used as a fuel?
+
+    The pulp (hurd) of the hemp plant can be burned as is or
+    processed into charcoal, methanol, methane, or gasoline.
+    The process for doing this is called destructive
+    distillation, or `pyrolysis.'  Fuels made out of plants like
+    this are called `biomass' fuels.  This charcoal may be
+    burned in today's coal-powered electric generators.
+    Methanol makes a good automobile fuel, in fact it is used in
+    professional automobile races.  It may someday replace
+    gasoline.
+
+    Hemp may also be used to produce ethanol (grain alcohol.)
+    The United States government has developed a way to make
+    this automobile fuel additive from cellulosic biomass.  Hemp
+    is an excellent source of high quality cellulosic biomass.
+    One other way to use hemp as fuel is to use the oil from the
+    hemp seed -- some diesel engines can run on pure pressed
+    hemp seed oil.  However, the oil is more useful for other
+    purposes, even if we could produce and press enough hemp
+    seed to power many millions of cars.
+
+
+
+
+5b) Why is it better than petroleum?
+
+    Biomass fuels are clean and virtually free from metals
+    and sulfur, so they do not cause nearly as much air
+    pollution as fossil fuels.  Even more importantly, burning
+    biomass fuels does not increase the total amount of carbon
+    dioxide in the Earth's atmosphere.  When petroleum products
+    are burned, carbon that has been stored underground for
+    millions of years is added to the air; this may contribute
+    to global warming through the `Greenhouse Effect', (a
+    popular theory which says that certain gases will act like a
+    wool blanket over the entire Earth, preventing heat from
+    escaping into space.)  In order to make biomass fuels, this
+    carbon dioxide has to be taken out of the air to begin with
+    -- when they are burned it is just being put back where it
+    started.
+
+    Another advantage over fossil fuels is that biomass fuels
+    can be made right here in the United States, instead of
+    buying them from other countries.  Instead of paying oil
+    drillers, super-tanker captains, and soldiers to get our
+    fuel to us, we could pay local farmers and delivery drivers
+    instead.  Of course, it is possible to chop down trees and
+    use them as biomass.  This would not be as beneficial to the
+    environment as using hemp, especially since trees that are
+    cut down for burning are `whole tree harvested.'  This means
+    the entire tree is ripped up and burned, not just the wood.
+    Since most of the minerals which trees use are in the
+    leaves, this practice could ruin the soil where the trees
+    are grown.  In several places in the United States, power
+    companies are starting to do this -- burning the trees in
+    order to produce electricity, because that is cheaper than
+    using coal.  They should be using hemp, like researchers in
+    Australia started doing a few years ago.  (Besides, hemp
+    provides a higher quality and quantity of biomass than trees
+    do.)
+
+
+
+
+
+6a) How can hemp be used as a medicine?
+
+    Marijuana has thousands of possible uses in medicine.
+    Marijuana (actually cannabis extract) was available as a
+    medicine legally in this country until 1937, and was sold as
+    a nerve tonic -- but mankind has been using cannabis
+    medicines much longer than that.  Marijuana appears in
+    almost every known book of medicine written by ancient
+    scholars and wise men.  It is usually ranked among the top
+    medicines, called `panaceas', a word which means `cure-all'.
+    The list of diseases which cannabis can be used for
+    includes: multiple sclerosis, cancer treatment, AIDS (and
+    AIDS treatment), glaucoma, depression, epilepsy, migraine
+    headaches, asthma, pruritis, sclerodoma, severe pain, and
+    dystonia.  This list does not even consider the other
+    medicines which can be made out of marijuana -- these are
+    just some of the illnesses for which people smoke or eat
+    whole marijuana today.
+
+    There are over 60 chemicals in marijuana which may have
+    medical uses.  It is relatively easy to extract these into
+    food or beverage, or into some sort of lotion, using butter,
+    fat, oil, or alcohol.  One chemical, cannabinol, may be
+    useful to help people who cannot sleep.  Another is taken
+    from premature buds and is called cannabidiolic acid.  It is
+    a powerful disinfectant.  Marijuana dissolved in rubbing
+    alcohol helps people with the skin disease herpes control
+    their sores, and a salve like this was one of the earliest
+    medical uses for cannabis.  The leaves were once used in
+    bandages and a relaxing non-psychoactive herbal tea can be
+    made from small cannabis stems.
+
+    The most well known use of marijuana today is to control
+    nausea and vomiting.  One of the most important things when
+    treating cancer with chemotherapy or when treating AIDS with
+    AZT or Foscavir, being able to eat well, makes the
+    difference between life or death.  Patients have found
+    marijuana to be extremely effective in fighting nausea; in
+    fact so many patients use it for this purpose even though it
+    is illegal that they have formed `buyers clubs' to help them
+    find a steady supply.  In California, some city governments
+    have decided to look the other way and allow these clubs to
+    operate openly.
+
+    Marijuana is also useful for fighting two other very serious
+    and wide-spread disabilities.  Glaucoma is the second
+    leading cause of blindness, caused by uncontrollable eye
+    pressure.  Marijuana can control the eye pressure and keep
+    glaucoma from causing blindness.  Multiple Sclerosis is a
+    disease where the body's immune system attacks nerve cells.
+    Spasms and many other problems result from this.  Marijuana
+    not only helps stop these spasms, but it may also keep
+    multiple sclerosis from getting worse.
+
+
+
+
+
+6b) What's wrong with all the prescription drugs we have?
+
+    They cost money and are hard to make.  In many cases,
+    they do not work as well, either.  Some prescription drugs
+    which marijuana can replace have very bad, even downright
+    dangerous, side-effects.  Cannabis medicines are cheap,
+    safe, and easy to make.
+
+    Many people think that the drug dronabinol should be used
+    instead of marijuana.  Dronabinol is an exact imitation of
+    one of the chemicals found in marijuana, and it may actually
+    work on a lot of the above diseases, but there are some big
+    problems with dronabinol, and most patients who have used
+    both dronabinol and marijuana say that marijuana works
+    better.
+
+    The first problem with Dronabinol is that it is even harder
+    to get than marijuana.  Many doctors do not like to
+    prescribe dronabinol, and many drug stores do not want to
+    supply it, because a lot of paperwork has to be filed with
+    the Drug Enforcement Administration.  Secondly, dronabinol
+    comes in pills which are virtually useless to anyone who is
+    throwing up, and it is hard to take just the right amount of
+    dronabinol since it cannot be smoked.  Finally, because
+    dronabinol is only one of the many chemicals in cannabis, it
+    just does not work for some diseases.  Many patients do not
+    like the effects of dronabinol because it does not contain
+    some of the more calming chemicals which are present in
+    marijuana.
+
+
+
+
+7) What other uses for hemp are there?
+
+    One of the newest uses of hemp is in construction
+    materials.  Hemp can be used in the manufacture of `press
+    board' or `composite board.'  This involves gluing fibrous
+    hemp stalks together under pressure to produce a board which
+    is many times more elastic and durable than hardwood.
+    Because hemp produces a long, tough fiber it is the perfect
+    source for press-board.  Another interesting application of
+    hemp in industry is making plastic.  Many plastics can be
+    made from the high-cellulose hemp hurd.  Hemp seed oil has a
+    multitude of uses in products such as varnishes and
+    lubricants.
+
+    Using hemp to build is by no means a new idea.  French
+    archeologists have discovered bridges built with a process
+    that mineralizes hemp stalks into a long-lasting cement.
+    The process involves no synthetic chemicals and produces a
+    material which works as a filler in building construction.
+    Called Isochanvre, it is gaining popularity in France.
+    Isochanvre can be used as drywall, insulates against heat
+    and noise, and is very long lasting.
+
+    `Bio-plastics' are not a new idea, either -- way back in the
+    1930's Henry Ford had already made a whole car body out of
+    them -- but the processes for making them do need more
+    research and development.  Bio-plastics can be made without
+    much pollution.  Unfortunately, companies are not likely to
+    explore bio-plastics if they have to either import the raw
+    materials or break the law.  (Not to mention compete with
+    the already established petrochemical products.)
+
+
+
+                    -----------------------
+                    P  A  R  T      T  W  O
+                    -----------------------
+
+
+
+
+              WELL WHY AREN'T WE USING HEMP, THEN?
+
+
+1) How and why was hemp made illegal?
+
+    Tough question!  In order to explain why hemp, the most
+    useful plant known to mankind, became illegal, we have to
+    understand the reasons why marijuana, the drug, became
+    illegal.  In fact, it helps to go way back to the beginning
+    of the century and talk about two other drugs, opium (the
+    grandfather of heroin) and cocaine.
+
+    Opium, a very addictive drug (but relatively harmless by
+    today's standards) was once widely used by the Chinese.  The
+    reasons for this are a whole other story, but suffice to say
+    that when Chinese started to immigrate to the United States,
+    they brought opium with them.  Chinese workers used opium to
+    induce a trance-like state which helped make boring,
+    repetitive tasks more interesting.  It also numbs the mind
+    to pain and exhaustion.  By using opium, the Chinese were
+    able to pull very long hours in the sweat shops of the
+    Industrial Revolution.  During this period of time, there
+    was no such thing as fair wages, and the only way a worker
+    could make a living was to produce as much as humanly
+    possible.
+
+    Since they were such good workers, the Chinese held a lot of
+    jobs in the highly competitive industrial work-place.  Even
+    before the Great Depression, when millions of jobs
+    disappeared overnight, the White Americans began to resent
+    this, and Chinese became hated among the White working
+    class.  Even more than today, White Americans had a very big
+    political advantage over the Chinese -- they spoke English
+    and had a few relatives in the government, so it was easy
+    for them to come up with a plan to force Chinese immigrants
+    to leave the country (or at least keep them from inviting
+    all their relatives to come and live in America.)  This plan
+    depended on stirring up racist feelings, and one of the
+    easiest things to focus these feelings on was the foreign
+    and mysterious practice of using opium.
+
+    We can see this pattern again with cocaine, except with
+    cocaine it was Black Americans who were the target.  Cocaine
+    probably was not especially useful in the work-place, but
+    the strategy against Chinese immigrants (picking on their
+    drug of choice) had been so successful that it was used
+    again.  In the case of Blacks, though, the racist feelings
+    ran deeper, and the main thrust of the propaganda campaign
+    was to control the Black community and keep Blacks from
+    becoming successful.  Articles appeared in newspapers which
+    blamed cocaine for violent crime by Blacks.  Black Americans
+    were painted as savage, uncontrollable beasts when under the
+    influence of cocaine -- it was said to make a single Black
+    man as strong as four or five police officers.  (sound
+    familiar?)  By capitalizing on racist sentiments, a powerful
+    political lobby banned opium and then cocaine.
+
+    Marijuana was next.  It was well known that the Mexican
+    soldiers who fought America during the war with Spain smoked
+    marijuana.  Poncho Villa, A Mexican general, was considered
+    a nemesis for the behavior of his troops, who were known to
+    be especially rowdy.  They were also known to be heavy
+    marijuana smokers, as the original lyrics to the song `la
+    cucaracha' show.  (The song was originally about a Mexican
+    soldier who refused to march until he was provided with some
+    marijuana.)
+
+    After the war had ended and Mexicans had begun to immigrate
+    into the South Eastern United States, there were relatively
+    few race problems.  There were plenty of jobs in agriculture
+    and industry and Mexicans were willing to work cheap.  Once
+    the depression hit and jobs became scarce, however, Mexicans
+    suddenly became a public nuisance.  It was said by
+    politicians (who were trying to please the White working
+    class) that Mexicans were responsible for a violent crime
+    wave.  Police statistics showed nothing of the sort -- in
+    fact Mexicans were involved in less crime than Whites.
+    Marijuana, of course, got the blame for this phony outbreak
+    of crime and health problems, and so many of these states
+    made laws against using cannabis.  (In the Northern states,
+    marijuana was also associated with Black jazz musicians.)
+
+    Here is where things start to get complicated.  Put aside,
+    for a moment, all the above, because there are a few other
+    things involved in this twisted tale.  At the beginning of
+    the Great Depression, there was a very popular movement
+    called Prohibition, which made alcohol illegal.  This was
+    motivated mainly by a Puritan religious ethic left over from
+    the first European settlers.  Today we have movies and
+    television shows such as the ``Untouchables'' which tell us
+    what it was like to live during this period.  Since it is
+    perhaps the world's most popular drug, alcohol prohibition
+    spawned a huge `black market' where illegal alcohol was
+    smuggled and traded at extremely high prices.  Crime got
+    out-of-hand as criminals fought with each other over who
+    could sell alcohol where.  Organized crime became an
+    American institution, and hard liquor, which was easy to
+    smuggle, took the place of beer and wine.
+
+    In order to combat the crime wave, a large police force was
+    formed.  The number of police grew rapidly until the end of
+    Prohibition when the government decided that the best way to
+    deal with the situation was to just give up and allow people
+    to use alcohol legally.  Under Prohibition the American
+    government had essentially (and unwittingly) provided the
+    military back-up for the take-over of the alcohol business
+    by armed thugs.  Even today, the Mob still controls liquor
+    sales in many areas.  After Prohibition the United States
+    was left with nothing to show but a decade of political
+    turmoil -- and a lot of unemployed police officers.
+
+    During Prohibition, being a police officer was a very nice
+    thing -- you got a relatively decent salary, respect,
+    partial immunity to the law, and the opportunity to take
+    bribes (if you were that sort of person.)  Many of these
+    officers were not about to let this life-style slip away.
+    Incidentally, it was about this time when the Federal Bureau
+    of Narcotics and Dangerous Drugs was reformed, and a man
+    named Harry J. Anslinger was appointed as its head.
+    (Anslinger was appointed by his uncle-in-law, Andrew Mellon,
+    who was the Secretary of the United States Treasury.)
+    Anslinger campaigned tirelessly for funding in order to hire
+    a large force of narcotics officers.  After retiring,
+    Anslinger once mused that the FBNDD was a place where young
+    men were given a license to steal and rape.
+
+    The FBNDD is the organization which preceded what we now
+    call the DEA, and was responsible for enforcing the new
+    Federal drug laws against heroin, opium, and cocaine.  One
+    of Anslinger's biggest concerns as head of the FBNDD was
+    getting uniform drug laws passed in all States and the
+    Federal legislature.  (Anslinger also had a personal dislike
+    of jazz music and the Black musicians who made it.  He hated
+    them so much that he spent years tracking each of them and
+    dreamed of arresting them all in one huge, cross-country
+    sweep.)  Anslinger frequented parent's and teacher's
+    meetings giving scary speeches about the dangers of
+    marijuana, and this period of time became known as Reefer
+    Madness.  (The name comes from the title of a silly movie
+    produced by a public health group.)
+
+
+
+
+
+2) OK, so what the heck does all this other stuff have to do
+   with hemp?
+
+    To make a long story short, during the first decades of this
+    century, opium was made illegal to kick out the Chinese
+    immigrants who had flooded the work-force.  Cocaine was made
+    illegal to repress and control the Black community.
+    And, marijuana was made illegal in order to control Mexicans
+    in the Southeast (and Blacks.)  All these laws were based
+    mainly on emotional racism, without much else to back them
+    up -- you can easily tell this by reading the hearings held
+    in state legislatures.  Also at this time, the end of
+    Prohibition left us with a large force of unemployed police
+    officers, who looked for work enforcing the new drug laws.
+    Consequently, these same police officers needed to convince
+    the country that their jobs were important.  They did so by
+    scaring parents about the dangers of drugs.  All this set
+    the stage for a law passed in the Federal legislature which
+    put a prohibitive tax on marijuana.  This is what killed the
+    hemp industry in 1937, since it made business in hemp
+    impossible.
+
+    Before the 1937 Marijuana Tax Act, the state of Kentucky was
+    the center of a relatively large American hemp industry
+    which produced cloth and tow (rope for use in shipping.)
+    The industry would have been larger, but hemp had one major
+    disadvantage: processing it required a lot of work.  Men had
+    to `brake' hemp stalks in order to separate the fiber from
+    the woody core.  This was done on a small machine called a
+    hand-brake, and it was a job fit for Hercules.  It was not
+    until the 1930's that machines to do this became widely
+    available.
+
+    Today we use paper made by a process called `chemical
+    pulping'.  Before this, trees were processed by `mechanical
+    pulping' instead, which was much more expensive.  At about
+    the same time as machines to brake hemp appeared, the idea
+    of using hemp hurds for making paper and plastic was
+    proposed.  Hemp hurds were normally considered to be a
+    worthless waste product that was thrown away after it was
+    stripped of fiber.  New research showed that these hurds
+    could be used instead of wood in mechanical pulping, and
+    that this would drastically reduce the cost of making paper.
+    Popular Mechanics Magazine predicted that hemp would rise to
+    become the number one crop in America.  In fact, the 1937
+    Marijuana Tax Act was so unexpected that Popular Mechanics
+    had already gone to press with a cover story about hemp,
+    published in 1938 just two months after the Tax Act took
+    effect.
+
+
+3) Now wait, just hold on.  You expect me to believe that
+   they wouldn't have thought to pass a better law, one that
+   banned marijuana and allowed commercial hemp, instead of
+   throwing the baby out with the bath water?
+
+    There's more.  `Chemical pulping' paper was invented at
+    about this time by Dupont Chemicals, as part of a
+    multi-million dollar deal with a timber holding company and
+    newspaper chain owned by William Randolph Hearst.  This deal
+    would provide the Hearst with a source of very cheap paper,
+    and he would go on to be known as the tycoon of `yellow
+    journalism' (so named because the new paper would turn
+    yellow very quickly as it got older.)  Hearst knew that he
+    could drive other papers out of competition with this new
+    advantage.  Hemp paper threatened to ruin this whole plan.
+    It had to be stopped, and the Marijuana Tax Act of 1937 was
+    the way they did it.  As a drug law, the Tax Act really was
+    not a very big step -- it did not really accomplish much at
+    all and many historians have caught themselves wondering why
+    the bill was even written.  Big business interests took
+    advantage of the political climate of racism and anti-drug
+    rhetoric to close the free market to hemp products, and
+    _that_, my friend, is how hemp became illegal.
+
+    (Whew!)
+
+    For the 1930's, this business venture was one very large
+    transaction; it included other timber companies and a few
+    railroads.  Dupont's entire deal was backed by a banker
+    named Andrew Mellon.  Don't look up!  That's the same Andrew
+    Mellon who appointed his nephew-in-law Harry Anslinger to
+    head up the FBNDD in 1931.  The Marijuana Tax Act was passed
+    in a very unorthodox way, and nobody who would have objected
+    was informed about the bill.  The American Medical
+    Association found out about the bill only two days before
+    the hearings, and sent a representative to object to the
+    banning of cannabis medicines.  A hemp bird seed salesman
+    also showed up and complained.  However, the bill was
+    passed, partially due to the testimony of Harry J.
+    Anslinger.
+
+    Not that Americans would have protested against this bill,
+    even if they had known it existed most Americans did not
+    know that cannabis hemp and marijuana is the same thing.
+    The separate word `marijuana' was one of the reasons for
+    this.  Nobody would associate the evil weed from Mexico with
+    the stuff they tied their shoes with.  Also, this was the
+    time when synthetic fabrics were the latest fad -- nobody
+    was interested in natural fibers any more.  To top this all
+    off the word `hemp' was often wrongly used to refer to other
+    natural fabrics, specifically jute.
+
+    The ignorance of hemp continues today, but it is even more
+    scary.  During the 1970's (Reefer Madness II) all mention of
+    the word `hemp' was removed from high school text books here
+    in the United States.  So much for free speech!  When Jack
+    Herer, the world's most beloved hemp activist, asked a
+    curator at the Smithsonian Museum why this word had been
+    removed from all their exhibits, the answer he got was
+    astounding: ``Children do not need to know about hemp
+    anymore.  It confuses them.''  Jack Herer went on to uncover
+    a film made by the United States government, a film which
+    the government did not want to admit existed.  The film
+    ``Hemp For Victory'' details how the United States
+    government bypassed the Tax Act during World War II, when
+    they needed hemp for the War Effort, and ran a large
+    hemp-growing project in Kentucky and California.  (Bravo,
+    Jack!)
+
+
+4) Is there a lesson to be learned from all this?
+
+    Several.  The first is that hate does not pay.  It is
+    ironic that the racism of the American people would end up
+    hurting them this way -- a sort of divine justice if you
+    will.  Because Americans were blinded by fear, hatred, and
+    intolerance of other races, they allowed a prosperous future
+    to slip between their fingers.  Another thing this whole
+    history tells us is that Americans need to take Democracy
+    more seriously.  If they had devoted more of their time to
+    informing themselves about the world around them, they would
+    have known what the real issues were.  Instead they read the
+    tabloids -- look where that has gotten us.  Finally, now
+    that we have put marijuana prohibition into historical
+    context, we can see clearly that it had nothing to do with
+    public safety, or national security, or what have you.  By
+    all rights, marijuana should not have been made illegal in
+    the first place.  If today prohibition still has no rational
+    basis to stand on, then let us repeal it.
+
+    One point which bears emphasizing is this: the laws which
+    are passed in this country may not mean what they say on
+    paper.  Historically the United States has a long record of
+    passing laws with ulterior motives.  Even when there is no
+    ulterior motive, though, passing laws which are not specific
+    enough leads to abuse.  Most of our tough drug laws are like
+    this -- enacted to fight drug kingpins, but enforced against
+    casual drug users and small-time drug dealers.  In fact,
+    most of these laws never even get used against a real drug
+    kingpin, and the first people prosecuted under the statutes
+    are not what the legislators had in mind.  If this upsets
+    you, you should pay more attention to what goes on in your
+    legislature.
+
+
+                   -----------------------------
+                   P  A  R  T      T  H  R  E  E
+                   -----------------------------
+
+-----------------------------------------------------------------------
+The next question would normally be ``Why is it _still_ not
+legal,'' but since we have uncovered an understanding of the
+history, it is time to take a little detour.  Politicians
+love to tell us that marijuana must remain illegal for our
+own good.  In the next section we will examine some of the
+so-called facts about marijuana so that you can decide for
+yourselves whether you agree or not.  Is marijuana
+prohibition there to protect the people, or is it just the
+result of decades of refusal to admit our
+mistakes?
+-----------------------------------------------------------------------
+
+
+
+             DOES IT?  DOESN'T IT?  IS IT TRUE THAT?
+
+
+
+
+1) Doesn't marijuana stay in your fat cells and keep you
+   high for months?
+
+    No.  The part of marijuana that gets you high is called
+    `Delta-9-tetrahydrocannabinol.'  Most people just call this
+    THC, but this is confusing: your body will change
+    Delta-9-THC into more inert molecules known as
+    `metabolites,' which don't get you high.  Unfortunately,
+    these chemicals also have the word `tetrahydrocannabinol' in
+    them and they are also called THC -- so many people think
+    that the metabolites get you high.  Anti-drug pamphlets say
+    that THC gets stored in your fat cells and then leaks out
+    later like one of those `time release capsules' advertised
+    on television.  They say it can keep you high all day or
+    even longer.  This is not true, marijuana only keeps you
+    high for a few hours, and it is not right to think that a
+    person who fails a drug test is always high on drugs,
+    either.
+
+    Two of these metabolites are called
+    `11-hydroxy-tetrahydrocannabinol' and
+    `11-nor-9-carboxy-delta-9-tetrahydrocannabinol' but we will
+    call them 11-OH-THC and 11-nor instead.  These are the
+    chemicals which stay in your fatty cells.  There is almost
+    no Delta-9-THC left over a few hours after smoking
+    marijuana, and scientific studies which measure the effects
+    of marijuana agree with this fact.
+
+
+
+
+
+2) But ... isn't today's marijuana much more potent than it
+   was in the Sixties?
+   (Or, more often ... Marijuana is 10 times more powerful than
+   it was in the Sixties!)
+
+    GOOD!  Actually, this is not true, but if it were, it
+    would mean that marijuana is safer to smoke today than it
+    was in the Sixties.  (More potent cannabis means less
+    smoking means less lung damage.)  People who use this
+    statistic just plain do not know what they are talking
+    about.  Sometimes they will even claim that marijuana is now
+    twenty to thirty times stronger, which is physically
+    impossible because it would have to be *over* 100%
+    Delta-9-THC.  The truth is, marijuana has not really changed
+    potency all that much, if at all, in the last several
+    hundred years.  Growing potent cannabis is an ancient art
+    which has not improved in centuries, despite all our modern
+    technology.  Before marijuana was even made illegal, drug
+    stores sold tinctures of cannabis which were over 40% THC.
+
+    Even so, the point is moot because marijuana smokers engage
+    in something called `auto-titration.'  This basically means
+    smoking until they are satisfied and then stopping, so it
+    does not really matter if the marijuana is more potent
+    because they will smoke less of it.  Marijuana is not like
+    pre-moistened towelettes or snow-cones.  There is nothing
+    forcing marijuana smokers to smoke an entire joint.
+
+    Experienced marijuana users are accustomed to smoking
+    marijuana from many different suppliers, and they know that
+    if they smoke a whole joint of very potent bud they will get
+    `TOO STONED'.  Since being `too stoned' is a rather
+    unpleasant experience, smokers quickly learn to take their
+    time and `test the waters' when they do not know how strong
+    their marijuana is.
+
+
+
+
+
+3a) Doesn't Marijuana cause brain damage?
+
+    The short answer: No.
+
+    The long answer: The reason why you ask this is because you
+    probably heard or read somewhere that marijuana damages
+    brain cells, or makes you stupid.  These claims are untrue.
+
+    The first one -- marijuana kills brain cells -- is based on
+    research done during the second Reefer Madness Movement.  A
+    study attempted to show that marijuana smoking damaged brain
+    structures in monkeys.  However, the study was poorly
+    performed and it was severely criticized by a medical review
+    board.  Studies done afterwards failed to show any brain
+    damage, in fact a very recent study on Rhesus monkeys used
+    technology so sensitive that scientists could actually see
+    the effect of learning on brain cells, and it found no
+    damage.
+
+    But this was Reefer Madness II, and the prohibitionists were
+    looking around for anything they could find to keep the
+    marijuana legalization movement in check, so this study was
+    widely used in anti-marijuana propaganda.  It was recanted
+    later.
+
+    (To this day, the radical anti-drug groups, like P.R.I.D.E.
+    and Dr.  Gabriel Nahas, still use it -- In fact, America's
+    most popular drug education program, Drug Abuse Resistance
+    Education, claims that marijuana ``can impair memory
+    perception & judgement by destroying brain cells.''  When
+    police and teachers read this and believe it, our job gets
+    really tough, since it takes a long time to explain to
+    children how Ms. Jones and Officer Bob were wrong.)
+
+    The truth is, no study has ever demonstrated cellular
+    damage, stupidity, mental impairment, or insanity brought on
+    specifically by marijuana use -- even heavy marijuana use.
+    This is not to say that it cannot be abused, however.
+
+
+
+
+
+3b) If it doesn't kill brain cells, how does it get you `high'?
+
+    Killing brain cells is not a pre-requisite for getting
+    `high.'  Marijuana contains a chemical which substitutes for
+    a natural brain chemical, with a few differences.  This
+    chemical touches special `buttons' on brain cells called
+    `receptors.'  Essentially, marijuana `tickles' brain cells.
+    The legal drug alcohol also tickles brain cells, but it will
+    damage and kill them by producing toxins (poisons) and
+    sometimes mini-seizures.  Also, some drugs will wear out the
+    buttons which they push, but marijuana does not.
+
+
+
+
+
+4) Don't people die from smoking pot?
+
+    Nobody has ever overdosed.  For any given substance,
+    there are bound to be some people who have allergic
+    reactions.  With marijuana this is extremely rare, but it
+    could happen with anything from apples to pop-tarts.  Not
+    one death has ever been directly linked to marijuana itself.
+    In contrast, many legal drugs cause hundreds to hundreds of
+    thousands of deaths per year, foremost among them are
+    alcohol, nicotine, valium, aspirin, and caffiene.  The
+    biggest danger with marijuana is that it is illegal, and
+    someone may mix it with another drug like PCP.
+
+    Marijuana is so safe that it would be almost impossible to
+    overdose on it.  Doctors determine how safe a drug is by
+    measuring how much it takes to kill a person (they call this
+    the LD50) and comparing it to the amount of the drug which
+    is usually taken (ED50).  This makes marijuana hundreds of
+    times safer than alcohol, tobacco, or caffiene.  According
+    to a DEA Judge ``marijuana is the safest therapeutically
+    active substance known to mankind.''
+
+
+
+
+
+5) I forgot, does marijuana cause short-term memory impairment?
+
+    The effect of marijuana on memory is its most dramatic
+    and the easiest to notice.  Many inexperienced marijuana
+    users find that they have very strange, sudden and
+    unexpected memory lapses.  These usually take the form of
+    completely forgetting what you were talking about when you
+    were right in the middle of saying something important.
+    However, these symptoms only occur while a person is `high'.
+    They do not carry over or become permanent, and examinations
+    of extremely heavy users has not shown any memory or
+    thinking problems.  More experienced marijuana users seem to
+    be able to remember about as well as they do when they are
+    not `high.'
+
+    Studies which have claimed to show short-term memory
+    impairment have not stood up to scrutiny and have not been
+    duplicated.  Newer studies show that marijuana does not
+    impair simple, real-world memory processes.  Marijuana does
+    slow reaction time slightly, and this effect has sometimes
+    been misconstrued as a memory problem.  To put things in
+    perspective, one group of researchers made a control group
+    hold their breath, like marijuana smokers do.  Marijuana
+    itself only produced about twice as many effects on test
+    scores as breath holding.  Many people use marijuana to
+    study.  Other people cannot, for some reason, use marijuana
+    and do anything that involves deep thought.  Nobody knows
+    what makes the difference.
+
+
+
+
+6a) Is marijuana going to make my boyfriend go psycho?
+
+    Marijuana does not `cause' psychosis.  Psychotic people
+    can smoke marijuana and have an episode, but there is
+    nothing in marijuana that actually initiates or increases
+    these episodes.  Of course, if any mentally ill person is
+    given marijuana for the first time or without their
+    knowledge, they might get scared and `freak.'  Persons who
+    suffer from severe psychological disorders often use
+    marijuana as a way of coping.  Because of this, some
+    researchers have assumed that marijuana is the cause of
+    these problems, when it is actually a symptom.  If you have
+    heard that marijuana makes people go crazy, this is probably
+    why.
+
+
+
+
+
+6b) Don't users of marijuana withdraw from society?
+
+    To some extent, yes.  That's probably just because they
+    are afraid of being arrested, though.  The same situation
+    exists with socially maladjusted persons as does with the
+    mentally ill.  Emotionally troubled individuals find
+    marijuana to be soothing, and so they tend to use it more
+    than your average person.  Treatment specialists see this,
+    and assume that the marijuana is causing the problem.  This
+    is a mistake which hurts the patient, because their doctors
+    will pay less attention to their actual needs, and
+    concentrate on ending their drug habit.  Sometimes the
+    cannabis is even helping them to recover.  Cannabis can be
+    abused, and it can make these situations worse, but
+    psychologists should approach marijuana use with an open
+    mind or they risk hurting their patient.
+
+    Marijuana itself does not make normal people anti-social.
+    In fact, a large psychological study of teenagers found that
+    casual marijuana users are more well adjusted than `drug
+    free' people.  This would be very amusing, but it is a
+    serious problem.  There are children who have emotional
+    problems which keep them from participating in healthy,
+    explorative behavior.  They need psychological help but
+    instead they are skipped over.  Marijuana users who do not
+    need help are having treatment forced on them, and in the
+    mean-time marijuana takes the blame for the personality
+    characteristics and problems of the people who like to use
+    it improperly.
+
+
+
+
+
+7) Is it true that marijuana makes you lazy and unmotivated?
+
+    Not if you are a responsible adult, it doesn't.  Ask the
+    U.S. Army.  They did a study and showed no effect.  If this
+    were true, why would many Eastern cultures, and Jamaicans,
+    use marijuana to help them work harder?  `Amotivational
+    syndrome' started as a media myth based on the racial
+    stereotype of a lazy Mexican borracho.  The prohibitionists
+    claimed that marijuana made people worthless and sluggish.
+    Since then, however, it has been scientifically researched,
+    and a symptom resembling amotivational syndrome has actually
+    been found.  However, it only occurs in adolescent teenagers
+    -- adults are not affected.
+
+    When a person reaches adolescence, their willingness to work
+    usually increases, but this does not happen for teenagers
+    using marijuana regularly -- even just on the weekends.  The
+    actual studies involved monkeys, not humans, and the results
+    are not verified, but older studies which tried to show
+    `amotivational syndrome' usually only suceeded when they
+    studied adolescents.  Adults are not effected.
+
+    The symptoms are not permanent, and motivation returns to
+    normal levels several months after marijuana smoking stops.
+    However, a small number of people may be unusually sensitive
+    to this effect.  One of the monkeys in the experiment was
+    severely amotivated and did not recover.  Doctors will need
+    to study this more before they know why.
+
+
+
+
+
+8) Isn't marijuana a gateway drug?
+   Doesn't it lead to use of harder drugs?
+
+    This is totally untrue.  In fact, researchers are looking
+    into using marijuana to help crack addicts to quit.  There
+    are 40 million people in this country (U.S.) who have smoked
+    marijuana for a period of their lives -- why aren't there
+    tens of millions of heroin users, then?  In Amsterdam, both
+    marijuana use and heroin use went *down* after marijuana was
+    decriminalized -- even though there was a short rise in
+    cannabis use right after decriminalization.  Unlike
+    addictive drugs, marijuana causes almost no tolerance.  Some
+    people even report a reverse tolerance.  That is, the longer
+    they have used the less marijuana they need to get `high.'
+    So users of marijuana do not usually get bored and `look for
+    something more powerful'.  If anything, marijuana keeps
+    people from doing harder drugs.
+
+    The idea that using marijuana will lead you to use heroin or
+    speed is called the `gateway theory' or the `stepping stone
+    hypothesis.'  It has been a favorite trick of the anti-drug
+    propaganda artists, because it casts marijuana as something
+    insidious with hidden dangers and pitfalls.  There have
+    never been any real statistics to back this idea up, but
+    somehow it was the single biggest thing which the newspapers
+    yelled about during Reefer Madness II.  (Perhaps this was
+    because the CIA was looking for someone to blame for the
+    increase in heroin use after Viet Nam.)
+
+    The gateway theory of drug use is no longer generally
+    accepted by the medical community.  Prohibitionists used to
+    point at numbers which showed that a large percentage of the
+    hard drug users `started with marijuana.'  They had it
+    backwards -- many hard drug users also use marijuana.  There
+    are two reasons for this.  One is that marijuana can be used
+    to `take the edge off' the effects of some hard drugs.  The
+    other is a recently discovered fact of adolescent psychology
+    -- there is a personality type which uses drugs, basically
+    because drugs are exciting and dangerous, a thrill.
+
+    On sociological grounds, another sort of gateway theory has
+    been argued which claims that marijuana is the source of the
+    drug subculture and leads to other drugs through that
+    culture.  By the same token this is untrue -- marijuana does
+    not create the drug subculture, the drug subculture uses
+    marijuana.  There are many marijuana users who are not a
+    part of the subculture.
+
+    This brings up another example of how marijuana legalization
+    could actually reduce the use of illicit drugs.  Even though
+    there is no magical `stepping stone' effect, people who
+    choose to buy marijuana often buy from dealers who deal in
+    many different illegal drugs.  This means that they have
+    access to illegal drugs, and might decide to try them out.
+    In this case it is the laws which lead to hard drug use.  If
+    marijuana were legal, the drug markets would be separated,
+    and less people would start using the illegal drugs.  Maybe
+    this is why emergency room admissions for hard drugs have
+    gone down in the states that decriminalized marijuana during
+    the 70's.
+
+
+
+
+
+9a) I don't want children (minors) to be able to smoke marijuana.
+    How can I stop this?
+
+    Legalize it.  They can smoke it now; it is about as easy
+    to get as alcohol.  There would be less marijuana being sold
+    in schools, playgrounds, and street corners, though, if it
+    was sold legally through pharmacies -- because the dealers
+    would not be able to compete with the prices.  If you are a
+    parent, the choice is really up to you: Do you want your
+    children to sneak off with their friends and use marijuana
+    which they bought off the street, or do you want to talk to
+    them calmly and explain to them why they should wait until
+    they are older?  Your children are not going to walk up to
+    you and tell you that they use an illegal drug, but if it
+    was not such a big deal they might give you a chance to
+    explain your feelings.  Besides, would you rather children
+    use speed, cocaine, and alcohol?
+
+    Consider, also, that children have a natural urge to do
+    things that they aren't supposed to.  It is called
+    curiosity.  By making such a fuss over marijuana, you make
+    it interesting (some call it the `forbidden fruit' factor.)
+    This is made worse when children are lied to about drugs by
+    teachers and police -- they lose respect for the school and
+    the government.  In a lot of ways, it is the hysteria about
+    drugs which causes the most harm.  When marijuana users do
+    none of the horrible things they are supposed to, children
+    may think that other more harmful drugs are OK, too.  Your
+    children will not respect you unless you are calm and give
+    good reasons for your rules.  The first step is for you, the
+    parent, to learn the facts about drugs.
+
+
+
+
+
+9b) Won't children be able to steal marijuana plants that
+    people are growing?
+
+    Well, if you are worried about them stealing the hemp
+    plants from the paper-pulp farm down the road, you should
+    know that the commercial grades of hemp do not contain much
+    THC (the stuff that gets you high.)  If they were to smoke
+    it, they would probably just get a headache.  Otherwise, it
+    should be the responsibility of the grower to take measures
+    to prevent this.  Most ``home-grown'' marijuana is
+    cultivated indoors anyway.  If the children in your town
+    have nothing better to do than go around stealing marijuana
+    to smoke, your town needs to buy a library or something.
+
+
+
+
+
+10a) Hey, don't you know that marijuana drops testosterone
+     levels in teenage boys causing [various physical and
+     developmental problems]?
+
+    Marijuana does not turn young healthy boys into lanky,
+    girlish looking wimps, no.  This scare tactic (call it
+    homo-phobic if you will) was a common device used in early
+    anti-drug literature.  It attempts to scare boys away from
+    marijuana by telling them, essentially, that it will turn
+    them into a girl.  Young men probably should not use
+    marijuana heavily (see the section on amotivational
+    syndrome), but the risks are not horrendous.
+
+    Anti-marijuana pamphlets used this claim often during Reefer
+    Madness II, but the studies which are cited are mostly
+    faulty or misinterpreted.  This is not to say that marijuana
+    use does not affect childhood development at all, just that
+    the effects are not as drastic as some people would like
+    them to sound.  In fact they are pretty much unknown.
+
+
+
+
+
+10b) Doesn't heavy marijuana use lower the sperm count in males?
+
+    Not by much, (if at all) and this can be a good thing.
+    It does not make you impotent or sterile.  (If it did --
+    there would be no Rastafarians left!)  Give those testicles
+    a rest, already!  Marijuana is certainly _not_ birth
+    control, please don't let your lover tell you it is.
+
+    Many people think that marijuana enhances their sex lives.
+    It is not an aphrodisiac, that is, it does not make people
+    want to have sex.  What it does do for some people is make
+    everything more sensual -- it makes food taste better and
+    feelings and emotions more vivid.
+
+
+
+
+
+10c) I heard marijuana use by teenage girls may impair hormone
+     production, menstrual cycles, and fertility.  Is this true?
+
+    Also unproven and unfounded, but there is no data
+    available to tell either way, (and it won't be coming from
+    the U.S. -- current U.S.  laws prohibit research on women.)
+    This is the female version of the boy's ``It'll turn you
+    into a sissy'' tactic.  As far as anyone knows, it is only a
+    scare tactic.
+
+
+
+
+
+11) I forgot, does marijuana cause short-term memory impairment?
+
+    Go away.
+
+
+
+
+
+12) Isn't smoking marijuana worse for you than smoking cigarettes?
+
+    There are many reasons why it is not.  You may have heard
+    that ``one joint is equal to ten cigarrettes'' but this is
+    exagerrated and misleading.  Marijuana does contain more tar
+    than tobacco -- but low tar cigarettes cause just as much
+    cancer, so what is that supposed to mean?  Scientists have
+    shown that smoking any plant is bad for your lungs, because
+    it increases the number of `lesions' in your small airways.
+    This usually does not threaten your life, but there is a
+    chance it will lead to infections.  Marijuana users who are
+    worried about this can find less harmful ways of taking
+    marijuana like eating or vaporizing.  (Be careful --
+    marijuana is safe to eat -- but tobacco is not, you might
+    overdose!)  Marijuana does not seem to cause cancer the way
+    tobacco does, though.
+
+    Here is a list of interesting facts about marijuana smoking
+    and tobacco smoking:
+
+    o   Marijuana smokers generally don't chain smoke, and
+        so they smoke less.  (Marijuana is not physically
+        addictive like tobacco.)  The more potent marijuana
+        is, the less a smoker will use at a time.
+
+    o   Tobacco contains nicotine, and marijuana doesn't.
+        Nicotine may harden the arteries and may be
+        responsible for much of the heart disease caused by
+        tobacco.  New research has found that it may also
+        cause a lot of the cancer in tobacco smokers and
+        people who live or work where tobacco is smoked.
+        This is because it breaks down into a cancer causing
+        chemical called `N Nitrosamine' when it is burned
+        (and maybe even while it is inside the body as well.)
+
+    o   Marijuana contains THC.  THC is a bronchial dilator,
+        which means it works like a cough drop and opens up
+        your lungs, which aids clearance of smoke and dirt.
+        Nicotine does just the opposite; it makes your lungs
+        bunch up and makes it harder to cough anything up.
+
+    o   There are benefits from marijuana (besides bronchial
+        dilation) that you don't get from tobacco.  Mainly,
+        marijuana makes you relax, which improves your health
+        and well-being.
+
+    o   Scientists do not really know what it is that causes
+        malignant lung cancer in tobacco.  Many think it may
+        be a substance known as Lead 210.  Of course, there
+        are many other theories as to what does cause cancer,
+        but if this is true, it is easy to see why NO CASE OF
+        LUNG CANCER RESULTING FROM MARIJUANA USE ALONE HAS
+        EVER BEEN DOCUMENTED, because tobacco contains much
+        more of this substance than marijuana.
+
+    o   Marijuana laws make it harder to use marijuana
+        without damaging your body.  Water-pipes are illegal
+        in many states.  Filtered cigarettes, vaporizers, and
+        inhalers have to be mass produced, which is hard to
+        arrange `underground.'  People don't eat marijuana
+        often because you need more to get as high that way,
+        and it isn't cheap or easy to get (which is the
+        reason why some people will stoop to smoking leaves.)
+        This may sound funny to you -- but the more legal
+        marijuana gets, the safer it is.
+
+                   -------------------------
+
+    It is pretty obvious to users that marijuana prohibition
+    laws are not ``for their own good.''  In addition to the
+    above, legal marijuana would be clean and free from
+    adulturants.  Some people add other drugs to marijuana
+    before they sell it.  Some people spray room freshener on it
+    or soak in in chemicals like formaldehyde!  A lot of the
+    marijuana is grown outdoors, where it may be sprayed with
+    pesticides or contaminated with dangerous fungi.  If the
+    government really cared about our health, they would form an
+    agency which would make sure only quality marijuana was
+    sold.  This would be cheaper than keeping it illegal, and it
+    would keep people from getting hurt and going to the
+    emergency room.
+
+
+
+
+13) Don't children born to pot-smoking mothers suffer from
+    ``Fetal Marijuana Syndrome?''
+
+    If a fetal cannabis syndrome exists, cases are so rare
+    that it cannot be demonstrated.  Many mothers use marijuana
+    during pregnancy -- it controls the nausea called `morning
+    sickness' and many say it actually increases the appetite
+    and reduces stress.  This is especially important in less
+    developed countries, where modern medical care is not as
+    easily available, but even so, the benefits of responsible
+    marijuana use may outweigh the risks even under modern
+    medicine.
+
+    Studies conducted in Jamiaca have shown that mothers who
+    smoke marijuana have healthier children, but this may be due
+    to the extra income generated by marijuana dealing and other
+    factors.  It has been a common ploy in the War on Drugs to
+    claim that marijuana, and especially cocaine, causes birth
+    defects or behavior problems like alcohol does.  This scares
+    caring mothers into thinking drugs are `evil.'  The claims
+    are not based on valid scientific research -- many of them
+    do not even consider the life-style or living conditions of
+    the mothers before pointing at drugs with the blame.
+
+    Obviously, pregnant mothers should not smoke as much pot as
+    they possibly can.  If marijuana is abused, it may hurt the
+    health of both mother and child.  Delta-9-THC does cross the
+    placenta and enter the fetus.  Oddly, though, the marijuana
+    metabolite, 11-nor-9-carboxy-delta-9-THC does not, and the
+    fetus does not break delta-9-THC down into 11-nor like the
+    mother's body does, so unborn children are not exposed to
+    11-nor.  The third trimester is the time when the child is
+    most vulnerable.  Parents should bear these facts in mind
+    when they make decisions about using cannabis.
+
+
+
+
+
+14) Doesn't marijuana cause a lot of automobile accidents?
+
+    Not really.  The marijuana using public has the same or
+    lower rate of automobile accidents as the general public.
+    Studies of marijuana smoking while driving showed that it
+    does affect reaction time, but not nearly as much as
+    alcohol.  Also, those who drive `stoned' have been shown to
+    be less foolish on the road (they demonstrate `increased
+    risk aversion'.)  Recent studies have emphasized that
+    alcohol is the major problem on our highways, and that
+    illicit drugs do not even come close to being as dangerous.
+
+    As funny as it may seem, you may be safer driving `stoned',
+    as long as you aren't `totally blasted' and seeing things --
+    but few users are irresponsible enough to drive in this
+    state of mind, anyway.  Still, many people have reported
+    making mistakes while driving because they were stoned.
+
+    There are those who think that marijuana is a major problem
+    on the streets, because of a newspaper article or news story
+    which they have seen which said a large number of people who
+    were killed in driving accidents tested postive for
+    marijuana use.  For various reasons, these studies are not
+    reliable:
+
+    o   Some studies use drug tests which can only tell
+        whether a person has used marijuana in the last
+        month.
+
+    o   Some studies were done near colleges or other areas
+        where drinking, marijuana use, and accidents are all
+        very high, and they did not correct for age or
+        alcohol use.
+
+    o   In many of the studies there were more stoned drivers
+        killed -- but it was not their fault, and when the
+        police ``culpability scores'' were factored in
+        marijuana was not to blame for the accidents.
+
+
+
+
+
+15) Aren't you afraid everyone will get hooked?
+
+    Marijuana produces no withdrawal symptoms no matter how
+    heavy it is used.  It is habit forming (psychologically
+    addictive), but not physically addictive.  The majority of
+    people who quit marijuana don't even have to think twice
+    about it.  Comparing marijuana to addictive drugs is really
+    quite silly.
+
+    For a drug to be physically addictive, it must be
+    reinforcing, produce withdrawal symptoms, and produce
+    tolerance.  Marijuana is reinforcing, because it feels good,
+    but it does not do the other two things.  Caffeine, nicotine
+    and alcohol are all physically addictive.
+
+
+
+
+
+16a) Is urine testing for marijuana use as a terms of
+     employment a good idea?
+     I want to make sure my business is run safely.
+
+    No!  Some of your most brilliant, hard working, and
+    reliable employees are marijuana users.  When you drug test,
+    you put all marijuana users in the same place as the abusers
+    -- the unemployment line.  Drug testing is bad for business.
+    (Not to mention it is an invasion of privacy.)  If a worker
+    has a drug problem, you can tell by testing how well he does
+    his job.  Firing *all* the drug users who work for you will
+    hurt your business, costs money, and will get people very
+    mad at you -- and for what?  There isn't even any hard
+    evidence that marijuana users have more accidents or health
+    problems.
+
+    Your employees will probably resent being drug tested; drug
+    testing allows an employer to govern the actions of an
+    employee in his off time -- even when these actions do not
+    effect his job performance.  (As told above, marijuana drug
+    tests do not test whether a person is `high'.  They test
+    whether or not they have used in the last few weeks.)
+    Asking employees to urinate in a plastic cup every month is
+    not a good way to make them feel like part of the business,
+    or make friends, either.  There is growing concern about
+    drug tests, sometimes because they misfire and accuse the
+    wrong person, but mostly because they might be used to find
+    out other confidential information about an employee.  Legal
+    professionals are beginning to question whether they are
+    even constitutional.
+
+
+
+
+
+16b) Isn't all this worth the trouble, though, in order to
+     reduce accident risks and health care costs?
+
+    Everyone knows that marijuana users are bad employees,
+    right?  Wrong -- or at least someone forgot to tell the
+    millions of hard working marijuana smokers that.  Drug
+    testing companies will hand you piles of statistics which
+    they say prove marijuana use costs you money.  The truth is
+    there are just as many studies which show that marijuana
+    users are more successful, use less health care, and produce
+    more than non-users.  Before you buy into workplace drug
+    testing, make sure you get the other side of the story.
+
+    In the 1980's, the Bush administration went to great lengths
+    to promote drug testing.  In fact, George Bush estimated the
+    cost of drug use at over 60 billion dollars a year, based on
+    a study which supposedly showed that persons who had used
+    marijuana at some time during their life were less
+    successful.  The very same study could be used to show that
+    current, heavy users of marijuana and other illegal drugs
+    were actually more successful.  Something is a bit fishy
+    here, and when you add to that the fact that several former
+    heads of the DEA and former Drug Czars now own or work in
+    the urinalysis industry, this whole scene begins to smell a
+    bit funny.
+
+
+
+
+
+17) Wouldn't it be best to just lock the users all up?
+
+    How do you plan to pay for that?  Already, well over five
+    percent of the people in this country (U.S) are in custody
+    (including probation, parole, bail, etc.)  Murderers and
+    rapists are being let out of our penatentiaries right now to
+    make room for a few more `deadheads' -- there are about
+    2,500 Grateful Dead fans in our federal prisons.
+    Imprisoning one person for one year costs about $20,000.
+    The United States leads the world in imprisonment -- at any
+    one time, 425 people out of every 100,000 are behind bars.
+    In the Federal Prison System, one fifth of the prisoners are
+    drug offenders who have done nothing violent.  State laws
+    are usually less strict, but state mandatory minumum
+    sentences for drugs are getting more popular.
+
+    Our prisons and our courtrooms are so crowded that the
+    American Bar Association's annual report on the state of the
+    Justice System is basically one long plea for an end to drug
+    laws that imprison users.  Even the Clinton Administration
+    recognizes that locking people up is not the solution.  This
+    is especially true for the people who actually have drug
+    abuse problems -- they need treatment, not mistreatment.
+    The Drug War put mandatory minimum jail sentences for drug
+    crimes on the lawbooks.  If we do not take those laws (at
+    least) back off, we will be in sorry shape come the end of
+    the century.  A retroactive policy of marijuana legalization
+    or decriminalization would go a long way in helping to solve
+    this crisis.
+
+    Also consider this -- Once a person gets put in jail, he
+    becomes angry with the world.  He will probably be
+    victimized while he is there, and most likely will learn
+    criminal behaviors from hard-core violent offenders.  There
+    is also a very good chance that he will have caught AIDS or
+    tuberculosis by the time he gets let back out.  By locking
+    up drug users, you are digging yourself a very big trench to
+    fall in -- is it worth it?
+
+    Besides, lots of these people don't deserve to be in jail.
+    Why should they serve time just because they like to get
+    `high' on marijuana?  Especially when someone can drink
+    alcohol without being arrested...  what kind of law is that?
+    You have to think about what kind of a world you are making
+    for yourself before you act.  How are the police of the
+    future going to treat the people?  How far are you willing
+    to let the government go to get the drug users?  How many of
+    your own rights will you sacrifice by trying to jail `the
+    druggies'?
+
+
+
+
+
+18) I heard that there are over 400 chemicals in marijuana...
+    Wellllll...?
+
+    True, but so what?  There are also over 400 chemicals in
+    many foods, (including coffee, which contains over 800
+    chemicals and many rat carcinogens) and we don't see police
+    arresting people in McDonald's, or giving Driving while
+    Eating citations.  Only THC is very psycho-active; a few
+    other chemicals also have very small degrees of
+    psycho-activity.  People who use marijuana do not get sick
+    more, or die earlier, or lose their jobs (except to drug
+    tests), or have mutant kids...  so what's your point?
+
+    The fact that there are over 60 unique chemicals in
+    cannabis, called `cannabinoids,' is something that
+    scientists find very interesting.  Many of these
+    cannabinoids may have valuable effects as medicine.  For
+    example, `cannabinol' is a cannabinoid which can help people
+    with insomnia.  Doctors think that this chemical is why most
+    patients prefer to use marijuana rather than pure
+    Delta-9-THC pills (called dronabinol) -- the cannabinol
+    takes the edge off being `high' and calms the nerves.
+    Another cannabinoid, `cannabidiolic acid', is a very
+    effective anti-biotic, like pennicillin.  Many of these
+    chemicals can be extracted from marijuana without any fancy
+    laboratory equipment.
+
+
+
+
+
+19) Doesn't that stuff mess up your immune system and make
+    it easier for you catch colds?
+
+    Marijuana (Delta-nine-THC) does have an `immunosuppressive
+    effect.'  It acts on certain cells in the liver, called
+    macrophages, in much the same way that it acts on brain
+    cells.  Instead of stimulating the cells, though, it shuts
+    them off.  This effect is temporary (just like the `high')
+    and goes away quickly; people who suffer from multiple
+    sclerosis may actually find this effect useful in fighting
+    the disease.
+
+    Recent research has also found that marijuana metabolites
+    are left over in the lungs for up to seven months after the
+    smoking has stopped.  While they are there, the immune
+    system of the lungs may be affected (but the macrophages do
+    not get ``turned off'' like in the liver.)  The effects of
+    smoking itself are probably worse than the effects of the
+    THC, and last just as long.
+
+    All this said, doctors still have not decided whether
+    marijuana users are at risk for colds or not.  With the
+    possible exception of bronchitis, there are no numbers which
+    suggest that marijuana users catch more colds, but... this
+    did not stop Carlton Turner, a United States Drug Czar, from
+    saying many times in his public addresses that marijuana
+    caused AIDS and homosexuality.  His claims were so ridiculus
+    that the Washington Post and Newsweek Magazine made fun of
+    him, and he was forced to resign.
+
+    Today, AIDS patients use marijuana to treat their symptoms
+    without any aparrent problems.  Some studies suggest that
+    marijuana may actually stimulate certain forms of immunity.
+    Researchers have tried to show major effects on the healthy
+    human's immune system, but if marijuana does have any
+    substantial effects, good or bad, they are either too
+    subtle or too small to notice.
+
+
+                 --------------------------
+                 P  A  R  T      F  O  U  R
+                 --------------------------
+
+
+                  WHY IS IT STILL ILLEGAL?
+
+
+1) Why is it STILL illegal?:
+
+    The official answer: Because you shouldn't use it.
+    You can't use it because it is illegal, and it is illegal so
+    you can't use it.  You should not use it.  It is illegal.
+    It is illegal so you should not use it.
+
+    The manic-depressive answer: It'll never happen.  People are
+    too unorganized/stupid/disempowered.  It's just futility.
+    Try, but don't expect to get anywhere.  I won't get my hopes
+    up.
+
+    The paranoid-schizophrenic answer: Don't you SEE?!?!?  The
+    guys at the top have it SEWN!!  They own everything.
+    They'll never let it happen.  I shouldn't even be talking to
+    you, but let me give you some advice!!  listen...  you
+    shouldn't mess with THEM, THEY know everything.  THEY are
+    practically psychic, see?  And the only way to get it to
+    happen is to become one of THEM.  You'd better watch it, or
+    THEY will come and take you away -- THEY do that, you know.
+    It's all a CONSPIRACY!!!
+
+    The neurotic answer: Marijuana?  Eeek!  Don't you know that
+    stuff is dangerous?  People don't make laws for no good
+    reason, you know!  Where did you hear about marijuana?
+    Wait!  Don't tell me, I don't want to know.  If anybody even
+    knew you thought it should be legal -- well -- they'd never
+    talk to you again!  Don't you know that marijuana this...
+    marijuana that...  ...  ...  ...
+
+    THE REAL ANSWER: Marijuana is still illegal because enough
+    people have not yet stood up together and said:
+
+         `` THIS IS STUPID!!
+
+                 I WANT CANNABIS HEMP LEGAL!!!
+
+                       FOR PRODUCTS;
+
+                              FOR MEDICINE;
+
+                                     FOR FOOD;
+
+                                            FOR FUN;
+
+    FOR GOODNESS'S SAKE!  ISN'T THAT WHAT LIFE'S ALL ABOUT ?!''
+
+    Without large-scale grass roots support, marijuana will
+    never be legal.  Every person that stands up for
+    marijuana/hemp legalization makes us that much stronger, and
+    our voices that much louder.  Believe me, we appreciate all
+    the support we get.  Almost as importantly, it makes it that
+    much harder for people to say ``that's a stupid idea'' or
+    ``nobody really believes that.''
+
+    If you aren't convinced yet, Or if you are having trouble
+    swallowing any of the answers given,  I encourage you to
+    learn more about the issues.  Try the sources listed at the end.
+
+    If you're with us, let us know!  Let everybody know, unless
+    it will get you canned or arrested, but most importantly,
+    keep an eye on what's going on, and try to lend a hand when
+    you can.  Also, know your stuff, so if you have to, you can
+    convince a friend or loved one that *you* are not nuts --
+    the rest of the world is.
+
+
+
+
+
+2)  What can I do to bring some sense into our marijuana laws?
+
+    There are many things you can do.  Activists are
+    working right now at all levels to reform marijuana laws.
+    If you cannot afford to be an activist, there are many ways
+    you can help -- activists find themselves short of money,
+    time, and occasionally even friendly company.  Get to know a
+    hemp or marijuana legalization activists in your area, and
+    just keep up to date on what they are planning.  Odds are
+    you will find something that you can easily do which will
+    help them out a whole lot.  There is a list available called
+    the Liberty Activist's List which will give you the phone
+    numbers or address of groups near you.  Also, you may call
+    the National Office of NORML (The National Organization for
+    the Reform of Marijuana Laws) at 1-202-483-5500.  The most
+    important thing you can do on your own, though, is to keep
+    tabs on your state and local legislators, and let them know
+    that this is an issue to be taken seriously.
+
+    Many activist groups offer `memberships.'  These usually
+    involve a fee for joining the group, and a newsletter that
+    keeps you up to date on the group's activities.  This way
+    you know when and why to write your legislators, and thought
+    provoking information which you normally would not get is
+    delivered to you.  If and when you need to, most
+    importantly, you will be able to contact the group and seek
+    or give advice.
+
+3a)  Where can I get more information?
+
+    Many places.  One of the best is by using electronic
+    communications.  The Information Superhighway has been a
+    tremendous leap forwards for our movement, and there is a
+    lot of information available.  Start by sending e-mail to
+    "({{{readme}}})<verdant@twain.ucs.umass.edu>".  There is an
+    e-mail file-server set up at this address, and just about
+    anyone with Internet e-mail can use it.  The server contains
+    many files about marijuana, and more importantly directories
+    and pointers on how to get more information by WWW, GOPHER,
+    FTP, IRC, and TELNET.  For a overview list of these
+    resources send mail to
+    "({{{netlinks}}})<verdant@twain.ucs.umass.edu>".  If you
+    have trouble making this work, send a note asking for help
+    to "verdant@twain.ucs.umass.edu"
+
+    A copy of the Liberty Activist's List is also available
+    through this server, by mailing to
+    "({{{groups}}})<verdant@twain.ucs.umass.edu>."  This will
+    help you get in touch with activists near you.  If you are
+    interested, there is an excellent mailing list devoted to
+    Drug War issues.  It is called DRCnet and you may send mail
+    to "borden@netcom.com" for information on becoming involved.
+
+
+
+
+
+3b) Umm, I'm computer illiterate, so that just went way over
+    my head.  Are there any good books I could go get instead?
+
+    Here is a list of some of the must-read books and
+    articles about marijuana and legalization.  Check the
+    source section of this FAQ for more information about
+    these and other sources.
+
+    ``The Emperor Wears No Clothes'' by Jack Herer pub. Queen of
+    Clubs/HEMP, 1993/1994
+
+    ``Hemp, Life-Line to the Future'' by Chris Conrad pub. data
+    pending
+
+    ``Marihuana Reconsidered'' by Lester Grinspoon pub. 1977.
+    Harvard University Press.  pub. 1993 data pending.
+
+    ``Marihuana the Forbidden Medicine'' by Lester Grinspoon
+    pub. Yale University Press 1993.
+
+     *** Journal Articles of General Interest ***
+
+    ``Marijuana Laws: A Need for Reform'' by Roger Allan Glasgow
+    in ``Arkansas Law Review'' Vol. 22(340) pp. 359-375.
+
+     *** Government commissions recommending legalization ***
+
+    The Panama Canal Zone Report of 1925, pub.  United States
+    Government.
+
+    Mayor LaGuardia's Committee on Marijuana (New York) Report
+    issued 1944. (Initiated 1938 -- an extensive study of
+    marijuana) pub. New York City Government
+
+    The Final Report of the Le Dain Commission on Marijuana
+    Legalization, pub. Canadian Gov't
+
+    Final Report if the National Commission on Marijuana, 1972,
+    pub. United States Government  entitled ``Marijuana -- a
+    Signal of Misunderstanding''
+
+     *** Court Rulings ***
+
+    ``In the Matter of Marijuana Rescheduling Petition'' by Hon.
+    Francis L. Young Docket# 86-22 1989.
+
+
+
+4)  Do you have any advice for people who want to organize
+    their own group?
+
+    There are some very good books that will help new
+    organizers hit the ground running.  Here are two titles you
+    should try to locate:
+
+    Si Kahn ``Organizing: A Guide For Grassroots Leaders''
+    McGraw-Hill 1982 0-07-033215-0 (0-07-033199-5 paperback)
+
+    Ed Hedemann ``The War Resisters League Organizers Manual''
+    1981 0-940862-00-X
+                                     The War Resisters League
+                            339 Lafayeyette St., New York, NY
+
+
+                  -------------------------
+                  P  A  R  T     F  I  V  E
+                  -------------------------
+
+                  SOURCES BY QUESTION NUMBER
+
+
+
+
+(Sorry for the pathetic bibliography.  As soon as time and software
+ permits it will be cleaned up, cross referenced, and expanded.)
+
+1a) What Is Hemp?
+
+
+``Hemp'' by Lyster H. Dewey pp. 283-346. pub. United States Department
+of Agriculture, 1913.
+
+
+``The Emperor Wears No Clothes: The Authoritative Historical Record of
+the Cannabis Plant, Marijuana Prohibition, & How Hemp Can Still Save
+the World'' by Jack Herer pub. Queen of Clubs HEMP Publishing, 1993.
+
+
+``The Marijuana Farmers'' by Jack Frazier pub. Solar Age Press New
+Orleans, 1972.
+
+
+1b) What is cannabis?
+
+
+``Hemp, Life-line to the Future'' by Chris Conrad pub data pending.
+
+
+
+(Mexican slang term)
+
+
+``The Emperor Wears No Clothes The Authoritative Historical Record of
+the Cannabis Plant, Marijuana Prohibition, & How Hemp Can Still Save
+the World'' by Jack Herer pub. Queen of Clubs HEMP Publishing, 1993.
+
+
+(hemp can be grown legally)
+
+
+``Hemp, Life-line to the Future'' by Chris Conrad pub data pending.
+
+
+John Birrenbach's legal hemp FAQ pub. Institute for Hemp 1993.
+
+
+(number one cash crop)
+
+
+``Drugs, Crime and the Justice System'' pub.  United States Government
+Printing Office Washington, DC.  December, 1992.
+
+
+``Information Please Almanac'' pub. Simon and Schuster New York, 1993.
+
+
+2a) How can hemp be used as a food?
+
+
+(protien)
+
+
+A. J. St. Angelo, E. J. Conkerton, J. M. Dechary, A. M. Altschul in
+``Biochimica et Biophysica Acta'' Vol. 121 pp. 181. 1966.
+
+
+A. J. St. Angelo, L. Y. Yatsu, A. M. Altschul in ``Archives of
+Biochemistry and Biophysics'' Vol. 124 pp. 199-205. 1966.
+
+
+``Chromatography of Edestine at 50 Degrees'' by D. M. Stockwell, J. M.
+Dechary, A. M. Altschul in ``Biochimica et Biophysica Acta'' Vol. 82
+pp. 221. 1964.
+
+
+(essential fatty acid oils)
+
+
+``Fats that Heal, Fats that Kill'' by Udo Erasmus pub.
+
+
+``Hemp-seed Oil Compared with Other Common Vegetable Oils'' by Gerald
+X. Diamond in ``Cannabis Hemp Information Kit'' pub.
+
+
+``Therapeutic Hemp Oil'' by Andrew Weil M.D. in ``Natural Health''
+March/April, 1993.
+
+
+2b) What are the benefits of hemp compared to other food crops?
+
+
+``Hemp'' by Lyster H. Dewey pp. 283-346. pub. United States Department
+of Agriculture, 1913.
+
+
+``The Emperor Wears No Clothes: The Authoritative Historical Record of
+the Cannabis Plant, Marijuana Prohibition, & How Hemp Can Still Save
+the World'' by Jack Herer pub. Queen of Clubs HEMP Publishing, 1993.
+
+
+2c) How about soy?  Is hemp competitive as a world source of protein?
+
+
+(hemp vs. soy)
+
+
+``Hemp'' by Lyster H. Dewey pp. 283-346. pub. United States Department
+of Agriculture, 1913.
+
+
+``Chromatography of Edestine at 50 Degrees'' by D. M. Stockwell, J. M.
+Dechary, A. M. Altschul in ``Biochimica et Biophysica Acta'' Vol. 82
+pp. 221. ed. pub., 1964.
+
+
+(resistance to UV-B sunlight)
+
+
+``UV-B Effects on Terrestrial Plants'' by Manfred Tevinie, Alan H.
+Teremura in ``Photochemistry and Photobiology'' Vol. 50 Iss. 4 pp.
+479-487. pub. Pergamon Press Oxford, New York, 1989.
+
+
+(agricultural consequences of drug policy in underdeveloped nations)
+
+
+cites pending
+
+
+3a) How can hemp be used for cloth?
+
+
+``Hemp, Flax, Jute, Ramie, Kenaf and Other Industrial Fibers a
+Comparison of Properties and Applications '' by Gerald X. Diamond in
+``Cannabis Hemp Information Kit'' pub Washington Citizens for Drug
+Policy Reform.
+
+
+``Hemp'' by Lyster H. Dewey pp. 283-346. pub. United States Department
+of Agriculture, 1913.
+
+
+``The Emperor Wears No Clothes The Authoritative Historical Record of
+the Cannabis Plant, Marijuana Prohibition, & How Hemp Can Still Save
+the World'' by Jack Herer pub. Queen of Clubs HEMP Publishing, 1993.
+
+
+``The Marijuana Farmers'' by Jack Frazier pub. Solar Age Press New
+Orleans, 1972.
+
+
+3b) Why is it better than cotton?
+
+
+``Hemp, Flax, Jute, Ramie, Kenaf and Other Industrial Fibers a
+Comparison of Properties and Applications '' by Gerald X. Diamond in
+``Cannabis Hemp Information Kit'' pub. Washington Citizens for Drug
+Policy Reform.
+
+
+4a) How can hemp be used to make paper?
+
+
+``It's Time to Reconsider Hemp'' by Jim Young in ``Pulp & Paper'' pp.
+7. June, 1991.
+
+
+``Hemp Variations as Pulp Source Researched in the Netherlands'' by E.
+P. M. de Meijer in ``Pulp & Paper'' pp. 41-42. July, 1993.
+
+
+``The Manufacture of Paper from Hemp Hurds'' by Jason L. Merril in
+``USDA Bulletin/Yearbook of the United States Department of
+Agriculture'' Iss. 404 pp. 7-25. pub. United States Department of
+Agriculture
+
+
+4b) Why can't we just keep using trees?
+
+
+``The Production and Handling of Hemp Hurds'' by Lyster H. Dewey in
+"USDA Bulletin" Iss. 404 pp. 1-6. pub.  United States Department of
+Agriculture.
+
+
+``Hemp'' by Lyster H. Dewey pp. 283-346. pub. United States Department
+of Agriculture, 1913.
+
+
+5a) How can hemp be used as a fuel?
+
+
+``Farming For Fuel]'' by Folke Dovring pub data pending.
+
+
+``Pretreatment Research Overview'' by K. Grohmann, R. Torget, M.
+Himmel in ``The DOE SERI Ethanol From Biomass Program'' pub. The
+United States Department of Energy.
+
+
+``Overview: The DOE SERI Ethanol From Biomass Program '' by C. E.
+Wyman pub. The United States Department of Energy.
+
+
+5b) Why is it better than petroleum?
+
+
+``Towards a Green Economy'' by Lynn Osburn (pamphlet)
+
+
+other cites pending
+
+
+6a) How can hemp be used as a medicine?
+
+
+``Marijuana, The Forbidden Medicine'' by Lester Grinspoon M.D. and
+James B. Bakalar pub. Yale University Press New Haven, 1993.
+
+
+``Therapeutic Issues of Marijuana and THC (Tetrahydrocannabinol)'' by
+J. Thomas Ungerieder, Therese Andrysiak in ``The International Journal
+of the Addictions'' Vol. 20 pp. 691-699. ed. pub. M. Dekker New York,
+1985.
+
+
+6b) What's wrong with all the prescription drugs we have?
+
+
+``Marijuana, The Forbidden Medicine'' by Lester Grinspoon M.D. and
+James B. Bakalar pub. Yale University Press New Haven, 1993.
+
+
+7) What other uses for hemp are there?
+
+
+``The Emperor Wears No Clothes The Authoritative Historical Record of
+the Cannabis Plant, Marijuana Prohibition, & How Hemp Can Still Save
+the World'' by Jack Herer pub. Queen of Clubs HEMP Publishing, 1993.
+
+Note: 93/94 edition of the Emperor only.
+
+
+
+
+
+             WELL WHY AREN'T WE USING HEMP, THEN?
+
+
+1) How and why was hemp made illegal?
+
+
+``Drugs and minority oppression'' by John Helmer pub. Seabury Press
+New York, 1975.
+
+
+``The Emperor Wears No Clothes The Authoritative Historical Record of
+the Cannabis Plant, Marijuana Prohibition, & How Hemp Can Still Save
+the World'' by Jack Herer pub. Queen of Clubs HEMP Publishing, 1993.
+
+
+2) OK, so what the heck does all this other stuff...
+
+
+``The Manufacture of Paper from Hemp Hurds'' by Jason L. Merril in
+``USDA Bulletin/Yearbook of the United States Department of
+Agriculture'' Iss. 404 pp. 7-25. pub. United States Department of
+Agriculture
+
+
+``New Billion-Dollar Crop'' in ``Popular Mechanics'' February, 1938.
+
+
+``Flax and Hemp From the Seed to the Loom '' by George A. Lower in
+``Mechanical Engineering'' February, 1937.
+
+
+3) Now wait, just hold on.  You expect me to believe....
+
+
+``Hemp, Life-line to the Future'' by Chris Conrad pub data pending.
+
+
+``The Emperor Wears No Clothes The Authoritative Historical Record of
+the Cannabis Plant, Marijuana Prohibition, & How Hemp Can Still Save
+the World'' by Jack Herer pub. Queen of Clubs HEMP Publishing, 1993.
+
+
+``New Billion-Dollar Crop'' in ``Popular Mechanics'' pub. February,
+1938.
+
+
+``Flax and Hemp From the Seed to the Loom '' by George A. Lower in
+``Mechanical Engineering'' February, 1937.
+
+
+4) Is there a lesson to be learned from all this?
+
+
+``Manufacturing Consent'' by Noam Chomsky pub data pending.
+
+
+``Marijuana Laws: A Need for Reform'' by Roger Allan Glasgow in
+``Arkansas Law review'' Vol. 22 Iss. 340 pp. 359-375.
+
+
+                   DOES IT?  DOESN'T IT?  IS IT TRUE?
+
+
+1) Doesn't marijuana stay in your fat cells and keep you high ...
+
+
+``Marijuana Chemistry Genetics, Processing, and Potency'' by Michael
+Starks pub. Ronin Inc., 1990.
+
+
+``Marijuana Cannabinoids Neurobiology and Neurophysiology'' ed. Laura
+Murphy, Andrzej Bartke ed. pub. CRC Press Boca Raton, FL, 1992.
+
+
+2) But ... isn't today's marijuana much more potent than it was...
+
+
+``Cannabis 1988. Old Drug, New Dangers The Potency Debate '' by Todd
+H. Mikuriya M.D., Michael R. Aldrich Ph.D. in ``Journal of
+Psychoactive Drugs'' Vol. 20 Iss. 1 pp. 47-55 pub. Haight-Ashbury
+Publications in association with the Haight-Ashbury Free Medical
+Clinic San Francisco, Calif. : January March, 1988.
+
+
+3a) Doesn't Marijuana cause brain damage?
+
+
+``The Chronic Cerebral Effects of Cannabis Use I Methodological Issues
+and Neurological Findings '' by Renee C. Wert Ph.D., Michael L. Raulin
+Ph.D Vol. 21 Iss. 6 pp. 605-628. 1986.
+
+
+``The Chronic Cerebral Effects of Cannabis Use II Psychological
+Findings and Conclusions '' by Renee C. Wert Ph.D., Michael L. Raulin
+Ph.D Vol. 21 Iss. 6 pp. 629-642. 1986.
+
+
+``Neurotoxicity of Cannabis and THC A Review of Chronic Exposure
+Studies in Animals '' by Andrew C. Scallet in ``Pharmacology,
+Biochemistry & Behavior'' Vol. 40 pp. 671-676. 1991.
+
+
+``Chronic Marijuana Smoke Exposure in the Rhesus Monkey IV
+Neurochemical Effects and Comparison to Acute and Chronic Exposure to
+Delta-9-Tetrahydrocannabinol (THC) in Rats'' by Syed F. Ali, Glenn D.
+Newport, Andrew C. Scallet, Merle G. Paule, John R. Bailey, William
+Slikker Jr in ``Pharmacology, Biochemistry & Behavior'' Vol. 40 pp.
+677-682. 1991.
+
+
+``Behavioral, Neurochemical, and Neurohistological Effects of Chronic
+Marijuana Smoke Exposure in the Nonhuman Primate'' by William Slikker
+Jr. et al. in ``Marijuana Cannabinoids Neurobiology and
+Neurophysiology'' Laura Murphy, Andrzej Bartke ed. pub. CRC Press Boca
+Raton, FL, 1992.
+
+
+(the following are the studies which were found to be flawed)
+
+
+``Effects of Cannabis Sativa on Ultrastructure of the Synapse in
+Monkey Brain'' by J. W. Harper, R. G. Heath, W. A. Myers in ``Journal
+of Neuroscience Research'' Vol. 3 pp. 87-93. 1977.
+
+
+``Chronic Marihuana Smoking Its Effects on Function and Structure of
+the Primate Brain '' by R. G. Heath, A. T. Fitzjarrell, R. E. Garey,
+W. A. Myers in ``Marihuana: Biological Effects Analysis, Metabolism,
+Cellular Responses, Reproduction and Brain '' Gabriel G. Nahas, W. D.
+M. Paton ed. pub. Pergamon Press Oxford, 1979.
+
+
+``Cannabis Sativa Effects on Brain Function and Ultrastructure in
+Rhesus Monkeys '' by R. G. Heath, A. T. Fitzjarrell, C. J. Fontana, R.
+E. Garey in ``Biological Psychiatry'' Vol. 15 pp. 657-690. 1980.
+
+
+(D.A.R.E. says pot kills brain cells)
+
+
+DARE Officers training manual section T page 5.
+
+
+3b) If it doesn't kill brain cells....
+
+
+``Structure of a Cannabinoid Receptor'' by L. A. Matsuda , S. J.
+Lolait , M. J. Browstein, A. C. Young, T. I. Bonner in ``Nature'' Vol.
+346 Iss. 6824 pp. 561-564. August, 1990.
+
+
+(marijuana does not wear out it's receptors)
+
+
+``Chronic Exposure to Delta-9-Tetrahydrocannabinol Fails to
+Irreversibly Alter Brain Cannabinoid Receptors'' by Tracy M. Westlake,
+Allyn C. Howlett, Syed F. Ali, Merle G. Paule, Andrew C. Scallet,
+William Slikker Jr. in ``Brain Research'' Vol. 544 pp. 145-149. 1991.
+
+
+4) Don't people die from smoking pot?
+
+
+Bureau of Mortality Statistics, 1988.
+
+
+``In the Matter of Marijuana Rescheduling Petition: Opinion and
+Recommended Ruling, Findings of Fact, Conclusions of Law and Decision
+of Administrative Law Judge Francis L. Young '' by Hon. Francis L.
+Young September, 1988.
+
+
+(allerigic reaction is rare)
+
+
+``Marijuana and Immunity'' by Leo E. Hollister M.D. in ``Journal of
+Psychoactive Drugs'' Vol. 24 Iss. 2 pp. 159-164. pub. Haight-Ashbury
+Publications in association with the Haight-Ashbury Free Medical
+Clinic San Francisco, Calif. : April,June, 1992.
+
+
+5) I forgot, does marijuana cause short-term memory impairment?
+
+
+cites pending
+
+
+6a) Is marijuana going to make my boyfriend go psycho?
+
+
+``A Brief, Critical Look at Cannabis Psychosis'' by Amit Basu in ``The
+International Journal on Drug Policy'' Vol. 3 pp. 126-127. 1992.
+
+
+6b) Don't users of marijuana withdraw from society?
+
+
+``Adolescent Drug Use and Psychological Health'' by Jonathan Shedler,
+Jack Block in ``American Psychologist'' Vol. 45 Iss. 5 pp. 612-630.
+
+
+``Substance Use and Abuse Among Teenagers'' by Michael D. Newcomb,
+Peter M. Bentler in ``American Psychologist'' Vol. 44 Iss. 2 pp.
+242-248. 1989.
+
+
+``Cognitive Motivations for Drug Use Among Adolescents Longitudinal
+Tests of Gender Differences and Predictors of Change in Drug Use '' by
+Michael D. Newcomb, Chih Ping Chou, P. M. Bentler, G. J. Huba in
+``Journal of Counseling Psychology'' Vol. 35 Iss. 4 pp. 426-438. pub.
+American Psychological Association Washington,DC, 1988.
+
+
+``Personality Characteristics of Adolescent Marijuana Users'' by John
+E. Mayer, Jeffrey D. Ligman in ``Adolescence'' Vol. 24 Iss. 96 pp.
+965-976. 1989.
+
+
+``Cannabis Use and Sensation Seeking Orientation'' by K. Paul
+Satinder, Alexander Black in ``The Journal of Psychology'' Vol. 166
+pp. 101-105. pub. Journal Press Provincetown, MA, 1984.
+
+
+7) Is it true that marijuana makes you lazy and unmotivated?
+
+
+``Behavioral and Biological Concomitants of Chronic Marijuana Use'' by
+Dr. Jack H. Mendelson 1974.  (US Army study)
+
+
+(adolescent amotivational-like syndrome)
+
+
+``Chronic Marijuana Smoke Exposure in the Rhesus Monkey II Effects on
+Progressive Ratio and Conditioned Position Responding '' by Merle G.
+Paule, Richard R. Allen, John R. Bailey, Andrew C. Scallet, Syed F.
+Ali, Roger M. Brown, William Slikker Jr. in ``The Journal of
+Pharmacology and Experimental Therapeutics.'' Vol. 260 pp. 210-222.
+ed. pub.
+
+
+``Up in Smoke Arkansas Study Raises Doubts About Marijuana Risks '' by
+Mara Leveritt in ``Arkansas Times'' pp. 11-12. September 16, 1993.
+
+
+(use of marijuana and other drugs in a positive role in work)
+
+
+``Working Men and Ganja Marijuana Use in Rural Jamaica Melanie Creagan
+Dreher '' by Melanie Creagan Dreher pub. Institute for the Study of
+Human Issues Philadelphia, 1982.
+
+
+``The working addict David Caplovitz '' by David Caplovitz pub. M. E.
+Sharpe, White Plains, NY, 1976.
+
+
+8) Isn't marijuana a gateway drug?  Doesn't it lead to use of ...
+
+
+``Who Says Marijuana Use Leads to Heroin Addiction?'' by Jerry Mandel
+in ``Journal of Secondary Education'' Vol.  43 Iss.  5 pp.  211-217.
+pub. California Association of Secondary School Administrators
+Burlingame, CA May
+
+
+``Marihuana reconsidered Lester Grinspoon. '' by Lester Grinspoon M.D.
+1928- pub. Harvard University Press, Cambridge, MA, 1977.
+
+
+(emergency room admissions)
+
+
+cites pending
+
+
+9a) I don't want children (minors) to be able to smoke ...
+
+
+(a good book about drugs for parents and children)
+
+
+``From Chocolate To Morphine'' by Andrew Weil pub. data pending
+ (a new edition will be coming out very soon!)
+
+
+9b) Won't children be able to steal marijuana plants that people...
+
+
+(industrial hemp has very low THC content)
+
+
+``Hemp Variations as Pulp Source Researched in the Netherlands'' by E.
+P. M. de Meijer in ``Pulp & Paper'' pp. 41-42. pub. July, 1993.
+
+
+10a) Hey, don't you know that marijuana drops testosterone levels...
+
+
+``Behavioral, Neurochemical, and Neurohistological Effects of Chronic
+Marijuana Smoke Exposure in the Nonhuman Primate'' by William Slikker
+Jr. et al. in ``Marijuana Cannabinoids Neurobiology and
+Neurophysiology'' pp. . Laura Murphy, Andrzej Bartke ed. pub. CRC
+Press Boca Raton, FL, 1992.
+
+
+10b) Doesn't heavy marijuana use lower the sperm count in males?
+
+
+``Marihuana A Signal of Misunderstanding '' pub. U.S. Government
+Printing Office Washington, 1972.
+
+
+10c) I heard marijuana use by teenage girls may impair hormone...
+
+
+``Marihuana A Signal of Misunderstanding '' pub. U.S. Government
+Printing Office Washington, 1972.
+
+
+11) I forgot, does marijuana cause short-term memory impairment?
+
+
+Go away.
+
+
+12) Isn't smoking marijuana worse for you than smoking cigarettes?
+
+
+(more tar in smoked marijuana, but claims exaggerated)
+
+
+``Pulmonary Hazards of Smoking Marijuana as Compared with Tobacco'' by
+Tzu Chin Wu, Donald P. Tashkin , Behnam Djahed , Jed E. Rose in ``New
+England Journal of Medicine'' Vol. 318 Iss. 6 pp. 347-351. pub., 1988.
+
+
+(low-tar cigarettes just as carcinogenic)
+
+
+``The Association of Lung Cancer with Tar Content of Cigarettes'' by
+Franz P. Reichsman pub., 1980. (Thesis)
+
+
+(lung damage from smoking)
+
+
+``Marijuana Exposure and Pulmonary Alterations in Primates'' by
+Suzanne E. G. Fligiel, Ted F. Beals, Donald P. Tashkin, Merle G.
+Paule, Andrew C. Scallet, Syed F. Ali, John R. Bailey, William Slikker
+Jr. in ``Pharmacology, Biochemistry & Behavior'' Vol. 40 Iss. 3 pp.
+637-642. ed. pub., 1991.
+
+
+``Chronic Marijuana Smoke Alters Alveolar Macrophage Morphology and
+Protein Expression'' by Guy A. Cabral, Amy L. Stinnet, John Bailey,
+Syed F. Ali, Merle G. Paul, Andrew C. Scallet, William Slikker Jr. in
+``Physiology, Biochemistry and Behavior'' Vol. 40 pp. 643-649. ed.
+pub., 1991.
+
+
+(Lead 210 and N Nitrosamines in tobacco)
+
+
+Joseph DiFranza in NEJM Vol. 306 Iss. 6 pub. February, 1982. and
+responses in Vol. 307 Iss. 5 pub. July, 1982.
+
+
+13) Don't children born to pot-smoking mothers suffer from Fetal .....
+
+
+``Effects of Prenatal Exposure to Cannabinoids'' by Ernest L. Abel in
+``CurrentReasearch on the Consequences of Maternal Drug Abuse''
+Theodore M. Pinkert ed. NIDA Research monograph # 59
+
+
+``The Effects of Early Marijuana Exposure'' by Ernest L. Abel, Gary A.
+Rockwood, Edward P. Riley in ``Handbook of teratology'' pp. 267-288.
+
+
+(Jamaican studies)
+
+
+``Prenatal Marijuana Exposure and Neonatal Outcomes in Jamaica An
+Ethnographic Study '' by Melanie C. Dreher , Kevin Nugent, Rebekah
+Hudgins in ``Pediatrics'' Vol. 93 Iss. 2 pp. 254-260. pub. February,
+1994.
+
+
+(THC fetal exposure)
+
+
+``Placental Transfer and Fetal Disposition of
+Delta-9-Tetrahydrocannabinol (THC) During Late Pregnancy in the Rhesus
+Monkey'' by William Slikker Jr, H. C. Cunny, J. R. Bailey, M. G. Paule
+in ``'' pp. 97-102.
+
+
+``The Influence of Anesthesia, Pregnancy, and Sex on the Plasma
+Disposition of Delta-9-Tetrahydrocannabinol and
+11-nor-9-carboxy-delta-9-Tetrahydrocannabinol in the Rhesus Monkey''
+by Merle G. Paule, John R. Bailey, William Slikker Jr. in ``'' pp.
+315-320. ed. pub.
+
+
+14) Doesn't marijuana cause a lot of automobile accidents?
+
+
+ NHTSA statistical study pub. 1992, data pending
+
+ NHTSA Amsterdam study pub. 1994, data pending
+
+ Australian statistical survey pub 1993, data pending
+
+
+15) Aren't you afraid everyone will get hooked?
+
+
+``Behavioral, Neurochemical, and Neurohistological Effects of Chronic
+Marijuana Smoke Exposure in the Nonhuman Primate'' by William Slikker
+Jr. et al. in ``Marijuana Cannabinoids Neurobiology and
+Neurophysiology'' Laura Murphy, Andrzej Bartke ed. pub. CRC Press Boca
+Raton, FL, 1992.
+
+
+``Marihuana A Signal of Misunderstanding '' pub. U.S. Government
+Printing Office Washington, 1972.
+
+
+``The Marijuana Problem in the City of New York'' (Mayor Laguardia's
+Commission on Marijuana.  The text of the decision can be found in a
+three volume set entitled ``The Marijuana Papers'') more pub. data
+pending.
+
+
+``Marihuana reconsidered Lester Grinspoon.'' by Lester Grinspoon M.D.
+1928- pub. Harvard University Press Cambridge, MA, 1977.
+
+
+16a) Is urine testing for marijuana use as a terms of employment...
+
+
+``Applicant Testing For Drug Use A Policy and Legal Inquiry '' by
+Jonathan V. Holtzman in ``William and Mary Law Review'' Vol. 33 pp.
+47-93. pub., 1991.
+
+
+16b) Isn't all this worth the trouble, though, in order to reduce...
+
+
+``Social Behavior, Public Policy, and Non-harmful Drug Use'' by
+Charles Winick in ``The Milbank Quarterly'' Vol. 69 Iss. 3 pp.
+437-459. ed. published for the Milbank Memorial Fund Cambridge
+University Press New York, NY, 1991.
+
+
+other cites pending (mail the faq maintainor)
+
+
+17) Wouldn't it be best to just lock the users all up?
+
+
+``Drugs, Crime and the Justice System'' pub.  United States Government
+Printing Office Washington, DC December, 1992.
+
+
+``The State of Criminal Justice, an annual report'' by the American
+Bar Association, 1993 pub. U.S. Government Printing office.
+
+
+``Social Behavior, Public Policy, and Non-harmful Drug Use'' by
+Charles Winick in ``The Milbank Quarterly'' Vol. 69 Iss. 3 pp.
+437-459. pub. published for the Milbank Memorial Fund Cambridge
+University Press New York, NY, 1991.
+
+
+18) I heard that there are over 400 chemicals in marijuana...
+
+
+(800 chemicals in coffee)
+
+
+``Too Many Rodent Carcinogens Mitogenesis Increases Mutagenesis '' by
+B. N. Ames, L. S. Gold in ``Science'' Vol. 149 pp. 971. ed. pub.,
+1990.
+
+
+(other cannabinoids)
+
+
+``Marijuana Chemistry Genetics, Processing, and Potency '' by Michael
+Starks pub. Ronin Inc., 1990.
+
+
+``Marijuana, The Forbidden Medicine'' by Lester Grinspoon M.D. and
+James B. Bakalar pub. Yale University Press New Haven, 1993.
+
+
+19) Doesn't that stuff mess up your immune system...
+
+
+(liver macrophages)
+
+
+``Delta-9-tetrahydrocannabinol A Novel Treatment for Experimental
+Autoimmune Encephalitis '' by W. D. Lyman , J. R. Sonett , C. F.
+Brosnan , R. Elkin , M. B. Bornstein in ``Journal of Neuroimmunology''
+Vol. 23 pp. 73-81. 1989.
+
+
+(lung macrophages and other cells)
+
+
+``Chronic Marijuana Smoke Alters Alveolar Macrophage Morphology and
+Protein Expression'' by Guy A. Cabral, Amy L. Stinnet, John Bailey,
+Syed F. Ali, Merle G. Paul, Andrew C. Scallet, William Slikker Jr,
+1991.
+
+
+(general overview)
+
+
+``Marijuana and Immunity'' by Leo E. Hollister M.D. in ``Journal of
+Psychoactive Drugs'' Vol. 24 Iss. 2 pp. 159-164.  pub. Haight-Ashbury
+Publications in association with the Haight-Ashbury Free Medical
+Clinic San Francisco, Calif. : April,June, 1992.
+
+
+(Carlton Turner)
+
+
+``Official Corruption Carton Turner'' by Jack HererJack Herer in ``The
+Emperor Wears No Clothes The Authoritative Historical Record of the
+Cannabis Plant, Marijuana Prohibition, & How Hemp Can Still Save the
+World'' pub. Queen of Clubs HEMP Publishing, 1993.
+
+
+
+
+
+                   -----------------------
+                   P  A  R  T      S  I  X
+                   -----------------------
+
+                    ABOUT THE ALT.HEMP FAQ
+
+    This section is for people who want to know more about the
+    FAQ itself, and for those who want to be a part of
+    maintaining and distributing this document.  First we will
+    start with a Version History of the alt.hemp FAQ:
+
+                --------------------------------
+
+    Versions 0.1, 0.2, and 0.3 -- These are incomplete versions
+    which were used to test the waters and draw discussion.
+    Please replace them with a more current version if you run
+    across them anywhere.
+
+    Version 0.3LaTeX -- So far, this is the only typeset version
+    of the FAQ.
+
+    Version 1.0 -- This is the first completed version of the
+    FAQ.
+
+    Version 1.0m -- This is the first completed mini-FAQ for
+    alt.hemp.  It is meant for small BBS's and FIDONET where
+    file sizes must be small.
+
+
+               -----------------------------------
+
+    Future Versions:
+
+    The text of the FAQ is now pretty much stable.  New
+    questions may be added and any mistakes corrected.  Work on
+    the text will concentrate on fleshing out the resource and
+    sources section, providing more cites, especially pointers
+    to on-line textfiles and information.
+
+    Work has started on a German hemp FAQ, and true patriots of
+    other countries are encouraged to translate and/or rewrite
+    the FAQ and to research marijuana prohibition's history in
+    their own countries.  Future versions supporting various
+    forms of hypertext are in the works, as well as print-ready
+    and FAX-ready formats.  There is a mailing list for
+    coordination of this and other activities.  Please contact
+    verdant@twain.ucs.umass.edu if you have questions,
+    suggestions, comments, requests, or offers of help.  We
+    are looking for people with either lots of spare time, or
+    knowlege of SGML, LaTeX, HTML, MIME, as well as other
+    hypertext or word-processing software.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+The University of Massachusetts at Amherst                |  _________,^-.
+Cannabis Reform Coalition                               ( | )           ,>
+S.A.O. Box #2                                            \|/           {
+415 Student Union Building                              `-^-'           ?     )
+UMASS, Amherst MA 01003      verdant@titan.ucs.umass.edu  |____________  `--~ ;
+                                                                       \_,-__/
+* To find out about our on-line library, mail me a message with the
+* pattern "{{{readme}}}" contained IN THE SUBJECT LINE.
+* You will be mailed instructions; your message will be otherwise ignored
+
+
+
+---
+ * Origin: University_of_Massachusetts_at_Amherst_Cannabis (2:50/128.0@fidonet)
+

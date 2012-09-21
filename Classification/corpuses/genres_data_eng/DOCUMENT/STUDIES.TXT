@@ -1,0 +1,910 @@
+
+
+CAN SCIENCE STUDIES BE SPOKEN IN A CIVIL TONGUE?
+
+Steve Fuller, University of Pittsburgh
+<fuller@vms.cis.pitt.edu>
+
+The emerging field of "science studies" has finally reached a field
+of public visibility. Indeed, it is perceived as a threat to the
+future of science. Two prominent works of science popularization --
+Steven Weinberg's _Dreams of a final theory_ and Lewis Wolpert's
+_The Unnatural nature of science_ -- devote entire chapters to
+describing and criticizing science studies. While neither Weinberg
+nor Wolpert believe that science studies will warp the minds of
+scientists, they do believe that it can have an unsavory influence
+on science policymakers who are looking for excuses to trim down
+expensive science. I examine the arguments that Weinberg and
+Wolpert make on behalf of science and against science studies, with
+an eye toward turning their charges into an opportunity for public
+debate about the future of science. I especially focus on how
+Weinberg and Wolpert mobilize the history of science for their
+purposes, and their implicit notions of the "scientific mind" and
+what constitutes a "rational" attitude toward science. One notable
+feature of their critiques is that they put positivist philosophy
+of science and relativist sociology of science -- normally at
+loggerheads with one another -- in the same boat as opponents to
+the idea that scientists should set the course of their own
+inquiries.
+
+CAN SCIENCE STUDIES BE SPOKEN IN A CIVIL TONGUE?
+
+Steve Fuller
+
+Steven Weinberg, Dreams of a Final Theory: The Search for the
+Fundamental Laws of Nature (New York: Pantheon, 1992), xi + 334
+pp., $25.00. ISBN 0-679-41923-3.
+
+Lewis Wolpert, The Unnatural Nature of Science: Why Science Does
+Not Make (Common) Sense (London: Faber & Faber Ltd, 1992), xiv +
+191 pp.,  14.99/$22.95. ISBN 0-571-16490-0.
+
+
+These two prominent works of science popularization demonstrate
+that something called "science studies" has now acquired a
+recognizable voice in the general intellectual discourse that helps
+shape public opinion and policy. It should come as no surprise
+that the field is portrayed in these two books as a kind of
+organized opposition within the academy to right-minded thinking
+about science. In that case, science studies practitioners now have
+an opportunity, or at least an excuse, to enter the larger public
+discourse. At first, this may be with an eye toward correcting the
+misperceptions that the likes of Weinberg and Wolpert purvey about
+our field, but in the process we may shed some productive light on
+the appropriate ways of talking about -- and talking for -- science
+in civil society. For a striking point of convergence between
+Weinberg's and Wolpert's accounts of science studies is that
+inspite of their belief that science studies is unlikely to affect
+the thinking of practicing scientists, they worry that our field
+may well have a dangerous effect on the thinking of nonscientists
+who make science policy. Indeed, this concern seems to have partly
+motivated the writing of both books.
+    Weinberg and Wolpert are accomplished science popularizers,
+though they represent two quite different routes to the genre.
+Weinberg, a front-line American theoretical physicist, shared a
+Nobel Prize in Physics in 1979 for unifying two fundamental forces
+of nature, electromagnetism and the so-called weak nuclear force.
+Since moving from Harvard to the University of Texas, Weinberg has
+been among the most distinguished and persistent supporters of the
+Superconducting Supercollider, that 53-mile underground particle
+accelerator, whose $10 billion (and growing) pricetag has been the
+focus of many recent fights on the floor of the United States
+Congress. The timing of Dreams of a Final Theory is not lost on its
+author, who devotes the final chapter of the book, "Down in Ellis
+County," to a meditation on the possible benefits of the
+Supercollider to the decidedly unscientific citizens of Waxahachie,
+Texas, in whose backyard this massive scientific instrument would
+be built.
+    In contrast to Weinberg, Wolpert has had a broader-based, more
+applied, and less distinguished career in science. He is currently
+"Professor of Biology as Applied to Medicine" at University
+College, London, after having worked for several years as a civil
+engineer in South Africa. Although Wolpert explicitly retains the
+idea that physics is the clearest case of science, his most worked-
+out examples of scientific research come from the annals of cell
+biology and embryology -- though rarely from any work that he
+himself has done.
+    Whereas Weinberg writes as a scientific native -- so much so
+that it sometimes seems that all of recent physics has crossed his
+blackboard at some point -- Wolpert conveys more of the air of a
+cicerone who is clearly knowledgeable about the artifacts on
+display but, equally clearly, not their designer. Consequently,
+unlike Weinberg's literary gravitas, which may strike the reader as
+bordering on the self-important, Wolpert's prose is sprightly,
+always with clear targets in sight. Yet, despite their different
+points of departure, Weinberg and Wolpert find the thing called
+"science studies" sufficiently threatening to the public reception
+of science that each devotes his most polemical chapter to putting
+down its claims.
+
+When Positivism Is As Big a Threat to Science As Relativism
+The most initially striking feature of the attack mounted by our
+two authors is not its actual portrayal of science studies, which
+could have been worse than it is, but the cast of characters who
+are taken to be playing on "our" side. To hear Weinberg and Wolpert
+talk about "science studies," positivist philosophy of science is
+just as much a threat to the conduct of inquiry as relativist
+sociology of science. In fact, a reader who knew little of either
+philosophy or sociology would come away with the impression that
+they were simply alternative strategies for undermining the
+credibility of science -- or, more precisely, scientists. For even
+though Weinberg and Wolpert pay lip service to the conceptual
+distinction between scientists and the science they produce, their
+instinctive response to any perceived attack on scientists is to
+appeal to the peculiar nature of scientific knowledge as demanding
+behaviors and skills not normally exhibited by the rest of society.
+    Of course, philosophers and sociologists have quite different
+ways of challenging the peculiarity of scientific knowledge.
+Indeed, at least in the pages of this journal, they spend most of
+their time reminding each other of that fact. But to appreciate the
+source of our two authors' fears, we must examine the sinister
+similarities they sense. Philosophers have pointed to the
+possibility -- if not the actuality -- of a fully articulated
+method that would allow anyone to test a given scientific
+hypothesis. The attempts to computerize scientific reasoning
+championed by Herbert Simon and his followers take this tendency to
+its logical conclusion -- and, not surprisingly, Wolpert is quick
+to deny the validity of their efforts.  Concomitant with the
+philosophical stress on method is a devaluation of the scientist's
+creative powers. These are relegated to the "serendipitous,"
+"irrational," or "random" character of the so-called context of
+discovery, which lacks cognitive significance for the larger
+scientific community until such creative urges are translated into
+a publicly accessible language of "testing" and "justification." On
+this account of the philosophy of science, sociologists would seem
+to be quibbling only over details: Does the scientist need to
+justify her claim to some unspecified universe of perfectly
+rational agents or simply to specific communities of imperfectly
+rational agents?  Take your pick: The autonomy of the creative
+intellect is denied in either case.
+    Wolpert and Weinberg are extravagant in their attempts to
+demonstrate the distinctiveness of the scientific mind. But Wolpert
+is probably the more extravagant because he claims to be capturing
+a generic distinction between scientists and nonscientists,
+whereas Weinberg typically waxes only about the thought processes
+of elite scientists such as himself and his friends. However, the
+reader can judge a couple of examples for herself. Here is Wolpert:
+     Research into how people reason about complex issues of
+     genuine importance such as crime and unemployment again
+     emphasizes the difference between common-sense thinking
+     and more formal scientific thinking. At the extremes
+     there are two very different attitudes toward knowledge.
+     One pole is the comfortable ignorance of never having
+     considered that things could be otherwise; the other is
+     continual self-aware evaluation of the evidence and
+     subsequent modificiation of views.... Only a minority
+     (about 15 percent) to appear to have the latter capacity
+     but scientists -- even though they may not like to --
+     have to adopt this approach.
+Two points tell against this outrageous comparison. First, in what
+he would no doubt consider a regression to common-sense modes of
+thought, Wolpert manages to cite much of the cognitive psychology
+literature that speaks to the limitations and biases of ordinary
+reasoners, while he conveniently fails to mention that the same
+shortcomings have been identified in "experts" whose training was
+supposed to have remedied them.  Second, what Wolpert takes to be
+the mark of the typical scientific mind -- the ability to consider
+that things could have been otherwise -- is the exact opposite of
+what Weinberg finds attractive about the most elite forms of
+scientific thinking, namely, the prospect of producing a maximally
+rigid theory, one whose parts could not have been otherwise. Such
+a theory Weinberg deems "beautiful":
+     In listening to a piece of music or hearing a sonnet one
+     sometimes feels an intense aesthetic pleasure at the
+     sense that nothing in the work could be changed, that
+     there is not one note or one word that you want to have
+     different....The same is partly true (it is never more
+     than partly true) of general relativity. Once you know
+     the general physical principles adopted by Einstein, you
+     understand that there is no other significantly different
+     theory of gravitation to which Einstein could have been
+     led. As Einstein said of general relativity, "The chief
+     attraction of the theory lies in its logical
+     completeness. If a single one of the conclusions drawn
+     from it proves wrong, it must be given up; to modify it
+     without destroying the whole structure seems to be
+     impossible."
+Weinberg goes on to observe that Newtonian mechanics lacks this
+sense of "logical inevitability," which partly explains why it was
+eventually superseded. Of course, more mundane, sociologically
+inspired accounts could be given for why the physics of the very
+big (general relativity) and the very small (quantum mechanics)
+seem to be pointing in the same direction these days -- and I shall
+consider one of these below.
+
+The Harder the Science, the Easier the Argument
+Lest I leave the impression that Wolpert and Weinberg hold views of
+the scientific mind that are completely at odds with one another,
+it is worth noting that Wolpert comes around to Weinberg's position
+-- at least temporarily -- when he staves off relativist claims
+that science could have developed in some other, perhaps preferable
+fashion from the way it has. Although the individual scientific
+mind may be a great juggler of alternative hypotheses, the
+collective effort of science appears pointed in a single direction.
+Consider Wolpert's argument:
+     In my view science, despite blips and errors, more and
+     more provides an understanding of the world. There is one
+     argument that may be persuasive -- the role of
+     mathematics. The quantitative aspect of science is
+     fundamental. Probably even the most ardent relativists do
+     not believe that mathematics is a social construct. Yet
+     some parts of mathematics -- often from unexpected areas
+     -- provide essential tools for describing particular
+     phenomena. One cannot imagine a science of motion, a
+     successful science, that does not rely on the calculus.
+     If the relativists wish to persuade us of social
+     constructs, they will have to provide, at the least,
+     major counterexamples.
+Putting aside Wolpert's apparent ignorance of what made the Strong
+Programme in the Sociology of Scientific Knowledge seem so "strong"
+to its followers, he fails to appreciate what the relativists
+take to be compelling about their case for the non-uniqueness of
+contemporary science. It is not the mere logical possibility of an
+alternative science radically disjoint from our own; rather, what
+compels is that contemporary science is merely the product of
+following one of several paths that had been equally open at an
+earlier point in our own history. These "paths not taken" can be
+recovered either by returning to the relevant turning point in
+history (as in Shapin and Schaffer's Leviathan and the Air Pump) or
+by exploiting ambiguities in contemporary scientific practice that
+point to alternative interpretations of what it means to do science
+(as in Collins and Pinch's studies of the "scientific" status of
+parapsychology experiments).
+    This sense of alternative science applies no less to the
+history of mathematics. Unless Wolpert wishes simply to beg the
+question about the necessity of mathematics to science -- by
+building a certain conception of mathematics into the very
+definition of science -- he would have to admit that the relevance
+of mathematics has been contested at several different levels
+throughout the history of science. Consider these two sites of
+contestation:
+     (1) How exactly does one demarcate mathematical from non-
+     mathematical forms of reasoning? Plato and Pythagoras are
+     traditionally credited with the idea that mathematics is
+     no mere calculational convenience, but inherent in the
+     nature of things. However, most of what they called
+     "mathematics" was in fact reasoning in ratios, which to
+     today's eyes look more like such literary modes of
+     expression as analogy and metaphor. In that case, when
+     was the break with the literary made -- if at all?  This
+     question becomes especially vexed, once we introduce the
+     claims of Hobbes, Bentham, and most contemporary
+     economists and cognitive scientists, all of whom believe
+     not only in calculability of things human, but also in
+     our ability to calculate as itself the essence of
+     humanity.
+     (2) Even granting the autonomy of mathematical from non-
+     mathematical forms of reasoning, what form of mathematics
+     is necessary for the conduct of scientific inquiry?  Do
+     absolute magnitudes expressed by real numbers need to be
+     pinned to the objects of science, as Platonists have
+     traditionally claimed? Or is the Platonic preoccupation
+     with numbers just so much notational fetishism that
+     obscures the underlying set-theoretic relations of
+     inclusion, exclusion, and exchange that are, in turn,
+     rooted in mundane material practices?
+By tying the stability of science too closely with the formality of
+mathematics, Wolpert and Weinberg overlook that mathematical
+reasoning has historically accrued several divergent
+interpretations, each of which has had profound implications for
+what counts as permissible mathematical developments or
+applications. In particular, our two authors fail to see that
+such "interpretive flexibility" actually increases with a greater
+formalization in thought, as formalized thought acquires the
+character of an abstract technology adaptable to multiple ends --
+a point that Wolpert himself subliminally acknowledges when he
+calls parts of mathematics "essential tools" for science.
+    Once mathematics is admitted as an abstract technology, one of
+Wolpert's intutively strongest arguments for the unnaturalness of
+science falls by the wayside. Wolpert latches on to the Popperian
+doctrine (as developed by Ernest Gellner) that knowledge gained for
+purely instrumental purposes tends to preempt further inquiry, as
+the community that constructs a successful technology will tend to
+jealously guard its uses, which, in turn, limits the possibilities
+for the critical transformation of that technology. According to
+Popper, science arose when people began to think about the
+significance of technologies not always producing the desired
+results, especially as they were extended to new domains.
+Presumably, the technologies in question had to work sufficiently
+well to yield the surplus needed to support the leisure of these
+early scientists -- but not so well that the question of fit
+between technique and nature would never have occurred as a topic
+for inquiry.  Thus history happened upon what has been called
+"the Miracle of the Greeks," or "Thales's leap," as Wolpert dubs
+it. Indeed, for all their other disagreements, a major point of
+convergence among Wolpert, the Popperians, and the few Marxists who
+respect the science-technology distinction is that science emerged
+as a spinoff from the factors of production and has been sustained
+only insofar as it has not had to contribute directly to the
+production of wealth. Of course, the Marxists who adhere to this
+history do not draw the same positive conclusions about the social
+character of science that Wolpert and the Popperians do. After all,
+one ideology's image of autonomous inquirers can be easily turned
+into another's image of parasitic elites.
+    But how would our attitudes toward science change, were we to
+learn that, as a matter of fact, so-called pure scientific inquiry
+did not emerge by becoming detached from the material conditions of
+life, but rather was itself an opportunistic way of coping with
+those very conditions?  After all, the early Greek scientists --
+the pre-Socratic philosophers -- typically did not enjoy the
+stipends of Egyptian, Persian, and Indian bureaucrats, for whom
+"technology" was coextensive with the state apparatus itself. In
+these instances of what Marx called the "Oriental Mode of
+
+Production," the bureaucrats had no motivation to articulate
+
+abstract physical principles that enabled, say, elaborate
+
+irrigation systems to work, because they had no interest in selling
+those principles so that other states could erect similar systems
+of their own. Rather, the bureaucrats could only envisage extending
+their own system to neighboring lands, making local adjustments to
+the technology where needed -- with no clear line drawn between the
+physical and political dimensions of these adjustments.
+    For their part, the freelancing Greeks appeared attractive as
+outside consultants by offering the hope that lesser states could
+improve their political situation by following their advice. Thus,
+they had to persuade clients that there was a form of knowledge,
+access to which did not depend on investing enormous amounts of
+time and labor in a particular technology. In other words, they had
+to conjure up Latourian "immutable mobiles," namely, concepts that
+travelled well as the Greeks themselves moved from one venue to the
+next. Elementary principles of geometry, astronomy, hydraulics, and
+mechanics fit the bill well. From these entrepreneurial instincts
+arose, then, the prototype for the abstract physical principles
+that are so distinctive of science. The beauty of this account, of
+course, is that it rejects a view of the early history of science
+promoted by Wolpert and so many others -- namely, that the
+Sophists, and perhaps even Socrates and Plato, marked a turn away
+from an interest in science to an interest in politics.  On the
+contrary, the key role played by entrepreneurship marks Thales and
+Protagoras as kindred spirits who merely differed in the markets
+where they plied their wares.
+
+Diagnoses Rampant, or Will the Real Relativist Please Stand Up!
+Among the more amusing yet instructive moments in the two books
+under review are when their authors speculate on why science
+studies practitioners fail to respect the epistemic uniqueness of
+science. First Wolpert:
+     In a sense, all science aspires to be like physics, and
+     physics aspires to be like mathematics. But too great an
+     aspiration can lead to frustration....what hope is there
+     for sociology acquiring a physics-like lustre? ...It is
+     thus not surprising that, as Howard Newby, chairman of
+     the Economic and Social Research Council, put it, because
+     of their 'massive inferiority complex' social scientists
+     have 'descended with glee on those who have successfully
+     demystified the official credo of science and who have
+     sought to demonstrate that science is but one means of
+     creating knowledge'. For them it then becomes quite
+     unncessary to have to try to emulate traditional
+     science.
+The problem with this diagnosis is that it misreads the recent
+history of social sciences and, as a result, overestimates the
+popularity of science studies among social scientists. In
+particular, Wolpert overlooks the clearest legacy of Kuhn's
+Structure of Scientific Revolutions to the social sciences: namely,
+to inform its practitioners that they too could constitute
+themselves as sciences by rallying around a "paradigm" and
+proceeding along the path of "normal science."  Having finally
+discovered the secret of true science, most mainstream social
+scientists have remained ill-disposed to any subversive conclusions
+that science studies practitioners might draw from Kuhn's work.
+In particular, they have resisted the conclusion that by making
+more disciplines eligible to become sciences, Kuhn unwittingly
+diminished the sociocognitive advantage of being a science. Had
+social scientists (and even some humanists) not been successful in
+using Kuhn's theory to enhance their academic legitimacy, they
+would probably be more receptive to science studies.  But as it
+stands now, one witnesses the spectacle of the most distinguished
+and erudite sociological theorist in the English-speaking world
+(Anthony Giddens) feigning both ignorance and disinterest in the
+epistemological issues raised by science studies -- as if to raise
+such "reflexive" issues would be to undermine the legitimacy of his
+own project.
+    For his part, Weinberg countenances a broader and more
+interesting range of diagnoses, which together show that he has
+given some serious thought to the nature of science studies. First,
+Weinberg proposes that science studies is positivism's own reductio
+ad absurdum: It is hard to appreciate the special relationship that
+high energy physicists enjoy with ultimate reality, if one focuses
+exclusively on what is visible to the naked eye in the physics lab.
+If Percy Bridgman's operationalism failed to explain the practice
+of quantum mechanics in the 1930s, there is even less reason to
+believe that Latour and Woolgar's anthropologism would be able to
+do so in the 1990s. Although, as we have seen, Weinberg is
+content to be a reductionist with regard to ontological
+commitments, he clearly will not allow the spirit of reductionism
+to infect his methodological commitments. Once again we see the
+ease with which philosophy and sociology of science can be
+collapsed into a single disrespectful parody of the complexity of
+scientific practice.
+    Next Weinberg tackles the anthropologism of science studies
+head on. His argument here is worth quoting in detail, especially
+since it turns Wolpert's diagnosis of an inferiority complex on its
+head:
+     Imagine if you will an anthropologist who studies the
+     cargo cult on a Pacific island. The islanders believe
+     that they can bring back the cargo aircraft that made
+     them prosperous during World War II by building wooden
+     structures that imitate radar and radio antennas. It is
+     only human nature that this anthropologist and other
+     sociologists and anthropologists in similar circumstances
+     would feel a frisson of superiority, because they know as
+     their subjects do not that there is no objective reality
+     to these beliefs.... Would it be surprising if, when
+     anthropologists and sociologists turned their attention
+     to studying the work of scientists, they tried to
+     recapture that delicious sense of superiority by denying
+     the objective reality of the scientists' discoveries?
+The only problem here is that Weinberg has gotten his schools of
+anthropology mixed up. The classic debates over of the
+"rationality" of cargo cults were conducted largely from two
+standpoints, neither of which has served as a model for science
+studies inquiries. On the one hand, Popper-inspired
+anthropologists denied outright the rationality of the cargo cults
+because the natives did not appropriately alter their practices in
+light of negative experience. On the other hand, functionalist
+anthropologists denied only the "manifest" rationality of the cults
+but admitted their "latent" rationality as the cults served to
+shore up group solidarity in tough times. While either of these
+responses would, indeed, fit Weinberg's charge of superiority,
+neither captures what ethnographers typically do in scientific
+workplaces, which is to confront the natives with their own
+accounts of their activities, bringing to their attention
+divergences of word and deed. And while the natives can usually
+make up the differences to their own satisfaction, the reader of
+the science ethnography is meant to be faintly scandalized that
+there should be any divergence whatsoever. After all, the natives
+under study are scientists!
+    Interestingly, despite the ill-chosen analogy from
+anthropology, both Weinberg and Wolpert periodically indicate that
+they half-realize how science studies works. The half they fail to
+figure out is why anyone would become disturbed by the prospect
+that much of the philosophically inspired talk of "truth" and
+"rationality" spouted by scientists does not capture science in
+action. Our two authors wonder: Aren't both positivists and
+relativists fixated on loose language, when they should be focusing
+on durable practices?  Needless to say, some members of our own
+field -- especially those who spend much of their time studying
+experimental practices -- are not above asking such a question.
+And such a question is perfectly reasonable to ask, if you also
+happen to believe that science is nothing but a certain set of
+social practices, in which case you might advise we set our gaze on
+the details of the lab and set aside the philosophical public
+relations talk. Unfortunately, our two authors want to present
+science as too extraordinary to be captured in such sociological
+terms. In that case, they are themselves forced to draw selectively
+from the philosophical rhetoric and hope that it sticks to their
+practices when it comes time to justify spending billions of
+dollars on the next high-tech scientific instrument. For it is
+unlikely that the mere sight of an ensemble of scientists
+competently practicing their trade will be enough to move
+Congress.
+    Weinberg's last diagnosis, one he claims to draw from Gerald
+Holton, purports that science studies is only the latest expression
+of hostility to modern Western civilization, the roots of which
+reach back to Oswald Spengler's (1919) The Decline of the West.
+Thus, science studies researchers are said to be motivated by
+self-loathing for having to participate in a culture that has been
+responsible for the atomic bomb and other scientifically induced
+forms of destruction. We are portrayed as longing for a less
+alienated time, when inquirers were committed to preserving the
+objects of inquiry. Before turning to Weinberg's own curious
+response to this charge, a few words should be said about his
+attempt to draw an invidious comparison between Spengler's Weimar
+Germany and post-1960s Euro-American counterculturalism, of which
+science studies is taken to be the academic wing.
+    A common feature of Weimar thinking was the belief that Germany
+had lost World War I because of the collusion of scientists and
+capitalists, whose abstract ("calculative") detachment prevented
+them from dealing effectively with both the concrete and spiritual
+dimensions of war.  The negative lesson learned was so great that
+Weimar engineers altered their professional identity from that of
+"applied scientists" to "self-conscious folk practitioners." Some
+even tried to justify engineering's inclusion among the
+Geisteswissenschaften. Moreover, it was generally held that the
+natural sciences, especially physics and chemistry, would not have
+been so influential under Kaiser Wilhelm, had their research not
+been so generously funded by a few major industries and banks with
+close ties to the state. These firms -- like the scientists
+themselves -- typically also had substantial international
+connections, which could be used to cast aspersions on the extent
+of their commitment to the German cause. The much-vaunted
+"cosmopolitanism" of scientists was thus publicly reinterpreted as
+an indifference to local interests, which, in this case, meant the
+nation. Even precision-made laboratory instruments, whose use
+required specialized training, were made to seem inimical to folk
+craft sensibilities. These points are worth bearing in mind when
+Weinberg blithely claims that science is "the shared possession of
+mankind."  For one of the most important conclusions of science
+studies is that such a claim cannot be taken literally: It is one
+thing for a form of knowledge to announce universality for its
+claims; it is quite another for that form of knowledge to be
+equally accessible (both usable and contestable) to all who would
+would be governed by its claims.
+    This brings us to Weinberg's response to the allegedly
+antiscientific sentiments of science studies. In light of our brief
+glimpse into Weimar culture, the response is clearly open to the
+pejorative interpretation of "cosmopolitanism," whereby the
+author's privileged position prevents him from recognizing the
+power relations in which his form of knowledge participates:
+     Even the most frightening Western applications of science
+     such as nuclear weapons represent just one more example
+     of mankind's timeless efforts to destroy itself with
+     whatever weapons it can devise. Balancing this against
+     the benign applications of science and its role in
+     liberating the human spirit, I thinking that modern
+     science, along with democracy and contrapuntal music, is
+     something that the West has given the world in which we
+     should take special pride.
+Weinberg seems to find the destructive potential of modern science
+ultimately discountable primarily on grounds of banality. The
+novelty of science's benefits would seem to outweigh its
+contribution to evils that have occurred time and again. Such is
+the moral scorekeeping one would expect after several rounds of
+playing Hermann Hesse's "Glass Bead Game," but it is completely
+inappropriate for evaluating the overall impact of science.
+Problems that refuse to go away -- or only get worse over time --
+may frustrate the mind that constantly craves new sources of
+intellectual stimulation, but that is not a normatively acceptable
+position for a scientist in today's world -- certainly as long as
+words like "mankind," "the human spirit," "the West," "the world,"
+and "we" remain euphemisms for overlapping sets of elites.
+    Here we arrive at a crucial point that trumps any charge that
+science studies is antiscientific. Science studies practitioners
+have acquired a healthy skepticism about the ex cathedra
+pronouncements that scientists make about their trade because
+scientists are not necessarily the most reliable informants about
+what science is. Instead of taking scientists at their word --
+which would amount to a very prescientific reliance on
+authoritative testimony -- science studies practitioners "see for
+themselves," typically by going on site where the science is
+purportedly done. In a sense, I am merely reiterating the first
+sentence of the first course in our field, but it suggests why our
+two authors fail to see science studies as a natural extension of
+their own practices: to wit, Weinberg and Wolpert do not
+sufficiently distance "science" from their own circle of scientific
+friends, heroes, and the communal bonds these forge. Indeed,
+Weinberg is especially prone to lapse into a Le physique, c'est
+moi! manner of address worthy of the Sun King himself. But more
+than mere megalomania, this blurring of the personal and the
+professional threatens to undermine what has classically set
+science apart from more authoritarian forms of knowledge and their
+reliance on the collusion of elites.
+    Weinberg and Wolpert periodically admit that science has a
+"sociological" dimension. But by this they mean the Polanyiesque
+point that scientists constitute themselves as an autonomous
+community held together by bonds of mutual respect. These bonds
+cannot be grasped without prolonged contact with other scientists
+and learning to model one's own judgment on theirs. This process of
+perspective-taking and mutual modelling issues in common intuitions
+about acceptable and unacceptable paths of inquiry. Yes, sometimes
+heated controversies erupt, but typically they involve only a few
+elite members of the community who are keen in finding a quick
+resolution so as to cause as little reputational damage as possible
+-- both to the participants and to the field. The fate of new
+recruits to the community is, of course, determined by the current
+crop of scientists. In short, science appears in our two authors'
+writings as a thoroughly gemeinschaftlich operation that fosters
+what I will dub bad relativism, namely, judgments that tend to
+reinforce -- rather than compensate for -- standing prejudices. If
+that was all there is to the sociological dimension of science,
+then, ironically, that should arouse, rather than dampen, public
+suspicion about the disposition of a community that would seem to
+have all the institutional trappings of a special interest group.
+ However, if we wish to take seriously Weinberg's claim that
+science is the collective possession of humanity, then we must
+relinquish the vision of science as Gemeinschaft. In the
+alternative vision, science belongs to more than those who are
+directly involved in producing it. Indeed, the purported
+universality of science's knowledge claims should make them
+accessible to all knowers. Of course, this is not realized in
+practice. To that extent, science has yet to earn its reputation
+for producing a form of knowledge that transcends the existence of
+its producers. But how can the science studies practitioner endorse
+the idea of a "transcendent" form of knowledge with a straight
+face?  Here it becomes crucial to appreciate the good relativism
+that science studies has been promoting since the advent of the
+Strong Programme.
+    As Bloor and his followers employ the term, "relativism" is not
+an unconditional epistemological doctrine on par with, say,
+rationalism or realism. Rather, it is a methodological heuristic
+designed to counteract the science studies practitioner's own
+standing prejudices by revealing their limits -- namely, their
+relativity to his or her own culture. Thus, one of the original
+four tenets of the Strong Programme, the controversial "symmetry"
+principle, compels the science studies practitioner to bracket any
+beliefs that he or she might have about the truth or falsity of the
+science under investigation. Thus, relativism in this sense offers
+the inquirer the opportunity for a kind of self-transcendence that
+is in line with one of science's most distinctive normative ideals.
+  Ironically, then, the cognitive "unnaturalness" that our authors
+detect in science does not seem to translate into a sociological
+unnaturalness. Instead, one finds a rather ordinary sociology of
+the close-knit community rooted in its peculiar prejudices. Where
+is the sociological correlate of "openness to change" in such an
+account? Particularly telling in this regard is the lack of
+attention that both Wolpert and Weinberg pay to cross-disciplinary
+and cross-national migration, patterns common throughout the
+history of science whereby scientists trained in one field or
+country are able to initiate a radical transformation of another
+field's or country's line of inquiry.
+
+The Supercollider: A Big Bang for the Buck or the Heat Death of
+Physics?
+Weinberg certainly cannot be faulted for a lack of candor in his
+defense of the Supercollider. The construction of this largest of
+all particle accelerators would enable physicists to recreate the
+energy levels that are thought to have obtained in the earliest
+history of the universe, just before the fundamental forces of
+nature became differentiated, thereby losing their primal symmetry.
+(Physics after the Fall?) Avoiding spurious, but perennially
+popular, appeals to economic and military spinoffs, Weinberg
+unabashedly rests his case for granting the Supercollider funding
+priority on the "fundamental" character of high energy physics
+research -- that is, fundamental to all scientific inquiry: "...it
+is closer to the point of convergence of all our arrows of
+explanation."  The argument has not been received well, even from
+within the scientific community. Reflecting on his own professional
+association's lukewarm support of the Supercollider, Weinberg can
+only conclude that the American Council of Physics has let concern
+about the livelihoods of scientists working outside high energy
+physics outweigh strictly cognitive considerations of what is in
+the best interest of science.  Indeed, much of Weinberg's
+metaphysical commitment to "reductionism" boils down to a
+nonnegotiable opinion about the scientific significance of his own
+research.
+    In fairness to Weinberg, it must also be said that reductionism
+in contemporary physics is hardly the either-or doctrine that it
+was in the nineteenth century, when mechanists and holists argued
+about whether the universe was greater than the sum of its atomic
+parts. In fact, today's reductionist tries to reach both ends of
+the cosmic scale -- the very large and the very small -- at the
+same time. The key is the Big Bang, which postulates that the
+universe began much like the highly dense and energized masses that
+physicists now study in particle accelerator experiments. Thus,
+among the elite physicists who work on foundational problems, it is
+not uncommon for the same person -- Weinberg himself is one of them
+-- to author textbooks on subatomic particles and general
+cosmology.  Given the centrality of the Big Bang, today's "final
+theory" aspires to much more than earlier attempts by Newton and
+Laplace. Whereas eighteenth century physicists would have been
+satisfied simply with knowing the rules whereby they could predict
+any event in the universe, followers of Einstein and Hawking also
+want to know how the rules came into being.
+    However, few seem to share Weinberg's optimism that building
+the Supercollider will bring physicists significantly closer to the
+final theory.  With the benefit of historical hindsight, we can
+say that few -- if any -- research programs in science have ever
+voluntarily closed shop as a result of having declared their most
+significant problems solved. Research programs are typically
+terminated under one of two circumstances: Either problems
+accumulate more rapidly than can be solved, leading to a Kuhnian
+"crisis" in the research program, or other problems associated with
+other research programs appear more attractive to the new
+generation of scientists. Weinberg predictably hedges his bets by
+arguing that if the findings made on the Supercollider do not
+answer solve all the fundamental problems of physics, it will be
+because it has turned up some new particles and forces that will
+provide a new generation of physicists food for thought.
+    This last claim raises an interesting point of divergence
+between how Weinberg and science studies practitioners understand
+the relationship between theory and experiment. To be sure, there
+are common foes, namely, those whom Lakatos dubbed "naive
+falsificationists," who believe that one good crucial experiment
+can topple a well-confirmed theoretical edifice. But there the
+agreement ends. Science studies practitioners have been persuaded
+by the work of Hacking, Pickering, and Galison that traditions of
+experiment -- and the phenomena that experiments generate -- are
+largely autonomous from traditions of theory, and, indeed, may be
+decisive in explaining the long-term stability and cumulativeness
+of the scientific enterprise.  No such sensibility is to be found
+in Weinberg, who devotes an entire chapter to showing how
+experiments are conducted for the express purpose of providing
+theoretically suggestive data, which are then often massaged or
+rejected, if they threaten to render a pet theory "ugly."
+    Because most empirical research in science studies has been so
+far concerned with the experimental sciences, it is easy to forget
+the peculiar sensibility that informs theoretical work, especially
+in that most elite of sciences, physics. Even a non-physicist such
+as Wolpert marvels at the ability of theoretical physicists to know
+how to intuit the perfect curve from otherwise unruly data
+points. Why can't theorists in, say, psychology enjoy such a
+harmonious relationship with their experimental counterparts?
+Instead, one finds a bunch of theories, each of which captures only
+a portion of the data, much in the way that each of the proverbial
+blindmen gropes only a part of the elephant. One answer might be --
+as Weinberg and Wolpert maintain -- that physicists do, indeed,
+have that special capacity for intellectual intuition, nous, which
+Plato and Leibnitz so greatly admired and which Kant adamantly
+denied.
+    Another answer, one more in the spirit of science studies, is
+to observe that physicists are not as scrupulous as psychologists
+in accounting for the data generated by a body of experimental
+work. Since psychologists presume that their subject matter is
+quite complex and elusive, they do not pretend to have many clear
+intuitions about which data are worth keeping or throwing out when
+drawing some theoretically relevant inference. Consequently,
+psychologists have pioneered the development of sophisticated
+"meta-analytic" statistical techniques capable of integrating all
+the data from all the experiments. Needless to say, these
+techniques produce a rather complicated overall empirical picture
+of psychological phenomena, one that resists simple theoretical
+formulations. Physicists, by contrast, presume that they have a
+relatively clear understanding of their experimental situations,
+which, in turn, instills greater self-confidence in their
+discretionary judgments of data. This difference in methodological
+attitudes between psychologists and physicists draws on divergent
+folk images of their competence as scientists, images that have
+themselves been rarely subject to empirical scrutiny. Thus, while
+physicists are commonly seen as superior scientists, the most
+thoughtful and rigorous works on scientific methodology have been
+written by psychologists.
+    This last point raises the larger historical question of
+accountability in physics. One subtle but pervasive legacy of
+reductionism is that scientific theories are immediately discounted
+if they are incompatible with current physical theories. But do
+physical theories need to be compatible with theories in the other
+sciences? If the history of science is our guide, the answer would
+seem to be, for the most part, no. A vivid reminder of this point
+is Lord Kelvin's declaration that Darwinian evolution must be false
+because thermodynamics did not allow the earth to be as old as
+evolution required. After this pronouncement, many scientifically
+minded biologists started to rethink their commitment to Darwin's
+"uniformitarian" view of biological change (i.e., slow steady
+changes of the kind still seen today). Thus, the last quarter of
+the last century witnessed a physics-induced revival of the
+periodic geological cataclysms postulated by the rival
+"catastrophist" approach, which had been traditionally associated
+with Creationist attempts to read the Noachian Flood into the
+fossil record of the earth. Luckily, for the fate of Darwinism,
+physicists soon managed to stumble upon a refutation of Kelvin's
+chronology in their own bailiwick, once radioactivity was
+discovered as a source of heat that could have fueled the earth's
+core for the hundreds of millions of years needed for evolution.
+    As we reach the end of the twentieth century, accountability in
+physics is limited mostly to achieving synchrony between the
+various branches of the discipline.  Because today's fundamental
+physical theories postulate that the world is radically different
+at the extremes (the very big, the very small, the very old, etc.)
+from the way it appears in the meso-reality canvassed by the other
+sciences, few non-physicists have had the temerity to argue that
+physics is incompatible or somehow out of step with current trends
+in the rest of the sciences.  However, if one wanted to make such
+an argument, evidence could be sought by noticing the increased
+amounts of money being spent on scientific instruments, such as the
+Supercollider, which generate findings of little obvious cross-
+disciplinary relevance. Indeed, what would seem to be a liability
+according to some enlightened theories of science policy is made to
+appear a virtue here. Specifically, Weinberg argues that the
+integrity of particle physics is ensured by the fact that no other
+field can directly benefit from the billions of dollars that are
+sequestered exclusively for its purposes.
+    Given that these funds are drawn from the public coffers,
+Weinberg's argument turns out to be a profoundly anti-democratic
+one. For, in a democracy, one would suppose that a principle of
+fungibility operates in matters of public policy. In the case of
+funding high energy physics, the principle implies that physicists
+should not be granted billions of dollars for their work unless
+they can produce a scheme to benefit, or somehow compensate, those
+who will be deprived of those billions for their own work. For
+example, if sequestering billions for the Supercollider forced a
+decrease in funding for the social sciences, then part of the deal
+for constructing the Supercollider would include allowing social
+scientists to play an active role in designing the community that
+will be built to support the facility and, then, to do field work
+once the community has been built, perhaps ultimately advising the
+physicists on how they might alter their patterns of social
+interaction in order to improve their work. Were the physicists to
+balk at such intrusions on their autonomy, then they have the
+option either to seek funding in the private sector or to scale
+down their funding request so that they do not pose a direct threat
+to progress in other areas of inquiry.
+    The principle of fungibility is difficult to put into practice,
+especially when the policy concern is science and the country is
+the United States. The main reason is that no federal forum exists
+for comparing the merits of alternative research programs in
+different disciplines. Thus, the policymaker is typically never in
+a position to decide to pursue research in, say, biology instead
+of, say, physics. This is especially true in the case of
+"megaprojects" such as the Supercollider, whose funding comes
+directly from Congress. The unprecedented price and promise of
+megaprojects make Congress reluctant to judge them on anything
+other than "their own terms." Scientific advocates can often use
+this to their rhetorical advantage. To budget-conscious members of
+Congress, scientists will warn that to cut the Supercollider does
+not necessarily mean that some other worthy scientific project will
+be funded instead. In fact, it may not even mean that the money
+will be saved. The specter of a myriad of special interest groups
+waiting for the first opportunity to pounce on the money "saved" by
+not funding the Supercollider -- in order to convert it into "pork"
+-- is usually enough to shame Congress into continuing its support
+for a palpably noble (if not necessary) scientific cause. Given the
+support that fundamental physics research has enjoyed so far in the
+American policy forums, it should surprise no one that Weinberg
+does not complain much about this remarkably unscientific way of
+funding research.
+
+Conclusion: Striking the Right Pose
+Weinberg and Wolpert are the first of what is bound to become a
+trend in science popularizers acknowledging and answering the
+challenges posed by science studies to conventional accounts of
+science. But how should we respond to this newfound publicity?
+Clearly, there is no one strategy that will sit well with everyone
+who considers themselves part of the science studies community.
+However, let me close by proposing some general considerations that
+will help enable us to move coherently into the public forum.
+    First, we should be clear about the exact sense in which
+Weinberg and Wolpert find science studies "dangerous," "offensive,"
+or simply "wrong-headed." What mainly riles our two authors is the
+suggestion that we claim to show that science is, in some deep
+sense, "just another social practice." Such a view undermines the
+attitude that they wish to instill in readers: namely, to make them
+feel that they understand enough about science to identify with its
+continued success, but not so much that they feel competent to
+participate in decisions concerning science policy. Cultivating
+this kind of respectful enthusiasm is no mean rhetorical feat.
+However, science studies makes it difficult for one to be a mere
+"fan" of science. Rather, one develops the impulse to jump onto the
+playing field and redo the rules a bit. Specifically, even a little
+science studies makes one wonder why one group of scientists
+manages to frequent the best labs rather than some other.
+    But can scientists and science studies practitioners go beyond
+mutual fear and suspicion -- and toward public-spirited debate? As
+I have hoped to demonstrate in my own writing and in the writings
+of Weinberg and Wolpert, many important points can be made and
+issues raised, even in a less than ideal speech situation. However,
+to make the most of this situation, we must realize that not every
+theoretical commitment of science studies will travel well from the
+academic to the public sphere. In fact, some of these commitments
+may be used against us in debate. For example, we saw that one of
+Wolpert's grounds for dismissing science studies was that it seemed
+to make all science look like its parent discipline, sociology,
+which is, indeed, a highly contested, flexibly interpretable,
+interest-laden field. But can the same really be said of physics or
+chemistry -- once an "adequate" account of their activities --
+especially their track records -- is given?  Needless to say, few
+science studies practitioners are likely to be moved by Wolpert's
+intuitions here. Yet, he has stumbled on a reflexive difficulty for
+our side. After all, to think that every science can be analyzed in
+the same way is to violate science studies's own commitment to the
+"heterogeneity of fields" and the "disunity of science."
+    Speaking for myself, I believe that science studies must be
+sure to couple its commitment to disciplinary diversity with an
+imperative to rearrange disciplinary boundaries (or "hybridize," to
+wax Harawayan). Otherwise, we run the risk of being interpreted as
+supporting -- or being logically compelled to support -- the "good
+fences make good neighbors" model of epistemic diversity that our
+two authors promote. Luckily, even they do not advance this line
+consistently. Both are concerned with what they call the "social
+responsibility" of science, which demands substantial public input.
+Wolpert is the more direct on this point:
+     It is not for scientists to take moral or ethical
+     decisions on their own: they have neither the right nor
+     any special skills in this area. There is, in fact, a
+     grave danger of asking scientists to be more socially
+     responsible -- the history of eugenics alone illustrates
+     at least some of the dangers. Asking scientists to be
+     socially responsible, other than by being cautious in
+     areas where there are social implications, would be
+     implicitly to give power to a group who are neither
+     trained nor competent to exert it.
+The reader, having gotten this far in Wolpert's book (near the
+end), may be surprised by these sentences. Apparently, the very
+"unnaturalness" that makes science our premier form of knowledge
+also makes scientists professionally ill-disposed to issue moral
+judgments. What should a science studies practitioner make of this
+claim? First, it reveals the absurdity of drawing a hard, virtually
+essentialist distinction between scientists and non-scientists.
+Just because scientists should not unilaterally dictate the ends
+for which their skills are used, it does not follow that they
+should remain mute in public deliberations. On the contrary,
+scientists must acquire a competence in the consummate democratic
+art of negotiation -- especially with a public who will bear the
+finanical costs and sustain the eventual impacts of whatever
+research is commissioned. But perhaps more important, scientists
+must realize that the value dimensions of their activities extend
+not only to the capacity of their research to do good or harm but
+also to the opportunity costs that are incurred by deciding to fund
+one sort of research over another -- or, for that matter, over a
+nonscientific yet worthy public works project. In short, part of
+the social responsibility of science is to welcome the public's
+participation in setting the priorities of the research agenda
+itself.
+
+
+     Steve Fuller is Associate Professor of Science &
+     Technology Studies at Virginia Tech and Executive Editor
+     of Social Epistemology. His latest book is Philosophy,
+     Rhetoric and the End of Knowledge: The Coming of Science
+     and Technology Studies (Madison: University of Wisconsin
+     Press, 1993). For academic year 1993-4, he is helping to
+     launch a new Ph.D. program in the Rhetoric of Science at
+     the University of Pittsburgh that will be jointly
+     administered by the Departments of Communication and
+     History & Philosophy of Science. Address: Department of
+     Communication, 1117 Cathedral of Learning, University of
+     Pittsburgh, Pittsburgh PA 15260, USA.
+
+

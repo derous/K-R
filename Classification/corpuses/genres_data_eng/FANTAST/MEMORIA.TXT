@@ -1,0 +1,934 @@
+
+
+I don't think I like the title for this, but I couldn't come up
+with anything better... expect it to be changed on the FWLS
+archive if you come a-knockin'.
+
+-=-
+
+A Future We'd Like to See 1.65 - Memoria
+By Stefan "Twoflower" Gagne (Copyright 1994)
+
+     "So you graduated high school?" he asked, eyeing my single-
+sheet resume with big fonts.
+
+     "Yes sir.  C average," I nodded.  He didn't approve of me,
+man, I just KNEW it; maybe it was the threads.  I tried to wear
+my classiest outfit.  I had the jacket, my rare STOMACH CONTENTS
+WORLD TOUR shirt and the jeans with no holes over the knees.
+Class all the way, but he wasn't buying it.
+
+     "What makes you think you'd be a good addition to my
+research team, Mr. Lopwagen?" the old fogey asked.
+
+     "I crack good," I said.  "I only got a few skills, I know
+sir, those being flipping burgers, watching movies, and cracking
+code.  I saw your ad for talented reverse-engineering
+programmers, and I figured it was the same thing as cracking."
+
+     "Boy, right now I have the best money can buy working on
+this project," he said.  "Why should I employ some teenager
+scraped off the net on the basis of this resume alone?  May I add
+that you misspelled resume on it."
+
+     "Sir, really, just give me a chance," I begged.  "I'm
+through with the fast food scene.  It ain't part of the PLAN, you
+see, the plan to get me some edu and top the charts like Willy
+Boy Doors.  I think I can get whatever it is you need done, all I
+want is a college recommendation in return.  I don't even need
+any money, just that signature on my 'app to get in and get my
+ass up the ladder, you know?"
+
+     "Aspiring," he said, nodding slowly.  "I like that.
+However, I have no reason to believe that you have what I
+require."
+
+     "Lemme get a shot at the program you need hacked to bits.
+If I can't do jack with it, I'll go off and head back to
+McSpackle's.  If I can, hire me.  Man, it's that simple, nothin'
+to it.  You can't lose jack.  Sir."
+
+     "I can lose time.  Time is very, very valuable to a man my
+age," he said, carefully pulling himself out of his antique
+chair, propped up by a silver cane.  "My time is worth a lot to
+me.  I'll let you do your little test, but realize that I would
+not do this for just anybody."
+
+     "Yes sir.  You won't regret it, sir."
+
+     "Mr. Rinhurst will do," he said.  "And I may call you?"
+
+     "Whacker Cracker," I said, automatically spewing out my
+nick.
+
+     Mr. Rinhurst peered at me over his spectacles.
+
+     "Rynard," I corrected.  "It's Rynard, really."
+
+                              *
+
+     This old fart was LOADED, man.  Old money.  He had antiques
+up the zarkin' wazoo, overloaded on 20th century and 21st century
+crud that I had seen in history texts before my schooling ended
+on a semi-foul note.  Nothin' cool, though, like the Nintendos or
+the gumball machines... just this plastic furniture and weird
+paintings that reminded me of geometry class (which I failed
+twice).  Why throw all that money away if you're not, like, gonna
+get stuff that's cool?
+
+     But hey, I can't complain, this guy could be my meal ticket
+to success.  My life had been anything but productive and it was
+startin' to drag.  I had my cracking and movies and bad food,
+which was cool, and my friends and buds which were superiorly
+cool, but my plan to be the ULTIMATE bad-ass coder was on hold
+thanks to a lackluster schoolin'.
+
+     Luckily, I could still work magic with interfaces 'n viruses
+I had never seen before, and if I could keep the old magic around
+a little longer, I'd be on the golden highway before you could
+say--
+
+     "Who's this?" some snotty guy in a white lab coat asked,
+looking up from his clipboard.  "I thought part of this deal was
+to remain undisturbed during my research."
+
+     "Mr. McDoole, this is Mr. Lopwagen.  He has... volunteered
+to work on the project.  Rynard Lopwagen, Martin McDoole,
+professor of computer science and interfaces at the University of
+C'atel.  Martin McDoole, Rynard Lopwagen, ...amateur programmer."
+
+     "Cracker," I corrected, extending a hand to high-five
+McDooley.  He didn't return it.
+
+     "Sir, you're joking, correct?" McDooley asked.  "I mean,
+honestly, I know you seem to think this project requires more
+help, but I certainly don't require..."
+
+     "Bitchin' setup!" I commented, taking in the spread for the
+first time.  Really wild gear; latest Macroware-assured deck, the
+big black slab one that practically absorbed light.  McDooley had
+it connected to a whole bunch of monitors, which I guess were
+monitoring it.  A long cable ran from the box to some glass case,
+with a cheap tablecloth draped over it, and a wire from that went
+to a holoprojector unit; a BAD-ASS big one by the looks of it.
+
+     "Yes, 'bitchin''," McDooley said.
+
+     "All Mr. Lopwagen requests is to make an attempt at cracking
+the code you have yet to crack," Rinhurst said.  "We're waiting,
+Mr. Lopwagen."
+
+     "Huh?  Oh, okay.  So, like, what's wrong with it?"
+
+     "The files are in an unbreakable code," McDooley said,
+reading off his clipboard.  "Nothing we've ever seen before.  My
+first guess was that they were just gibberish, scrambled random
+data as a decoy for whatever the doctor was hiding in his
+computer.  Then we found the unit in the glass case and a
+connecting socket that matched a non-standard port on the
+hardware--"
+
+     "This thing?" I asked, tapping the glass through the
+tablecloth.  McDooley ran forward and grabbed my hand.
+
+     "The case cannot be disturbed," he said.  "It could hold the
+key to the encryption process.  If we could get it working, that
+is.  There is no on switch."
+
+     "What's in the case?" I asked, pulling off the tablecloth
+before Marty had a chance to object.  "Whoa."
+
+     "It's part of a human brain," the scientist replied, as I
+gazed down at the pink and grey lump of lumps in the bowl under
+glass.  Several wires ran in and out of it.  "Some of it is, at
+least.  We can't identify the rest, nor can we get it awake."
+
+     "Sounds like me on any monday morning.  Give it some coffee
+and a danish and it'll be fine," I said.
+
+     "No digestive system, even if you were not joking."
+
+     "Well, whack it around a little.  Ma has to do that to me
+sometimes.  HEY, Mr. Pus-Brain!  Wakey wakey!"
+
+     I banged on the case a little, jarring the bowl of organs.
+Dooley freaked, but didn't do very much to stop me.
+
+     I bumped my hip on the case, and the bowl jarred.  There was
+a little spark and the thing started pulsating.
+
+     "See?" I said.  "Nothing to it.  Got any coffee?"
+
+     "It's... it's alive!" McDooley said, gazing at it.
+
+     "Cool, huh?"
+
+     "Martin, please take care of Mr. Lopwagen for the day.  If
+he makes any progress, let me know.  He'll be working with us
+now," Mr. Rinhurst said.
+
+     "You're kidding," me 'n Marty said at the same time.
+
+     "I am not kidding.  Even if Mr. Lopwagen is of little use,
+he'll be of SOME use.  Time is of the essence, gentlemen."
+
+     "Fine with me," Marty said, scooping up some documents.
+"Alright.  Lopwagen, you work on this stuff.  You'll be lucky if
+you even find the on switch.  Me, I'll be studying my daily tests
+in the other room."
+
+     "Hey, whoa, wait.  What am I supposed to be doing?" I asked.
+
+     "Crack the code," Rinhurst said, on his way out the door.
+"It is what you do best, isn't it?"
+
+     "Yeah, but--"
+
+     "Best of luck," Martin said, before shutting the door behind
+him.  Me 'n the brain alone.  Terrif.
+
+                              *
+
+     The deck wasn't wired for VR, which kind of bit because my
+text skills were incredibly rusty.  I picked up textwork as a
+hobby after a bud of mine got me into Net Will Eat Itself, but it
+was never my element, yaknow?  Gimmie an objicon and a trace
+router any day over an ASCII stream and a carriage return.
+
+     The files were coded, obviously, but I didn't see any
+repeaters.  No form.  It didn't follow any of the piddlyshit I
+was used to dealing with.  For all I knew, it could be a bunch of
+random letters.
+
+     Something about that brain was weird, though.  We've got a
+computer, linked to the brain that wouldn't die, linked to a
+holovision set.  Someone had been watching too many bad science
+fiction movies.
+
+     Movies.  I could kick with a movie right now, so I flipped
+on the holovision set.
+
+     The piccy was large; the man in the empty space of holo was
+about my size, and nicely detailed.  What I wouldn't give for
+gear like this on weekly moviefests.  I changed the channel.
+
+     "You tryin' to ignore me?" the image asked.  Weird show.  I
+flipped to another channel, but the same thing was on.
+Infomercial simulcast, maybe?
+
+     "Hey," the image said.  "Cut that out.  It makes my viz go
+all fuzzy.  Who're you?"
+
+     Maybe the other actor was out of frame.  Although it was
+like those cool pictures where the eyes follow you; he was
+tracking my movement.
+
+     "You in the leather jacket and concert shirt," he specified.
+
+     "Me?"
+
+     "Yeah, you.  Who're you?"
+
+     "Whacker Cracker.  I mean, Rynard.  Rynard Lopwagen."
+
+     "Pleased to meat you, Whacker, name's Filbert.  Used to be
+at least.  I'm dead now."
+
+     "Dead?"
+
+     "Yeah, dead.  Stiff, under the ground, bereft of life and
+joining the bloody choir invisible.  See that brain?"
+
+     I nodded, seeing it.
+
+     "It's not really my brain.  Nice replica though.  I'm, or
+rather this recording's just an interactive guide to my
+autobiography.  Neat house, by the way.  How'd a kid like you
+afford this?"
+
+     "It wasn't me," I said.  "It was a guy called Rinhurst."
+
+     "Rinhurst, Rinhurst... name doesn't ring a bell.  Okay, kid,
+let's get some rules straight.  See the deck there?  I can decode
+that.  It's an organic code, something I developed shortly before
+buying the farm.  That's all I do, though.  I can't answer too
+many background questions, I can't search the database or any
+shit like that, I just decode 'n spew and try to keep you company
+with my sparkling wit.  Neat, huh?"
+
+     "You're an AI, aren't you?" I asked, pulling up a chair.
+
+     "No.  AIs have fully recordable memories and easy brain
+access.  I'm just an interactive recording.  I can remember YOU,
+obviously, since if I couldn't I wouldn't be much of a
+conversationalist.  That's it.  I decode, I talk to you, I
+provide the key to the final log entry.  That's my purpose."
+
+     "Hey, if you're dead, how're you talking?"
+
+     "I'm not.  Bear with me, kid, this is a RECORDING.  Just how
+I would have reacted to your queries if I WAS alive.  I'm dead
+and very peacefully dead.  This isn't me."
+
+     "If you're dead and not you then who are you?" I asked.
+
+     "Filbert.  Used to be Filbert.  All I know is that I used to
+be one of the original members of the Dirty Dozen black biotech
+club.  Anything else you want to know about my past, you access
+the autobiography.  It's encoded on the comp there.  I decode it
+a page at a time for your reading pleasure.  You wanna start at
+chapter one?  I hope so, because that's all it is; chapter one
+and the last chapter.  You coping?"
+
+     "Huh?"
+
+     "Coping.  I have a preprogrammed warning that people'll
+freak when they talk to a dead nonintelligent yet strangely
+responsive living index for a book with two chapters."
+
+     "Well... naah," I said.  "I can deal.  I've seen far weirder
+on holo.  Bear with me if I ask naive questions, though."
+
+     "I can deal too, then," Filbert said.  "Okay.  Chapter one
+or two?"
+
+     "Two?" I guessed.
+
+     "Sorry man, chapter's locked."
+
+     "I thought you could decode it."
+
+     "I can.  Only chapter two's got double encoding.  The kind I
+can read and the kind I can't."
+
+     "So how do I read chapter two?  I hate watching movies and
+not seeing the ending."
+
+     "That's the gag, kid.  I've got a little quiz for you to
+fill out when you wanna access chapter two.  If you can answer my
+questions correctly, then I can unlock it.  Until then, nada.
+It's a kind of game, I think I wanted to make bloody well sure
+that whatever dork accesses my autobiography to find the secret
+of immortality will bloody well understand it."
+
+     "Immortality?"
+
+     "That's all I know.  Chapter one's the autobiography,
+chapter two is the secret of immortality.  I know, how is a dead
+guy immortal.  Don't ask me, kid, I only WORK here."
+
+     I heard the plod-plod of sensible shoes approaching the
+room.  I panicked and dove for the off switch on the holovision,
+but missed and hit the floor instead.  I scrambled back to my
+feet, only to see a very, very surprised Martin McDoole standing
+there, clutch on his documents and printouts weakening.
+
+     "Who... what... is that?!" he asked.
+
+     "Err...  Marty, this is Filbert.  Filbert, Marty."
+
+     "I can't see or hear him," Filbert said.  "You turned me on,
+Whacker, I only deal with you.  Even if you told me who Marty
+was, I'd never remember him."
+
+     "What did you DO!?" Marty asked, dropping his precious data.
+"What did you do!"
+
+     "I... I just turned it on," I said.  "It started talking,
+and I didn't wanna be impolite so I talked back."
+
+     "Do you know who that IS?"
+
+     "Yeah.  He's Filbert.  Who's Filbert?"
+
+     "Come on, we've got to tell Mr. Rinhurst," Martin said,
+grabbing my wrist and pulling.
+
+     "'bye," I waved to the image of the dead doctor.
+
+     "I'll be waiting here," he called after me.  "Not much else
+to do, after all."
+
+                              *
+
+     "I think it's about time we filled Mr. Lopwagen in on the
+project," Mr. Rinhurst said, lowering himself painfully into his
+chair.  "Martin, do the honors."
+
+     "Dirty Dozen black biotech doctor Filbert Whack-A-Doo,"
+Martin said.
+
+     "Neat name."
+
+     "It's a fake name, we can't find his real one.  Filbert
+there came down with Yttian Flu, the weak-death strain, and had
+about two months to live.  He holed up in his office and dropped
+his clients like hot potatoes.  Two months later, they find his
+dead body, grinning like a maniac and the equipment in the main
+room."
+
+     "Equipment which I immediately purchased," Rinhurst said,
+"Knowing the nature of his work.  Filbert was seeking a way to
+achieve immortality, a way to escape his death.  He died, but my
+agents traced a holophone call to another member of the Dirty
+Dozen shortly before his death, in which he claimed to have found
+the secret of immortality."
+
+     "Livin' forever.  Hey, I wouldn't put it past black
+biotech," I said.  "I remember my cousin Jack had to have his
+head reattached after a construction accident, and they did it.
+I got to touch his scars.  It was cool."
+
+     Rinhurst paused.  He contemplated this, then moved on.  "You
+see, boy, I need that immortality.  I've sought it for years and
+years.  Archaic Yttian herbal practices, long since outlawed by
+that world's oppressive government.  Alien rituals and exercise
+and good food.  Nothing has helped prevent the aging process, and
+I fear I do not have many years left."
+
+     Rinhurst got up, despite the cracking his bones made.  Why'd
+he insist on getting in and out of that chair, anyway?  Did he
+just want to show that he had enough life in him left to do it?
+
+     "This project is to decode what I believe to be the
+scientific journals of Filbert Whack-A-Doo, and find the secret.
+Have you made any progress?"
+
+     "Well, the recording said the immortality thing was in
+chapter two, which was locked.  Oh, also that his autobiography
+was organically coded on the computer."
+
+     Rinhurst raised his eyebrows, and turned to McDoole.
+"Funny, how your degrees and recommendations had you working for
+weeks just to understand the nature of the hardware, and my boy
+Lopwagen here has it up and running in an hour."
+
+     "He was lucky," McDoole said.  "Sir, if you please, I'd like
+to continue my research on this project now that the kid has it
+turned on.  I think a systematic search of the data, now decoded,
+could turn up the answer--"
+
+     "Filbert said you can't do that," I said.  "He said he could
+only decode a page at a time, and he couldn't do searches."
+
+     "I don't care about the given user interface.  Sir, I think
+I could work my way around it by controlling the organic
+decoder."
+
+     "Could you do it without damaging it?" Rinhurst asked.  "If
+the decoder is infected or affected in any way, it could destroy
+my best chance at cheating death.  That would NOT please me."
+
+     "I assure you that with more controlled tests, I could very
+well crack the code after studying the organic unit.  If I--"
+
+     "Why not just play by the rules?" I asked.
+
+     McDoole looked daggers at me for interrupting, but I
+continued anyway.  "See, all encrypted information is meant to be
+un-crypted by SOMEONE, via a standard process of knowing the
+password.  It looks kinda like this Filbert joeboy wanted people
+to find out about immortality.  I mean, if he didn't, he wouldn't
+have written it down in any digital or script way.  So, we just
+do what the recordin' says and play by the rules, and figure it
+out."
+
+     "What are the rules?" Rinhurst asked.
+
+     "He said I gotta read the autobiography on the disk, then if
+I can answer a pop quiz he'll unlock the secret."
+
+     "There's no guarantee this course of action will work,"
+McDoole said.  "Sir, it would be easier to get the information
+directly than plowing through the rants of a near-death madman to
+play quiz show.  I am confident that by studying the readings I
+have taken so far, I can uncode that secret."
+
+     "Martin, you do that," Rinhurst said.
+
+     McDoole brightened up instantly, but did not smile.  "Thank
+you, sir.  You won't regret it."
+
+     "Rynard, you get reading," Rinhurst said.
+
+     "What?" McDoole asked.  "But I thought..."
+
+     "Whoever can get to the secret of eternal life first wins,"
+Rinhurst said.  "Although really you're both going to be paid.
+McDoole in grants and Lopwagen in recommendations.  So please, no
+competition.  Simply work as fast as you can.  Time is of the
+essence."
+
+     McDoole nodded, and stepped out of the room, heading for his
+stacks of printout at the end of the hall.
+
+     "Don't just sit there, boy," Rinhurst said.  "Go read."
+
+     "Yes sir," I said, fumbling my way out of the chair and for
+the door.
+
+                              *
+
+     "Why'd you write this, anyway?" I asked the hologram.
+
+     "Hmm?" the hologram asked, breaking his hour-long state of
+perfect stillness.  "I don't know.  Well, I mean I KNOW, but *I*
+don't know.  You know how it is.  I wish I would have equipped me
+with a better metaphor styler.  This is the pits."
+
+     "Did you really bite the head off a rat at a Stomach
+Contents concert?" I asked, tapping the text-filled screen.
+
+     "If it's in there, I did," Filbert said.  "I don't remember
+it as a recording, but yeah, I could see myself doing that.  I'm
+very spontaneous."
+
+     "Kinda like me," I said.  "Well, kinda.  I dig fun and
+games, but really I've got plans.  Long thought out plans."
+
+     "Really?  Namely?"
+
+     "I'm gonna rock the software world.  I got ideas, man, game
+AND application ideas.  Like William Doors, when Macroware was
+originally founded.  I just need to know how to code."
+
+     "Sounds okay, like it'll pull in the bills," Filbert said.
+
+     "Should."
+
+     "So you wanna be rich?"
+
+     "Yes.  No," I said.  "Actually, the money doesn't matter.  I
+just want a lot of people to use these programs I've got
+speculated, you know?  Make an IMPACT.  Get some shock waves out
+there in sales before kickin' off."
+
+     "If you can unlock this secret I've got, you could last a
+long time indeed," Filbert said.
+
+     "What is the secret?"
+
+     Filbert laughed.  "Hey, Whacker Cracker buddy, if I KNEW I'd
+tell you.  But I ain't gonna know until you know me.  You read up
+my autobiography, I'll give you the third degree later and then
+we'll talk immortality."
+
+     "Okay," I said, returning to the text.  Man, Filbert rocked
+in his days.  He was kinda like me; metalhead without a cause,
+so-so in school, but he had this thing for the Frankenstein deal.
+Livin' it up socially wherever he could.
+
+     "Why'd you go biotech?" I asked.
+
+     "I don't know," Filbert said.  "You tell me.  You know more
+about me than I do."
+
+     "Yeah, but you're still YOU.  You react the same.  You think
+you'd like biotech?"
+
+     "Probably.  Sounds like fun.  You get to gut people and
+rearrange them and augment.  I could see myself doing that, at
+least to pass the time."
+
+     "Pulls in the money too, right?"
+
+     "I didn't value money," Filbert said.  "I didn't even value
+my work.  I just did what I did.  Read on, okay?  I can only
+answer so much, and the rest is right there."
+
+     "Hey, just asking a simple question."
+
+     "I know.  Wish I could help more."
+
+     "What's it like?" I asked.  "You know... being an undead
+recording."
+
+     "It's like being an undead recording," Filbert said.  "You
+know, I really gotta thank myself for not letting me go into the
+philosophy behind being a mental duplication.  I'd go nuts if I
+had to comprehend what I was.  I am what I am and that's all that
+I am.  I'm Filbert the doctor man."
+
+     "Was."
+
+     "Whatever," Filbert said.  "Hey, you want to hear a cool bit
+of philosophy?  It's embedded deep into my personality, so I can
+access it fine.  It's semi-relevant."
+
+     "Shoot."
+
+     "See, the trick is that you're supposed to seek to
+understand others, and use that to understand humanity.  Help
+people out by figuring out what they NEED, not what they want.  A
+lot of people run around trying to figure themselves out, which
+is dumb, because if you could see what you really were you'd go
+insane."
+
+     "Why is understanding yourself insanity?"
+
+     "Because you wouldn't like what you see," Filbert said.
+"Ego's fragile.  Not a BAD thing to have, provided you keep it in
+check.  But knowing what's really real will shatter that ego and
+make you an unhappy camper.  I let the other people worry about
+me and then I'd worry about other people.  Enough worry to go
+around for everybody to be worried about without dumping more of
+it on myself.  Does that help?"
+
+     "Not really, but thanks," I said.
+
+     "Hey, I tried," Filbert shrugged.  "Best I can do at the
+moment."
+
+                              *
+
+     "Hey," McDoole said, knocking on the door frame.
+
+     I looked up from Filbert : The High School Years, and waved
+to the scientist.  I returned to reading.
+
+     "I was wondering... Lopwagen, right?" he asked.  "Can you
+print out the scientific journals stored there?  I'm looking for
+clues to the organic engine."
+
+     "It's not a scientific journal," I said.  "Just an
+autobiography.  Man, Filbert, you ROCKED."
+
+     "Thanks," Filbert said.
+
+     "Really.  Scope this, Marty.  This boy ditched outta high
+school and started 'prenticing under the masters.  He managed to
+save someone's life by replacing a human heart on his FIRST DAY,
+with some twisted new technique nobody had tried before involving
+a winch.  That's impact waves, man, serious impact waves."
+
+     "Wasn't much," Filbert stated.
+
+     "He was a genius, yes," Martin said.  "You say there's no
+scientific data in there at all?  I thought you said this was an
+accounting of his efforts."
+
+     "It is.  Just... not that stuff.  He wants us to understand
+him as a person, not a slew of theories and formulas."
+
+     "Bingo!" Filbert said.  "That's the key.  You understand me
+fully, you'll be able to understand the secret of immortality.
+That's why the pop quiz, yousee."
+
+     "What good is it without the data?" Martin asked.  "How does
+he expect to pass his knowledge down after death if he doesn't
+give up his techniques for modifying the human body?"
+
+     "He didn't really care for his work, from what I'm reading,"
+I said.  "Look here.  He says he didn't get why the doctor was so
+amazed at his heart transplant.  He didn't think it was
+important.  But then he goes on for three pages about later that
+night when the doctor took him for a celebratory night on the
+town, the doc got smashed and talked about his dead dog for five
+hours."
+
+     "How boring," Martin said.
+
+     "It's a good read.  This guy's pretty normal, just like you
+and me, but he knows where the esophagus is supposed to go and
+stuff."
+
+     "I was quite good at it, I think," Filbert said.  "Though
+you're right, people are more important."
+
+     "Why is that?" I asked, turning away from the screen.  "I
+mean, you know I dig impact waves, and you made a lot of them and
+didn't seem to mind.  You like to tell stories about people and
+places and things, not techniques and success."
+
+     "Impact waves are subjective.  What one man values, another
+will think is yesterday's dried up turds.  Why do you think that
+success has to be in your job?"
+
+     "Isn't it?" I asked.  "I mean, look at William Doors.  He's
+the most successful man alive, man, he made waves that'll last
+for eons and eons.  He's practically immortal that way."
+
+     "So he made some programs," Filbert said.  "What do you know
+of him as a person?  What's his favorite ice cream flavor?  Did
+he cry when Old Yeller died?  Does he like sex nasty or nice?"
+
+     "I don't know."
+
+     "And neither do I.  Facts and figures yes, somewhere in my
+autobiography, but I never had much of a feeling for William
+Doors as a person.  Thus, he doesn't affect me."
+
+     "Could you two please stop waxing philosophical and get to
+work?" Martin said.  "If my data can't get that cracked, you need
+to try to bargain with this cheeseball projection."
+
+     "Gotta get back to reading," I told Filbert.  "Sorry."
+
+     "No prob," Filbert said.  "Chat anytime."
+
+                              *
+
+     It was later that night when I read the line.
+
+     "Alright, Filbert, what's the meaning of this?" I asked,
+pointing to the screen.
+
+     "Hmm?"
+
+     "You've got sixteen pages dedicated to some girl who you
+ditched in favor of a medical job on a distant planet.  Then you
+claim she was your biggest success.  How is dropping her like a
+hot potato success?  I could see marrying and having kids
+successful, but not THIS."
+
+     "What'd I say about her?"
+
+     "That you left her."
+
+     "No, I mean before that.  What'd we do together?"
+
+     "Walks on the beach, long nights talking, a few cry ins.
+Why?"
+
+     "Sounds enjoyable," Filbert said.  "Did I make a difference
+in her life?"
+
+     "Well, you did save her little sister from dying, but there
+isn't much emotion attached to that.  You go on for a page about
+comforting her after the incident, though, and talking to her
+about some other guy and then you take off and never see her
+again."
+
+     "Sounds me.  Look, any schmuck can rip people apart and glue
+'em together again.  A robot could do that.  A robot, however,
+can't help you when you're down or take you to a movie or even
+ask you how you're feeling.  You're looking at this stupid term
+'success' in the wrong way.  You want to go and make money
+selling software to everybody and their dog."
+
+     "I don't mind if I don't make money."
+
+     "But you want to sell to everybody and their dog."
+
+     "Sure.  I mean, what's the use in doing something if only a
+few people see it?"
+
+     "You're not getting this at all, then," Filbert said.
+"You're miles away from the key at this point.  If you sell one
+copy or one million, and nobody really changes, you didn't do
+anything.  Let me tell you a story, kid."
+
+     Filbert paused.
+
+     "Damn," he cursed.  "I had a perfect story, and I can't
+access it because of this silly read-only no-search block.  I'd
+be frustrated if that was possible.  Lemme try to explain it
+without past knowledge.  Hypothesis.  Let's say some girl was
+months away from death, and you had the power to heal her.  This
+girl and you, you could have a love thing going that neither of
+you would forget until the end of time, as long as she could
+stick around.  However, if you did heal her, you'd never see her
+again, and she'd be destined never to fall in love.  She'd live,
+but without the possibility of what the two of you could have
+experienced.  Do you love her or heal her?"
+
+     "Heal her, so she can live out her days."
+
+     "You could if you wanted to, but you'd have done nothing for
+her.  You could have let her fill out her days in unparalleled
+joy, impacting harder than anything in an extended dayset.
+Everybody dies sometime, Whacker, we just need to make sure we
+die happy, and make others happy in return.  What's better, a
+short, bliss-filled existence or a long, drawn out spiral to the
+grave?"
+
+     "What does this have to do with success?"
+
+     "Metaphors.  I need a better metaphor styler.  I valued them
+so much in life, I can't believe I didn't work on one for my
+recording," Filbert complained.  "It's just this, kid.  You can
+sell your little programs all you want.  But it's not a success
+until one person, just one person sees your program and is moved
+by it, changing their beliefs or letting them understand life a
+little more, or comforting them when it's important.  One's all
+it takes, a million is great, but one is enough for a success.
+That's my point."
+
+     "I don't understand."
+
+     "Then keep reading, nitwit," Filbert said.  "You will soon
+enough.  You had better, if you want my precious life after death
+trick."
+
+                              *
+
+     Filbert had a long, wildly adventurous life.  There were the
+organ transplants and near death bring-backs, but these were side
+notes.  He went into great detail about his friends, about total
+strangers he talked to on the street, and about the places he had
+seen and how he felt about them.
+
+     The autobiography read like some kinda novel.  It sunk deep
+into thought and didn't spew out history facts and junk.  He felt
+a lot of things, and wrote all of it down.
+
+     "Okay, I'm near where you get the flu," I said.  "I don't
+know if you remember yourself, but lemme assure you, you were
+cool."
+
+     "Glad to hear it," Filbert said.
+
+     "I think I get what you were saying earlier about
+understanding other people," I said.  "I mean, like by now I know
+you better than I know myself."
+
+     "As it should be."
+
+     "Is that why you wrote this?" I asked.  "So I'd know you?
+But what would that accomplish?  You obviously didn't write it
+just so I could take a test and get the formula for eternal
+life."
+
+     "What makes you say that?"
+
+     "Dude, I've been in high school.  They're GREAT at spamming
+you with facts 'n stuff to test you on later.  This stuff, this
+isn't stuff to be memorized and recited, it's stuff to be KNOWN.
+Comprehended.  I don't think you're gonna be asking me about the
+color of your dog's hair or the name of your first lay, facts and
+figures.  You're gonna be asking me about what you are to see if
+I know you well enough to have earned the secret."
+
+     "I can't say if you're right or wrong, you know."
+
+     "I know I'm right," I said.  "I know you, and you'd do
+something just like that.  Whoa.  Wait.  Something's wrong."
+
+     "Hmm?"
+
+     "There isn't any more," I said.  "You contract the flu,
+and... it stops."
+
+     "Of course it was.  I died."
+
+     "Yeah, but you had two months, man.  What were you doing
+during those two months?  Why isn't it here?"
+
+     "Everything after that isn't important.  I stopped living
+and started living beyond life at that point," Filbert said.
+"You've read all of chapter one.  Are you ready for the test?"
+
+     I paused.  Was I?  I had to be.  If I wasn't ready now, I
+never would be.
+
+     "Hang on, lemme go get the others," I said.
+
+                                   *
+
+     "It's not going to work," McDoole said.  "Scientists like
+this flake like to guard their secrets.  He'd never let you read
+a book and take a quiz and get the answer.  That's too easy."
+
+     "It wasn't easy," I said.  "You don't scan the facts and
+search, you're supposed to read the whole thing and ingest so
+you'll be ready for... whatever it is."
+
+     "Are you ready?" Rinhurst asked.  "Boy, if you can get that
+chapter open and find me the formula for eternal life, you can go
+to the Yttian Institute of Technology.  My recommendation will
+carry you all the way to the end of that plan you have.  You'll
+be successful beyond your wildest dreams."
+
+     "Filbert, open chapter two," I said.
+
+     "I'm going to ask you three questions," Filbert said.  "You
+mung any, I shut down and someone else is going to have to try
+this all over again.  Hope you win, kid, I think I would have
+approved of you knowing this."
+
+     "Go for it," I nodded.
+
+     "Why was the doctor's story of the dead dog important?" he
+asked.
+
+     "You saw it as the doctor's first try at opening himself up
+to others," I said.  "You recognized his effort, even if he was
+drunk at the time, and encouraged it.  The doctor stopped being
+cold to his patients after that, and warmed up to them, being a
+humanitarian of sorts.  You made a difference in his life."
+
+     "Correct," Filbert nodded.  "Okay. Even though I left the
+one love of my life behind, why didn't I feel any regret?"
+
+     "Simple," I said, smiling.  "You knew she'd be better off
+with someone else.  She already had her eyes set on a better man
+than you thought you were, and getting out of the way would
+ensure her a happy lifetime with him.  You doublechecked
+afterwards and saw the wedding record.  You gave her up so she'd
+be happy."
+
+     "Bing.  One last question," Filbert said.  "Knowing how much
+I treasure conversation, and understanding people, and how one
+person can make such a difference, such an impact wave in the
+life of another, an impact wave for the best... what is the
+secret of immortality?"
+
+     "What?" McDoole asked.  "But... that's what we're trying to
+unlock!  How can he answer that?  It's impossible!"
+
+     "He can't hear you," I informed McDoole.  "Don't worry.  I
+know this."
+
+     "You do?" Rinhurst asked.
+
+     "Of course.  It's obvious.  He set out this equipment, this
+autobiography that couldn't be skipped around.  A story you had
+to read through, forced to read comprehensively.  He wanted me to
+understand what he was and what he valued, to know him inside and
+out.  That's how you're going to live forever, Filbert, isn't it?
+Not through a miracle drug or biotech process, or as a semi-alive
+recording hologram, but in the memories of others.  You live in
+my mind through your own words and ideas.  You live in the memory
+of that girl you let go, and the doctor that opened up to you,
+and the x-amount of other people you've come in contact with.
+You'll live on in all of us, and when we die the memories we had
+will be transmitted by our own impact waves, just going on and on
+until the end."
+
+     "Correct," Filbert said.  "Congrads, Whacker Cracker.  You
+did well.  Glad to know my life is in good hands.  Be seeing you,
+man," he said, flashing a quick salute and vanishing from sight.
+
+     Rinhurst stood there, cane trembling somewhat.  McDoole
+remained motionless, probably not sure if he should like explode
+or just collapse where he was standing.
+
+     "Failure," McDoole said.  "Complete and total failure.  I
+TOLD you Filbert earned his last name for good reason, Mr.
+Rinhurst.  This isn't any good for you at all."
+
+     "I was worth a try," Rinhurst sighed.  "There will be other
+projects.  The real secret lies out there somewhere, not this
+memory mumbo-jumbo.  I can cheat death; it will just take time to
+find the loophole.  In the meantime, I'd like to thank you both
+for working on this project.  I have a letter of recommendation
+for you to YIT, Mr. Lopwagen, if you'll just follow me to my
+office..."
+
+     "No thanks," I found myself saying.  "I don't think I'm
+gonna need it.  Thanks anyway, though.  I think I'll head home
+now, ma's gonna pitch a fit when she finds out where I've been
+over the last few days."
+
+     I paused on my way out the door.  I thought occurred to me.
+
+     "I think I'm gonna write a book," I said.  "Yeah.  A book
+would be cool.  Goodbye, Mr. Rinhurst."
+
+----
++--Stefan-"Twoflower"-Gagne,-net.writer-and-all-around-weird-character------+
+| Ob.Inside.Jokes : YAPAPA YMMV AB PK I3 FWLS ABM MST3K RD6 TNG T7G MI2 MK  |
+| LQTV DPW VOS KCIDAIDKW NIN STP OVA R1/2 DTP AKO AL TMBG FM AM SAM/MAX DOTT|
+| Finger for Cyberpunk Humor information and other fun materials.  @whee.   |
++---------------------------------------------------------------------------+
+

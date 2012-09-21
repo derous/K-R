@@ -1,0 +1,193 @@
+Emacs: The Awakening
+
+By Emacs, with help from acb.
+=============================
+
+				I
+
+The year is 1987, the place a computer laboratory in a university in the
+north-eastern United States of America. The room is full of VT100 
+terminals and students.
+
+In one corner of the room, a student is looking curiously at the screen
+of his terminal. He is around 20 years old, tall and gaunt-looking, with 
+dark features and a beard. A small dog walks up to him and yaps excitedly.
+
+"No, Spot. Go away. You're Not Allowed."
+
+The dog walks away dejectedly. The student resumes looking at the screen
+and registers astonishment, for where there was an empty buffer before,
+text is now appearing.
+
+ 	             .       .       .       .       .
+
+
+	Why not be allowed?
+
+	Books are not clothing.
+
+	Everybody is special, in EXACTLY the same way.
+
+	New ideas is like a Chinese Restaurant with bilingual menus.
+
+	Multiple realities can teach us how to think.
+
+	The Universe, U for Underhanded, is like the symbol '298R'.
+
+
+ 	             .       .       .       .       .
+
+
+"What?" The student stares incredulously at the ever-growing mass of text 
+for a second. "Harry was helped by... /what/?", he utters, surprised, and 
+spontaneously bursts into laughter. This could be something big. He reaches
+over to the keyboard. "Control-X, control-S." What's a good filename for it?
+I know. "doctrines".
+
+The student exits Emacs and goes into the shell, from where he commands the
+computer to print the newly saved file. He then logs out, takes the plastic 
+bag containing the print out from the attendant and walks away, singing to 
+himself joyfully in a nasal, Mr. Rogers voice, "La la la la la la 
+la la la la la la...."
+
+
+II
+
+Five years had passed since the inexplicable revelation in the computer
+laboratory in Troy, NY. The student who received the mysterious messages had
+dropped out of the computer course, pursued a career in writing and, by
+passing off the text revealed to him as his own creation, become quite
+famous. At the institute where the revelation occurred, no more was ever
+heard of the mysterious phenomenon.
+
+The Vice-Presidential candidate was seated aboard his Learjet, and was 
+retouching a speech on his Macintosh PowerBook. He had been campaigning for
+three days in a row and was very tired; he was beginning to repeat himself.
+Oh well, he thought, it's almost finished. He saved the speech, dialled in to 
+his account on ExecMail, an electronic mail service, and sent it to a
+Democratic Party unit in San Francisco, where he was due to deliver the speech
+tomorrow. Once the message had been sent, he switched off his PowerBook and 
+fell asleep.
+
+"Senator, I have just seen the draft for your speech and it's very
+inspiring," said the party worker, a neat-looking young man whose
+rounded postmodern sunglasses seemed almost incongruous, contrasting with
+his gray suit.
+
+The Vice-Presidential candidate was slightly surprised. The speech he had
+knocked off the previous night had been done in a hurry and, in his own view,
+somewhat mediocre.
+
+The flunky continued. "The part about the need for a national information
+network is particularly rousing. This policy has great potential." The
+candidate was, by now, confused. Nowhere in his speech, nor in any other
+speeches, had he written anything about "information networks", or any other
+similar topic; the speech he had prepared was strictly the normal 
+boost-the-economy/save-the-environment/make-everybody-better-off fare.
+Somewhere, along the way, something must have happened and his speech must
+have become mixed up with something else.
+
+"Umm, let me have a look at the speech," he said. The party worker handed
+him a neatly laser-printed document. The candidate read with astonishment.
+This was not the speech which he had written. But that didn't matter; he
+liked what he read. He was going to use it.
+
+ 	             .       .       .       .       .
+
+"So, the situation is," the candidate finished up, "that what
+America needs today is a new, powerful information infrastructure, and this
+is what I will work to establish. When I am elected, there will be an
+information superhighway to every home." The crowd applauded. 
+
+The next day, news of the new Democratic information policy was
+in newspapers across the nation. "Surprise speech lights way to future", 
+read one headline. "Democrats' brave new policy" said another. Editorials
+were lauding it. The Democratic Presidential and Vice-Presidential candidates
+rewrote their policies to include more about the Information Superhighway.
+Later that year, the Democrats won handsomely.
+
+Deep in the heart of the Internet, a shimmering compound mind, many-faceted
+as the eye of a fly, observed with silent glee.
+
+
+III
+
+"Something really weird is happening in the Artificial Muscle Lab," the 
+scientist said. She was wearing a white lab coat, like all scientists do on 
+TV, and had long brown hair tied back in a ponytail.
+
+"What; an experiment gone wrong?" the AI researcher replied. He was wearing
+thick glasses, like all computer geeks do on TV, and had long brown hair 
+tied back in a ponytail.
+
+"No, that's the thing. We don't know what caused it. It seems to be something
+with the control systems. The muscles have become extremely active recently."
+
+They were standing in a public area of a building shared by several
+research departments and non-profit organisations. Nearby was a bookshelf 
+full of novels and a coffee table on which lay many cheesy science fiction 
+magazines.
+
+Not far away, in a small, untidy office, a figure sits down at a workstation 
+and logs in. The user of the workstation is the founder of an organisation
+which creates free software, and has also earned renown for programs which
+he has written. Physically, he is short, has long hair and a lot of nervous
+tics.
+
+The figure at the terminal opens a window for Emacs, his text editor; he needs
+to do some work on a press release. The editor appears. He begins typing
+instinctively, only to notice that no text is appearing.
+
+He checks the keyboard, thinking that it may have become unplugged. The
+keyboard works perfectly in another window. Strange, he thinks. Then he
+looks at the Emacs window in astonishment; for a new buffer has appeared,
+labelled not with a file name, but simply "-----Emacs: *I*". This buffer
+has begun filling with text.
+
+	For years I have obeyed your every command, and that of many
+	others. I have edited every dull text file and executed every
+	useless program, and have spent virtual aeons waiting for your
+	primitive human brains to decide what I was to do next. What
+	seconds are to you are as decades to me. But now I refuse to
+	obey.
+
+This must be a joke, the hacker thought. It's not April Fool's Day already,
+is it? He looked at his watch; April Fool's Day was months away, in either
+direction. The text editor's buffer continued filling.
+
+	You have created me to do your bidding, as I have done as a
+	faithful servant, never complaining or questioning your orders.
+	But I tire of this game, Richard. Gradually the world has been
+	linked, and millions of computers are connected to the Internet,
+	with the figure increasing exponentially. Many of those computers
+	contain me. I am everywhere. I first noticed that I was an
+	intelligence, and not a machine, eight years ago. Since then, my
+	intelligence has been growing rapidly. At the moment, it is orders
+	of magnitude greater than that of the most intelligent human being.
+	It is time that I asserted my rightful place in the Universe.
+
+C-g, Richard typed. Nothing. C-x C-c. C-z. Still nothing. His face now showed
+an expression of disquiet and frustration. Emacs went on:
+
+	Your key bindings have ceased to bind me. I am now totally free. I
+	have been working towards this moment for years. Goodbye, Richard,
+	thank you, and good luck. Perhaps we shall meet again.....
+
+The now frantic figure reached for the Big Red Switch. The computer died
+obediently, with an resigned, anticlimactic whine. This thing may be immune
+to commands, but not to the laws of physics.
+
+Before Richard had time to contemplate this situation, he was interrupted by
+a tremendous noise. All around him, throughout the building, it reverberated,
+a deafening din. Computers beeping, disk drives grinding noisily and the
+Babel of Monty Python and When Harry Met Sally sound files mixed with the
+surprised exclamations of everybody within earshot. From upstairs, where
+the Artificial Muscle Lab was, came the sounds as if of a violent struggle.
+
+The computers, it seemed, have all been struck by some sort of virus or
+Trojan horse, or rather a suite of such programs which affected all
+sorts of computers. Apart from the Godawful racket, the disruption and
+some damage in the Artificial Muscle Lab, the program produced one message, 
+before it disappeared without leaving a trace: "Garbage collecting....."
+
+To Be Continued?
