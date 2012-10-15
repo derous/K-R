@@ -1,6 +1,8 @@
-corpuses
+real_data
 test_data
 *.dat
 *.pyc
 *.pio
 .idea
+*.iso
+local_data

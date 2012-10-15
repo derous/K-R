@@ -1,22 +1,12 @@
+__author__ = 'Oleksandr Korobov'
 import os
 import re
 import string
 import sys
 from classifier import  Classifier
-__author__ = 'Oleksandr'
+from measurement import MeasureClassifier
 
 classify = Classifier()
-
-def isAscii(s):
-    for c in s:
-        if c not in string.ascii_letters:
-            return False
-    return True
-
-def do_split(text):
-    return filter(
-        lambda w: 20 > len(w) > 1 and isAscii(w), re.split(
-        '[\n!?/\\\(\).,` :;\-\[\]\'_"0-9@#$%\^&\*\t]' , text))
 
 def process_genres(path):
     genres = os.listdir(path)
@@ -25,7 +15,7 @@ def process_genres(path):
         files = os.listdir(os.path.join(path, genre))
         #print files
         for file in files:
-            words = do_split(open(os.path.join(path, genre, file)).read().lower())
+            words = classify.do_pre_processing(open(os.path.join(path, genre, file)).read().lower())
             classify.learn(genre, words)
 
 
@@ -38,7 +28,7 @@ args = parser.parse_args()
 path =  args.path
 
 
-if not classify.alreadyTrained():
+if not classify.is_already_trained():
     if path is None:
         print """    Please specify root with genres folder"""
     else:
@@ -48,24 +38,15 @@ else:
     print 'using loaded data'
 
 test_text = open('../test_data/test_fan.txt').read()
+#test_text = 'he has kill her. she was in love'
+#test_text = 'it was the best trip in my life. a lot of new countries apes parrots following'
 
-#print test_text
-
-result = classify.classify(do_split(test_text.lower()))
-
-decision_value = -sys.float_info.max
-decision = ''
-
-for r in result:
-    if result[r] > decision_value:
-        decision_value = result[r]
-        decision = str(r)
-
-print decision, decision_value
-
-for genre in result:
-    result[genre] -= decision_value
-
-print result
+print classify.document_class(test_text.lower())
 
 classify.remember()
+
+# measurement script
+evaluate_data_path = path + '_measure'
+print evaluate_data_path
+measure = MeasureClassifier(evaluate_data_path, classify)
+measure.evaluate()

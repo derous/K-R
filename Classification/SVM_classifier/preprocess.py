@@ -9,4 +9,10 @@ if len(sys.argv) != 3:
 data_path = sys.argv[1]
 output_path = sys.argv[2]
 
-print data_path, '   ||||   ', output_path
+
+
+
+# generating output
+f = open(output_path, 'w')
+
+f.close()

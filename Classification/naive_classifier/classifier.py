@@ -1,8 +1,10 @@
-import os
+__author__ = 'Oleksandr Korobov'
 
-__author__ = 'Oleksandr'
-import collections
+import string
+import sys
+
 import json
+import re
 import math
 
 class Classifier:
@@ -25,12 +27,11 @@ class Classifier:
             else:
                 self.vocabulary[word][genre] += 1
 
-    def classify(self, words):
+    def classify(self, evaluated_text):
+        words = self.do_pre_processing(evaluated_text)
         result = {}
         for g in self.genres:
             result[g] = 0
-        #print result
-        #print len(self.vocabulary)
         for word in words:
             if word in self.vocabulary:
                 for genre in self.genres:
@@ -71,16 +72,34 @@ class Classifier:
         try:
             g = open('./genre.dat', 'r').read()
             v = open('./vocabulary.dat', 'r').read()
-            #print g
-            #print v[0]
             self.genres = json.loads(g)
             self.vocabulary = json.loads(v)
         except:
             pass
         finally:
             pass
-            #print self.genres
-            #print self.vocabulary
 
-    def alreadyTrained(self):
+    def is_already_trained(self):
         return len(self.genres) > 0 and len(self.vocabulary) > 0
+
+    def isAscii(self, s):
+        for c in s:
+            if c not in string.ascii_letters:
+                return False
+        return True
+
+    def do_pre_processing(self, text):
+        return filter(
+            lambda w: 20 > len(w) > 1 and self.isAscii(w), re.split(
+                '[\n!?/\\\(\).,` :;\-\[\]\'_"0-9@#$%\^&\*\t]' , text))
+
+    def document_class(self, doc):
+        genres_values = self.classify(doc)
+        decision_value = -sys.float_info.max
+        decision = ''
+
+        for r in genres_values:
+            if genres_values[r] > decision_value:
+                decision_value = genres_values[r]
+                decision = str(r)
+        return decision
