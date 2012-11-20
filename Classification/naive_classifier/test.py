@@ -37,7 +37,7 @@ if not classify.is_already_trained():
 else:
     print 'using loaded data'
 
-test_text = open('../test_data/test_fan.txt').read()
+test_text = open('../test_data/test_adv.txt').read()
 #test_text = 'he has kill her. she was in love'
 #test_text = 'it was the best trip in my life. a lot of new countries apes parrots following'
 
@@ -46,7 +46,7 @@ print classify.document_class(test_text.lower())
 classify.remember()
 
 # measurement script
-evaluate_data_path = path + '_measure'
-print evaluate_data_path
-measure = MeasureClassifier(evaluate_data_path, classify)
-measure.evaluate()
+#evaluate_data_path = path + '_measure'
+#print evaluate_data_path
+#measure = MeasureClassifier(evaluate_data_path, classify)
+#measure.evaluate()
